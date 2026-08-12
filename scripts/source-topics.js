@@ -53,7 +53,8 @@ function buildQueries(sources, backlog) {
   }
 
   for (const term of backlog.evergreen_watch_terms || []) {
-    queries.push({ q: term, origin: "evergreen_watch_term", originType: "evergreen" });
+    const anchored = /kenya/i.test(term) ? term : `${term} Kenya`;
+    queries.push({ q: anchored, origin: "evergreen_watch_term", originType: "evergreen" });
   }
 
   return queries;
@@ -104,6 +105,16 @@ function scoreAgainstBacklog(text, backlog) {
   return matches;
 }
 
+const KENYA_SIGNALS = [
+  "kenya", "nairobi", "mombasa", "kisumu", "kiambu", "nakuru", "murang'a", "muranga",
+  "machakos", "isolo", "isiolo", "county", "ardhisasa", "nlc", "ardhi house"
+];
+
+function isKenyaRelevant(candidate) {
+  const haystack = `${candidate.title} ${candidate.sourceName}`.toLowerCase();
+  return KENYA_SIGNALS.some((signal) => haystack.includes(signal));
+}
+
 function stableId(link, title) {
   const base = link || title || "";
   let hash = 0;
@@ -146,6 +157,12 @@ async function main() {
 
       const id = stableId(link, title);
       if (seenSet.has(id)) continue;
+
+      const candidate = { title, sourceName };
+      if (originType === "evergreen" && !isKenyaRelevant(candidate)) {
+        seenSet.add(id); // still mark as seen so it doesn't get re-checked every day
+        continue;
+      }
 
       const backlogMatches = scoreAgainstBacklog(title, backlog);
 
