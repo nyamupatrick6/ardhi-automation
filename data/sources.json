@@ -1,0 +1,68 @@
+{
+  "official_platforms": [
+    {
+      "name": "National Land Commission (NLC)",
+      "url": "https://landcommission.go.ke",
+      "type": "government",
+      "watch_for": ["press releases", "public land alerts", "investigations", "land injustice redress"]
+    },
+    {
+      "name": "Ardhisasa / State Department for Lands",
+      "url": "https://ardhisasa.lands.go.ke",
+      "news_url": "https://lands.go.ke",
+      "type": "government",
+      "watch_for": ["system updates", "digitisation rollout by county", "new mandatory processes", "public notices"]
+    },
+    {
+      "name": "Kenya Law",
+      "url": "https://new.kenyalaw.org",
+      "type": "judiciary",
+      "watch_for": ["Environment and Land Court rulings", "Supreme Court land precedents", "Court of Appeal land judgments"]
+    },
+    {
+      "name": "Daily Nation - Land & Property",
+      "url": "https://nation.africa",
+      "type": "news",
+      "watch_for": ["land fraud reports", "county land news", "property due diligence stories"]
+    },
+    {
+      "name": "Standard Digital - Land & Property",
+      "url": "https://www.standardmedia.co.ke",
+      "type": "news",
+      "watch_for": ["land fraud reports", "NLC coverage", "Ardhisasa coverage"]
+    }
+  ],
+  "facebook_pages": [
+    {
+      "name": "Ministry of Lands, Public Works, Housing and Urban Development",
+      "url": "https://www.facebook.com/ardhihouse/",
+      "watch_for": ["cabinet secretary statements", "ministry-wide policy announcements", "land grab reports involving officials", "Ardhisasa outage notices"]
+    },
+    {
+      "name": "Land Surveyors' Board",
+      "url": "https://www.facebook.com/p/Land-Surveyors-Board-61558428002052/",
+      "watch_for": ["fake/unlicensed surveyor warnings", "licensing notices", "regulatory alerts"]
+    },
+    {
+      "name": "ArdhiSasa",
+      "url": "https://www.facebook.com/p/ArdhiSasa-100077244823564",
+      "watch_for": ["platform updates", "county rollout announcements", "outages", "new mandatory digital processes"]
+    },
+    {
+      "name": "State Department for Lands and Physical Planning",
+      "url": "https://www.facebook.com/DeptofLands/",
+      "watch_for": ["title issuance drives", "digitisation progress", "stamp duty module updates", "policy interventions"]
+    },
+    {
+      "name": "National Land Commission",
+      "url": "https://www.facebook.com/nationallandcommission/",
+      "watch_for": ["public land investigations", "compulsory acquisition/compensation news", "historical land injustice redress"]
+    },
+    {
+      "name": "The Institution of Surveyors of Kenya",
+      "url": "https://www.facebook.com/institutionofsurveyorsofkenya/",
+      "watch_for": ["professional body press statements", "policy critique", "sector alerts"]
+    }
+  ],
+  "notes": "All sources verified live via web search on 2026-08-13. facebook_pages sourced directly from Ardhi AI's own 'Following' list (6 pages, screenshot confirmed)."
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ardhi-automation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Automated content pipeline for Ardhi AI: sourcing, deck generation, rendering, and publishing.",
+  "type": "commonjs",
+  "scripts": {
+    "source-topics": "node scripts/source-topics.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

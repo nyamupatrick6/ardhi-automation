@@ -1,0 +1,36 @@
+name: Source Topics
+
+on:
+  schedule:
+    # 05:00 EAT (UTC+3) daily = 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  source-topics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run topic sourcing
+        run: npm run source-topics
+
+      - name: Commit updated state
+        run: |
+          git config user.name "ardhi-ai-bot"
+          git config user.email "actions@github.com"
+          git add state/pending-topics.json state/seen-topics.json
+          git diff --staged --quiet && echo "No new topics, nothing to commit" || git commit -m "chore: source topics $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

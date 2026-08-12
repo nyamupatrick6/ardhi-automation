@@ -1,0 +1,33 @@
+{
+  "series": {
+    "name": "Land Fraud & Due Diligence - 8 Part Series",
+    "parts": [
+      { "id": 1, "title": "Fake title deed prevalence", "status": "pending", "keywords": ["fake title deed", "counterfeit title", "title fraud", "forged title deed"] },
+      { "id": 2, "title": "Ardhisasa digital records", "status": "pending", "keywords": ["ardhisasa", "digital land records", "national land information", "NLIMS"] },
+      { "id": 3, "title": "Spousal consent requirements", "status": "pending", "keywords": ["spousal consent", "matrimonial property land", "land transfer consent spouse"] },
+      { "id": 4, "title": "Land Control Board consent", "status": "pending", "keywords": ["land control board", "LCB consent", "agricultural land transfer consent"] },
+      { "id": 5, "title": "Forged titles and court outcomes", "status": "pending", "keywords": ["forged title court", "Harcharan Singh Sehmi", "Dina Management Mombasa", "Supreme Court land ruling", "Environment and Land Court"] },
+      { "id": 6, "title": "Succession fraud via forged letters of administration", "status": "pending", "keywords": ["succession fraud", "letters of administration forged", "estate land fraud", "probate land dispute"] },
+      { "id": 7, "title": "Public land grabs (riparian/road reserves)", "status": "pending", "keywords": ["riparian reserve grab", "road reserve encroachment", "public land grabbing", "wetland encroachment"] },
+      { "id": 8, "title": "Pre-purchase verification checklist", "status": "pending", "keywords": ["land search Kenya", "due diligence land purchase", "verify title deed", "pre-purchase checklist land"] }
+    ]
+  },
+  "standalone_backlog": [
+    {
+      "title": "You Think You Own That Land? Think Again",
+      "status": "flagged_not_built",
+      "keywords": ["land ownership dispute", "boundary dispute Kenya", "land grabbing victim"]
+    }
+  ],
+  "evergreen_watch_terms": [
+    "land fraud Kenya",
+    "title deed fraud",
+    "Ardhisasa update",
+    "National Land Commission investigation",
+    "land grabbing Kenya",
+    "Environment and Land Court ruling",
+    "mutation form Ardhisasa",
+    "unlicensed surveyor Kenya",
+    "fake surveyor warning"
+  ]
+}
