@@ -68,18 +68,28 @@ function buildQueries(sources, backlog) {
 async function fetchGoogleNewsRSS(query) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-KE&gl=KE&ceid=KE:en`;
   const res = await fetch(url, {
-    headers: { "User-Agent": "Mozilla/5.0 (compatible; ArdhiAI-Sourcing/1.0)" }
+    headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" }
   });
   if (!res.ok) {
-    console.warn(`  [warn] fetch failed for "${query}": ${res.status}`);
+    console.warn(`  [warn] fetch failed for "${query}": HTTP ${res.status}`);
     return [];
   }
   const xml = await res.text();
   const parser = new XMLParser({ ignoreAttributes: false });
   const parsed = parser.parse(xml);
   const items = parsed?.rss?.channel?.item;
-  if (!items) return [];
+  if (!items) {
+    // Diagnostic: something came back with HTTP 200 but no parseable items.
+    // Could be a genuinely empty result set, or Google serving a non-RSS
+    // response (rate-limit/consent page) that still returns 200.
+    console.warn(`  [diag] no items parsed for "${query}". Response length: ${xml.length}. First 200 chars: ${xml.slice(0, 200).replace(/\n/g, " ")}`);
+    return [];
+  }
   return Array.isArray(items) ? items : [items];
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function withinLookback(pubDateStr, hours) {
@@ -149,6 +159,8 @@ async function main() {
     } catch (err) {
       console.warn(`  [warn] error fetching "${q}": ${err.message}`);
       continue;
+    } finally {
+      await sleep(500); // space out requests so we don't look like a bot flood
     }
 
     let kept = 0;
