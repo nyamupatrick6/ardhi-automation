@@ -57,6 +57,11 @@ function buildQueries(sources, backlog) {
     queries.push({ q: anchored, origin: "evergreen_watch_term", originType: "evergreen" });
   }
 
+  for (const term of backlog.general_land_watch_terms || []) {
+    const anchored = /kenya/i.test(term) ? term : `${term} Kenya`;
+    queries.push({ q: anchored, origin: "general_land_watch_term", originType: "general_land" });
+  }
+
   return queries;
 }
 
@@ -159,12 +164,16 @@ async function main() {
       if (seenSet.has(id)) continue;
 
       const candidate = { title, sourceName };
-      if (originType === "evergreen" && !isKenyaRelevant(candidate)) {
+      if ((originType === "evergreen" || originType === "general_land") && !isKenyaRelevant(candidate)) {
         seenSet.add(id); // still mark as seen so it doesn't get re-checked every day
         continue;
       }
 
       const backlogMatches = scoreAgainstBacklog(title, backlog);
+      const isGeneralLandStory = originType === "general_land";
+      // General land stories get a base score of 1 even with zero backlog keyword hits,
+      // so a real land story doesn't get buried at 0 just for not fitting one of the 8 parts.
+      const score = backlogMatches.reduce((sum, m) => sum + m.weight, 0) + (isGeneralLandStory ? 1 : 0);
 
       candidates.push({
         id,
@@ -174,7 +183,8 @@ async function main() {
         sourceName,
         discoveredVia: { query: q, origin, originType },
         backlogMatches,
-        score: backlogMatches.reduce((sum, m) => sum + m.weight, 0)
+        isGeneralLandStory,
+        score
       });
 
       seenSet.add(id);
@@ -192,8 +202,10 @@ async function main() {
   saveJSON(SEEN_PATH, { ids: Array.from(seenSet) });
 
   console.log(`\nDone. ${candidates.length} new candidate(s) added to state/pending-topics.json.`);
-  const scored = candidates.filter((c) => c.score > 0);
-  console.log(`${scored.length} matched a backlog series part or standalone topic directly.`);
+  const backlogScored = candidates.filter((c) => !c.isGeneralLandStory && c.score > 0);
+  const generalLand = candidates.filter((c) => c.isGeneralLandStory);
+  console.log(`${backlogScored.length} matched a backlog series part or standalone topic directly.`);
+  console.log(`${generalLand.length} are general Kenya land stories outside the current 8-part series.`);
 }
 
 main().catch((err) => {
