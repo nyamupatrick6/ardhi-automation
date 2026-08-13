@@ -1,4 +1,33 @@
 {
-  "generatedAt": null,
-  "candidates": []
+  "generatedAt": "2026-08-13T04:42:34.561Z",
+  "candidates": [
+    {
+      "id": "t_1693304329",
+      "title": "How new Kenyan law could protect civil servants from forced transfers - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnJ5cmRXdU1XazZFUmMzNHo0ZFdKWktQMUJ2dDY3c1BUenIySFFJaDM2MDdjZjlEcUdvSE1tWm1PQkNtSkhQeU8yNExBZk9ubS1MMGZoV2JlaV9sUWROd0RPUW1oVkVjLW5vcjJPT21HNGs0dFZ6SjViOGRlMENsWWFZZU9aTDUzZmJabmY0WE1YUUFSZ0U0QTBtdVFqWThqYzg0Qw?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 03:16:25 GMT",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "Kenya Law Kenya",
+        "origin": "Kenya Law",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "score": 0
+    },
+    {
+      "id": "t_1648626239",
+      "title": "MPs Put Kenya Law Reform Commission on Spot Over Sh2.1mn Unauthorised Spending - Capital FM Africa",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjhtRS0xMGNjUl9sSkJmeENHcmRhZ3hYWXdjN3N6YUQ5dDJhOXpUckJPRF9KMzdReEc3b3NEdWpJQmJjVzdOVllmRm41cWFDd2dhTVF1YjFwMm5wQzFnRHc2c0hldVlESllmWWtxNFBYSE1JU1lBaHZNX0IxdVpsTWFiYmYtVEdPbWFBV05MOFRzdzZTVUd0S3M2WlRFUW5LUlI2cXBZZw?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 05:08:22 GMT",
+      "sourceName": "Capital FM Africa",
+      "discoveredVia": {
+        "query": "Kenya Law Kenya",
+        "origin": "Kenya Law",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "score": 0
+    }
+  ]
 }
