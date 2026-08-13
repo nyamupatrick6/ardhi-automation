@@ -5,7 +5,8 @@
   "description": "Automated content pipeline for Ardhi AI: sourcing, deck generation, rendering, and publishing.",
   "type": "commonjs",
   "scripts": {
-    "source-topics": "node scripts/source-topics.js"
+    "source-topics": "node scripts/source-topics.js",
+    "generate-deck": "node scripts/generate-deck.js"
   },
   "dependencies": {
     "fast-xml-parser": "^4.5.0"
