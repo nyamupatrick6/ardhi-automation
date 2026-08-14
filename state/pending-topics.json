@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-08-14T03:55:37.129Z",
+  "generatedAt": "2026-08-14T09:40:15.005Z",
   "candidates": [
+    {
+      "id": "t_804895974",
+      "title": "Talanta Stadium: Court Rejects Fresh Bid in Sh11.4 Billion Land Compensation Dispute - Pulse Sports Kenya",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOV9vSm5rMFNDQVZibklqWVZFNC04TzlKR3lORmhzU0VZU1FDdHV0azIwOUZJMmJUcl9qdWNBalV2ZUZndnczOHRjTjZocVN5MFFaVzdnSEhmYi1KcnFTdThoQWJEOTJGRnFtOGxWWjVIQnZFeVg4aGc4RTBtc1dMUWo0eWNNSHdzMUVPWUIwUmM4aEVZNElmMDgtWTAtZjhFV1VweHFZU3plUEgxNkh0VkVPaVlkWWExWjdTN2RxM0lqeHdnOG9rS25DRXFNbV95akVuMg?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 06:01:06 GMT",
+      "sourceName": "Pulse Sports Kenya",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "score": 1
+    },
+    {
+      "id": "t_1112771016",
+      "title": "Shamakhokho residents to receive Ksh115M in land compensation after 19-year wait - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXVneFVzTGFwblNwUWJCcDdSclBnSlgzdHFTM3FoUnY5ODlaUTBZbEloWWJIZGRtTUJEUkNqcHRNRjhudGxrdFU0MndNV0F2bGVFZUNUc1BFN19BYUNIWHFmdXhyb2RsMXFUZFY0c3FLNjNtNGtBaEMtaEtMRXMtNUczZ0dPQVA0ekFtZmJicWpDa0Z6VHcyQlQ1SmdHTXVQZUQyWXl6d3QyNllJTm4tQng5dw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 07:55:14 GMT",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "score": 0
+    },
+    {
+      "id": "t_1543347775",
+      "title": "Over KSh100 Million Compensation To Be Paid To Select Landowners After 19-Year Wait - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVVtMlRvSWsxNnNDQnVvMHpaRDQ4c0p4MW93SUZMczBwa1ktemZlWURWRXkxb2pkM2gwMy1IWUtUTkJERVFRZTE5NWt1Z3k2VGRhcUhpYlEzX1FEQV90ZHJBMWZ5OGlyQ3pva3NaZmREWHdNZ2YzOEI3djhnUFlZLUhKS3lEWVFBbGFmRElpMWVnRXU3MnFoV2NSUVExdkYwZzVsR3gwaEZBcWh0WUJmMUltR0FJSmVGdkd4ZTZrOXVDRmRselZ2M1pvYkpyTkk?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 08:48:40 GMT",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "score": 0
+    },
     {
       "id": "t_924562815",
       "title": "Goons, demolitions and disputed titles in Sh10bn Kanyotu land war - Daily Nation",
