@@ -2,8 +2,8 @@ name: Source Topics
 
 on:
   schedule:
-    # 05:00 EAT (UTC+3) daily = 02:00 UTC
-    - cron: "0 2 * * *"
+    # Runs every 20 minutes, all day, every day - no fixed "check time"
+    - cron: "*/20 * * * *"
   workflow_dispatch: {} # lets you trigger it manually from the Actions tab
 
 permissions:
