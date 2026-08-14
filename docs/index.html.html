@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ardhi AI — Field Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #23261f;
+    --forest: #12310c;
+    --forest-deep: #0a1f07;
+    --gold: #d4920a;
+    --gold-soft: #e8b94f;
+    --parchment: #f6f1e4;
+    --parchment-dim: #ece4d0;
+    --stone: #8a8471;
+    --line: #d9cfb4;
+    --score-hit: #1a5c00;
+    --score-general: #b8790a;
+    --score-zero: #a39b84;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--forest-deep);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', sans-serif;
+  }
+
+  body {
+    background-image:
+      radial-gradient(circle at 15% 8%, rgba(212,146,10,0.10), transparent 40%),
+      repeating-radial-gradient(circle at 50% 0%, transparent 0, transparent 68px, rgba(246,241,228,0.028) 69px, transparent 70px);
+    min-height: 100vh;
+  }
+
+  .masthead {
+    padding: 48px 24px 32px;
+    text-align: center;
+    color: var(--parchment);
+    border-bottom: 1px solid rgba(246,241,228,0.14);
+  }
+
+  .masthead .wordmark {
+    font-family: 'Fraunces', serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: clamp(28px, 5vw, 40px);
+    letter-spacing: 0.01em;
+    margin: 0;
+  }
+
+  .masthead .wordmark span { color: var(--gold-soft); }
+
+  .masthead .tagline {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: rgba(246,241,228,0.55);
+    margin-top: 10px;
+  }
+
+  .status-bar {
+    max-width: 880px;
+    margin: 28px auto 0;
+    padding: 0 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: rgba(246,241,228,0.62);
+  }
+
+  .status-bar strong {
+    color: var(--gold-soft);
+    font-weight: 500;
+  }
+
+  main {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 28px 24px 80px;
+  }
+
+  .feed { display: flex; flex-direction: column; gap: 16px; }
+
+  .card {
+    background: var(--parchment);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    padding: 22px 24px;
+    position: relative;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03);
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 20px;
+    align-items: start;
+  }
+
+  .stamp {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 2px solid currentColor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 1;
+    transform: rotate(-6deg);
+    flex-shrink: 0;
+  }
+
+  .stamp.hit { color: var(--score-hit); }
+  .stamp.general { color: var(--score-general); }
+  .stamp.zero { color: var(--score-zero); }
+
+  .stamp .n { font-size: 20px; font-weight: 500; }
+  .stamp .u { font-size: 7px; letter-spacing: 0.08em; margin-top: 2px; text-transform: uppercase; }
+
+  .card-body h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 1.35;
+    margin: 0 0 10px;
+  }
+
+  .card-body h2 a {
+    color: var(--forest);
+    text-decoration: none;
+    background-image: linear-gradient(var(--gold), var(--gold));
+    background-repeat: no-repeat;
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    transition: background-size 0.2s ease;
+  }
+  .card-body h2 a:hover { background-size: 100% 1px; }
+
+  .meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--stone);
+  }
+
+  .tag {
+    padding: 2px 8px;
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .tag.backlog { border-color: var(--score-hit); color: var(--score-hit); }
+  .tag.general { border-color: var(--score-general); color: var(--score-general); }
+
+  .matched-parts {
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--forest);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .matched-parts b { color: var(--score-hit); font-weight: 500; }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 24px;
+    color: var(--parchment);
+  }
+  .empty-state .glyph {
+    width: 40px; height: 40px; margin: 0 auto 18px;
+    border: 1.5px solid rgba(246,241,228,0.4);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'IBM Plex Mono', monospace;
+    color: rgba(246,241,228,0.6);
+    font-size: 14px;
+  }
+  .empty-state h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 0 0 8px;
+  }
+  .empty-state p {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: rgba(246,241,228,0.55);
+    max-width: 360px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  .load-state, .error-state {
+    text-align: center;
+    padding: 60px 24px;
+    color: rgba(246,241,228,0.5);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: rgba(246,241,228,0.35);
+    letter-spacing: 0.04em;
+  }
+
+  @media (max-width: 520px) {
+    .card { grid-template-columns: 1fr; }
+    .stamp { transform: none; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .card-body h2 a { transition: none; }
+  }
+</style>
+</head>
+<body>
+
+  <div class="masthead">
+    <p class="wordmark">Ardhi <span>AI</span> — Field Desk</p>
+    <p class="tagline">Daily land-matter intake · Kenya</p>
+  </div>
+
+  <div class="status-bar" id="statusBar">
+    <span>Loading latest run…</span>
+  </div>
+
+  <main>
+    <div id="content" class="load-state">Pulling today's report…</div>
+  </main>
+
+  <footer>Sourced daily at 05:00 EAT from official platforms, followed pages, and news coverage · Ardhi AI internal tool</footer>
+
+<script>
+  const DATA_URL = "https://raw.githubusercontent.com/nyamupatrick6/ardhi-automation/main/state/pending-topics.json";
+
+  function timeAgo(iso) {
+    if (!iso) return "unknown";
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const hrs = Math.floor(diffMs / 3600000);
+    if (hrs < 1) return "just now";
+    if (hrs < 24) return hrs + "h ago";
+    return Math.floor(hrs / 24) + "d ago";
+  }
+
+  function formatPubDate(pubDate) {
+    try {
+      return new Date(pubDate).toLocaleDateString('en-KE', { day: 'numeric', month: 'short', year: 'numeric' });
+    } catch { return pubDate; }
+  }
+
+  function stampClass(candidate) {
+    if (candidate.backlogMatches && candidate.backlogMatches.length > 0) return "hit";
+    if (candidate.isGeneralLandStory || candidate.hasLandConflictSignal) return "general";
+    return "zero";
+  }
+
+  function renderCard(c) {
+    const cls = stampClass(c);
+    const tags = [];
+    if (c.backlogMatches && c.backlogMatches.length > 0) tags.push('<span class="tag backlog">Series match</span>');
+    if (c.isGeneralLandStory || c.hasLandConflictSignal) tags.push('<span class="tag general">General land</span>');
+    tags.push('<span class="tag">' + (c.sourceName || 'Unknown source') + '</span>');
+
+    let matchedLine = "";
+    if (c.backlogMatches && c.backlogMatches.length > 0) {
+      const names = c.backlogMatches.map(m => m.seriesPartTitle || m.standaloneTitle).filter(Boolean).join(", ");
+      matchedLine = '<div class="matched-parts"><b>Matches:</b> ' + names + '</div>';
+    }
+
+    return `
+      <div class="card">
+        <div class="stamp ${cls}">
+          <span class="n">${c.score}</span>
+          <span class="u">score</span>
+        </div>
+        <div class="card-body">
+          <h2><a href="${c.link}" target="_blank" rel="noopener">${c.title}</a></h2>
+          <div class="meta-row">
+            ${tags.join("")}
+            <span>${formatPubDate(c.pubDate)}</span>
+          </div>
+          ${matchedLine}
+        </div>
+      </div>
+    `;
+  }
+
+  async function load() {
+    const statusBar = document.getElementById('statusBar');
+    const content = document.getElementById('content');
+    try {
+      const res = await fetch(DATA_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+      const candidates = (data.candidates || []).slice().sort((a, b) => b.score - a.score);
+
+      statusBar.innerHTML = `<span>Last run: <strong>${timeAgo(data.generatedAt)}</strong></span><span><strong>${candidates.length}</strong> topics in queue</span>`;
+
+      if (candidates.length === 0) {
+        content.innerHTML = `
+          <div class="empty-state">
+            <div class="glyph">—</div>
+            <h3>No field reports yet</h3>
+            <p>The desk runs daily at 05:00 EAT. Nothing new has come in since the last check — come back after the next run, or trigger it manually from the repo's Actions tab.</p>
+          </div>`;
+        return;
+      }
+
+      content.className = "feed";
+      content.innerHTML = candidates.map(renderCard).join("");
+    } catch (err) {
+      statusBar.innerHTML = `<span>Connection failed</span>`;
+      content.className = "error-state";
+      content.innerHTML = `Could not reach the report. Check the repository is public and state/pending-topics.json exists.<br><br>(${err.message})`;
+    }
+  }
+
+  load();
+</script>
+
+</body>
+</html>
