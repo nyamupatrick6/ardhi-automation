@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-08-14T09:40:15.005Z",
+  "generatedAt": "2026-08-14T10:39:44.047Z",
   "candidates": [
+    {
+      "id": "t_1468801531",
+      "title": "Protests Erupt in Nairobi Estate Over Alleged Land Grabbing - kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXzZCUjlRclZ2Ump1c3NUMXhTSWNoZC1zcHZmWnBNUl9mazhXOUdkN3Q4cXUtb1ZsZ0hWOVg3elVhZ25fcXlta0RjQW5TS0x2c0h6a3B3VUpIZW5qNURxVWJUazZ3NjQwQWx1R0NsOEp2RDMwMnVOMFJIVk55d1l1R2tvUEE0Ny1RM3lDenhwWmR0OGRWUjZyYWRRYmZ0SGZmQjdGVjQyZ0E?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 09:59:52 GMT",
+      "sourceName": "kenyans.co.ke",
+      "discoveredVia": {
+        "query": "land grabbing Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "score": 2
+    },
     {
       "id": "t_804895974",
       "title": "Talanta Stadium: Court Rejects Fresh Bid in Sh11.4 Billion Land Compensation Dispute - Pulse Sports Kenya",
