@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-08-15T21:55:59.090Z",
+  "generatedAt": "2026-08-15T22:17:55.192Z",
   "candidates": [
+    {
+      "id": "t_1307807086",
+      "title": "Broad-based leaders step up Ruto re-election campaign - youtube.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yRkdkSVJRaFFQUHpFQV9ySWJmQTVyN2tPQklqUEdGQTFZaU5KU1h1MVdrTmxKenpTby1vQVZ0ZFRqVU5TQnpUN1hHekZBeE5XMklBWnBB?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 18:28:35 GMT",
+      "discoveredAt": "2026-08-15T22:17:26.717Z",
+      "sourceName": "youtube.com",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1742192788",
       "title": "Nyayo Estate residents protest alleged land grabbing - standardmedia.co.ke",
