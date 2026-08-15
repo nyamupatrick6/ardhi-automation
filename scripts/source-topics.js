@@ -222,8 +222,8 @@ function isKenyaRelevant(candidate) {
 const LAND_CONFLICT_SIGNAL_WORDS = [
   "dispute", "disputed", "grab", "grabbed", "grabbing", "demolition", "demolished",
   "evict", "eviction", "fraud", "forged", "fake", "illegal", "cartel", "invasion",
-  "encroach", "encroachment", "boundary", "titles", "title deed", "war", "wars",
-  "compensation", "displaced", "squatter", "squatters"
+  "encroach", "encroachment", "boundary", "title", "titles", "title deed", "war", "wars",
+  "compensation", "displaced", "squatter", "squatters", "row", "wrangle", "wrangles", "wrangling"
 ];
 
 function hasLandConflictSignal(title) {
@@ -286,6 +286,17 @@ async function main() {
       const backlogMatches = scoreAgainstBacklog(title, backlog);
       const isGeneralLandStory = originType === "general_land";
       const hasSignal = hasLandConflictSignal(title);
+
+      // Reject outright if nothing actually ties this to land matters - a source
+      // being land-focused (e.g. "Standard Digital - Land & Property") doesn't mean
+      // every article it publishes is; Google's site: search matches body text, not
+      // just headlines, so unrelated stories (deaths, unrelated politics, etc.) can
+      // otherwise slip through. Require a real signal in the headline itself.
+      if (backlogMatches.length === 0 && !isGeneralLandStory && !hasSignal) {
+        seenSet.add(id);
+        continue;
+      }
+
       // Relevance bonus applies if it came from a broad general-land query OR if the
       // headline itself shows land+conflict signal words, regardless of exact keyword
       // phrasing or which query surfaced it (e.g. "land war" vs backlog's "land wars").
@@ -336,6 +347,12 @@ async function main() {
 
       const backlogMatches = scoreAgainstBacklog(title, backlog);
       const hasSignal = hasLandConflictSignal(title);
+
+      if (backlogMatches.length === 0 && !hasSignal) {
+        seenSet.add(id);
+        continue;
+      }
+
       const relevanceBonus = hasSignal ? 1 : 0;
       const score = backlogMatches.reduce((sum, m) => sum + m.weight, 0) + relevanceBonus;
 
