@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-08-15T10:44:06.588Z",
+  "generatedAt": "2026-08-15T11:16:54.411Z",
   "candidates": [
+    {
+      "id": "t_484531727",
+      "title": "Good read on what Kigali got right on housing as Kenya struggles with public trust by Peter Muiruri. Key Takeaways: 1. Instead of forcing residents to relocate, Kigali’s Mpazi Rehousing Project upgraded the settlement on-site. Families surrendered their land a - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNEFBbHRQLTVZXzVORUE4VDNvWmxtTnlJcU5HMHF3ZXJkNXF6MXA1YTVnTVN0WlBMbVFCLXd2TUV2WXNqbXhVV3RYb0JqbmZXb2VOUzJkV3N5c0ZT?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:00:02 GMT",
+      "discoveredAt": "2026-08-15T11:16:25.066Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1779659396",
       "title": "Land Eviction Kilifi - standardmedia.co.ke",
