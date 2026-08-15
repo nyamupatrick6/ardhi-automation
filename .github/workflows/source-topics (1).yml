@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: source-topics-state
+  cancel-in-progress: false # queue overlapping runs instead of racing/cancelling each other
+
 jobs:
   source-topics:
     runs-on: ubuntu-latest
@@ -32,5 +36,11 @@ jobs:
           git config user.name "ardhi-ai-bot"
           git config user.email "actions@github.com"
           git add state/pending-topics.json state/seen-topics.json
-          git diff --staged --quiet && echo "No new topics, nothing to commit" || git commit -m "chore: source topics $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          git diff --staged --quiet && echo "No new topics, nothing to commit" && exit 0
+          git commit -m "chore: source topics $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push attempt $i failed, retrying..."
+            sleep 5
+          done
+          echo "All push attempts failed" && exit 1
