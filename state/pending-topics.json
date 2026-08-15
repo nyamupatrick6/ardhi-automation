@@ -1,6 +1,67 @@
 {
-  "generatedAt": "2026-08-15T16:46:43.510Z",
+  "generatedAt": "2026-08-15T17:17:37.400Z",
   "candidates": [
+    {
+      "id": "t_1742192788",
+      "title": "Nyayo Estate residents protest alleged land grabbing - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZXRqZ3JqbDRoRjA1YVJOYUpOaGp4R3JiejExY0dhM1hJRlZla3JsMDdZY2FCaDl1RHlYbXBIaXlaTXREUnZVVDQ2VWczU09lMm9ZVkNYZHp4eHpBWEhaV20zZUJMWWE5a0NFYk5Ud1dlVU5lN2VTeWtkYnJVUjJQQTRITWVoMmFYQkFjNkpETWdqYVVwdjAxVmQ5NnBPUDBwNERhcmFTdXlLUEgzM3dUeWI2cVlKWDdDVTFwZWduVzF6bDJZdFZfSnJqbnNQQkc0Z2c?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 16:07:33 GMT",
+      "discoveredAt": "2026-08-15T17:16:49.064Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 3
+    },
+    {
+      "id": "t_178209599",
+      "title": "54-Year-Old Kenya Railways Employee Arrested in Forged KCSE Certificate Case - Nairobi Leo",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1N1X0RiX3JvaExPU1NQMEM1ZGctWkNlRVBfQndpek15WmY2aWRSOGZIRGdjaXhCQlpZQU9BVFZtRGhVSTUxb0NSYjJXZDIyTm1ycUtxUnJwRl8tQk5MT0RLaXpYMUN3aDFCSWluZnAzeVBhNlMxVUFjZFdMVjFzOEtsaHBiUEpSclRnMm0wWmhMOFdGUi0zakYxbGcxdTFOaG5ySVd5bG5TeFVPN09maEd2a0pyaGNnR1FTSw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 06:23:38 GMT",
+      "discoveredAt": "2026-08-15T17:17:03.450Z",
+      "sourceName": "Nairobi Leo",
+      "discoveredVia": {
+        "query": "Directorate of Criminal Investigations Kenya Kenya",
+        "origin": "Directorate of Criminal Investigations Kenya",
+        "originType": "facebook_page"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1999532124",
+      "title": "DCI arrest Kenya Railways employee for forging KCSE Certificate - educationnews.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjBZOTVJT2RKdjVJdWlhZ1pTQURhT2hVMzEzUTBKNDgzTnZhai1USTcyY2hpMnI2ODk4N1FEUjU4b2hfSDdMOTZ4dVRFV0VJRUxkTXFjeEVTMzVRY0RyRVA1RUJpUVJVWk9HVU9GcUxRRW4zT1ZhSGZ5Zkk3c1Ntc1lGcmc5bm5aTjF1ZHNNYllKTlV2SWlr?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 08:00:29 GMT",
+      "discoveredAt": "2026-08-15T17:17:03.450Z",
+      "sourceName": "educationnews.co.ke",
+      "discoveredVia": {
+        "query": "Directorate of Criminal Investigations Kenya Kenya",
+        "origin": "Directorate of Criminal Investigations Kenya",
+        "originType": "facebook_page"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_484531727",
       "title": "Good read on what Kigali got right on housing as Kenya struggles with public trust by Peter Muiruri. Key Takeaways: 1. Instead of forcing residents to relocate, Kigali’s Mpazi Rehousing Project upgraded the settlement on-site. Families surrendered their land a - x.com",
