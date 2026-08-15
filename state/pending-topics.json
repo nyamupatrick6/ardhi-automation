@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-08-15T06:37:36.828Z",
+  "generatedAt": "2026-08-15T07:15:46.647Z",
   "candidates": [
+    {
+      "id": "t_1872123934",
+      "title": "M-PESA Foundation partnership boosts maternal healthcare in Kakamega - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFBUTFVpdHotTWEtQUpzN3dFZGJzdXVMMl8zdmRyY3JNNjRDYzBMSEJVLTZwWU8tNDBtem9YdTZsbExJVkx0WUEtbi1QYkZiV0M0QS15WDdZVlZrR0lCdGxEUldsc2lnWTkwVWlSZ3V5bWpiUXZvd2lmRnd5MGVDRHpKVWcxTUd4d295SVVlTFc4M3FvNmRxUEZLVDFRUQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 18:06:31 GMT",
+      "discoveredAt": "2026-08-15T07:15:10.109Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "Kenya News Agency Kenya",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1779659396",
       "title": "Land Eviction Kilifi - standardmedia.co.ke",
