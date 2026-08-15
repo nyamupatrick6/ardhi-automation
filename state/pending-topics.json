@@ -1,4 +1,22 @@
 {
-  "generatedAt": "2026-08-15T04:22:41.306Z",
-  "candidates": []
+  "generatedAt": "2026-08-15T04:32:33.264Z",
+  "candidates": [
+    {
+      "id": "t_498450521",
+      "title": "Replant or wait? Farmers weigh options after maize crop failure - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODEyeWQzTnUtTmpkV3drRnRrdi1LcC1Yd2FsbGhxbFg1R3ByUnNXajc0dUlXRmhQUzFDZG5ERUt6Wm9lamtzLV9mN0RFUkw0QkNjWTU5YkR6SzdfRkRzeHZQWk1PcG5tc1F2YVpIakxfNFlzTktIbGdFaW1wUTFpdG9QbENFZkxuUTJ4dHlpOW5uUmQ4QWc?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 09:25:10 GMT",
+      "discoveredAt": "2026-08-15T04:31:45.528Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    }
+  ]
 }
