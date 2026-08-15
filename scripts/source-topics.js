@@ -39,7 +39,7 @@ const MAX_ITEMS_PER_QUERY = 8;
 // get this filter: their org name alone is already a specific-enough query,
 // since (almost) everything they publish is inherently land/land-adjacent.
 const LAND_QUERY_TERMS = [
-  "land", "title deed", "Ardhisasa", "NLC", "land fraud", "land dispute",
+  "title deed", "Ardhisasa", "NLC", "land fraud", "land dispute",
   "eviction", "land grab", "surveyor", "compulsory acquisition", "land compensation"
 ];
 const LAND_QUERY_FILTER = `(${LAND_QUERY_TERMS.map((t) => (t.includes(" ") ? `"${t}"` : t)).join(" OR ")})`;
