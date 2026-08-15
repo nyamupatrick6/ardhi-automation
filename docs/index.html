@@ -177,6 +177,17 @@
   }
   .matched-parts b { color: var(--score-hit); font-weight: 500; }
 
+  .timestamps {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 18px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: var(--stone);
+  }
+  .timestamps strong { color: var(--ink); font-weight: 500; }
+
   .empty-state {
     text-align: center;
     padding: 60px 24px;
@@ -248,7 +259,7 @@
     <div id="content" class="load-state">Pulling today's report…</div>
   </main>
 
-  <footer>Sourced daily at 05:00 EAT from official platforms, followed pages, and news coverage · Ardhi AI internal tool</footer>
+  <footer>Sourced continuously (roughly every 20 min, no fixed time) from official platforms, followed Facebook pages, X/YouTube/TikTok/LinkedIn coverage, Reddit, and news outlets · every item timestamped with both publish date and discovery date · Ardhi AI internal tool</footer>
 
 <script>
   const DATA_URL = "https://raw.githubusercontent.com/nyamupatrick6/ardhi-automation/main/state/pending-topics.json";
@@ -262,10 +273,12 @@
     return Math.floor(hrs / 24) + "d ago";
   }
 
-  function formatPubDate(pubDate) {
+  function formatDateTime(iso) {
+    if (!iso) return "unknown";
     try {
-      return new Date(pubDate).toLocaleDateString('en-KE', { day: 'numeric', month: 'short', year: 'numeric' });
-    } catch { return pubDate; }
+      const d = new Date(iso);
+      return d.toLocaleString('en-KE', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' }) + ' EAT';
+    } catch { return iso; }
   }
 
   function stampClass(candidate) {
@@ -274,11 +287,22 @@
     return "zero";
   }
 
+  const ORIGIN_LABELS = {
+    official_platform: "Official site",
+    facebook_page: "Facebook (via news)",
+    social_platform: "Social (via news)",
+    reddit: "Reddit",
+    evergreen: "Watch term",
+    general_land: "General land"
+  };
+
   function renderCard(c) {
     const cls = stampClass(c);
     const tags = [];
     if (c.backlogMatches && c.backlogMatches.length > 0) tags.push('<span class="tag backlog">Series match</span>');
     if (c.isGeneralLandStory || c.hasLandConflictSignal) tags.push('<span class="tag general">General land</span>');
+    const originType = c.discoveredVia?.originType;
+    if (originType && ORIGIN_LABELS[originType]) tags.push('<span class="tag">' + ORIGIN_LABELS[originType] + '</span>');
     tags.push('<span class="tag">' + (c.sourceName || 'Unknown source') + '</span>');
 
     let matchedLine = "";
@@ -297,7 +321,10 @@
           <h2><a href="${c.link}" target="_blank" rel="noopener">${c.title}</a></h2>
           <div class="meta-row">
             ${tags.join("")}
-            <span>${formatPubDate(c.pubDate)}</span>
+          </div>
+          <div class="timestamps">
+            <span>Published: <strong>${formatDateTime(c.pubDate)}</strong></span>
+            <span>Found: <strong>${formatDateTime(c.discoveredAt)}</strong></span>
           </div>
           ${matchedLine}
         </div>
@@ -314,14 +341,14 @@
       const data = await res.json();
       const candidates = (data.candidates || []).slice().sort((a, b) => b.score - a.score);
 
-      statusBar.innerHTML = `<span>Last run: <strong>${timeAgo(data.generatedAt)}</strong></span><span><strong>${candidates.length}</strong> topics in queue</span>`;
+      statusBar.innerHTML = `<span>Last run: <strong>${timeAgo(data.generatedAt)}</strong> (${formatDateTime(data.generatedAt)})</span><span><strong>${candidates.length}</strong> topics in queue</span>`;
 
       if (candidates.length === 0) {
         content.innerHTML = `
           <div class="empty-state">
             <div class="glyph">—</div>
             <h3>No field reports yet</h3>
-            <p>The desk runs daily at 05:00 EAT. Nothing new has come in since the last check — come back after the next run, or trigger it manually from the repo's Actions tab.</p>
+            <p>The desk now runs continuously in the background (roughly every 20 minutes). Nothing new has come in yet — check back shortly, or trigger it manually from the repo's Actions tab.</p>
           </div>`;
         return;
       }

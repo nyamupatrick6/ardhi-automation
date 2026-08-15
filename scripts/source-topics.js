@@ -52,6 +52,19 @@ function buildQueries(sources, backlog) {
     queries.push({ q: `${page.name} Kenya`, origin: page.name, originType: "facebook_page" });
   }
 
+  // Social platforms (X, YouTube, TikTok, LinkedIn) can't be scraped directly
+  // without paid API access, and doing so would break each platform's terms
+  // of service. Same proxy pattern as facebook_pages above: Google News
+  // indexes news coverage that reports on or embeds posts from these
+  // platforms, usually within hours of something going viral or official.
+  for (const platform of sources.social_platforms || []) {
+    queries.push({
+      q: `Kenya land ${platform.search_filter}`,
+      origin: platform.name,
+      originType: "social_platform"
+    });
+  }
+
   for (const term of backlog.evergreen_watch_terms || []) {
     const anchored = /kenya/i.test(term) ? term : `${term} Kenya`;
     queries.push({ q: anchored, origin: "evergreen_watch_term", originType: "evergreen" });
@@ -86,6 +99,33 @@ async function fetchGoogleNewsRSS(query) {
     return [];
   }
   return Array.isArray(items) ? items : [items];
+}
+
+// Reddit publishes genuine public search feeds - no auth, no API key, and
+// fully within Reddit's terms (this is the documented RSS/Atom endpoint,
+// not scraping). Returns Atom <entry> items, not RSS 2.0 <item> like the
+// Google News feed, so it needs its own light parsing.
+async function fetchRedditRSS(subreddit, query) {
+  const url = `https://www.reddit.com/r/${encodeURIComponent(subreddit)}/search.rss?q=${encodeURIComponent(query)}&restrict_sr=1&sort=new&limit=25`;
+  const res = await fetch(url, {
+    headers: { "User-Agent": "ardhi-ai-topic-sourcing/1.0 (contact: ardhiai.kenya@gmail.com)" }
+  });
+  if (!res.ok) {
+    console.warn(`  [warn] reddit fetch failed for r/${subreddit} "${query}": HTTP ${res.status}`);
+    return [];
+  }
+  const xml = await res.text();
+  const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_" });
+  const parsed = parser.parse(xml);
+  const entries = parsed?.feed?.entry;
+  if (!entries) return [];
+  const list = Array.isArray(entries) ? entries : [entries];
+  return list.map((e) => ({
+    title: e.title || "",
+    link: e.link?.["@_href"] || e.id || "",
+    pubDate: e.published || e.updated || "",
+    sourceName: `r/${subreddit}`
+  }));
 }
 
 function sleep(ms) {
@@ -128,6 +168,19 @@ const KENYA_SIGNALS = [
 function isKenyaRelevant(candidate) {
   const haystack = `${candidate.title} ${candidate.sourceName}`.toLowerCase();
   return KENYA_SIGNALS.some((signal) => haystack.includes(signal));
+}
+
+const LAND_CONFLICT_SIGNAL_WORDS = [
+  "dispute", "disputed", "grab", "grabbed", "grabbing", "demolition", "demolished",
+  "evict", "eviction", "fraud", "forged", "fake", "illegal", "cartel", "invasion",
+  "encroach", "encroachment", "boundary", "titles", "title deed", "war", "wars",
+  "compensation", "displaced", "squatter", "squatters"
+];
+
+function hasLandConflictSignal(title) {
+  const lower = title.toLowerCase();
+  if (!lower.includes("land")) return false;
+  return LAND_CONFLICT_SIGNAL_WORDS.some((w) => lower.includes(w));
 }
 
 function stableId(link, title) {
@@ -183,19 +236,71 @@ async function main() {
 
       const backlogMatches = scoreAgainstBacklog(title, backlog);
       const isGeneralLandStory = originType === "general_land";
-      // General land stories get a base score of 1 even with zero backlog keyword hits,
-      // so a real land story doesn't get buried at 0 just for not fitting one of the 8 parts.
-      const score = backlogMatches.reduce((sum, m) => sum + m.weight, 0) + (isGeneralLandStory ? 1 : 0);
+      const hasSignal = hasLandConflictSignal(title);
+      // Relevance bonus applies if it came from a broad general-land query OR if the
+      // headline itself shows land+conflict signal words, regardless of exact keyword
+      // phrasing or which query surfaced it (e.g. "land war" vs backlog's "land wars").
+      const relevanceBonus = (isGeneralLandStory || hasSignal) ? 1 : 0;
+      const score = backlogMatches.reduce((sum, m) => sum + m.weight, 0) + relevanceBonus;
 
       candidates.push({
         id,
         title,
         link,
         pubDate,
+        discoveredAt: new Date().toISOString(),
         sourceName,
         discoveredVia: { query: q, origin, originType },
         backlogMatches,
         isGeneralLandStory,
+        hasLandConflictSignal: hasSignal,
+        score
+      });
+
+      seenSet.add(id);
+      kept++;
+    }
+    console.log(`  -> ${kept} new item(s)`);
+  }
+
+  // Reddit: direct integration via public search RSS (see fetchRedditRSS).
+  for (const watch of sources.reddit_watch || []) {
+    const label = `r/${watch.subreddit} "${watch.query}"`;
+    console.log(`- ${label}`);
+    let items = [];
+    try {
+      items = await fetchRedditRSS(watch.subreddit, watch.query);
+    } catch (err) {
+      console.warn(`  [warn] error fetching ${label}: ${err.message}`);
+      continue;
+    } finally {
+      await sleep(500);
+    }
+
+    let kept = 0;
+    for (const item of items.slice(0, MAX_ITEMS_PER_QUERY)) {
+      const { title, link, pubDate, sourceName } = item;
+      if (!withinLookback(pubDate, LOOKBACK_HOURS)) continue;
+
+      const id = stableId(link, title);
+      if (seenSet.has(id)) continue;
+
+      const backlogMatches = scoreAgainstBacklog(title, backlog);
+      const hasSignal = hasLandConflictSignal(title);
+      const relevanceBonus = hasSignal ? 1 : 0;
+      const score = backlogMatches.reduce((sum, m) => sum + m.weight, 0) + relevanceBonus;
+
+      candidates.push({
+        id,
+        title,
+        link,
+        pubDate,
+        discoveredAt: new Date().toISOString(),
+        sourceName,
+        discoveredVia: { query: watch.query, origin: `r/${watch.subreddit}`, originType: "reddit" },
+        backlogMatches,
+        isGeneralLandStory: false,
+        hasLandConflictSignal: hasSignal,
         score
       });
 
@@ -216,8 +321,12 @@ async function main() {
   console.log(`\nDone. ${candidates.length} new candidate(s) added to state/pending-topics.json.`);
   const backlogScored = candidates.filter((c) => !c.isGeneralLandStory && c.score > 0);
   const generalLand = candidates.filter((c) => c.isGeneralLandStory);
+  const fromSocial = candidates.filter((c) => c.discoveredVia?.originType === "social_platform");
+  const fromReddit = candidates.filter((c) => c.discoveredVia?.originType === "reddit");
   console.log(`${backlogScored.length} matched a backlog series part or standalone topic directly.`);
   console.log(`${generalLand.length} are general Kenya land stories outside the current 8-part series.`);
+  console.log(`${fromSocial.length} surfaced via social platform coverage (X/YouTube/TikTok/LinkedIn, proxied through Google News).`);
+  console.log(`${fromReddit.length} surfaced directly from Reddit.`);
 }
 
 main().catch((err) => {

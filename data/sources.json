@@ -20,6 +20,19 @@
       "watch_for": ["Environment and Land Court rulings", "Supreme Court land precedents", "Court of Appeal land judgments"]
     },
     {
+      "name": "Commission on Administrative Justice (Ombudsman Kenya)",
+      "url": "https://ombudsman.go.ke",
+      "x_handle": "https://x.com/KenyasOmbudsman",
+      "type": "government",
+      "watch_for": ["compulsory acquisition compensation delays", "maladministration complaints", "summons to state agencies over land compensation", "land injustice interventions"]
+    },
+    {
+      "name": "The Kenya Times",
+      "url": "https://thekenyatimes.com",
+      "type": "news",
+      "watch_for": ["compulsory acquisition compensation coverage", "land injustice reporting"]
+    },
+    {
       "name": "Daily Nation - Land & Property",
       "url": "https://nation.africa",
       "type": "news",
@@ -30,12 +43,67 @@
       "url": "https://www.standardmedia.co.ke",
       "type": "news",
       "watch_for": ["land fraud reports", "NLC coverage", "Ardhisasa coverage"]
+    },
+    {
+      "name": "The Star Kenya",
+      "url": "https://www.the-star.co.ke",
+      "type": "news",
+      "watch_for": ["land fraud reports", "county land news", "court rulings"]
+    },
+    {
+      "name": "Citizen Digital Kenya",
+      "url": "https://www.citizen.digital",
+      "type": "news",
+      "watch_for": ["land disputes", "breaking land fraud news"]
+    },
+    {
+      "name": "Business Daily Africa",
+      "url": "https://www.businessdailyafrica.com",
+      "type": "news",
+      "watch_for": ["land investment fraud", "property market irregularities", "commercial land disputes"]
+    },
+    {
+      "name": "Kenyans.co.ke",
+      "url": "https://www.kenyans.co.ke",
+      "type": "news",
+      "watch_for": ["breaking land fraud stories", "viral land dispute cases"]
+    },
+    {
+      "name": "Tuko Kenya",
+      "url": "https://www.tuko.co.ke",
+      "type": "news",
+      "watch_for": ["land dispute stories", "county land news"]
+    },
+    {
+      "name": "People Daily Kenya",
+      "url": "https://www.pd.co.ke",
+      "type": "news",
+      "watch_for": ["land fraud reports", "government land policy"]
+    },
+    {
+      "name": "KBC Kenya",
+      "url": "https://www.kbc.co.ke",
+      "type": "news",
+      "watch_for": ["state broadcaster land coverage", "government land announcements"]
+    },
+    {
+      "name": "KTN News Kenya",
+      "url": "https://www.ktnnews.com",
+      "type": "news",
+      "watch_for": ["land fraud investigations", "land dispute coverage"]
+    },
+    {
+      "name": "Kenya News Agency",
+      "url": "https://www.kenyanews.go.ke",
+      "type": "government",
+      "watch_for": ["official government land announcements", "ministry press releases"]
     }
   ],
   "facebook_pages": [
     {
       "name": "Ministry of Lands, Public Works, Housing and Urban Development",
       "url": "https://www.facebook.com/ardhihouse/",
+      "x_handle": "https://x.com/Lands_Kenya",
       "watch_for": ["cabinet secretary statements", "ministry-wide policy announcements", "land grab reports involving officials", "Ardhisasa outage notices"]
     },
     {
@@ -46,6 +114,7 @@
     {
       "name": "ArdhiSasa",
       "url": "https://www.facebook.com/p/ArdhiSasa-100077244823564",
+      "x_handle": "https://x.com/ArdhiSasa_Ke",
       "watch_for": ["platform updates", "county rollout announcements", "outages", "new mandatory digital processes"]
     },
     {
@@ -56,13 +125,69 @@
     {
       "name": "National Land Commission",
       "url": "https://www.facebook.com/nationallandcommission/",
+      "x_handle": "https://x.com/NLC_Kenya",
+      "instagram_handle": "https://instagram.com/nlc_ke",
       "watch_for": ["public land investigations", "compulsory acquisition/compensation news", "historical land injustice redress"]
     },
     {
       "name": "The Institution of Surveyors of Kenya",
       "url": "https://www.facebook.com/institutionofsurveyorsofkenya/",
       "watch_for": ["professional body press statements", "policy critique", "sector alerts"]
+    },
+    {
+      "name": "Directorate of Criminal Investigations Kenya",
+      "url": "https://www.facebook.com/UpeleleziKenya",
+      "x_handle": "https://x.com/DCI_Kenya",
+      "watch_for": ["land fraud arrests", "title fraud investigations", "cartel busts", "forged document cases"]
+    },
+    {
+      "name": "Ethics and Anti-Corruption Commission Kenya",
+      "url": "https://www.facebook.com/EACCKenya/",
+      "watch_for": ["land corruption cases", "public officer land graft", "asset recovery involving land"]
+    },
+    {
+      "name": "Kenya Judiciary",
+      "url": "https://www.facebook.com/thejudiciarykenya",
+      "watch_for": ["land-related court rulings", "Chief Justice statements on land cases", "judicial reforms affecting land disputes"]
     }
   ],
-  "notes": "All sources verified live via web search on 2026-08-13. facebook_pages sourced directly from Ardhi AI's own 'Following' list (6 pages, screenshot confirmed)."
+  "social_platforms": [
+    {
+      "name": "X (Twitter)",
+      "type": "social",
+      "search_filter": "(site:twitter.com OR site:x.com)",
+      "watch_for": ["viral land dispute threads", "official account statements (NLC, Ardhisasa, Ministry of Lands)", "journalist/eyewitness posts on evictions or fraud"]
+    },
+    {
+      "name": "YouTube",
+      "type": "social",
+      "search_filter": "site:youtube.com",
+      "watch_for": ["news segment uploads on land fraud/disputes", "NLC or ministry press briefing videos", "investigative land documentaries"]
+    },
+    {
+      "name": "TikTok",
+      "type": "social",
+      "search_filter": "site:tiktok.com",
+      "watch_for": ["viral land-scam warnings", "on-the-ground eviction/dispute footage", "creator explainers on Ardhisasa/title fraud"]
+    },
+    {
+      "name": "LinkedIn",
+      "type": "social",
+      "search_filter": "site:linkedin.com",
+      "watch_for": ["surveying/legal professional commentary", "policy analysis posts", "NLC or ministry official statements"]
+    }
+  ],
+  "reddit_watch": [
+    {
+      "subreddit": "Kenya",
+      "query": "land",
+      "watch_for": ["community discussion of land fraud, disputes, or Ardhisasa problems"]
+    },
+    {
+      "subreddit": "Kenya",
+      "query": "title deed",
+      "watch_for": ["personal accounts of title fraud or due-diligence problems"]
+    }
+  ],
+  "notes": "All sources verified live via web search on 2026-08-13 (facebook_pages) and 2026-08-15 (CAJ/Ombudsman addition + x_handle/instagram_handle reference fields). facebook_pages sourced directly from Ardhi AI's own 'Following' list (6 pages, screenshot confirmed). x_handle/instagram_handle fields are reference metadata only (not read by the query builder, which searches by org name) - they exist so the data itself documents which verified accounts each org runs. CAJ (Commission on Administrative Justice / Ombudsman Kenya) added 2026-08-15 after it surfaced as the agency that broke the Shamakhokho compensation deadlock - it had no prior dedicated tracking entry. social_platforms (X, YouTube, TikTok, LinkedIn) are NOT scraped directly - none offer a free, ToS-compliant public feed - so they're covered the same way facebook_pages are: via Google News RSS with a site: filter, which surfaces news coverage that embeds or reports on posts from these platforms. reddit_watch IS a direct integration - Reddit publishes genuine public search RSS/Atom feeds with no auth required, added 2026-08-14."
 }
