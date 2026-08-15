@@ -31,6 +31,28 @@ const PENDING_PATH = path.join(ROOT, "state", "pending-topics.json");
 const LOOKBACK_HOURS = 48; // buffer beyond the 24h cadence to catch anything missed
 const MAX_ITEMS_PER_QUERY = 8;
 
+// Used to scope generic news-outlet queries down to their land coverage
+// specifically. Without this, a query like "Citizen Digital Kenya" just
+// returns whatever that outlet published most recently - music festivals,
+// weather, politics, anything - drowning out the land stories we actually
+// want. Government/judiciary bodies (NLC, Ardhisasa, CAJ, Kenya Law) don't
+// get this filter: their org name alone is already a specific-enough query,
+// since (almost) everything they publish is inherently land/land-adjacent.
+const LAND_QUERY_TERMS = [
+  "land", "title deed", "Ardhisasa", "NLC", "land fraud", "land dispute",
+  "eviction", "land grab", "surveyor", "compulsory acquisition", "land compensation"
+];
+const LAND_QUERY_FILTER = `(${LAND_QUERY_TERMS.map((t) => (t.includes(" ") ? `"${t}"` : t)).join(" OR ")})`;
+
+function extractDomain(url) {
+  if (!url) return null;
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return null;
+  }
+}
+
 function loadJSON(p, fallback) {
   if (!fs.existsSync(p)) return fallback;
   return JSON.parse(fs.readFileSync(p, "utf8"));
@@ -45,6 +67,23 @@ function buildQueries(sources, backlog) {
   const queries = [];
 
   for (const platform of sources.official_platforms || []) {
+    if (platform.type === "news") {
+      // Generic news outlet - scope the query to its land coverage via a
+      // site: filter, rather than searching the outlet's name (which just
+      // returns everything they publish, land-related or not).
+      const domain = extractDomain(platform.url);
+      if (domain) {
+        queries.push({
+          q: `site:${domain} ${LAND_QUERY_FILTER}`,
+          origin: platform.name,
+          originType: "official_platform"
+        });
+        continue;
+      }
+      // Fall through to the name-based query below if no usable domain was found.
+    }
+    // Government/judiciary bodies: their own name is already a specific,
+    // targeted query - no site: filter needed.
     queries.push({ q: `${platform.name} Kenya`, origin: platform.name, originType: "official_platform" });
   }
 
