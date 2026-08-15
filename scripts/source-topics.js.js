@@ -55,7 +55,17 @@ function extractDomain(url) {
 
 function loadJSON(p, fallback) {
   if (!fs.existsSync(p)) return fallback;
-  return JSON.parse(fs.readFileSync(p, "utf8"));
+  const raw = fs.readFileSync(p, "utf8");
+  if (!raw || raw.trim().length === 0) {
+    console.warn(`  [warn] ${p} is empty or missing content - using fallback instead of crashing`);
+    return fallback;
+  }
+  try {
+    return JSON.parse(raw);
+  } catch (err) {
+    console.warn(`  [warn] ${p} contains invalid JSON (${err.message}) - using fallback instead of crashing`);
+    return fallback;
+  }
 }
 
 function saveJSON(p, data) {
