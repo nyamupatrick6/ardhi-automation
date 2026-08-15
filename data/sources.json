@@ -95,7 +95,7 @@
     {
       "name": "Kenya News Agency",
       "url": "https://www.kenyanews.go.ke",
-      "type": "government",
+      "type": "news",
       "watch_for": ["official government land announcements", "ministry press releases"]
     }
   ],

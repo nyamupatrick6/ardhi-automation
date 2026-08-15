@@ -1,23 +1,6 @@
 {
-  "generatedAt": "2026-08-15T09:55:32.053Z",
+  "generatedAt": "2026-08-15T10:03:31.063Z",
   "candidates": [
-    {
-      "id": "t_1872123934",
-      "title": "M-PESA Foundation partnership boosts maternal healthcare in Kakamega - Kenya News Agency",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFBUTFVpdHotTWEtQUpzN3dFZGJzdXVMMl8zdmRyY3JNNjRDYzBMSEJVLTZwWU8tNDBtem9YdTZsbExJVkx0WUEtbi1QYkZiV0M0QS15WDdZVlZrR0lCdGxEUldsc2lnWTkwVWlSZ3V5bWpiUXZvd2lmRnd5MGVDRHpKVWcxTUd4d295SVVlTFc4M3FvNmRxUEZLVDFRUQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 18:06:31 GMT",
-      "discoveredAt": "2026-08-15T07:15:10.109Z",
-      "sourceName": "Kenya News Agency",
-      "discoveredVia": {
-        "query": "Kenya News Agency Kenya",
-        "origin": "Kenya News Agency",
-        "originType": "official_platform"
-      },
-      "backlogMatches": [],
-      "isGeneralLandStory": false,
-      "hasLandConflictSignal": false,
-      "score": 0
-    },
     {
       "id": "t_1779659396",
       "title": "Land Eviction Kilifi - standardmedia.co.ke",
@@ -36,23 +19,6 @@
       "score": 1
     },
     {
-      "id": "t_8947843",
-      "title": "‘Married’ at 4pm, dead by 7pm: Puzzle of Murang’a couple’s deaths - Daily Nation",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdi0zVnF4blpoYm1kakpaWjNPUkVqVzhHbm1wVVZpVVkwZ2pEZE5MUTdNQWlPSDBLLTZlNUZ2anVON0dieUZ2aXdYYkg2U21VTGRDX1kyWXdzazdBWHZoOVJ6TzNIbjhNRnZOTmJVemhNdUd4OUowdUplQ1F2REVWS3c2MmlHMzZWS0drd3Z2YVdVWXJRVTJ6ZmxaeGJrSklFVnFzdGlleGJ6LXlRUUZWNTFnN0xzZw?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 03:00:00 GMT",
-      "discoveredAt": "2026-08-15T04:41:02.538Z",
-      "sourceName": "Daily Nation",
-      "discoveredVia": {
-        "query": "site:nation.africa (\"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
-        "origin": "Daily Nation - Land & Property",
-        "originType": "official_platform"
-      },
-      "backlogMatches": [],
-      "isGeneralLandStory": false,
-      "hasLandConflictSignal": false,
-      "score": 0
-    },
-    {
       "id": "t_1981162573",
       "title": "Olympic champion bought Karen land in 1996, court now says title was for Nyandarua - standardmedia.co.ke",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQa1h2OXhpRmNhT1hMYzlEZ0RPMHc3ZVZ2NzNtMUQzLVJDTDk1dEl6V2NvN3NSU1haWWpfWWlxQVhUV09pWkNGc09DeWlTNUV6MDA1N2lsZm1FQ3BsUW9hNUtkSXJTQk9ObWVaZ1drQ3BzbGk3SnB0cW1jdU5rRDZIWHFNbUY4M09BV2hiQm1yWUJGM1Nzam55dHZtanVVZGM3WHQ5Y2l3YjRhMFVONEtmR2NzaHh0QV9IbWlkVkcyeE5aTXpZaFVSR1ZNRnFXU2tZNUhvSU01aEZrUWVLMEZDRTliZDF3R2FGcDB4Rml0N3dXZWFkbEtJTXlOSGZhZkxURWZPOGYtTXI?oc=5",
@@ -66,25 +32,8 @@
       },
       "backlogMatches": [],
       "isGeneralLandStory": false,
-      "hasLandConflictSignal": false,
-      "score": 0
-    },
-    {
-      "id": "t_1984264952",
-      "title": "Senators raise concerns over deteriorating KICC despite Sh1.9b renovation - standardmedia.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQjdVdlU2a29TQ1p6OTczSmVpbVR0S1lmVDhZS0xOeGN2elNkb2JGeC1sekZ0ZHBMQzExTWpUbm9lN3EtT2xlUEdtX0VFeHlrX3ZZZFp5R0dDcFZwSDRkUkxMMWtFSGxqS2FvdkV3SGtQdjFTanM5X1FEaUdTdnY0MHZtZU1NdnBYQVlINlV3REZoSURFZE9jTTAtaEluR1A2SlR3MlNENHVwVG1xTnRneDI3bm9QMFJxMmxVRWxaM1BWdmUxRHhXYXQtc0dSZzZBbnBDU3pBemdxd3FxdGxxbzBLUndFeE90Wjg4aXp3?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 21:16:25 GMT",
-      "discoveredAt": "2026-08-15T04:41:03.483Z",
-      "sourceName": "standardmedia.co.ke",
-      "discoveredVia": {
-        "query": "site:standardmedia.co.ke (\"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
-        "origin": "Standard Digital - Land & Property",
-        "originType": "official_platform"
-      },
-      "backlogMatches": [],
-      "isGeneralLandStory": false,
-      "hasLandConflictSignal": false,
-      "score": 0
+      "hasLandConflictSignal": true,
+      "score": 1
     },
     {
       "id": "t_1605552489",
@@ -100,25 +49,8 @@
       },
       "backlogMatches": [],
       "isGeneralLandStory": false,
-      "hasLandConflictSignal": false,
-      "score": 0
-    },
-    {
-      "id": "t_498450521",
-      "title": "Replant or wait? Farmers weigh options after maize crop failure - Daily Nation",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODEyeWQzTnUtTmpkV3drRnRrdi1LcC1Yd2FsbGhxbFg1R3ByUnNXajc0dUlXRmhQUzFDZG5ERUt6Wm9lamtzLV9mN0RFUkw0QkNjWTU5YkR6SzdfRkRzeHZQWk1PcG5tc1F2YVpIakxfNFlzTktIbGdFaW1wUTFpdG9QbENFZkxuUTJ4dHlpOW5uUmQ4QWc?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 09:25:10 GMT",
-      "discoveredAt": "2026-08-15T04:31:45.528Z",
-      "sourceName": "Daily Nation",
-      "discoveredVia": {
-        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
-        "origin": "Daily Nation - Land & Property",
-        "originType": "official_platform"
-      },
-      "backlogMatches": [],
-      "isGeneralLandStory": false,
-      "hasLandConflictSignal": false,
-      "score": 0
+      "hasLandConflictSignal": true,
+      "score": 1
     }
   ]
 }

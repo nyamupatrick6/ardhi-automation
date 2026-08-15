@@ -39,7 +39,7 @@ const MAX_ITEMS_PER_QUERY = 8;
 // get this filter: their org name alone is already a specific-enough query,
 // since (almost) everything they publish is inherently land/land-adjacent.
 const LAND_QUERY_TERMS = [
-  "title deed", "Ardhisasa", "NLC", "land fraud", "land dispute",
+  "land", "title deed", "Ardhisasa", "NLC", "land fraud", "land dispute",
   "eviction", "land grab", "surveyor", "compulsory acquisition", "land compensation"
 ];
 const LAND_QUERY_FILTER = `(${LAND_QUERY_TERMS.map((t) => (t.includes(" ") ? `"${t}"` : t)).join(" OR ")})`;
@@ -55,17 +55,7 @@ function extractDomain(url) {
 
 function loadJSON(p, fallback) {
   if (!fs.existsSync(p)) return fallback;
-  const raw = fs.readFileSync(p, "utf8");
-  if (!raw || raw.trim().length === 0) {
-    console.warn(`  [warn] ${p} is empty or missing content - using fallback instead of crashing`);
-    return fallback;
-  }
-  try {
-    return JSON.parse(raw);
-  } catch (err) {
-    console.warn(`  [warn] ${p} contains invalid JSON (${err.message}) - using fallback instead of crashing`);
-    return fallback;
-  }
+  return JSON.parse(fs.readFileSync(p, "utf8"));
 }
 
 function saveJSON(p, data) {
@@ -222,8 +212,8 @@ function isKenyaRelevant(candidate) {
 const LAND_CONFLICT_SIGNAL_WORDS = [
   "dispute", "disputed", "grab", "grabbed", "grabbing", "demolition", "demolished",
   "evict", "eviction", "fraud", "forged", "fake", "illegal", "cartel", "invasion",
-  "encroach", "encroachment", "boundary", "title", "titles", "title deed", "war", "wars",
-  "compensation", "displaced", "squatter", "squatters", "row", "wrangle", "wrangles", "wrangling"
+  "encroach", "encroachment", "boundary", "titles", "title", "title deed", "war", "wars",
+  "compensation", "displaced", "squatter", "squatters", "row", "recovery", "acquisition"
 ];
 
 function hasLandConflictSignal(title) {
@@ -287,13 +277,16 @@ async function main() {
       const isGeneralLandStory = originType === "general_land";
       const hasSignal = hasLandConflictSignal(title);
 
-      // Reject outright if nothing actually ties this to land matters - a source
-      // being land-focused (e.g. "Standard Digital - Land & Property") doesn't mean
-      // every article it publishes is; Google's site: search matches body text, not
-      // just headlines, so unrelated stories (deaths, unrelated politics, etc.) can
-      // otherwise slip through. Require a real signal in the headline itself.
-      if (backlogMatches.length === 0 && !isGeneralLandStory && !hasSignal) {
-        seenSet.add(id);
+      // This query was scoped to one outlet's land coverage via a site:
+      // filter (see buildQueries). Google News' matching isn't exact, so it
+      // sometimes returns clearly unrelated articles anyway (a health story,
+      // a court case with no land angle). If a candidate from one of these
+      // scoped queries shows no land-conflict signal AND no backlog match,
+      // it's almost certainly a false positive from the site: search, not a
+      // real land story - drop it entirely instead of keeping it at score 0.
+      const isLandScopedQuery = q.startsWith("site:");
+      if (isLandScopedQuery && !hasSignal && backlogMatches.length === 0) {
+        seenSet.add(id); // still mark seen so it isn't re-fetched every run
         continue;
       }
 
@@ -347,12 +340,6 @@ async function main() {
 
       const backlogMatches = scoreAgainstBacklog(title, backlog);
       const hasSignal = hasLandConflictSignal(title);
-
-      if (backlogMatches.length === 0 && !hasSignal) {
-        seenSet.add(id);
-        continue;
-      }
-
       const relevanceBonus = hasSignal ? 1 : 0;
       const score = backlogMatches.reduce((sum, m) => sum + m.weight, 0) + relevanceBonus;
 
