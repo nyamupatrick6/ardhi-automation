@@ -1,6 +1,254 @@
 {
-  "generatedAt": "2026-08-15T03:30:19.760Z",
+  "generatedAt": "2026-08-15T03:40:57.380Z",
   "candidates": [
+    {
+      "id": "t_198746407",
+      "title": "Nyayo Estate residents protest alleged land grabbing - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT01fSjZyZDR4VGtXRVZNYWdnM0JnSGxOSVgxMGNIQzFhNnU2blVIR250ZEs2Qzh4V2otSzdxMFREVDZPN1RjeWZqQmVaSzdXcUpScDc2aTFsZERNTm1YZkE1eWktdWhEWEdwQ2RWd1hnSzI2WW9jRWMxSmMtUHpxaEVlcFlMRWhUeURiSjNCQ1VabFo3cXdLN25xNEt6Y01Hby1IU2J0TXJCRExNLV8tcQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 16:07:33 GMT",
+      "discoveredAt": "2026-08-15T03:40:12.028Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 3
+    },
+    {
+      "id": "t_2038764475",
+      "title": "Over 400 locals face eviction from their land in Kilifi - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXRLU1dQd3BYV1hSZWpvYWR4Q0E5bmlYSjhmVzF2U3hTUkFlbU5PQ2htWFZjWmpHMGc2U3diZnpJQlBRQVM5NTFOUjFqQlIxWHpfMlNTV0VSLWM3TXI0SWJ6WHlJRE9JY20xY3UyMWM1dWNVRnpsYXlmekE2QU1ITmg1eDNiUkVBYWNqbnV1U0RrdG4xLXdMdjZwbVFyRV8tVWw5SU1TMlhBS0szc2xnSjNlNS1qZw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 13:10:26 GMT",
+      "discoveredAt": "2026-08-15T03:40:12.028Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1612229794",
+      "title": "Nyayo Estate residents protest alleged grabbing of public utility land - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWVuaUNGaHBDVW5vZWFXQzdBSERmQzdqYkhZem4yaFVPQTZ6ZlE4SzhXOVNlZjJFeXhSaGpCTldBSkpTRnphVlF1QW5sT0M0dDFyTlRhci02N3NqR3ZaaVZJVFNuaXhOUmdGTTVRd2hHM2NXdHFqVFZiOVFVQnY1dV9UbUdmaGJHNllsNjdmNW51c2lWRThJelM2aVVtS2Q5WkkxbERONDVkNklhNG0w?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 19:04:55 GMT",
+      "discoveredAt": "2026-08-15T03:40:13.936Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1888307923",
+      "title": "Court halts construction at Parklands school linked to nominated MP - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0R4S0dtS3dobFNCTmQyNXplVEd5RjJQZlFxUDEtRHdRd0dIeWhWMkFEU3AwaFpGWWE1X2Z2SFVOM01xNXhqS1ctZnRFa1lLNkdDMjhJNUJoTHJBdHRoZlotcWVjOEpqaGE2dHRIX1VCUDRJQ0hfcTZYNXRsOHdpcEloWXE3R29LNFJ4U2JYczBwNGIwcWVvU2VFWUFmTUNRV0ZDYmM5ZTR5WXRp?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 10:00:00 GMT",
+      "discoveredAt": "2026-08-15T03:40:11.001Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1805919971",
+      "title": "Olympic champion bought Karen land in 1996, court now says title was for Nyandarua - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMTFRSWlNd0NIME43cENOYm83dWlvQklMOTVERnVDdDI4cVpzanVrWEhjTlc5UDFVdWZ2czYzbUQ1NWhXNXJEd0RzbGdPTlFMVmhURmdnU0ZEUGlIejM5TEVkVTZaMVNPdE9VcjM0LWdoYjk0UlNlN2VwS1VYamU2SC13NkZJNzFaLTU2UWE0azNGMUpsaTBGTlMxQks0NGd2MlVJc1o5UU9nYk44a0xyMHVHMzZEWmdOQUlaaVZwcTBlak14bGh1WkJ3Tkc5LXNmRldkaXNZVTJXQWh1NFFLVFJFQmdKRXlVRTRwRXZEUQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 12:18:25 GMT",
+      "discoveredAt": "2026-08-15T03:40:12.028Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1864335499",
+      "title": "Ruaraka land row moves to Supreme Court as Mburu's companies fight Sh1.5bn recovery - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORUZkbGRxQkFyVUpOUThMeDA3bjVTV2FDX1RlcW5mZ2tyckhLdnRjamVDVDc4ZjdoODRWdmFiREp6OGxoOUxBazIxRm9JanNjVWdnRldpVzh2ZElZUXd3MXZQQU5hUk1PdzYwRlphV0J6djVnd3Z5U0V0MjJERnA2dExwdEZ6NTRQOE5qc1ZScjBucGhsV2tnck53Qmh0RzctZmdVSU5zWDhJM1c2MVg1c2FXdnhHaUFqcEUyYWIxMFQwX0dqVXJQLWI1R2tpeXdFQThrSDhFNmx5NkxVekU3eXFvTXZZYmVJQlFVMHhfN1JKM1BNYklGNHV3?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 03:54:26 GMT",
+      "discoveredAt": "2026-08-15T03:40:12.028Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1309960376",
+      "title": "Kindiki, Mudavadi sidelined as Ruto's manifesto team takes shape ahead of 2027 elections - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXRRMnRIRlpIQXYtbmVvVjJqbzg5aG9wbTVyOEwzM2ppcDRtTVhtVy1td2RsZDFSWm1XSXowcTNOYzZaSGpycF9nRmphYTRpSDlIWDlVRFdnenU2QXpRQVRzWGphejRiQ0hCd3JWcWwxMDE3ck8zSDJSQ0NnVFFycUF3aWF2ZV93blZHS0p2VmxxbDZ3dm9pV3JTb0JxbTlPVUhJQ2tHd3Z4Y3EzblFXYzhlSDUxbG5GdmFmRkZPMGNOTWFMMW9YVkNBdnhDbXoySFE1WDlpZTlmZkRjdWxhT0t6czFZUktf?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 21:06:25 GMT",
+      "discoveredAt": "2026-08-15T03:40:12.028Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1957672528",
+      "title": "MOLLU: Property Injustice: You cannot invest in land nobody can title - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc1YzNHpiRUw2OXEtTlJoQjY4STdJZzRvSGdVME5hcUtVeXl2M2F2YV9IeDVITUlDaWthYVFjTmNra0IwczhNLUdFUXVzdzdEdnZUZ2pYcWtkOHpveC1wb1VqVjBSSU1QWW5DOTJCRTRuSHZBWXpUaks5LUNMV0w3ekdtWHd0Y2E2ZFVHOTZ5aWJTRjF2Z2hIUDNNdExQQS1oelJwdGRnVkhFeEM2cGJ3emZjX3ZYSDNMT24yNkVvMTZOdw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 09:52:00 GMT",
+      "discoveredAt": "2026-08-15T03:40:12.987Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1035513618",
+      "title": "Ruaraka land case: EACC demands Sh2.5bn from Matiang’i, Kipsang and 23 others - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlFNLWRPd01aY1otNVB4TEVaSFlQcjZWLWZhaXppZXNLU3l5TzdxSHNlMUJTdWJwSDRZLWJSRDMwM3BZRFZDYmRDVks5MjY0aktQRVJsUHhnM2g5SUhDUmVYY0pfS3FmTVBVZ0VWTmw0QVVLbFg3VzVvbms4TmctdWRfWlVPc0JBeVZZMlZxcw?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 10:59:37 GMT",
+      "discoveredAt": "2026-08-15T03:40:12.987Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1466721631",
+      "title": "Matiang'i among 22 ordered to repay Ksh.2.7 billion over Ruaraka land saga - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjduYk5aNDBIWFU4MzdYNmRYV1Q3Z1ZobFVxM0lVeWNkWVZnN2R2Q1lzUjkxYUsxT1l6Y0FrcVI3bVRuOXFoZ2VoNFQ3RGlEWDdWMFFuQkQ5ZkRrb09RWGFzN2FfREFpM054Tnh5d2lsM253dXQySzlPNjZaVll0TmNUb3c3SXRObDlaNnNscU5zSWtuZXplaUxwQXFQRFZHcC1mbmNIR05JQkZmbU01Ng?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 17:51:45 GMT",
+      "discoveredAt": "2026-08-15T03:40:13.936Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1654661604",
+      "title": "Gachagua's convoy attacked in Nakuru - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHhGZ0YyVFRQUlVJT1hpTnA0X3ZDWkI1d3ZaVjEwVHBWMTN6XzFYbk15YzZ3dnJiampvRjNSZ3prRC11dW9WRDdpZDhhWWJESl9wb014X3JfZWNnMmRkZ3kyNVl5YW9lOGFzVHI5VTJ1OElTMWtqaVVZRERlRDRjVA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:18:17 GMT",
+      "discoveredAt": "2026-08-15T03:40:13.936Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1763630349",
+      "title": "Gachagua blames MP Samwel Arama after attack on convoy, says he's working with Ruto - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeGFaN2IzRjhCRUNpLUl5dnVmVTJ0NWJNNVNZXzlQMDI2SDRMM0xJc0pLa2dHZEZXajVoMmJ3UTVRYW83TkFMcVZDTl9MVFNYdjZoNXhHc1N6aXI5RGE1WXJuV0dHUGJNTzVuSnhZeFhVMDRBYTRSTk5pX1BTZWMtSG5fb2x2ZUJoMUlydXF0anNlb3pzWnlJaUtlVGpnNkIzcjVDbmpEUi1KQ2NpdlE2VmFlVmlTMGcxMExEQjFR?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:44:43 GMT",
+      "discoveredAt": "2026-08-15T03:40:13.936Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1512536811",
+      "title": "\"Serikali imetusaidia\": Nyanza farmers thriving with better flood control - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWMwSXR1NFNQUlIyc2ZkY2ZuX2hjQ3JTMnllZkx2ZTNIMmF1aUJtQXkxWG5xeXB4MHVMNWJIekJSSm9TVlBKRUhkaVExVmoxWjdRMzhqUUp4X0tqbWQzTVdNb1d0OW15NXBwQzdtRkVPVzdnNm53dmxaWGlTY1RFUEZoMDdlUHhMeDRpczZndm1idGh6SDBOYnJLVzB2OXFHM1RuMA?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 11:22:42 GMT",
+      "discoveredAt": "2026-08-15T03:40:16.830Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1072311650",
+      "title": "Inside Patrick Mahomes' stunning 8-acre Missouri estate and custom-built Westlake, Texas mansion - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRmJWRWdvM0JfZjh1aV9wX3pQZ1ppWUR5bFFxdFhzTmtQcHlKOW94OEhWcTdzbUQ5VEp3ZlFoaVZfcmRXSHFmSkh1NkNnUFdCNGNLZ0pNMlo1ckdYZTFQLUMxRWF2OUpQQWItM3ZxY0RFcWRIWTdZZU5kRndjc1V2c3JHUVpDVmNnclB2OUdHR0c1OG8yVHVaaEY2MHFxQkJlSlhVeUZJMlc1N05NQUxnU2NjVjVNZGUtZmYyTTBGMXpIRnM0THRvZWgwU2cwUWIxQ0NMT1V1aVNVT0pXbmE3WUFLbUxQT3JOOVk4T0c5WEg?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 09:23:44 GMT",
+      "discoveredAt": "2026-08-15T03:40:16.830Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_234101109",
       "title": "NTSA Refunds Motorist Over Number Plate Payment Error - Kenyans.co.ke",
