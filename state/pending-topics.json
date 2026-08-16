@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-08-16T05:58:47.344Z",
+  "generatedAt": "2026-08-16T06:44:39.229Z",
   "candidates": [
+    {
+      "id": "t_536502208",
+      "title": "IDO: Asal development hobbled by lack of titles for community land - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2lrUWpYa0ExRUR4b3JQLVI0NDJPUVhjTU5seGFZY2FaNEdMaTRJZWxKR29jZ1dRZjNrOXJmM1VIZ2U2UkttMXdMS3BZeDBDcFVrSDk1NW53WUpUbXFSM0ZSY1BHQnZtZ0lxYU1XQk83STBGanR0TndycXpDc01mZmVIc2tHRXZ4V3VsWnEtREtuYnVoR1BfWUhJQ2UyM29hdnFzQU9KSDZlN2p4R2c?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 06:00:00 GMT",
+      "discoveredAt": "2026-08-16T06:43:53.967Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1109837710",
+      "title": "WHEN YOU LIVE ON A STRICT BUDGET 😂😂😂😂😂😂😂. Common Cents is knowing that you can avoid using complicated payment methods which involve multiple transactions and save more with @KCB Kenya by simply paying directly from your KCB Mobile B - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01S29LSFdCdnlBVE9lcFNFbzJ5MUw1WlJpc2NSellxS2dURU1TMU5weS1Mb0R6Ql82dnhDak5TY25jMVpsUGJpcEt1emJmYUg1YnlpYnRScWMxbGE2QUhnTi1ndVA1Rkt2SnBtX2N3Yw?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 07:00:58 GMT",
+      "discoveredAt": "2026-08-16T06:44:11.483Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2144840211",
       "title": "@Nairobi_Juice @Spmbuzzke @PlugTv @MpashoGram @Sauti TV @KENYA GOSSIP CLUB 🇰🇪 @Citizen tv kenya @Truth Media @NAIROBI254 TV #@𝐍𝐀𝐈𝐑𝐎𝐁𝐈 𝐃𝐀𝐈𝐋𝐘 #nairobitiktokers #live #creatorsearchinsights #tiktoklive #livehighlights - TikTok",
