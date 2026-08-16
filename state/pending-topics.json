@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-08-16T19:00:39.902Z",
+  "generatedAt": "2026-08-16T19:27:42.772Z",
   "candidates": [
+    {
+      "id": "t_1819308210",
+      "title": "Journalists caught in Homa Bay violence as Linda Mwananchi convoy faces goon attack - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GS0hrYS1YZ1c5aVhjZFI2Z2VtemVPQ1BnSXVRMDRLRE1wU0pnTGlxU1I4V2twS2QwLWF2UE5IaWI0OGhUemFyNXp5bkw5bG5QY3F1TXJ3?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 18:11:28 GMT",
+      "discoveredAt": "2026-08-16T19:27:14.893Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_178189980",
       "title": "Sifuna on fire!!Sifuna's Explosive Homa Bay Speech Sends Shockwaves Across the Nation - YouTube",
