@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-08-16T12:31:46.843Z",
+  "generatedAt": "2026-08-16T13:17:07.592Z",
   "candidates": [
+    {
+      "id": "t_514016138",
+      "title": "Citizen TV Kenya (@citizentvkenya) / Posts - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZMkItQmc3NVM4bHdaNjZRTnZiTnNpSmZvR2dLckdDRkRTRDFxd0pzUU1vaVcxZVVzNDFxOThRbzVnUQ?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 12:59:35 GMT",
+      "discoveredAt": "2026-08-16T13:16:38.391Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_536502208",
       "title": "IDO: Asal development hobbled by lack of titles for community land - the-star.co.ke",
