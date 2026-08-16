@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-08-16T20:43:09.387Z",
+  "generatedAt": "2026-08-16T21:16:12.638Z",
   "candidates": [
+    {
+      "id": "t_1415004621",
+      "title": "\" Millie Odhiambo amekashifu tabia za Wanga ya kufunga barabara\" - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xWmF6WlR0NVNRa0h2TTZxaEwxWXhEY3RnaUhzY1R5eFBJeFpld0t3enktSTR5ZEVxeWpOZFJ6el84MF9RLVhXTGFZX1Qybk1iX0h6MTJR?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 11:42:45 GMT",
+      "discoveredAt": "2026-08-16T21:15:45.868Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_292976609",
       "title": "United Opposition condemns Homa Bay attacks on Linda Mwananchi - YouTube",
