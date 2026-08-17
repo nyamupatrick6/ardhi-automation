@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-17T10:09:12.489Z",
+  "generatedAt": "2026-08-17T10:51:20.746Z",
   "candidates": [
+    {
+      "id": "t_220377404",
+      "title": "Ogiek have little to celebrate as evictions, broken court promises persist - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGE4c0NEeTBQSlNqSWJuT25DMVF2Z3RDU1hEQ3U4ZjVyNkdTazlWaFgyMWdPbVZuR2NBME5HRk5EWkFyTUdmdEc4dlgwc2o5d3EzVThiYXRxVFk2Q0pPZkh2TW9vaHVmOWF4cnNDTmFuOVd3V1RNS0VOQUN1TDViVE4zUnpVTHhZQUJ4M3ExMi1MVmVnT1E4ZWtMMVhDdVBfeU5XV1R0X3FxYzBIVnBYaHk3X3hRZUkwTDhjUmk4NllFTDU5MUMzcVotRFdGUQ?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "discoveredAt": "2026-08-17T10:50:05.755Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_148953707",
       "title": "Encroachers of riparian land put on notice as plans to fix Nairobi Dam gain momentum - the-star.co.ke",
