@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-17T04:06:59.542Z",
+  "generatedAt": "2026-08-17T04:24:14.236Z",
   "candidates": [
+    {
+      "id": "t_1051089702",
+      "title": "RTK setups overview - docs.emlid.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9maG1SVjN1eGdhUVUweWNUUG8wRXR3VmZmOXl2VGRDci1IUDdTQWNZdFNLY0o5RzN5LWVqWkh0RFc1a3hDZVNYMk5FNzFaTGZpSEJuMFk1ektDVVVieklJSjQ2RFlad3FYMm9hMFh3?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 18:03:04 GMT",
+      "discoveredAt": "2026-08-17T04:23:48.055Z",
+      "sourceName": "docs.emlid.com",
+      "discoveredVia": {
+        "query": "site:emlid.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Emlid",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1829287065",
+      "title": "Lesson: Symbology - docs.qgis.org",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmJ1R0FXQzhyOUxTS0Y4d3lXZWc2T3d4MFpLMkxxdWt0MGk2RUJYbVZzaksxRTQ3WVRmblJPYkNSak8teXAxT2tVYU1hMmJJaHlWS3FYb1JocHdFSTFtRGFHZk5wRzAyVFYyVTJWa0s1aHFNOEFuUHozZ0N2UTgyakVucw?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 20:31:00 GMT",
+      "discoveredAt": "2026-08-17T04:23:53.786Z",
+      "sourceName": "docs.qgis.org",
+      "discoveredVia": {
+        "query": "site:qgis.org (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "QGIS",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1732735038",
+      "title": "Our 10 Favorite Photogrammetry Software Tools & How to Pick the Right One - All3DP",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BNE15U0t6aWRtYVZ1dFExVzhfV21YUlowa1g1aEFaQi1qNzFYc3JyOE5YOGFqd2dva0d3Y0RObU8tNnRzT0ZtcnVUUm9TeUVxWDZpel9memM1SXdWZ1pj?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+      "discoveredAt": "2026-08-17T04:24:05.797Z",
+      "sourceName": "All3DP",
+      "discoveredVia": {
+        "query": "photogrammetry software update",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1035568378",
       "title": "Gachagua, Kalonzo defend Uhuru as Ruto’s claims over opposition funding spark backlash - YouTube",
