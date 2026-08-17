@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-17T21:57:05.448Z",
+  "generatedAt": "2026-08-17T22:22:54.149Z",
   "candidates": [
+    {
+      "id": "t_928603726",
+      "title": "Deaths Reported as Range Rover Carrying Foreigners Crashes in Westlands - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3MwenJSSDV2SkNwUkFQa25XRVNJempVM2xIeTU0emFUUHIwT2ZkNEREZ2hlLTBxX0I5LWV2MlVNaFNDekpxRlVIbkkxTEw3d3V0RGN5VjRWN0U2d3VILUMwYlJIX0ZheXBxLXU4QkhaSXR6ZFczSWZwZUpPbzk3WnowME1vbWFtanpJNWkzZjR3dDVWYTVDWk4xUDZ4dkFvcVE?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 05:58:17 GMT",
+      "discoveredAt": "2026-08-17T22:21:43.191Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_619224297",
       "title": "HOW INDEPENDENCE PROTECTED SETTLER WEALTH: The Betrayal at Lancaster House If the land was so obviously and violently stolen, why didn’t independence fix it? By 1960, the pressure was building to a point that threatened to make the transition to - x.com",
