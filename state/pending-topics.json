@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-17T17:01:17.468Z",
+  "generatedAt": "2026-08-17T17:37:01.631Z",
   "candidates": [
+    {
+      "id": "t_1322220163",
+      "title": "NSSF seeks to build city on 1,000-acre Mavoko land - businessdailyafrica.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFR2UFdlNGJqYkkwR2JqeFFVNEh2c2ZubWUxNHZEOWJJOUlveTFnYXQ0bmlsMm5Zb1h6elRaM3ZsQ1NzSWZ0X2VmSHF3dEZLWGRaVHlUQU8wQnlqZ3pjVDFZeFJZRVNGY0dSMjRxTi10cXM3RDNsdFFGaWdSUm9jUkY3VFY3ZldaVUVGQ3hkT2NDTlE1MjZ5M2phVFhOYWVLVlF4ZUtlejBXSldTZmFUek40ZnZFS1My?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 17:30:00 GMT",
+      "discoveredAt": "2026-08-17T17:35:44.822Z",
+      "sourceName": "businessdailyafrica.com",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1103903786",
       "title": "Landowners Put on Notice as Govt Moves to Acquire New SGR Parcels - Kenyans.co.ke",
