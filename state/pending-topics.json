@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-17T09:24:02.634Z",
+  "generatedAt": "2026-08-17T10:09:12.489Z",
   "candidates": [
+    {
+      "id": "t_148953707",
+      "title": "Encroachers of riparian land put on notice as plans to fix Nairobi Dam gain momentum - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVDdGWFVRb3RfTkZRaWlfdGtTWXNBZE5WbWtZczVWcDRnalhfVXkzNmFNd3doX0tvOS1nVHlRbFpBX3h6ZkRFdW9nUU42VFFsSkFWSWtmeENpMUF6SEdOQmVSYU1LZWZaSmZuLU1NT2FDb3o0dUd5TzlsQmhqb19pVlMwc255NS01bGZROFVsUWh4QTRJclJ5dzVpZnV1MnZxMnEtX1g2YnVhckRIaXd6NnRsdmgzemJwcE1uT3NTRU04TDFiR1I2U2VPd0c2b1JBeVoxTlln?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 05:10:00 GMT",
+      "discoveredAt": "2026-08-17T10:07:54.594Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1422210536",
       "title": "Encroachers of riparian land put on notice as plans to fix Nairobi Dam gain momentum - the-star.co.ke",
