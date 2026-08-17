@@ -222,6 +222,25 @@ function hasLandConflictSignal(title) {
   return LAND_CONFLICT_SIGNAL_WORDS.some((w) => lower.includes(w));
 }
 
+// Broader topic vocabulary, independent of the word "land" itself. This is
+// what closes the gap that let non-land stories (DCI fraud arrests unrelated
+// to land, political speeches picked up via social-platform queries, generic
+// court cases) into the queue just because they came from a facebook_page,
+// social_platform, or unscoped official_platform query - none of which had
+// any relevance check before.
+const LAND_TOPIC_WORDS = [
+  "land", "title", "titles", "title deed", "ardhisasa", "nlc", "national land commission",
+  "surveyor", "surveying", "survey", "boundary", "boundaries", "parcel", "plot",
+  "freehold", "leasehold", "land control board", "succession", "compulsory acquisition",
+  "eviction", "land grab", "land grabbing", "registry index map", "land registration",
+  "environment and land court", "elc", "land rights", "encroachment", "squatter", "squatters"
+];
+
+function isLandRelevant(title) {
+  const lower = title.toLowerCase();
+  return LAND_TOPIC_WORDS.some((w) => lower.includes(w));
+}
+
 function stableId(link, title) {
   const base = link || title || "";
   let hash = 0;
@@ -277,16 +296,17 @@ async function main() {
       const isGeneralLandStory = originType === "general_land";
       const hasSignal = hasLandConflictSignal(title);
 
-      // This query was scoped to one outlet's land coverage via a site:
-      // filter (see buildQueries). Google News' matching isn't exact, so it
-      // sometimes returns clearly unrelated articles anyway (a health story,
-      // a court case with no land angle). If a candidate from one of these
-      // scoped queries shows no land-conflict signal AND no backlog match,
-      // it's almost certainly a false positive from the site: search, not a
-      // real land story - drop it entirely instead of keeping it at score 0.
-      const isLandScopedQuery = q.startsWith("site:");
-      if (isLandScopedQuery && !hasSignal && backlogMatches.length === 0) {
-        seenSet.add(id); // still mark seen so it isn't re-fetched every run
+      // Universal relevance gate. Every query type - including facebook_page
+      // and social_platform queries, and unscoped official_platform name
+      // queries (DCI, EACC, Judiciary etc.) - previously had no drop logic
+      // at all, letting non-land content (fraud arrests with no land angle,
+      // political speeches, entertainment clips picked up via loose Google
+      // News matching) into the queue at score 0. A candidate is now kept
+      // only if it matches a backlog keyword, shows a land-conflict signal,
+      // or hits the broader land-topic vocabulary. Anything else is dropped
+      // (but still marked seen, so it isn't re-fetched every run).
+      if (backlogMatches.length === 0 && !hasSignal && !isLandRelevant(title)) {
+        seenSet.add(id);
         continue;
       }
 
@@ -340,6 +360,14 @@ async function main() {
 
       const backlogMatches = scoreAgainstBacklog(title, backlog);
       const hasSignal = hasLandConflictSignal(title);
+
+      // Same universal relevance gate as the Google News loop above -
+      // Reddit's own subreddit search had no drop logic before either.
+      if (backlogMatches.length === 0 && !hasSignal && !isLandRelevant(title)) {
+        seenSet.add(id);
+        continue;
+      }
+
       const relevanceBonus = hasSignal ? 1 : 0;
       const score = backlogMatches.reduce((sum, m) => sum + m.weight, 0) + relevanceBonus;
 
