@@ -25,10 +25,16 @@ const { XMLParser } = require("fast-xml-parser");
 const ROOT = path.join(__dirname, "..");
 const SOURCES_PATH = path.join(ROOT, "data", "sources.json");
 const BACKLOG_PATH = path.join(ROOT, "data", "series-backlog.json");
+const TECH_WATCH_PATH = path.join(ROOT, "data", "tech-watch.json");
 const SEEN_PATH = path.join(ROOT, "state", "seen-topics.json");
 const PENDING_PATH = path.join(ROOT, "state", "pending-topics.json");
 
 const LOOKBACK_HOURS = 48; // buffer beyond the 24h cadence to catch anything missed
+// Surveying-tech/equipment news (product launches, firmware updates, GIS
+// releases) isn't breaking news the way a land dispute is, and this pillar
+// is sourced globally rather than tied to Kenya's news cycle - a 48h window
+// would miss most of it. 7 days catches a full announcement cycle.
+const TECH_LOOKBACK_HOURS = 24 * 7;
 const MAX_ITEMS_PER_QUERY = 8;
 
 // Used to scope generic news-outlet queries down to their land coverage
@@ -241,6 +247,75 @@ function isLandRelevant(title) {
   return LAND_TOPIC_WORDS.some((w) => lower.includes(w));
 }
 
+// --- Surveying tech & equipment pillar (added 2026-08-17) ---
+// Deliberately separate from LAND_TOPIC_WORDS: a GNSS receiver launch or a
+// QGIS release doesn't need "land" or a conflict word in the headline to be
+// relevant to Ardhi AI's professional-surveyor audience. This pillar is
+// global (see TECH_LOOKBACK_HOURS note) and gated purely on this vocabulary,
+// with no Kenya-relevance requirement.
+const TECH_TOPIC_WORDS = [
+  "gnss", "rtk", "total station", "theodolite", "lidar", "photogrammetry",
+  "drone survey", "survey drone", "uav mapping", "laser scanning", "3d scanning",
+  "point cloud", "digital twin", "orthophoto", "cors network", "gis software",
+  "arcgis", "qgis", "geospatial", "remote sensing", "cadastral mapping",
+  "satellite positioning", "surveying equipment", "surveying instrument",
+  "mapping drone", "reality capture", "geodetic", "topographic survey"
+];
+
+function isSurveyTechRelevant(title) {
+  const lower = title.toLowerCase();
+  return TECH_TOPIC_WORDS.some((w) => lower.includes(w));
+}
+
+function techMatchWeight(title) {
+  const lower = title.toLowerCase();
+  return TECH_TOPIC_WORDS.filter((w) => lower.includes(w)).length;
+}
+
+// Used to scope manufacturer site queries down to their survey/geospatial
+// coverage - manufacturers like Trimble or Hexagon span multiple industries
+// (agriculture, transportation, construction), so without this a query
+// against their domain returns everything they publish, not just survey tech.
+const TECH_QUERY_TERMS = [
+  "GNSS", "RTK", "survey", "surveying", "drone", "UAV", "LiDAR",
+  "total station", "GIS", "mapping", "geospatial", "photogrammetry"
+];
+const TECH_QUERY_FILTER = `(${TECH_QUERY_TERMS.map((t) => (t.includes(" ") ? `"${t}"` : t)).join(" OR ")})`;
+
+function buildTechQueries(techWatch) {
+  const queries = [];
+
+  for (const source of techWatch.manufacturer_sources || []) {
+    const domain = extractDomain(source.url);
+    if (domain) {
+      queries.push({
+        q: `site:${domain} ${TECH_QUERY_FILTER}`,
+        origin: source.name,
+        originType: "tech_manufacturer"
+      });
+    } else {
+      queries.push({ q: `${source.name} ${TECH_QUERY_FILTER}`, origin: source.name, originType: "tech_manufacturer" });
+    }
+  }
+
+  // Industry publications are already survey/geospatial-focused by nature
+  // (unlike general news outlets), so no site: scoping needed - their name
+  // alone is a specific-enough query, same pattern as government bodies.
+  for (const pub of techWatch.publication_sources || []) {
+    queries.push({ q: pub.name, origin: pub.name, originType: "tech_publication" });
+  }
+
+  for (const term of techWatch.watch_terms || []) {
+    queries.push({ q: term, origin: "tech_watch_term", originType: "tech_watch" });
+  }
+
+  return queries;
+}
+
+function isTechOriginType(originType) {
+  return originType === "tech_manufacturer" || originType === "tech_publication" || originType === "tech_watch";
+}
+
 function stableId(link, title) {
   const base = link || title || "";
   let hash = 0;
@@ -254,11 +329,12 @@ function stableId(link, title) {
 async function main() {
   const sources = loadJSON(SOURCES_PATH, { official_platforms: [], facebook_pages: [] });
   const backlog = loadJSON(BACKLOG_PATH, { series: { parts: [] }, standalone_backlog: [], evergreen_watch_terms: [] });
+  const techWatch = loadJSON(TECH_WATCH_PATH, { manufacturer_sources: [], publication_sources: [], watch_terms: [] });
   const seen = loadJSON(SEEN_PATH, { ids: [] });
   const seenSet = new Set(seen.ids);
 
-  const queries = buildQueries(sources, backlog);
-  console.log(`Running ${queries.length} source queries (lookback: ${LOOKBACK_HOURS}h)...\n`);
+  const queries = [...buildQueries(sources, backlog), ...buildTechQueries(techWatch)];
+  console.log(`Running ${queries.length} source queries (land lookback: ${LOOKBACK_HOURS}h, tech lookback: ${TECH_LOOKBACK_HOURS}h)...\n`);
 
   const candidates = [];
 
@@ -274,6 +350,9 @@ async function main() {
       await sleep(500); // space out requests so we don't look like a bot flood
     }
 
+    const isTechQuery = isTechOriginType(originType);
+    const lookbackHours = isTechQuery ? TECH_LOOKBACK_HOURS : LOOKBACK_HOURS;
+
     let kept = 0;
     for (const item of items.slice(0, MAX_ITEMS_PER_QUERY)) {
       const title = item.title || "";
@@ -281,12 +360,44 @@ async function main() {
       const pubDate = item.pubDate || "";
       const sourceName = item?.source?.["#text"] || item?.source || "";
 
-      if (!withinLookback(pubDate, LOOKBACK_HOURS)) continue;
+      if (!withinLookback(pubDate, lookbackHours)) continue;
 
       const id = stableId(link, title);
       if (seenSet.has(id)) continue;
 
       const candidate = { title, sourceName };
+
+      if (isTechQuery) {
+        // Global pillar - no Kenya-relevance requirement. Gated purely on
+        // TECH_TOPIC_WORDS since manufacturer/publication queries can still
+        // surface off-topic company news (e.g. Trimble's agriculture line).
+        if (!isSurveyTechRelevant(title)) {
+          seenSet.add(id);
+          continue;
+        }
+
+        const score = techMatchWeight(title);
+
+        candidates.push({
+          id,
+          title,
+          link,
+          pubDate,
+          discoveredAt: new Date().toISOString(),
+          sourceName,
+          discoveredVia: { query: q, origin, originType },
+          category: "surveying_tech",
+          backlogMatches: [],
+          isGeneralLandStory: false,
+          hasLandConflictSignal: false,
+          score
+        });
+
+        seenSet.add(id);
+        kept++;
+        continue;
+      }
+
       if ((originType === "evergreen" || originType === "general_land") && !isKenyaRelevant(candidate)) {
         seenSet.add(id); // still mark as seen so it doesn't get re-checked every day
         continue;
@@ -324,6 +435,7 @@ async function main() {
         discoveredAt: new Date().toISOString(),
         sourceName,
         discoveredVia: { query: q, origin, originType },
+        category: "land_news",
         backlogMatches,
         isGeneralLandStory,
         hasLandConflictSignal: hasSignal,
@@ -379,6 +491,7 @@ async function main() {
         discoveredAt: new Date().toISOString(),
         sourceName,
         discoveredVia: { query: watch.query, origin: `r/${watch.subreddit}`, originType: "reddit" },
+        category: "land_news",
         backlogMatches,
         isGeneralLandStory: false,
         hasLandConflictSignal: hasSignal,
@@ -400,14 +513,16 @@ async function main() {
   saveJSON(SEEN_PATH, { ids: Array.from(seenSet) });
 
   console.log(`\nDone. ${candidates.length} new candidate(s) added to state/pending-topics.json.`);
-  const backlogScored = candidates.filter((c) => !c.isGeneralLandStory && c.score > 0);
+  const backlogScored = candidates.filter((c) => !c.isGeneralLandStory && c.category === "land_news" && c.score > 0);
   const generalLand = candidates.filter((c) => c.isGeneralLandStory);
   const fromSocial = candidates.filter((c) => c.discoveredVia?.originType === "social_platform");
   const fromReddit = candidates.filter((c) => c.discoveredVia?.originType === "reddit");
+  const techItems = candidates.filter((c) => c.category === "surveying_tech");
   console.log(`${backlogScored.length} matched a backlog series part or standalone topic directly.`);
   console.log(`${generalLand.length} are general Kenya land stories outside the current 8-part series.`);
   console.log(`${fromSocial.length} surfaced via social platform coverage (X/YouTube/TikTok/LinkedIn, proxied through Google News).`);
   console.log(`${fromReddit.length} surfaced directly from Reddit.`);
+  console.log(`${techItems.length} are surveying tech/equipment items (global pillar).`);
 }
 
 main().catch((err) => {
