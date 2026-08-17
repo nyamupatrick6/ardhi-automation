@@ -1,6 +1,23 @@
 {
-  "generatedAt": "2026-08-16T23:54:24.733Z",
+  "generatedAt": "2026-08-17T01:01:46.755Z",
   "candidates": [
+    {
+      "id": "t_1035568378",
+      "title": "Gachagua, Kalonzo defend Uhuru as Ruto’s claims over opposition funding spark backlash - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oRVZwVEJLVy1RU0VJZW1GNWNwc3VkdHdwZ1Z2emllQ3VlSzBXT1NvX1VQRXRxUXFla1Qxa0FLbEhhQjZJSHBFS053UWcyNDVab1JPQW9n?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 18:27:55 GMT",
+      "discoveredAt": "2026-08-17T01:01:18.563Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1046763328",
       "title": "Kenya Kwanza renews push to strip Uhuru of retirement benefits - YouTube",
