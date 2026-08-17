@@ -1,0 +1,42 @@
+{
+  "notes": "Second content pillar, added 2026-08-17: surveying equipment, GNSS/GIS technology, and geospatial industry news. Unlike the land-conflict pillar in series-backlog.json, this is sourced GLOBALLY (manufacturers rarely mention Kenya by name) and uses a longer lookback window (7 days, not 48h) since product launches/firmware updates aren't breaking news the way a land dispute is. Relevance is gated by TECH_TOPIC_WORDS in source-topics.js, not by any Kenya signal.",
+  "manufacturer_sources": [
+    { "name": "Trimble", "url": "https://www.trimble.com", "watch_for": ["GNSS receiver launches", "survey software updates", "positioning technology"] },
+    { "name": "Leica Geosystems", "url": "https://leica-geosystems.com", "watch_for": ["total station launches", "laser scanning updates", "reality capture"] },
+    { "name": "Hexagon AB", "url": "https://hexagon.com", "watch_for": ["geospatial division announcements", "digital reality solutions"] },
+    { "name": "Topcon Positioning", "url": "https://www.topconpositioning.com", "watch_for": ["GNSS and robotic total station launches", "construction/survey tech"] },
+    { "name": "DJI Enterprise", "url": "https://enterprise.dji.com", "watch_for": ["survey/mapping drone launches", "LiDAR payload updates"] },
+    { "name": "Emlid", "url": "https://emlid.com", "watch_for": ["affordable RTK GNSS product news"] },
+    { "name": "SOKKIA", "url": "https://www.sokkia.com", "watch_for": ["total station and GNSS launches"] },
+    { "name": "GeoMax Positioning", "url": "https://geomax-positioning.com", "watch_for": ["surveying instrument launches"] },
+    { "name": "CHCNav", "url": "https://www.chcnav.com", "watch_for": ["GNSS receiver and UAV mapping launches"] },
+    { "name": "South Surveying and Mapping Technology", "url": "https://www.southinstrument.com", "watch_for": ["surveying instrument launches"] },
+    { "name": "Esri", "url": "https://www.esri.com", "watch_for": ["ArcGIS platform updates", "GIS software releases"] },
+    { "name": "QGIS", "url": "https://qgis.org", "watch_for": ["open-source GIS software releases"] }
+  ],
+  "publication_sources": [
+    { "name": "GIM International", "url": "https://www.gim-international.com" },
+    { "name": "xyHt", "url": "https://www.xyht.com" },
+    { "name": "Geospatial World", "url": "https://www.geospatialworld.net" },
+    { "name": "GPS World", "url": "https://www.gpsworld.com" },
+    { "name": "sUAS News", "url": "https://www.suasnews.com" },
+    { "name": "Commercial UAV News", "url": "https://www.commercialuavnews.com" },
+    { "name": "Spatial Source", "url": "https://spatialsource.com.au" }
+  ],
+  "watch_terms": [
+    "new GNSS receiver launch",
+    "RTK GPS surveying equipment",
+    "survey drone launch",
+    "LiDAR scanning survey",
+    "total station launch",
+    "photogrammetry software update",
+    "GIS software release",
+    "UAV mapping technology",
+    "laser scanning equipment survey",
+    "CORS network expansion",
+    "digital twin surveying",
+    "point cloud processing software",
+    "cadastral mapping technology",
+    "satellite positioning survey technology"
+  ]
+}

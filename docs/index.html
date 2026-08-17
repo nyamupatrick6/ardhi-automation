@@ -21,6 +21,7 @@
     --score-hit: #1a5c00;
     --score-general: #b8790a;
     --score-zero: #a39b84;
+    --tech: #2b6ca3;
   }
 
   * { box-sizing: border-box; }
@@ -168,6 +169,34 @@
 
   .tag.backlog { border-color: var(--score-hit); color: var(--score-hit); }
   .tag.general { border-color: var(--score-general); color: var(--score-general); }
+  .tag.tech { border-color: var(--tech); color: var(--tech); }
+
+  .filter-tabs {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 18px 24px 0;
+  }
+  .filter-tab {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 6px 14px;
+    border: 1px solid rgba(246,241,228,0.28);
+    border-radius: 3px;
+    background: transparent;
+    color: rgba(246,241,228,0.65);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .filter-tab:hover { border-color: rgba(246,241,228,0.5); color: var(--parchment); }
+  .filter-tab.active {
+    background: var(--gold-soft);
+    border-color: var(--gold-soft);
+    color: var(--forest-deep);
+  }
 
   .matched-parts {
     margin-top: 10px;
@@ -255,11 +284,17 @@
     <span>Loading latest run…</span>
   </div>
 
+  <div class="filter-tabs" id="filterTabs">
+    <button class="filter-tab active" data-category="all">All</button>
+    <button class="filter-tab" data-category="land_news">Land News</button>
+    <button class="filter-tab" data-category="surveying_tech">Surveying Tech</button>
+  </div>
+
   <main>
     <div id="content" class="load-state">Pulling today's report…</div>
   </main>
 
-  <footer>Sourced continuously (roughly every 20 min, no fixed time) from official platforms, followed Facebook pages, X/YouTube/TikTok/LinkedIn coverage, Reddit, and news outlets · every item timestamped with both publish date and discovery date · Ardhi AI internal tool</footer>
+  <footer>Sourced continuously (roughly every 20 min, no fixed time) from official platforms, followed Facebook pages, X/YouTube/TikTok/LinkedIn coverage, Reddit, manufacturer/industry-publication tech watch, and news outlets · every item timestamped with both publish date and discovery date · Ardhi AI internal tool</footer>
 
 <script>
   const DATA_URL = "https://raw.githubusercontent.com/nyamupatrick6/ardhi-automation/main/state/pending-topics.json";
@@ -293,12 +328,18 @@
     social_platform: "Social (via news)",
     reddit: "Reddit",
     evergreen: "Watch term",
-    general_land: "General land"
+    general_land: "General land",
+    tech_manufacturer: "Manufacturer",
+    tech_publication: "Industry pub",
+    tech_watch: "Tech watch term"
   };
+
+  let activeCategory = "all";
 
   function renderCard(c) {
     const cls = stampClass(c);
     const tags = [];
+    if (c.category === "surveying_tech") tags.push('<span class="tag tech">Surveying tech</span>');
     if (c.backlogMatches && c.backlogMatches.length > 0) tags.push('<span class="tag backlog">Series match</span>');
     if (c.isGeneralLandStory || c.hasLandConflictSignal) tags.push('<span class="tag general">General land</span>');
     const originType = c.discoveredVia?.originType;
@@ -332,6 +373,38 @@
     `;
   }
 
+  let allCandidates = [];
+
+  function renderFiltered() {
+    const content = document.getElementById('content');
+    const filtered = activeCategory === "all"
+      ? allCandidates
+      : allCandidates.filter((c) => (c.category || "land_news") === activeCategory);
+
+    if (filtered.length === 0) {
+      content.className = "";
+      content.innerHTML = `
+        <div class="empty-state">
+          <div class="glyph">—</div>
+          <h3>No field reports yet</h3>
+          <p>Nothing in this category yet — check back shortly, or trigger a run manually from the repo's Actions tab.</p>
+        </div>`;
+      return;
+    }
+
+    content.className = "feed";
+    content.innerHTML = filtered.map(renderCard).join("");
+  }
+
+  document.getElementById('filterTabs').addEventListener('click', (e) => {
+    const btn = e.target.closest('.filter-tab');
+    if (!btn) return;
+    document.querySelectorAll('.filter-tab').forEach((t) => t.classList.remove('active'));
+    btn.classList.add('active');
+    activeCategory = btn.dataset.category;
+    renderFiltered();
+  });
+
   async function load() {
     const statusBar = document.getElementById('statusBar');
     const content = document.getElementById('content');
@@ -339,11 +412,11 @@
       const res = await fetch(DATA_URL, { cache: "no-store" });
       if (!res.ok) throw new Error("HTTP " + res.status);
       const data = await res.json();
-      const candidates = (data.candidates || []).slice().sort((a, b) => b.score - a.score);
+      allCandidates = (data.candidates || []).slice().sort((a, b) => b.score - a.score);
 
-      statusBar.innerHTML = `<span>Last run: <strong>${timeAgo(data.generatedAt)}</strong> (${formatDateTime(data.generatedAt)})</span><span><strong>${candidates.length}</strong> topics in queue</span>`;
+      statusBar.innerHTML = `<span>Last run: <strong>${timeAgo(data.generatedAt)}</strong> (${formatDateTime(data.generatedAt)})</span><span><strong>${allCandidates.length}</strong> topics in queue</span>`;
 
-      if (candidates.length === 0) {
+      if (allCandidates.length === 0) {
         content.innerHTML = `
           <div class="empty-state">
             <div class="glyph">—</div>
@@ -353,8 +426,7 @@
         return;
       }
 
-      content.className = "feed";
-      content.innerHTML = candidates.map(renderCard).join("");
+      renderFiltered();
     } catch (err) {
       statusBar.innerHTML = `<span>Connection failed</span>`;
       content.className = "error-state";
