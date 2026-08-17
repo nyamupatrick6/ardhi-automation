@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-17T17:37:01.631Z",
+  "generatedAt": "2026-08-17T18:01:51.495Z",
   "candidates": [
+    {
+      "id": "t_1411131916",
+      "title": "High Court refuses to halt Sh1.3 billion land fraud trial against ex-Nairobi PC Chelogoi - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbURiZTYtbThUQnB5QUVFNEgtanhiOW1Uam9FR2tybndRMVJMQ1B3TEpqb1BvaVVaSGFqeXZKMEU5a1dYY1dsem1xdGpvSG13QVhrcWxoNGxRT2ZlWm11TUVjeU1zczJMR0JJbXVxZHMxa0tCWWJyai1ZekZKLVNkWFVNckVaS0t0WWc1NEhfbmVyZFZLWTBEb1RtamwwSnBzb093cjFZUE1NclZLcFFFbURraExCZ2dERnpUWWNqV2dSdW1URTZV?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:30:36 GMT",
+      "discoveredAt": "2026-08-17T18:00:51.876Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1322220163",
       "title": "NSSF seeks to build city on 1,000-acre Mavoko land - businessdailyafrica.com",
