@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-17T14:05:04.276Z",
+  "generatedAt": "2026-08-17T14:48:58.614Z",
   "candidates": [
+    {
+      "id": "t_1026069737",
+      "title": "Canada launches $20.3M Quantum Defence Hub to develop GNSS-independent navigation, anti-spoofing tech - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTNZUEgtMHRRZmF0bkNlU2l5V2x3LWFLbU51N1pzbnNXNzY4YkVMY0lQVFVtcHpvV1l6c2FkSl80OWVzdndYTVJ5Q2xiSTR2RVN5dlk0SU90MGF4U01ZdFVTM1ZzN3F4UzNkT1lMQTYwaEh1ZVhXb0tZTC1LTzNFZURHUWtEUnhmOTBrdlZpSWc4SlBVUGR3S19GbFhtS05GN3luREZ1bEp2SkNheGJOMnl3MHNWMUFWR3gzTE5mRHBuYzQ?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:33:03 GMT",
+      "discoveredAt": "2026-08-17T14:48:40.309Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_220377404",
       "title": "Ogiek have little to celebrate as evictions, broken court promises persist - standardmedia.co.ke",
