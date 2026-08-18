@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-17T23:56:23.321Z",
+  "generatedAt": "2026-08-18T01:00:13.819Z",
   "candidates": [
+    {
+      "id": "t_1768020273",
+      "title": "ESA’s HydroGNSS mission publishes data to deepen our knowledge on Earth’s water cycle - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnRId01ReGNuOEo1N0ZXUVI5V1RiZzBSeTBZZlJ1UDJEZ1h5MF9JSExORkNaeHlhV1ZEam9GS0RNaHdlWHIzejBvcFJLczc3MXJPV1AwUjlCb2JQU3pmOVYxWk1JQ1phWThyaUtYT3NzMnlfQ2pHZjlEczJ3QVRxZ0NYWHFYQXA5aTlhaDA4Qm9MZzkwZjZrMUVGRkh4LUZOcDB0bjFjMkhVbGhxV1E?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 00:18:16 GMT",
+      "discoveredAt": "2026-08-18T00:59:56.704Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_928603726",
       "title": "Deaths Reported as Range Rover Carrying Foreigners Crashes in Westlands - Kenyans.co.ke",
