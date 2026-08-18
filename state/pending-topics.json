@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-18T22:19:38.037Z",
+  "generatedAt": "2026-08-18T22:46:04.805Z",
   "candidates": [
+    {
+      "id": "t_414324087",
+      "title": "Geospatial Portal SDK - Code Examples - Hexagon AB",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkFBU0w3Si0wMnUyUHkzOVBxbkhiZHpJUHFlQ2czU1pVRnY0bVpYTTlPeUNMYlNQc1dqRjgwdDg5R3VSbGttTklHSkxHT0l1YkJWa2NadHpnczhFUjlmY3AxbDFXb1duanAxcXQyZGR5RHhkZ3lPTGZQczctZU01MFZqaw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 10:18:47 GMT",
+      "discoveredAt": "2026-08-18T22:45:34.163Z",
+      "sourceName": "Hexagon AB",
+      "discoveredVia": {
+        "query": "site:hexagon.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Hexagon AB",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1677550533",
+      "title": "NeoGeo raises $20 million Series A for geospatial expansion - Tech Observer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0lUeFpyOVMyOGZmazhrVmFmcGkwNFFyX0hTZFRUbGNsQUlHLU5QZkRCd2tlZnZ2Ukg0UFl1ZkdXUXdOYzJENENSRlRDUTVDdG1YcVVMR3VXbXN6aU40QjVfaHlLQnRDSFJ1MFcyQWxTOGxSY0lUODQ0U28tal83WXpXZ2I3ZlRCYXBoMjVBaGpnd29IMmdiYnM1Y9IBmwFBVV95cUxPa0lUeFpyOVMyOGZmazhrVmFmcGkwNFFyX0hTZFRUbGNsQUlHLU5QZkRCd2tlZnZ2Ukg0UFl1ZkdXUXdOYzJENENSRlRDUTVDdG1YcVVMR3VXbXN6aU40QjVfaHlLQnRDSFJ1MFcyQWxTOGxSY0lUODQ0U28tal83WXpXZ2I3ZlRCYXBoMjVBaGpnd29IMmdiYnM1Yw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 16:40:46 GMT",
+      "discoveredAt": "2026-08-18T22:45:59.761Z",
+      "sourceName": "Tech Observer Magazine",
+      "discoveredVia": {
+        "query": "CORS network expansion",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1755208773",
       "title": "Digital twins strengthen UK’s PNT resilience - GPS World",
