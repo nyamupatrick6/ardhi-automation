@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T08:56:45.721Z",
+  "generatedAt": "2026-08-18T09:29:48.789Z",
   "candidates": [
+    {
+      "id": "t_466622200",
+      "title": "Abduba Ido: Title north Kenya land to unlock growth - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZ2l5RUhsUmx1aFBpc0lRUUtYbVBUYVRjNzNDTUtoMk9XMmNnR2dYaHhJY0RRdTFhVG1lcDdpeHNPcmRqMU9JUDdsQXlDci1fZ3JaS2g2MXYwRno3cUw0?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 05:10:00 GMT",
+      "discoveredAt": "2026-08-18T09:28:46.913Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_814323110",
       "title": "Video: Kaluma Boy breaks down how KSh 5.4m raised to buy land, house was used - Tuko News",
