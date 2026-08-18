@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T19:25:07.981Z",
+  "generatedAt": "2026-08-18T19:54:58.120Z",
   "candidates": [
+    {
+      "id": "t_1619855812",
+      "title": "Around the Geospatial, 3D, and AEC Industries: Surveyors, Lidar, and Spatial Data - Geo Week News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEhYNFpOQVMzaXgwQXZXREQybl9Yb3FsSG04WW1OSGx3N3hSUllwZ2JwcHNLbDY2V2pxM0QycTJKNHNrLXZLWDQ2R0ZjbTBSVVJxVW9Rby1fX0tqT21nc19xTTFwMTR6MVNXdmRYVVJVUnI1T3hJUWRGY1pRLU5INzJoVzlxVHpvN3hSV1dxd3BLSU9HMFZRUFlod1h0N3BkNjBjWklzS3Y4c0VrVUNIWnJaVVk?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:43:25 GMT",
+      "discoveredAt": "2026-08-18T19:54:37.864Z",
+      "sourceName": "Geo Week News",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
     {
       "id": "t_243074929",
       "title": "My land is Kenya 😍 @MagicalKenya #kenyantiktok🇰🇪 #traveltiktok - TikTok",
