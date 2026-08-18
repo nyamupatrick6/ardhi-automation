@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T04:56:18.143Z",
+  "generatedAt": "2026-08-18T05:25:26.145Z",
   "candidates": [
+    {
+      "id": "t_1793512328",
+      "title": "Sh1.5bn Ruaraka land scandal: EACC fights supreme court appeal - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTndaRm5SWWVLUktUNXJQVjhBR01KeUFsMmk2UWd0c2FmcjFLdkFXQzR4eWhfa1RodGRtQ1QzWXprdER3WW1zYlBNX1F1ZThFTVRMcXloVFBsd0Fkd0ROSVIwMk9OZG9GdV9fVXR6d0taQWlNUkdkZVpyMmo0NWh3WWMtTWhvUl9uQWlVTWc5WXF2bnBscXFyQVViN1NYZjVoVXFPeA?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 09:21:58 GMT",
+      "discoveredAt": "2026-08-18T05:24:09.764Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1768020273",
       "title": "ESA’s HydroGNSS mission publishes data to deepen our knowledge on Earth’s water cycle - GPS World",
