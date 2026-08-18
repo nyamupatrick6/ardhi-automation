@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T23:19:18.319Z",
+  "generatedAt": "2026-08-18T23:43:00.499Z",
   "candidates": [
+    {
+      "id": "t_1920312260",
+      "title": "Sparse coding cuts data burden for high-precision GNSS - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVERJZlRuUkg3TV82U3VNOGJ6dzIzMGdKZy16MkhMNEhCdzhZTlNhTkZvbE1OQ213cElXdGZoa2F4SVJFQVNnWWllcEtlQWpsdWlMcFlPRzVIMkJyeEJDUno1YUN3MV9TNllLZ1FaSWVOdFNwM2dkTzZ5ckt3Mm5aM2lrSXNMSGc?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 23:25:43 GMT",
+      "discoveredAt": "2026-08-18T23:42:43.973Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_414324087",
       "title": "Geospatial Portal SDK - Code Examples - Hexagon AB",
