@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T21:43:53.479Z",
+  "generatedAt": "2026-08-18T22:19:38.037Z",
   "candidates": [
+    {
+      "id": "t_1755208773",
+      "title": "Digital twins strengthen UK’s PNT resilience - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pVGtyR2RsUU9pZFZwc1hpdy0ySXNTbDBRTmxjNks0ek1uQTRXbmd5N1NDa2FMT2RaX0FGVUFCeHl2ZUdFRVhHdWg5U0tWY1FOXzlFWFV0UUoyR2x5LTJac2xOV3ZfblhWSUNnRVNxMFFGZE0?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 22:10:28 GMT",
+      "discoveredAt": "2026-08-18T22:19:22.074Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1522891134",
       "title": "Geospatial Portal SDK - Custom Toolbar Panel - Hexagon AB",
