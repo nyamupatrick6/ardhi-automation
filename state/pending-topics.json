@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T16:52:53.185Z",
+  "generatedAt": "2026-08-18T17:24:27.946Z",
   "candidates": [
+    {
+      "id": "t_1624026777",
+      "title": "Ex-PC loses bid to stop magistrate from hearing Sh1.3bn land fraud case - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWFZqUEc2V042bWRCekthTzJyZUc0Y21FMjRCNTgwWkVpV0phaDdjY2ZVNVQtc1dwa3RiZ2dUc1VWMXh3UlBDMW1zczV3UUdsdm03VHctMmotZkQ2X29hQTd4NzNWaTVuZHY1aGh1Z0ZDbEt0amk0S3YydDZRMHpaNzlmdFk1bjRiOW45LVdEejZUY1dvaTU4RnNjWU12eVg1ZWlzMXktbERjdWtNUU1mNlBpd01XRk1sSFBVc1dwUkg4N095OTZSTmlydksyQ0I2NURHMXdn?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 13:20:44 GMT",
+      "discoveredAt": "2026-08-18T17:22:41.324Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1348530687",
       "title": "Why court dismissed families’ adverse possession land claim - Business Daily",
