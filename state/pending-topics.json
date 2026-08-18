@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T17:24:27.946Z",
+  "generatedAt": "2026-08-18T18:00:04.083Z",
   "candidates": [
+    {
+      "id": "t_243074929",
+      "title": "My land is Kenya 😍 @MagicalKenya #kenyantiktok🇰🇪 #traveltiktok - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcjVnZXB4VXJvTTdTSHdQMFlnNFNtZzJlY2NIRHlBanNHYkowQS0yTk9BQ2pkaWp2LWxHWXpBaDRzZVAyY1I2NW9iRGpMeFktRFg2aHptQTNsSlFCbWJ4azdFYmFrSE5vY1E?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 12:55:11 GMT",
+      "discoveredAt": "2026-08-18T17:58:58.025Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1624026777",
       "title": "Ex-PC loses bid to stop magistrate from hearing Sh1.3bn land fraud case - standardmedia.co.ke",
