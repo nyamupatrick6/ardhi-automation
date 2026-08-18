@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T10:50:46.135Z",
+  "generatedAt": "2026-08-18T11:22:26.636Z",
   "candidates": [
+    {
+      "id": "t_188127170",
+      "title": "Squatters, silence and the law: The high stakes of adverse possession, explained - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0ppaUltMThRU2NLeWJubU91X0hBbkU2ZEhHLVFaUXJOMGNPTzN1X2RiZjRSVGpCdVZ3UjNyb19mazl0Q3VBcVNiUHIwLVRpb0JnUzU4MklUak5pM1FwTTY2cW8yV2VvbDROZXlSb3ViY3RhQkdfZlB6WjNoY2ZsRGhLRzVSZDZrWHJHa285dktTaTFYMHQ3NGtJbkl5QnNsbF9iZFVqdUg?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 10:45:04 GMT",
+      "discoveredAt": "2026-08-18T11:21:14.104Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_466622200",
       "title": "Abduba Ido: Title north Kenya land to unlock growth - x.com",
