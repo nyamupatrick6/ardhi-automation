@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T13:40:07.907Z",
+  "generatedAt": "2026-08-18T14:17:24.144Z",
   "candidates": [
+    {
+      "id": "t_834107082",
+      "title": "JKUAT Student accuses American national of rape after Tinder date in Westlands - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTc3WXRPdDFDUkoxcndvTDNxT3UzVGktbGhmS1NLal9LWFFYUEpsMmV4VGRFc2RpaUVGdjJnRm1hcW1uVmRvU3FJRjlnN2M1eVFYWVFDd09KUnJwSXNacEVOUGpyV3NWQjBBNkdTLTJKMmp1RkN2Sk9CcmVhRGN1NkI1TFJHS1hOSjUzMDIwaGdKdjdHOXRaR0phcEUta3F5NnY2cGZoR3dkTE1McFloOXljMEp3UFhqNlE?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 15:57:31 GMT",
+      "discoveredAt": "2026-08-18T14:16:09.506Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_470552555",
       "title": "SONY farmers raise alarm over plot to auction nuclear estate - KBC Digital",
