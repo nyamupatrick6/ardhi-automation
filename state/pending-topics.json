@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T12:48:38.402Z",
+  "generatedAt": "2026-08-18T13:40:07.907Z",
   "candidates": [
+    {
+      "id": "t_470552555",
+      "title": "SONY farmers raise alarm over plot to auction nuclear estate - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGhDQlYtQ21FNUJtX2tiaC1VYWpiUVRIdVdoODVNN2hMYUxTdkltX0ZHLVVtYmZ2TnJDRy0wYngtR18wR2ZOYmdRT19KdDVWa2xUdUkwUy1sNHZZMFc5bmFCNDRvNGpkSXB2ay1YQ3RpTmNDdkdlYWhZMHlxb1p5T0pyV1kyRW56ajIw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 11:51:01 GMT",
+      "discoveredAt": "2026-08-18T13:38:59.254Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_188127170",
       "title": "Squatters, silence and the law: The high stakes of adverse possession, explained - Business Daily",
