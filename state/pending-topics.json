@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T14:57:05.037Z",
+  "generatedAt": "2026-08-18T15:28:53.255Z",
   "candidates": [
+    {
+      "id": "t_1348530687",
+      "title": "Why court dismissed families’ adverse possession land claim - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUpueGdxUk10T0xPNlN4WktvWVo2eDFISm41RUtGWWFGVUN6b2ItMkJxX0VPWDc4RjFsMXcxNVY5cTlnZWhpdTlfMFlWQTkwSXhaZzkzdVd4TFRRTjkwc3pna0pUM0xkTEhnV3V3M3UxTWsySDBYWEF0UVpXeWFVc0JwZGxOck5VVWJhYy13SVdMTlB6cTBCN2cteE80S3IwVkhORFlRN1drVFJNV3JybWdPcy1IRVdfZWpqbl9JeWFSWms?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 15:25:48 GMT",
+      "discoveredAt": "2026-08-18T15:27:38.470Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_834107082",
       "title": "JKUAT Student accuses American national of rape after Tinder date in Westlands - Citizen Digital",
