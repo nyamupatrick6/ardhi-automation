@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-18T07:36:06.904Z",
+  "generatedAt": "2026-08-18T08:07:19.714Z",
   "candidates": [
+    {
+      "id": "t_814323110",
+      "title": "Video: Kaluma Boy breaks down how KSh 5.4m raised to buy land, house was used - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeU1OOF8wRHZyUzJhNU9TNEF4US1pREtuTUNnckxIYmdGb3ZVSEhSQldfUjdIQ1RVc1QwV1c2TGRJRXlpTVFsTHh0UTRuSFVWanhqdHRBZGdVYzNIYzJnTTlXTVZXc1R0NmdkU2luSG9pN0tYX1BtVFNrOFhLdEctZm9vVUd2NWc1UnVuYlAtWXRqTTZhQ2NlMXNJVzFRWWFOY01zbkxLcnZBRVpSM081aVYxNzR2SUxIZ01pNXdUYTlrYWpNN1JB?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 08:02:54 GMT",
+      "discoveredAt": "2026-08-18T08:06:11.739Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1715652588",
       "title": "Laser scanning reveals thousands of ancient structures hidden in the Amazon - GIM International",
