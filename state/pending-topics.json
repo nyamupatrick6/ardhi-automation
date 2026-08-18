@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-18T06:56:14.157Z",
+  "generatedAt": "2026-08-18T07:36:06.904Z",
   "candidates": [
+    {
+      "id": "t_1715652588",
+      "title": "Laser scanning reveals thousands of ancient structures hidden in the Amazon - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHRIREkwdmdUa3FyWWlSdDFSM2xoQi1oNEF4RjNMYkplWGdtUFRKUE1mT0tIWGJ6ZDlnR3RvYWNaY3pIeUZQakRZdk5wRXlaZHIwTDRIRW5TVXZ3d0tuZVc0YlhaUnNKZkpXOVY3aF9wVjNJNDRyNkJBZXJxOGxvZlFMUnBWekFQNEpjRFNKS2FnekE2ZmNhM1VUVVF0S1lBTS1oMEp4TzUtTkIwZTZOd0pJYWpZNTcwUmlpWUNhOA?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 07:40:00 GMT",
+      "discoveredAt": "2026-08-18T07:35:48.297Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1162063025",
+      "title": "Thika Superhighway cost roughly KSh 32 billion. More than a decade later, the return is visible. The road did not merely move vehicles faster; it changed the economics of the entire corridor. Land values rose, businesses expanded, satellite towns grew, private - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9haUI4eWxxODBLSmZyTGhjR19vZlJ5WmxFaXJBaHowRFdMZVNmTG5saUo0aWtseWkzZmU2ZDVReTItZnNHQXRJSUxuWkRVVFJYaThaaWMyYTg0SXAtUXFXbA?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 15:27:16 GMT",
+      "discoveredAt": "2026-08-18T07:35:08.330Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1793512328",
       "title": "Sh1.5bn Ruaraka land scandal: EACC fights supreme court appeal - Daily Nation",
