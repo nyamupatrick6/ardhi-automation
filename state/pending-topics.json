@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T16:27:51.796Z",
+  "generatedAt": "2026-08-19T17:01:05.104Z",
   "candidates": [
+    {
+      "id": "t_722920555",
+      "title": "Mother, daughter arrested over alleged Ksh.40 million land fraud scheme - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUNxWE82RTczeHpzLXB1Z3poSl83ZTB3a1d6RGdDb0xEd0lKVmZTSE1HWUNZXzdFbkVFeGFlVGQtTDVuZUh3bFk4OGlwbXJjMEYwVXRULXJOX3kxanRSWm5aNkp2M2hTLWtrOU1ZRUUwdlhWR1h2YXhBZmRRSWVQZnJKaDBWRDlzb2VYWFNULTRnTHNndVBDcDdKcVdJX1FHSDFlWFFkWThxVWVzbnc?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 14:01:50 GMT",
+      "discoveredAt": "2026-08-19T16:59:50.650Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_594314078",
       "title": "Land, house, shares deals hand Treasury Sh26.8bn - Business Daily",
