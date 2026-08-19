@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-19T16:01:02.013Z",
+  "generatedAt": "2026-08-19T16:27:51.796Z",
   "candidates": [
+    {
+      "id": "t_594314078",
+      "title": "Land, house, shares deals hand Treasury Sh26.8bn - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOajUxaTlleng5UmFZSU0yT3RoUmJMOFU1QUtMaWtTQjhLMm9IUG5vY1FnNDRnUGV1X0ZGRTVMcFR1NkoxNVN6bmpodkVWRk5EeWhrYzVrWVQ1Skd5N1lRQ2F5dmxCR29fS2R2U0lnc2lJRWpVcllXSW1JcGJRTDdXOVIzVDFCQXpQZkpScDBuZTBmSTBubGI5amVjYzhyaVdDVU9r?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:45:00 GMT",
+      "discoveredAt": "2026-08-19T16:26:30.149Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_988965105",
+      "title": "Heha Movers: Viral Group Lands Numerous Endorsement Deals - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclVHLXhudTdIZDM1Tlk2UGV1QUl5MndiYktRSFNZMm5GQzNSQTFMMkRnRHJpWFo5cURhTVZ1MmZQTTM1MV9WaXhhXzhTNUVLQkY4Y1k0WEVabHN0TW5YaGpPdlo0cjVSSnRCaWlsYTd3TjRBem13Ni10SUU2SElzYkhQc3p2aEhuMjl1OGp1M2YyTldWWDBzSVhLQVVqb195aWZrZTg4SDZYRzdWcUR5NW5PUQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 07:40:40 GMT",
+      "discoveredAt": "2026-08-19T16:26:32.184Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1194842821",
       "title": "Mother, daughter arrested over alleged Sh40 million Karatina land fraud - standardmedia.co.ke",
