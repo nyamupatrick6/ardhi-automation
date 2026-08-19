@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T04:57:20.815Z",
+  "generatedAt": "2026-08-19T05:29:04.178Z",
   "candidates": [
+    {
+      "id": "t_273351557",
+      "title": "Trimble MS9X6 GNSS receivers for construction performance - Trimble",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlZVS3k5bGdhWnpMT0d6aW5TSFFzNmJ3UU11SkF1Nk85V0NfY3duWXpac2ZaV2Ntc1NfQlcxbVAtZGotNFpHa2dxRk1xRjdabUJKazltd2R6dG8xVkFsSlBSVmtKZ0FybHJuZjdKaTFHTEYxSlZXZTJQcXVfbnRrdkwyWGF5ZWRyNXRDd3lfVDZKLXJGelVHelB3MlJJa3lDaGl6VWt2V1VNZlN5UG5GdktZaGRKYTdlalllcjhaQ01mdw?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 01:05:01 GMT",
+      "discoveredAt": "2026-08-19T05:28:32.612Z",
+      "sourceName": "Trimble",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1024382288",
       "title": "Infinite Electronics to Debut Anti-Jam GNSS Antennas at Commercial UAV Expo - Inside GNSS",
