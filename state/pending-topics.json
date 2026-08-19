@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T18:32:52.402Z",
+  "generatedAt": "2026-08-19T19:06:48.731Z",
   "candidates": [
+    {
+      "id": "t_910885936",
+      "title": "14 arrested in Nakuru over alleged online bus ticket scam as mother and daughter held over Sh40 million land fraud - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcjlsOU9mSDRJMG4tTGlMSVNqYUhPek1lRWtWWV8tSEh0RlYtQ0tyYU1SN3FUQjVUSktQeGQ3RzlUN3B5VklEYVNtVmhJbDhVQ0F4bzlPQTZpSWwyQ09EY1hKUi1QUklJU2N2Yzdud3hnZC0ydXJuMU5GU0s4S2VIWUdSTEJnaFhxSlFJb2tpdENid19WcEQwZVZib0c5cEFtR0xEUlV1NHFHVWhrazMzVzJxa1ZYRDJtVlNFSm1XNWhKSDZuV1IxWWhxMUFyZkhIdWU3cnVVNXdZWkNnN0s0Y3NzUTdXYVNJazFn?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:11:59 GMT",
+      "discoveredAt": "2026-08-19T19:05:53.318Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_722920555",
       "title": "Mother, daughter arrested over alleged Ksh.40 million land fraud scheme - Citizen Digital",
