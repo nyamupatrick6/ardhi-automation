@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-19T22:24:54.878Z",
+  "generatedAt": "2026-08-19T22:58:03.072Z",
   "candidates": [
+    {
+      "id": "t_341673739",
+      "title": "Karatina Land Fraud - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOZUROcGxPSWFCamM5TmNRaUc3S25QbkNQRnFFU25GczVYYkpGRGNsSkVvOGlCc1c2NDk5OU1lWjVXWVYyei1xUGZHTXFmTkljUUJQNE1xV0tiMkoxanJpMFU2Q2FqbUwz?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 10:29:21 GMT",
+      "discoveredAt": "2026-08-19T22:56:44.915Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1177545751",
+      "title": "Karatina 40 Million Land Fraud - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0STJuWTEtSUJkVksyWElRTVMwZG5oaUtBMHpSNFluMnZfN1NrUHF0UTdOTlZMZEU4NXl4TTZTT0lidGtvcEZ4aVpXdDVsTDdIY1J0bVdhZFhDdEpTOUFmaVBQZTZIRC1zQjZPOUVKWnp6d0s4dnNN?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 10:38:54 GMT",
+      "discoveredAt": "2026-08-19T22:56:44.915Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1614484625",
+      "title": "Kenya should not be importing 25 million bags of maize in 2026. This is pure failure. We consume 75 million bags a year yet once again face a massive shortfall after production collapses. Only ~3% of our arable land is under irrigation while 98% of farming re - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LR1JnUUhOdlVnWUotc2FzNnRtaGxvdVhpZFFKSVNqcDZUNl9UZ1g4VEYydFpTbUFnLTl3SlFOT29XQ19XUm9veUp4dXdnQk9iWnZzaUx5TjRaem04bVExc0ZIQQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 14:10:39 GMT",
+      "discoveredAt": "2026-08-19T22:57:02.217Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_15498524",
       "title": "Gov't resolves Cheluget land tussle, to issue title deeds to individual family beneficiaries - Citizen Digital",
