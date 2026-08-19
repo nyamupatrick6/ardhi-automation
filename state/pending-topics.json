@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T01:01:15.381Z",
+  "generatedAt": "2026-08-19T02:22:43.573Z",
   "candidates": [
+    {
+      "id": "t_1024382288",
+      "title": "Infinite Electronics to Debut Anti-Jam GNSS Antennas at Commercial UAV Expo - Inside GNSS",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkFRS201OTdWMkNDa3czRDlRYnpqWXJjVnZrdldpNEN1WV9kUTJPV0F2dW1pZl9NbHRTcHppVUFBZkg1OWJyMnNEeV9SV21DMzVxUGplRl9GX2xLWEs0N1p4VkpwMWdMcnd5Tm9rRkV6TmNIYVFmMFVjTmppbldRUHE5UkdJRFNBdi00S084LVZOSEx1M0lVSERyUVIyc3dC?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 01:12:30 GMT",
+      "discoveredAt": "2026-08-19T02:22:28.152Z",
+      "sourceName": "Inside GNSS",
+      "discoveredVia": {
+        "query": "Commercial UAV News",
+        "origin": "Commercial UAV News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1920312260",
       "title": "Sparse coding cuts data burden for high-precision GNSS - GPS World",
