@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T08:58:32.648Z",
+  "generatedAt": "2026-08-19T09:35:37.402Z",
   "candidates": [
+    {
+      "id": "t_2015874064",
+      "title": "\"Covertly moved ownership\": Mother, daughter arrested in KSh 40m land fraud - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFgwdEZIY2wxZkxTaTBjQTRvWkRma3ZtZ2ZBRThrN0xTeS1CT1BJNWlrUGtSN19TLUd0MlZfUWgtNWVWRHdiSGZNZVdtdHYwb01RMFg0MlJZLU1DU2c3ejgtNWZxd05LZkt2MzhxcXlXYXdhazJXUlo2a1VhazItV3V2T1I0YmliU0FaS296Z2I5VzdDU0JyZGtwQlVwd2lSWXkxZFFKSkxpeHEyZ2haZXV2S3N6Qm5UTEkxeW9GSQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 09:23:34 GMT",
+      "discoveredAt": "2026-08-19T09:34:31.103Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_273351557",
       "title": "Trimble MS9X6 GNSS receivers for construction performance - Trimble",
