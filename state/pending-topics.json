@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T11:57:53.712Z",
+  "generatedAt": "2026-08-19T12:46:01.141Z",
   "candidates": [
+    {
+      "id": "t_10840890",
+      "title": "Landowners Put on Notice as Govt Moves to Acquire New SGR Parcels - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXBqMTZ6MG90bk5KV3dYc3FoX1M5R0s1ellkTEQtYnZHenhrNXZ6Um14SElwWVFfT2l1Z0xoX0ppemoySzJKakV6VkFoWnptZk1CT3M0RjZ3TThTb2VwaFpLMFUtVTFEeHpDZFpLdF9zZXVyZVN4MGdqcWxxWGJCRVBLUUxwMzJWaWI2OEdkNWJYUW5lN1lmVmNFRTBzTXplMGhIRVRGTFU3VzhKdk5ZRg?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 16:34:23 GMT",
+      "discoveredAt": "2026-08-19T12:44:40.952Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2015874064",
       "title": "\"Covertly moved ownership\": Mother, daughter arrested in KSh 40m land fraud - Tuko News",
