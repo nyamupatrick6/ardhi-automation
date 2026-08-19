@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T14:30:26.641Z",
+  "generatedAt": "2026-08-19T15:06:20.337Z",
   "candidates": [
+    {
+      "id": "t_1194842821",
+      "title": "Mother, daughter arrested over alleged Sh40 million Karatina land fraud - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTFuN1htbC1WOHNSU0JjRGFFbVEtamljTG0xcHNOMkFLb3BaQnNSbk1JR2Z0azNxVXNkN2VKRWdLNFVna0dKaDdNMS1kMHJZa1Y5Q24wOU1acWZibW9QaDRqNHZoS2ZFNFBQMjNsVF83UVJaWWo5ZzVFWDVCVFJ3a3ZBWTVvT0dMOGtrMVFaZU1Ec0c4WjBOMUtSRzNiejBDSE4zNV8tOUFtX0FSTllKME1DQVh4NjZ5X1Vod3NLMzdWTnQ4S25KcQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 09:47:53 GMT",
+      "discoveredAt": "2026-08-19T15:05:00.591Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_855388211",
       "title": "Magnolia Camp closure due to land tussle, says Saruni - Citizen Digital",
