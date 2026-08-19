@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T12:46:01.141Z",
+  "generatedAt": "2026-08-19T13:42:15.890Z",
   "candidates": [
+    {
+      "id": "t_855388211",
+      "title": "Magnolia Camp closure due to land tussle, says Saruni - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeVhJSUhHLW51NjBCUnVMX19qS2RnTVRmUG55X01pMmZMZlZrQjBfS0g3cWdEZnNqd0Qydklhclctcy1DYkpUTVNoaXl4M3E1TEpjQTZSZTEyTnBldDhOLUkxT2xaZHN6Vm9NanZ3WTQteFctZjZWYi01RzFBMmNmZkJRNUZYQl8tVy1ZSDEtUUNJVnNoOE1N?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 13:49:57 GMT",
+      "discoveredAt": "2026-08-19T13:40:56.712Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_10840890",
       "title": "Landowners Put on Notice as Govt Moves to Acquire New SGR Parcels - Kenyans.co.ke",
