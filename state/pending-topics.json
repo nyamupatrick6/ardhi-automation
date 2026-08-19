@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-19T19:06:48.731Z",
+  "generatedAt": "2026-08-19T19:44:03.964Z",
   "candidates": [
+    {
+      "id": "t_15498524",
+      "title": "Gov't resolves Cheluget land tussle, to issue title deeds to individual family beneficiaries - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUZDQjJoNWdEN0E1STkxcHlhcTVVT0R5OVpiNmxvSlB4c3pYeUhfNl94QURLNThUZ25FZjZacm5fLXlyMVdYNTdXRjMzSEdGQTF5cTFmNExpMkZVNnJMRUNtc3pnbE5LOGg4MjBLUm9VRE93WUtkVlBGSTBER3BSOF9qd0lWZ0RJMXFuekRJNDhvUnJVZmtab05lM0ZBQm9JUkZ2dFZTSkFsMVpQN0hmRGNkX0xwRzNPSEs0TU9QTGhTU0Z0emJFVW5R?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:02:14 GMT",
+      "discoveredAt": "2026-08-19T19:42:37.523Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_910885936",
       "title": "14 arrested in Nakuru over alleged online bus ticket scam as mother and daughter held over Sh40 million land fraud - The Eastleigh Voice",
