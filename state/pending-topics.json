@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-20T10:05:33.218Z",
+  "generatedAt": "2026-08-20T10:51:26.229Z",
   "candidates": [
+    {
+      "id": "t_651855199",
+      "title": "𝗔𝗥𝗥𝗘𝗦𝗧 𝗢𝗙 𝗔 𝗟𝗔𝗡𝗗 𝗙𝗥𝗔𝗨𝗗 𝗦𝗨𝗦𝗣𝗘𝗖𝗧 Detectives from the Land Fraud Investigations Unit (LFIU) have apprehended a woman suspected of fraudulently acquiring a parcel of land associated with a deceased estate. Agnes Wairimu Gachanja was arreste - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82ZzFucmF0ZDhUSWhONnZRRnV4T21XS010cHdqT0lkaDRxc3RGZWhlWUxZZVhWdWl5Z1E4YklfQy0yS3dQZnRUMlQ0ZXlkb21uQ1pUclhlbmRUS3Y3QURZ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 06:48:02 GMT",
+      "discoveredAt": "2026-08-20T10:50:27.048Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_292921967",
       "title": "(no title) - KBC Digital",
