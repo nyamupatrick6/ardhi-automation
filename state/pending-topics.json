@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-20T18:34:30.975Z",
+  "generatedAt": "2026-08-20T19:18:30.453Z",
   "candidates": [
+    {
+      "id": "t_69712021",
+      "title": "Supreme Court halts recovery of Sh1.5bn in Ruaraka land compensation case - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1F1OW4wci1OVGpMb3JaSGdCSm1rRzJfXzF3UFItSGZRTGFUUF9xNjd6NGYxZ1NXZXpZenFFVGRlYmFMNDdCbmpvQzRsZ1NIc180SGlmdVlNM2JOZU5adHpQNUZBTjNnUEFhekN5cDQ2dzUzWURQaDdQcnM5aHRWamRoVXdVZDhvbXpnb2g5Yi1qUVh0X3JMbkhHakhPbjRVd2RWR3libXAyZDZDRDl3ZFZUUkE2WUQ1YzVFMW9rSjFBVHcycVRTTGlKOU0?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:29:44 GMT",
+      "discoveredAt": "2026-08-20T19:17:10.084Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_402777407",
+      "title": "State Department For Lands - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUzlOOWdIZzJ1MW5kSE5KT19qOGlHWkY1VXRoWUZQdHluMmRYNE1QTGRIQjFXVmUzU1Q2U09wWUx0ZkFfN0t6azllSTJyVDN3TEdIVkNzTnFOa092bXY3QzBWdlE5bi11M0NsNlZvMFcxZ2tGR2hR?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 03:25:26 GMT",
+      "discoveredAt": "2026-08-20T19:17:10.085Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2141851310",
       "title": "Supreme Court halts EACC recovery of Sh1.5bn Ruaraka schools land compensation - the-star.co.ke",
