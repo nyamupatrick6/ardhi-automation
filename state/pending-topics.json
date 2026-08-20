@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-20T08:00:37.325Z",
+  "generatedAt": "2026-08-20T08:50:02.154Z",
   "candidates": [
+    {
+      "id": "t_1610003949",
+      "title": "\"Unlawfully seizing estates\": DCI nabs woman over KSh 800k father's land fraud - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnJ4Z0VXaUlQc05XSkctN003cDZvSlRtSllBV1FxV3pHQjBQeXNFNkNJSExha2VPMXlEN2dqdUJXbkd5bGI0c3BjXzd0dXBzbHpleFdNVHlfaXJVWE1qQlRjMndPLXIxMUM3VGJhR25xa0lPMTZOc2d3Rmwtb2luZDdudnR6Mjhnd3Z4VWJmdHVrSktTMmhTN3gybVJKd2tNQVJmYjdoWFRMUQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 08:31:52 GMT",
+      "discoveredAt": "2026-08-20T08:48:51.501Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_477725592",
+      "title": "Land governance key to sustainable development, experts told - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzkyUDF1YVFkYVd5ZlVNeHg3S1lSM3hhUVh6N1NxNEc2VlFBcVRKRnRqZ1hwX3dQQ2NjN0VrSXBIZ0RDWk9tQXpZcUp3Ym5oTzlPRkJYbnNHa3ZQbVlUX2dNNkwycDM0a0ZTdHZ3Qkw2NE9LNzkxTmxtcWtvS3kxM1RBODNOU01VRTFWR1dFSTJCZ2pRVnpoLUs3bXlDb0E4VVNqZA?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 08:09:36 GMT",
+      "discoveredAt": "2026-08-20T08:48:47.637Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_621295214",
       "title": "EuroGeographics backs UN-GGIM move to strengthen role of geospatial data - GIM International",
