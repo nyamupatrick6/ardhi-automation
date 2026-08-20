@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-20T06:01:49.453Z",
+  "generatedAt": "2026-08-20T07:10:29.142Z",
   "candidates": [
+    {
+      "id": "t_621295214",
+      "title": "EuroGeographics backs UN-GGIM move to strengthen role of geospatial data - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXFjcUx1S1NsU0JOOXpLTXdzM1VqYTRHV3UtTkhoZG1tTHA5NUo0SzRBZ0dJOGRrMUc5Si1CMWtheGRULXpKQzl6MFBwSTZncm9VZGN1U2s1bXNsMlpBQ0p0QTExRjdmNWsyQWpyUEczQVA2aVlreVF0SVAxWUxFUHZpNmZVb0c4aVI2UTY0aXV3bV9GbmtWalVfTkE1ZFV1RUtmWl9maHNqQXVNXzhFTDE5TnNubUd3anhr?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 06:34:00 GMT",
+      "discoveredAt": "2026-08-20T07:10:08.909Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1079847605",
+      "title": "FunGIS Geospatial Excellence Awards recipients - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVW01LTU5eDR6elFIX2NGNU9lb3Q5OVdDTWF0bkFWblh5QmIyQlRPZWpNTjFzLUJTdXhIcnlCUzE1bWhjcWN4bmNkYU5aZHFhSlZudU9veE8yQjFaVU5HbmpSTzFhUWdNNktoQjI2bFh5YmpXYS1TWm1NX05IUEp4N2hyQS1uTTQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 06:24:04 GMT",
+      "discoveredAt": "2026-08-20T07:10:14.405Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_509748729",
       "title": "Kenya's land surveys goes digital as technology tackles boundary disputes - standardmedia.co.ke",
