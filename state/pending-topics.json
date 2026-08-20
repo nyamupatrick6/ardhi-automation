@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-20T13:43:46.621Z",
+  "generatedAt": "2026-08-20T14:32:54.090Z",
   "candidates": [
+    {
+      "id": "t_692336974",
+      "title": "Supreme Court halts EACC recovery of Sh1.5bn Ruaraka schools land compensation - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWFnSl9Bbk9ER3Vsa0hBY1V2MWdUekMzZGxoOWpuSGtPMW8tcEg4ak01aTBoQWRtcUdVSDI0dEhBQkFFcFJqeUZITTIyT0lvMUNlbGxWQjVkT2VjZkhLekZJdnkxNDBMQlVvQ2Ftb1BQZ1NVa0FfV0ZKOERnbkVYaVU1eU1oelhVUUI0SlZkZTVKdS1PVUFaVjJRRTE0elBvZi1uQ0FEdExkNkk?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:45:00 GMT",
+      "discoveredAt": "2026-08-20T14:31:41.519Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1041424528",
+      "title": "Supreme Court halts recovery of Ksh.1.5 billion in Ruaraka school land case - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXR1eEtnRVFlc25HQWRpYWxfZFZxeVJOcmhBVk0waXZoNWU5MU92RUR3d1JoWXhNWWNRbTF1cExpdkNVQ2tyUkg1NDRCNFg0Mk11dUJFNWd2UHJycXdPREpFeUsxSUswUGJaazBoUWhkUk9QR0JzWDg4Sk15aVpJaHQ1YnFDZm56X2VnUDZGa1ViQmhadHlRTHZ2c2xxck9pUUxNczF0d1V5QWFoZmJNWUMtNA?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:07:54 GMT",
+      "discoveredAt": "2026-08-20T14:31:42.425Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_210411232",
       "title": "Woman arrested over alleged fraudulent acquisition of deceased estate land - KBC Digital",
