@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-20T21:01:43.965Z",
+  "generatedAt": "2026-08-20T21:47:29.171Z",
   "candidates": [
+    {
+      "id": "t_337695428",
+      "title": "Political violence may land top leaders at ICC, warn experts - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2R1VHBDY2dmcUJ0cmJtVzBVa0Z1QXE0U3R5czlrOThtcG8wV29vZmV5VXNXRG9VRGhJRmViUmpvOXU5d1NWc2hHV240VHFjT2Nqd2c2Z1JDNjR4WWEwYUR3UmVkZkdvQ1MxQU1mLTE3Snl3QTZya0gwbnI5Q1FNdGZlcjBTYzRPUzQyTnRlaE9uZ3RiVjNFX0d3czZuTmtwZUNNQnFna2RzMlJzdW5YdDgtTHBQY2dfNTZZ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 21:00:00 GMT",
+      "discoveredAt": "2026-08-20T21:46:12.176Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_69712021",
       "title": "Supreme Court halts recovery of Sh1.5bn in Ruaraka land compensation case - standardmedia.co.ke",
