@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-20T04:03:19.931Z",
+  "generatedAt": "2026-08-20T04:57:40.515Z",
   "candidates": [
+    {
+      "id": "t_509748729",
+      "title": "Kenya's land surveys goes digital as technology tackles boundary disputes - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa3RXSW1Hb1ZDeldZNURxRGJKU3JIQXlOVUxZQmdKUHhseDlCcnNXa1VGeDRjbXRNNlNYNGQ3bnI2Qm9zdldFNURvOFNZc0FqOGRtSGt3LTAwTnRCdm1feVZHSW9xdzREV2JxZlNaTFdVU0Z3dU8wdXVaS3hwb0JsazROYmdRbEo0VENRcnMxWDQxdG9jZ3dwZzBNZnJwa1VPTmdKZVpNbkE0OWRHdHY3SGRXWmhBT0FXbWtxX2NvdVY4a3FaOWtaTHFpUXNsbkVWWm5yQVdxbXJpVXJVc2FId2x3c0RsUnFGbV9CUXgweFV2M2NkNXZ2dWxpb19ZUQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 03:00:00 GMT",
+      "discoveredAt": "2026-08-20T04:56:23.332Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1378179539",
+      "title": "NLC seeks Sh120 million to clear Lower Nzoia compensation claims - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFo3WGdwSmZmTE96bzBtMnR4ay1YUl9faGRnN1p6UVdzU212YTkyNVpGa1IwSXNiZktwSlNoeF8tbWhxUExTaERKZXlaSTgyWUZ3OS05Zy1FdHFmRXNfVkVVNzZBNGlBNGVNbk8yRkxQakxfQUxzUUk5a0hRd19oT083YUFpWHhEc0lxQ04yZWJtMExyMUI2Ym1sMnhpdF9zM1VlbnRJcEFUbGRVZDBfVl96MEpIRWp5T1E?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 04:45:00 GMT",
+      "discoveredAt": "2026-08-20T04:56:24.353Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1862887385",
       "title": "Kenya's land surveys goes digital as technology tackles boundary disputes - standardmedia.co.ke",
