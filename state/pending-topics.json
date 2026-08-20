@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-20T14:32:54.090Z",
+  "generatedAt": "2026-08-20T15:10:15.348Z",
   "candidates": [
+    {
+      "id": "t_2141851310",
+      "title": "Supreme Court halts EACC recovery of Sh1.5bn Ruaraka schools land compensation - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV29WSXFXMDR1YVJ1UFo2Z2taNzZXTlRYQUJJRmhQYnRSQlBXbWJrYzhaVXI4d19wTEFpSTNUUzE5SzQxbmtzRGhEbVlXcDBXZGYtMHhhN1YtenA5SHVZdWJDNlh1RkJFYXBTdmtSWWwtVDh6am9ESGVBQS1RWnhBZW1pY1Q4WnV3dXZEbXdxa2RfSC1LYWtTaFBhZHc2N2lGbzU4Q0pYTE5yMHZGTUI2Wm90bXY5cFpGMHZueQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:45:00 GMT",
+      "discoveredAt": "2026-08-20T15:09:00.982Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_692336974",
       "title": "Supreme Court halts EACC recovery of Sh1.5bn Ruaraka schools land compensation - the-star.co.ke",
