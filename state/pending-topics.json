@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-20T13:06:23.207Z",
+  "generatedAt": "2026-08-20T13:43:46.621Z",
   "candidates": [
+    {
+      "id": "t_210411232",
+      "title": "Woman arrested over alleged fraudulent acquisition of deceased estate land - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclZhT0dzWDNaeHJJQ1A3ZkFXQjNUcnMtTk5Rd1RhUGxXSXFOUDBmRGhDSnRiYWJSTTJ1OFN4U3l1TDhqcXZoNGFVRXBhd2dibFhSZXdPdDV4YkJIUHBwNEg5RnhDVGVwX1lGYVZHbjJUMHA1cHNfcnpqdnhmREk5WTVoTnhjTjY3N0ZWeWRIMWZpV2h5X095NWNEaldGdw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 09:36:28 GMT",
+      "discoveredAt": "2026-08-20T13:42:34.166Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_651855199",
       "title": "𝗔𝗥𝗥𝗘𝗦𝗧 𝗢𝗙 𝗔 𝗟𝗔𝗡𝗗 𝗙𝗥𝗔𝗨𝗗 𝗦𝗨𝗦𝗣𝗘𝗖𝗧 Detectives from the Land Fraud Investigations Unit (LFIU) have apprehended a woman suspected of fraudulently acquiring a parcel of land associated with a deceased estate. Agnes Wairimu Gachanja was arreste - x.com",
