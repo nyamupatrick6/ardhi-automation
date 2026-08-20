@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-20T09:30:53.503Z",
+  "generatedAt": "2026-08-20T10:05:33.218Z",
   "candidates": [
+    {
+      "id": "t_292921967",
+      "title": "(no title) - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OdXdaSTVudmM4QnplNDZ2bTg3RnhUX2NreUZOZERGUmVqRHdEanpKekN4LWpyTlRBOUJkMk5YeUVxUFpJQnc?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 09:36:28 GMT",
+      "discoveredAt": "2026-08-20T10:04:19.889Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1610003949",
       "title": "\"Unlawfully seizing estates\": DCI nabs woman over KSh 800k father's land fraud - Tuko News",
