@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-21T19:00:49.131Z",
+  "generatedAt": "2026-08-21T19:32:39.051Z",
   "candidates": [
+    {
+      "id": "t_1997574314",
+      "title": "NeoGeo raises $20 million Series A for geospatial expansion - Tech Observer Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObG1YZ2RoLWh6ZVJ1YVMxT2pSSGZKdG1lUGxyWVpYUDhQSnM0QkxDR19EOU5qTzhXWUVYN292VjMyRUxDV0ZhNUk1YTAtazJVYzRneDZwSDAyMnBZd0U3X0F3R0t1Q2hnVDJmQW1XTUxLNXIwRllVelZSSUVSRjVsMWROSXZGWGxQSjRPZ0FmTDBwVG5kcVHSAZsBQVVfeXFMT2tJVHhacjlTMjhmZms4a1ZhZnBpMDRRcl9IU2RUVGxjbEFJRy1OUGZEQndrZWZ2dlJINFBZdWZHV1F3TmMyRDRDUkZUQ1E1Q3RtWHFVTEd1V21zemlONEI1X2h5S0J0Q0hSdTBXMkFsUzhsUmNJVDg0NFNvLWpfN1l6V2diN2ZUQmFwaDI1QWhqZ3dvSDJnYmJzNWM?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 16:40:46 GMT",
+      "discoveredAt": "2026-08-21T19:32:33.964Z",
+      "sourceName": "Tech Observer Magazine",
+      "discoveredVia": {
+        "query": "CORS network expansion",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1884210110",
       "title": "Joy as county government renews lease for Nakuru athletics club’s land - Kenya News Agency",
