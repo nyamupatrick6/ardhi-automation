@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-21T06:40:05.343Z",
+  "generatedAt": "2026-08-21T07:28:40.208Z",
   "candidates": [
+    {
+      "id": "t_1982777092",
+      "title": "NV5 expands airborne mapping capabilities with Leica TerrainMapper-3 LiDAR airborne system - dr.leica-geosystems.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYXpRUUdhVGctYW1VcjREY3JvVVI5REFMcjQ5REN5dF9Yc0ZxZjNKSTFwbUN3VXpDdkVVT3ZIMWYweFp2dWxlUDIyTVB1N0dmTU9pUk9FZXlJeFJQVVgtWEJERVR1NnRLZDBLT25SakhBbFBGa1pNMVdUMjI1dmpvUEwzMzNjT0wyclRWVldReXN3TlNmX0lPbldXNmJqTklRNEg4eFQ2d21LQ3F0cGxpdkhObjRiWmVTR1RrVE1NZTlPQUVXLXN3TTZ5UzluNWZ5dlZBWWczXzRES3Z0UFhIQWxIY1NGQVRRc1c5TUVn?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 07:32:07 GMT",
+      "discoveredAt": "2026-08-21T07:28:12.904Z",
+      "sourceName": "dr.leica-geosystems.com",
+      "discoveredVia": {
+        "query": "site:leica-geosystems.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Leica Geosystems",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1261351389",
+      "title": "Road to INTERGEO 2026: GNSS Moves Beyond Surveying - Rivistageomedia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNS0xZnBRYkh5SG96WV85YnN1LXFkUl9KOENJZzlWU1I2YUkzbzRsUHgyd2xhNUtidGpfcFNFYllxSGhXSnUzY19qOFZSM1cteHJGNmJ2N3ZiSVNWSUt0d1RQOGFEeEpGWU1GTWpObEVnY3g4OWZndkZsWFg0U3l6c1VKazRiMlFkSVpiR2tRSUdfNElEM1J3NEdkaEtWZFQzSV9VQkV3?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 06:21:32 GMT",
+      "discoveredAt": "2026-08-21T07:28:36.534Z",
+      "sourceName": "Rivistageomedia",
+      "discoveredVia": {
+        "query": "digital twin surveying",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_337695428",
       "title": "Political violence may land top leaders at ICC, warn experts - standardmedia.co.ke",
