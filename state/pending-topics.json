@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-21T09:03:38.154Z",
+  "generatedAt": "2026-08-21T09:55:29.799Z",
   "candidates": [
+    {
+      "id": "t_2138346807",
+      "title": "Kenya's land surveys goes digital as technology tackles boundary disputes - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oZ2E5TTRFdmJia0FCU1FSSUlWTDFTVnU3TFVEUHAtZC0zZXJEclZRTDBCa2NTVmdPbExUQ1E0V0R5bmEzS3A3NUhaTm10R180SDc4T21DMnVTYjU3ZnNsdWNFNlQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 08:15:12 GMT",
+      "discoveredAt": "2026-08-21T09:54:34.502Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1232355841",
+      "title": "From Wealth to land and power: Why Purko Trust is at crossroads - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSHZnMHBDRzhoclgtN1NDNlJXWktPZHBLdWxKeE9mMjhqbk1Pb1daX3BMVVFOazUzdy1vMGtKVnowZlM2Rkd3NzhIUG81Rnc1UFRlTWR2MDVjZy1veWNlT1E1Z2lCNnhpRDhTdEYtQWhsY1ZIY0dLM09pSkZMQ1FwenY5QXA2UzdXaDFsUm9mdndfU1pJRDE5S3c1RXpLZy1tMVlGNlVtSy1UT2VNTmRhckt1MGVnRTAtLV9yOVRXTQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:24:26 GMT",
+      "discoveredAt": "2026-08-21T09:54:18.419Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_80945802",
       "title": "Kenya strengthens biodiversity goals through joint official and community land data - LinkedIn",
