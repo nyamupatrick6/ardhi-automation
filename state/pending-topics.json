@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-21T13:31:29.772Z",
+  "generatedAt": "2026-08-21T14:17:56.150Z",
   "candidates": [
+    {
+      "id": "t_1258485093",
+      "title": "Can Kenya's Land Reforms Protect Ordinary Citizens? - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1kyTVNzTG1OODdpV05UWW02c0RuODYzRVpmeTd1a3hERm9MLXk3VXVsYnB1WEFSVnZzYmdDWnlHOTdOc0E1eFNFNl9vOVhvN1BUQTVtNUZTcHVtYndXcGp6M1JvWml2cVY0Q3ZhU1VFU0hmaS1HbEFQa2hrWVdOUUcwLTRHck1MSl9mV0hoVzBOdkpvRnJxamNZZmQxOVZPblBYcHdHQmp5S0o2cV9RSVBxMFlMUmNyc1AzT9IBvAFBVV95cUxQb1kyTVNzTG1OODdpV05UWW02c0RuODYzRVpmeTd1a3hERm9MLXk3VXVsYnB1WEFSVnZzYmdDWnlHOTdOc0E1eFNFNl9vOVhvN1BUQTVtNUZTcHVtYndXcGp6M1JvWml2cVY0Q3ZhU1VFU0hmaS1HbEFQa2hrWVdOUUcwLTRHck1MSl9mV0hoVzBOdkpvRnJxamNZZmQxOVZPblBYcHdHQmp5S0o2cV9RSVBxMFlMUmNyc1AzTw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:09:00 GMT",
+      "discoveredAt": "2026-08-21T14:17:23.004Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "community land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_78948929",
       "title": "Can Kenya's Land Reforms Protect Ordinary Citizens? - standardmedia.co.ke",
