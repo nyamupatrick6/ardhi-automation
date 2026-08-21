@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-21T11:46:39.819Z",
+  "generatedAt": "2026-08-21T12:39:31.404Z",
   "candidates": [
+    {
+      "id": "t_78948929",
+      "title": "Can Kenya's Land Reforms Protect Ordinary Citizens? - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0ktZVFqYnJmYXBCUlZONDFraTFUdjhwMVowTzJLbDNDemdFTUJmbmdFM0hoLWJNOTl4Z1VOaWk2bFFlQmhYMXhnMl9rN2xNdHZJQnF0eFVIS2k4T1lnRFo5UHMyVzhzZjdDZUpNUUllS1AtcTZKYUROdTJtTW5oOHdrWkJndHFTUVhxajg4U08wbWhXTUlaWm02dXRvSFppYTFYNlNkVVFoZ01sdk9va3g0QQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:09:00 GMT",
+      "discoveredAt": "2026-08-21T12:38:38.180Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission investigation Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_120286597",
       "title": "Can Kenya's Land Reforms Protect Ordinary Citizens? - standardmedia.co.ke",
