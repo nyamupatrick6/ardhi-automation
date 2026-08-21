@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-21T07:28:40.208Z",
+  "generatedAt": "2026-08-21T08:19:15.740Z",
   "candidates": [
+    {
+      "id": "t_80945802",
+      "title": "Kenya strengthens biodiversity goals through joint official and community land data - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ0gwcTNMMExaS2FSNXpYM2pPOXFJbVhiZ2hraVZjclFRTTc5SGFtbmo3aThyZVdJd3BLbFR4SXJmaUZ6TTF4YmswZWpxaUU1SXhrVHhKX3NUV0ltTHRMNGp4ZjBjTjV5NVRDdURRSlJnOHNiSWpqSFo4S0JFQUNKSFdtazN1X0xnb0stX2FtaWd0SFVCT0pMV19EQU1YNHZHbktRSmJuLTJFaG52bjFyaXl0dnU4c3duM3ppSHZmamE3RUE?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 16:56:02 GMT",
+      "discoveredAt": "2026-08-21T08:18:22.194Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1982777092",
       "title": "NV5 expands airborne mapping capabilities with Leica TerrainMapper-3 LiDAR airborne system - dr.leica-geosystems.com",
