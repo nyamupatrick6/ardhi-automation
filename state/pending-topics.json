@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-21T15:34:56.217Z",
+  "generatedAt": "2026-08-21T16:03:43.352Z",
   "candidates": [
+    {
+      "id": "t_1884210110",
+      "title": "Joy as county government renews lease for Nakuru athletics club’s land - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXFyS0NUc3dCMGVuY0NNd0FYRDZLNXM3VjhqcS1JQVhaeFVYU3Rpam5CWllqdGNpMTJzVGYxejI4V3FmSWQ2Y0o5OVFLTkNqZ01uOXpVVnFaaVlDS3J1eTNoT1FkSmdqb0JyTC02TlB6QXJHdzdReTB4czRvZ2lScHBfVEctVUY5WjllcDh3NVJDZkpLd2tOenVLb254cHM?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 08:08:35 GMT",
+      "discoveredAt": "2026-08-21T16:02:33.614Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1258485093",
       "title": "Can Kenya's Land Reforms Protect Ordinary Citizens? - standardmedia.co.ke",
