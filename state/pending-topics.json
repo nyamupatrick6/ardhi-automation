@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-21T11:02:26.493Z",
+  "generatedAt": "2026-08-21T11:46:39.819Z",
   "candidates": [
+    {
+      "id": "t_120286597",
+      "title": "Can Kenya's Land Reforms Protect Ordinary Citizens? - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0txZGh5bnVMUFZ4cGlJZ2MtMWN5aDllM3JlV210TFc2MXZpLXcxc2hFTWg3eE5IWTROUDlqNWFkUHRuU1ZMQkgxV2c0SWRtcFZwUkExNDZfX3hiS3RFckVOTTFzRk1VRnpxSFk3eEQyb29PM1NSdFU3NHVoSDJRMVc2TGNCOWJhMjhEOHFLMDFNNUczNXFpeHdhS1dsMlJBNWJGRHpKSHdlRDB2dUE?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:09:00 GMT",
+      "discoveredAt": "2026-08-21T11:45:12.958Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_199073382",
+      "title": "Lucy Afandi: Kenyan Woman Lands Key Vatican Role After Pope Leo XIV Appointment - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTZGbXAxX3J1NklfNFpnNFJEcnlYMlJRamZQVkRjZUYzVjZYMUZfN0F2b0Y4eFFFaVdDbnBrRkxhNTYwZC0zYUpiQjlQRGMwaUFIWEFMcUZYOUVrMlBJUU5IejNFaTNzdERLS2l2dTBFVnlhOGduRHh4SWstcUI3MGFMY1dzLUpkUnNxTDI4S2g3STl5SWZaUUtNY0FxMFNQdS1fb1FVNzR1a0hfOEE?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 12:08:07 GMT",
+      "discoveredAt": "2026-08-21T11:45:23.748Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2138346807",
       "title": "Kenya's land surveys goes digital as technology tackles boundary disputes - x.com",
