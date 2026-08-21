@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-21T21:24:16.463Z",
+  "generatedAt": "2026-08-21T21:57:45.114Z",
   "candidates": [
+    {
+      "id": "t_397829198",
+      "title": "Kenya’s push to unlock the economic value of land is raising a critical question: can the country pursue redevelopment and economic growth without displacing communities that depend on the land for their homes and livelihoods? - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41RlBrM250UFBKTlRZb21VMGdTcWlITFMzV2tLeU05M3BoVUQyTW9PdklIVlN0czFURnl3MUl0cjBydGIxcXh3SG1qODdWZHozSkwzUjhyQTVNS05FTDZkWVZsWUI?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 12:15:16 GMT",
+      "discoveredAt": "2026-08-21T21:56:48.143Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1997574314",
       "title": "NeoGeo raises $20 million Series A for geospatial expansion - Tech Observer Magazine",
