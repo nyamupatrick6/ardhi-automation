@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-22T15:40:45.148Z",
+  "generatedAt": "2026-08-22T15:57:30.514Z",
   "candidates": [
+    {
+      "id": "t_1960695800",
+      "title": "KeNHA, NLC Issue Notice to Landowners for New 215KM Road Projects - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0MyVDF1QlhIZXNock1QMzNEMUpIX2ktNHVSdW9PTkh5ZXpmQWFRUGI0bW5qelluemVVbW5EOWZOeTk1bnhyMWNXbm5iWGM5dXYyS3NWNGNLd3NZdE1lYm83OGFYMWxxOVJGdmJmU29SYlFLMnhYeVlzOXBpQkMyVWc4Ri1aU1hsLU1IUTh4RTgyanpMZlJmV1hCYkUzbUwxMml3?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 15:19:11 GMT",
+      "discoveredAt": "2026-08-22T15:56:19.786Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1697745094",
       "title": "Land fraud an existential risk to financial institutions and economic growth - standardmedia.co.ke",
