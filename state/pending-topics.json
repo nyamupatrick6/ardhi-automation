@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-22T09:46:39.794Z",
+  "generatedAt": "2026-08-22T10:19:25.695Z",
   "candidates": [
+    {
+      "id": "t_1319811641",
+      "title": "Firefighters hit advancing Spain's Sierra Calderona wildfire from land and sky - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEI0TU9FUEFyam5YaXRnZG5BTkVBRjRhMEQ3MjNSbHdPQ1hfTHhkVW1IVUF3OFY2YUN5Zi1IR0VRaDZrV29QLVNjZWhrV0FUX21DenRrd3R1ZXlMWU1GRnBXTGlNNUtRZS1ZYzlDT0xXemZVdUtZYUJzMG03cHdqeFFlNndvNVVPUkNIMG9RVENPektyWlE3cUEyRXdFLTNfa1NqYV9NQU9aNEJWYVRnd3NsUVVqMkcyOGV5cjJSR2RjZy1pTlpkN2YxRWlEY3pF?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 05:35:46 GMT",
+      "discoveredAt": "2026-08-22T10:18:14.483Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1676808144",
       "title": "From wealth to land and power: Why Purko Trust is at crossroads - standardmedia.co.ke",
