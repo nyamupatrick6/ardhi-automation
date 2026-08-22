@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-22T03:12:34.409Z",
+  "generatedAt": "2026-08-22T04:00:21.420Z",
   "candidates": [
+    {
+      "id": "t_1676808144",
+      "title": "From wealth to land and power: Why Purko Trust is at crossroads - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2RtVU15RnZKeHJodzlpWC1YNkU0OUFaWlNvUjg4V1ltY2tIWnNJVmk1XzgyTTR5d3d0ZFVpZ2xxcjY5amQ5REp4em50ZVE3MDRRWWE1VVNnSDRjWWUySUxJTnRjcm5ZWmFod0tjbXZwRG8xUXJWbTVyd3VBVmVwd0xwWllPY2FIYkVvOFNHa3VwTkdCbnk1ck8zVWlGTkJPcDBERGVhbFRTc0xHSUl4RG1iNEdrWkJibkRINnJFdmV5VFczNXpBcjJMONIBywFBVV95cUxNa2RtVU15RnZKeHJodzlpWC1YNkU0OUFaWlNvUjg4V1ltY2tIWnNJVmk1XzgyTTR5d3d0ZFVpZ2xxcjY5amQ5REp4em50ZVE3MDRRWWE1VVNnSDRjWWUySUxJTnRjcm5ZWmFod0tjbXZwRG8xUXJWbTVyd3VBVmVwd0xwWllPY2FIYkVvOFNHa3VwTkdCbnk1ck8zVWlGTkJPcDBERGVhbFRTc0xHSUl4RG1iNEdrWkJibkRINnJFdmV5VFczNXpBcjJMOA?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:24:26 GMT",
+      "discoveredAt": "2026-08-22T03:59:02.144Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1787361795",
+      "title": "Can Kenya's Land Reforms Protect Ordinary Citizens? - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3Axel9pTkg3UDVYclF2Z0Rmb3JVVFlaUTc2WUZDVW0weTdTeVFaZHl0UFcweHFvTlIyY3JwM0dUWmJQVVdpWXFkTFpOczhSMzFUMDZnb0ZnWlE4eFFkRm4tRF9janVjVGl4T0tmNXliOU1tOGREWk5EM3NOQ0RxU2RpUjBBUEt5c3J6b0VpUFdrV2pVclFsVVZ5cFlnVzlCbjNJUk9OT2lWeF90cHJRVGpraVVrMHlmaEHSAboBQVVfeXFMT29wMXpfaU5IN1A1WHJRdmdEZm9yVVRZWlE3NllGQ1VtMHk3U3lRWmR5dFBXMHhxb05SMmNycDNHVFpiUFVXaVlxZExaTnM4UjMxVDA2Z29GZ1pROHhRZEZuLURfY2p1Y1RpeE9LZjV5YjlNbThkRFpORDNzTkNEcVNkaVIwQVBLeXNyem9FaVBXa1dqVXJRbFVWeXBZZ1c5Qm4zSVJPTk9pVnhfdHByUVRqa2lVazB5ZmhB?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:09:00 GMT",
+      "discoveredAt": "2026-08-22T03:59:02.145Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1363910570",
       "title": "Pastoralists call for recognition and protection of their lands - the-star.co.ke",
