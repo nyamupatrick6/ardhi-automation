@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-22T17:42:37.208Z",
+  "generatedAt": "2026-08-22T18:24:21.081Z",
   "candidates": [
+    {
+      "id": "t_48226746",
+      "title": "28 Bomet, Kericho students land Sh22m university scholarships - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGJ4VG1TOFVzOV95YVJPY0FUc2N4TkRURmZVTHFLVHhUbTROYXA1NU5wbkR1UUxuTUJ5NkxyYTJyeGI1UllDTG5XUWk2WjVWalRLMG5sT216SnQ5TUVaOXc3Z0JzMjdwYU8taFN2RHYtS0JDbTd6bHVkdTBySXJmb0w2VnZyVWFWR3B3SkRUSVQ1d09nMFpNc21abHhSYjJmeTAwc1d3?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 18:07:00 GMT",
+      "discoveredAt": "2026-08-22T18:23:04.354Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1086593645",
       "title": "Firefighters hit advancing Spain's Sierra Calderona wildfire from land and sky - staging.the-star.co.ke",
