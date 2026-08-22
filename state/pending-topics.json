@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-22T16:57:31.139Z",
+  "generatedAt": "2026-08-22T17:20:08.438Z",
   "candidates": [
+    {
+      "id": "t_1086593645",
+      "title": "Firefighters hit advancing Spain's Sierra Calderona wildfire from land and sky - staging.the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT2FZU09hcDk5bDd6TmQ3SWo2RXMzUXZmLS1vcF9nZGhSUTlxb01mcG53MklqTGdJSVFqZVdMTDUwWkQzV09LbDRmMnBpV2pZbTN2V2tJM2FRaW95eG0xZm9SWU96UmJiZVdqaFlTQjVSSXVHTEhNeXJfREx3TTF3WWlQd0U4dE5xNkhFY0VpQXdXZENUTHhQdzZxTXdRV0dMa1VqSnV4U014R01WRUQ1LUxsMHFPOF9JRnZyTkNQakpNRU5xSnRSd3ZFS3R6VGRHM3IxZFBn?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 05:35:46 GMT",
+      "discoveredAt": "2026-08-22T17:18:53.555Z",
+      "sourceName": "staging.the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1960695800",
       "title": "KeNHA, NLC Issue Notice to Landowners for New 215KM Road Projects - Kenyans.co.ke",
