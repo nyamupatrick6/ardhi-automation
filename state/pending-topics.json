@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-22T13:48:55.869Z",
+  "generatedAt": "2026-08-22T14:17:52.438Z",
   "candidates": [
+    {
+      "id": "t_1697745094",
+      "title": "Land fraud an existential risk to financial institutions and economic growth - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcFM3TE1Zam03NWxsVHREMnhBVXN1S3prb1l6N3FDOHJ6WnEtbEotMVRlSWZqT0lKdmZNaHp1OE14TXFMTGRrNUY2RnRNbUVhQlJDYkFnUWJRSzktV1RnTDFhWXpkWnBwZFE2amVIWHdWVlhIT3lrRl95R1lMcjBmQTUyRFJ3R3d1NzlsNGFWaFFzd0pfakRwNWtKbkdPWEloTjZHMWIzN1k4YWhxZEZZS0VnajBxYkQ4cENjOGxScHFneklRdjFrbl9TR0hybUxRYjFEQldUaDlmamtN?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 21:00:00 GMT",
+      "discoveredAt": "2026-08-22T14:16:35.439Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1051011402",
+      "title": "From wealth to land and power: Why Purko Trust is at crossroads - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVZwQkZEbjNyUjRNWktTQ3ByNnBLS09sb09PMzRfcXhKOVRLaXZ6SC13aUljVDNtRHFqZTlJNHFRbU5ScVp6TmRwcDZmSWdqZFg3T21OVkcydjRoLTJCc2FOejcwUzFndHlrSV9WT0xjYlZXcWVYdlNwdGtYcVZzNGZySVpyYUMzRElIWUh6bTVOYlQzWjRoU1ZRX19YQXZ2Q0gxLUlsRlBzOERYUnVEbFpDbjlXQmRjVExiQy1mcElXN1FWS0dsT0ZWbVRhUGs3MkpZTXdlbU5Xc09zcUgzQw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 09:24:26 GMT",
+      "discoveredAt": "2026-08-22T14:16:35.439Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1319811641",
       "title": "Firefighters hit advancing Spain's Sierra Calderona wildfire from land and sky - the-star.co.ke",
