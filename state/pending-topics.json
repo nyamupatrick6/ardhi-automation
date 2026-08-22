@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-22T01:01:04.251Z",
+  "generatedAt": "2026-08-22T02:19:35.680Z",
   "candidates": [
+    {
+      "id": "t_1363910570",
+      "title": "Pastoralists call for recognition and protection of their lands - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlB0SW9uWVdtakFZYy1JWmhVV1dlZEpvNHRXczdtUUtjWV81Q1VpUUpVUWJrTE9ST0p5SW8wUVowRlFFWko2RGtneUQ1aDR2Y0U1LWNVR29pVXBGNkE1akFvNzZvVF9oNkY1STFHVGFDNXVxOXY5UkloNERVVmVjRjF5aXRwLU1vRHVfSjFqdEtRZ2lScnJYdkFzdFlEdU9UWC1TcHI1YUM3UQ?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 01:54:00 GMT",
+      "discoveredAt": "2026-08-22T02:18:18.481Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_397829198",
       "title": "Kenya’s push to unlock the economic value of land is raising a critical question: can the country pursue redevelopment and economic growth without displacing communities that depend on the land for their homes and livelihoods? - x.com",
