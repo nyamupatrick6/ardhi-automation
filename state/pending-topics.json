@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T06:00:01.960Z",
+  "generatedAt": "2026-08-23T06:51:45.161Z",
   "candidates": [
+    {
+      "id": "t_331452318",
+      "title": "Govt Targets Del Monte’s 21.7 Hectares Land For Takeover - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YMW1SOUx2RmFjLV9wdExpeHBTWmxVZG5KQUtQa1Rpb2ZiTXFRUUlfVFpfcHBpWGpNVlhqWnpUUnFya1Z0Wk9ncWtMMlhmNWt3eUg4WHJrYURWZTd1clZxcDY3Vng1cEU5ZUFDeGgwbGRwWkxQSV82WEh2RVFwMFk?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 06:02:05 GMT",
+      "discoveredAt": "2026-08-23T06:50:40.319Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_48226746",
       "title": "28 Bomet, Kericho students land Sh22m university scholarships - the-star.co.ke",
