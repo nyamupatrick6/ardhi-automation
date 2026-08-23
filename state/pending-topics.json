@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T16:48:31.613Z",
+  "generatedAt": "2026-08-23T17:18:11.982Z",
   "candidates": [
+    {
+      "id": "t_1915732871",
+      "title": "Restoring land and hope: Kenya must see the economic opportunity - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZzBtWkQ4YjlOUEhZOVdSVXRSVVg3Q1BkbDIweWJTTnFnX2d4Rk9JNFkwaVhyZnh2cnd0aEdQbXFzUE9XTzVXcURJUXMtZU1sTmx5eFpZN0dqODRxdmh6dVJidzZTVkdDckg5NkpOZFVOY0lNMDZlbGwxdDBVVXNlTHUtLW1HRVRuOHg3bFVfMjg2SXJBNmlFNlBYVW1NNUlqWmY3bEpBUzF1blNEUmI0d2h3TWhuYUZiNE5wNUNzWlR2MFNzTTRqREF2R2hQdDA?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 16:57:36 GMT",
+      "discoveredAt": "2026-08-23T17:17:00.250Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_318330349",
       "title": "Arsenal to Retain Title? Supercomputer Predicts Premier League Table - Tuko News",
