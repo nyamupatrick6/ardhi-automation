@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T16:20:55.787Z",
+  "generatedAt": "2026-08-23T16:48:31.613Z",
   "candidates": [
+    {
+      "id": "t_318330349",
+      "title": "Arsenal to Retain Title? Supercomputer Predicts Premier League Table - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelp5R2NpczVmZ21mdFJwNjdYMnFIMDh3Y29ncUMwZkctR2dYcHdpcDhBYTBMMHJzcUpBS3lyWWR1aERBR2RlUkk1SEd1dkQ1TzFwSUtDdE94WHJ4TEhTMEpZYUk0S2ZFN3cyWWRsMUt5SEZtMEV5dExBRkhab01DQnVfc0JlU0ZMOGtWMUpic2NYVTVic0pIbkZXRkVnZXVhdWc?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 19:55:58 GMT",
+      "discoveredAt": "2026-08-23T16:47:20.940Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1847133472",
       "title": "M-PESA is indeed operating on very shaky ground. When true instant interbank transfers (1 second or less) and tap-and-go payments (phone to PDQ) properly land in Kenya, M-PESA is done. M-PESA wouldn’t cut it in Europe: too slow, outdated, and cumbers - x.com",
