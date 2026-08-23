@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T17:40:47.062Z",
+  "generatedAt": "2026-08-23T17:57:15.700Z",
   "candidates": [
+    {
+      "id": "t_1301180199",
+      "title": "Aerial views of rural Kenya reveal a land rich in tradition and culture. Cultural connections bring people closer together. Kenyan Kikuyu Chief Baba Gitau says, “Ansai paper-cutting—good!” #ColorfulAfrica - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDQklRY09UOWpZeDdUWGxSbnBSVTNpeG1paXlvUEY5MVQwUkoyMkRvM2R2LWZZSU1XREVPaXBHMkVMM2VlUXdjaHZHTGxsOWZXRy0xZWFXbXVsRGlqeVFCYmdzdmQ5cGs?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 05:00:01 GMT",
+      "discoveredAt": "2026-08-23T17:56:18.112Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1915732871",
       "title": "Restoring land and hope: Kenya must see the economic opportunity - Business Daily",
