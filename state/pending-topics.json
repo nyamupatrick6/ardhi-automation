@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T21:18:29.018Z",
+  "generatedAt": "2026-08-23T21:40:58.869Z",
   "candidates": [
+    {
+      "id": "t_491177128",
+      "title": "Ex-Lands minister Amos Kimunya acquitted in Sh60m Nyandarua land graft case - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMndlM1M5RUUwNlRCUnRrMTNLTGpjeDJIcFEwbUNqRGw4d1dEdmptWHJRZlVvRHl3b0J5RVBxeHUtd0pjWHc1YTRINnVpN2cwZml1cDZFOFhuVDZtTVd1MXJxeHZZMGFjM2JJUGtqTFdnMnctdTBOWkw2ZEhVdWpoR0pWdnBJaFZLWjlBY29Mdi1FbHI3Q29iVEdiYld3ZHRiSndoRUctNS1Zb3A3WWQ1YUZGeDhIY21zM2hsUVM2bmMzUWxTOHNUZUdCLW1lTTJkTmVNQXlWYi1JaGNkSkVCX3Y3RjBlb3oxc2c?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 03:06:07 GMT",
+      "discoveredAt": "2026-08-23T21:39:44.729Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1301180199",
       "title": "Aerial views of rural Kenya reveal a land rich in tradition and culture. Cultural connections bring people closer together. Kenyan Kikuyu Chief Baba Gitau says, “Ansai paper-cutting—good!” #ColorfulAfrica - x.com",
