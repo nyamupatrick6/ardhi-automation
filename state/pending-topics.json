@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T13:29:59.441Z",
+  "generatedAt": "2026-08-23T13:58:21.974Z",
   "candidates": [
+    {
+      "id": "t_936032646",
+      "title": "Drylands are economic assets - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUhXS1JOdmVnWV9UN044dzdHWkJSa0hZcm9YbThWeHBXeVd1dzRtTDdmaWFhVGNkSWVMUmx4aHZfbTlIVVNiSGpFSE1OUnptNzctSEZKcTJSYWJxeWVuOTZMNWE3c210c3VyaXR3bU5hQ00ySkJaSVg1aGYtSXlfZzZYQVcwbHJSWjVzYjV0cw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 21:00:00 GMT",
+      "discoveredAt": "2026-08-23T13:57:04.138Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1446701250",
       "title": "Multi-Million Company Put on Notice as Govt Moves to Acquire Land - Kenyans.co.ke",
