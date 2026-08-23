@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T10:20:20.676Z",
+  "generatedAt": "2026-08-23T10:46:38.773Z",
   "candidates": [
+    {
+      "id": "t_1446701250",
+      "title": "Multi-Million Company Put on Notice as Govt Moves to Acquire Land - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdldDTV9RQl94R0UxbEVmZFBCVjNrTDBfX3BiVEU0ZXY1MmhfRjMtY0hDRWJybERqNXkwRWhRam5xMm8wNGdZMUNhZVZBZ2ZUc2RKNmcza25XNy0yT2Q5MDIxSWF3MDVUbnVmZmJPZ0ZEeERsaVFkR2I1UFlKQ3ItUjhqNzNkelg0SV9JZDdVZS1TcUFSQkpsUmRHQVM?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:28:13 GMT",
+      "discoveredAt": "2026-08-23T10:45:14.393Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2003148608",
       "title": "Wetang’ula And Amason Kingi Land New Gov’t Appointments To Scouts Association - The Kenya Times",
