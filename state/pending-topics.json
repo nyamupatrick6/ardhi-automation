@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T15:23:25.145Z",
+  "generatedAt": "2026-08-23T15:55:45.020Z",
   "candidates": [
+    {
+      "id": "t_1847133472",
+      "title": "M-PESA is indeed operating on very shaky ground. When true instant interbank transfers (1 second or less) and tap-and-go payments (phone to PDQ) properly land in Kenya, M-PESA is done. M-PESA wouldn’t cut it in Europe: too slow, outdated, and cumbers - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1INWptdDFvX0tNLU5EUjJNUkMzNWJ4eHlGZXZQSUxpbDJzd3g0X2pCTGxPZjJHeEpUWGRmTThlZWpGTVQ2dURzTVI4ZGRoSHNkYlliMW1JZjNRZ0NpTHR6MldDWks3YWc?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 07:58:26 GMT",
+      "discoveredAt": "2026-08-23T15:54:48.113Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_936032646",
       "title": "Drylands are economic assets - Daily Nation",
