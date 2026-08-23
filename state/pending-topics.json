@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-23T08:00:23.137Z",
+  "generatedAt": "2026-08-23T08:38:46.755Z",
   "candidates": [
+    {
+      "id": "t_2003148608",
+      "title": "Wetang’ula And Amason Kingi Land New Gov’t Appointments To Scouts Association - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWUF6R0tJTkNNbnJneXhXWFZ6U1dZc0J6WkEwdVhtZ1BKWkd6eEhUSEtUaXFwRkdhTEZsRmdjVUZza1YyMjVpUzBOTHg0YkhaOXVzZ2tuaW9RSlZ2ajBvbjFQaTNPQWxkTmhhQl9MMWw3YXJBR0lRTVNxcThIVTRpZ2ZlUl9Xc25pMGNGeTRld1c3RHNKRXN2YXZsbENvckpTNDlrQ1Z1T3F4SUZhNGk1b0gwVXIwZWFwT2Fqcnl3TkNJNS1j?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 14:16:45 GMT",
+      "discoveredAt": "2026-08-23T08:37:32.439Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_331452318",
       "title": "Govt Targets Del Monte’s 21.7 Hectares Land For Takeover - The Kenya Times",
