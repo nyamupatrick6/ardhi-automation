@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-24T13:48:34.073Z",
+  "generatedAt": "2026-08-24T14:38:58.811Z",
   "candidates": [
+    {
+      "id": "t_1308664933",
+      "title": "Gachagua promises to spill beans over a plot by President Ruto, CS Joho and IEBC vice chair on electoral system - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KQmJPRjVoY0tPeEVmY05ZeGFUZm5QV0Nycmk3XzFrd2dzTndfNXQwNXFDaVFaWjd5amQzdDJSR1gyYzNRX2xPRlM3d2VZTWpTZmpVU0ZNWXZfVnkyZEJxQ1NBcThEZWpGUURqejl6Z2dnNlk?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 09:51:38 GMT",
+      "discoveredAt": "2026-08-24T14:37:56.012Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1238924321",
       "title": "Loan spam lands digital lender Sh1m bill - Daily Nation",
