@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-24T15:22:32.376Z",
+  "generatedAt": "2026-08-24T16:08:43.872Z",
   "candidates": [
+    {
+      "id": "t_1357923431",
+      "title": "Landlords push tenants to show payslips, tax records as rental vetting tightens - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGFOQlA4N0cyekhJMWs2WEFQaW1RaHdJbkZMMHpzNllkY3JYQUtJMjIxLUpoNzYtTWVMSDQ3N3E1Sld2dzNpZFp0TmVjamhEQ2ZVdlpsalhJcWYyWHBCV3ZpRFJnb2UyUlB2V05KVEFMUWFjcFlDaFlTaWk2ek82V1VXMHJNLUw5X00zb3p3Z2l5Ul9DajFuV3U3d0w5X0dRcFB4eXliRHJLQQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 15:45:00 GMT",
+      "discoveredAt": "2026-08-24T16:07:30.749Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1543264296",
       "title": "Blow For Kenya Railways As Court Delivers Landmark Ksh77 Million Ruling - The Kenya Times",
