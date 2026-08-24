@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-24T16:58:47.317Z",
+  "generatedAt": "2026-08-24T17:33:27.042Z",
   "candidates": [
+    {
+      "id": "t_755412875",
+      "title": "With #UNCCD #COP17 in full swing under the topic “Restoring Land, Restoring Hope” this is a great moment to reflect on what matters for land restoration and soil health and how knowledge, motivation and agency are intertwined in land restoration efforts. A - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1Rud25COW9wVTVhUFlBY09zem1YNkR1ZzdCN3hEalVPdTU4YV9CS0p5WnYtbkNvWXJkeGl1dGtHRVhMUjV3WUliR0xxdjVmNEZ6WVN1bjQ2djQxa0F6eWluS2hkYnhYclBpVy1mS000bFg2eGwzaUg5bHFqZjBWUmg1YVRSelF5Ym5VRk8zclFPUnhXNmZvbEFKM1RsR1A4ZnJZa3FGcF8?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 22:52:05 GMT",
+      "discoveredAt": "2026-08-24T17:32:32.291Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1357923431",
       "title": "Landlords push tenants to show payslips, tax records as rental vetting tightens - Business Daily",
