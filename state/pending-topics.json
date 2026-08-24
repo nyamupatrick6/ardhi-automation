@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-24T02:39:34.650Z",
+  "generatedAt": "2026-08-24T03:38:13.747Z",
   "candidates": [
+    {
+      "id": "t_1238924321",
+      "title": "Loan spam lands digital lender Sh1m bill - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0RFcjd2RHB5U1ZHcTE3TkZycDI2aThSY09FbTIxejVpeTU0YU9MRU9hOFVSazhXekdWOWxibjhtWDVITHMxWGd2cEQyNEw1YWdobE42d1VzWDNVMjVrVmxZRy1QS1c0cEMwcHNiU1VQM2hPU1EydXh5WEN1dDF3SVhodktVVHJqNGhJbTZB?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 16:40:50 GMT",
+      "discoveredAt": "2026-08-24T03:36:55.220Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_491177128",
       "title": "Ex-Lands minister Amos Kimunya acquitted in Sh60m Nyandarua land graft case - test.standardmedia.co.ke",
