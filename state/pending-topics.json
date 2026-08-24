@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-24T14:38:58.811Z",
+  "generatedAt": "2026-08-24T15:22:32.376Z",
   "candidates": [
+    {
+      "id": "t_1543264296",
+      "title": "Blow For Kenya Railways As Court Delivers Landmark Ksh77 Million Ruling - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkI2WDhfSm92Tlp4TkRnVGZsRzJZNTE1VGY0d052RktlV09LZjY4U2FKOEpHTnZ0N1VFZWZyOVlIWTJQbXdkQkhrR0NLUEJUcmFFWjFnN2tSVXZneEVnVHZkbjdrZ1dhWkYybzlyRDM0bTRld1dZdVZhcEtRbmF3N1dsa2ZOdWhtR3pEME5iWUR4Wlh2MV9yMlJJOFVxRThveVMtaDFBYnk4bWdsbG5xOG9VejUzazZrQkNfbjRJdw?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:55:14 GMT",
+      "discoveredAt": "2026-08-24T15:21:38.660Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1308664933",
       "title": "Gachagua promises to spill beans over a plot by President Ruto, CS Joho and IEBC vice chair on electoral system - TikTok",
