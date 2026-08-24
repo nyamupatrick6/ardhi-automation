@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-24T18:03:17.303Z",
+  "generatedAt": "2026-08-24T19:04:14.633Z",
   "candidates": [
+    {
+      "id": "t_1231049190",
+      "title": "Farmer accuses police boss of blocking access to his 80-acre land - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0RDVDU2NWFjbnFCS2FsVTVUSmdfNjJwNlhvdlhmb0V2M3VONzgyQlYyR3E5MHpvbmV1alBBaVphb0tqLTgxWDNTNlJfbERIMnNTVTFIT3RxV1QwVE11SFg2TGlqZFp5MW9nc0h6YWhsOGV0MEV2bGExN1JQd0Q1c0FzTzAwc0REdlNxcjA5c0F2WWxTYnZkUVRYb3gzbHp3MnNOem5OUDdfZFdGNjUyZmdvTU02bEZGYWN1MlItN3pXVWM?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:45:21 GMT",
+      "discoveredAt": "2026-08-24T19:02:57.394Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_755412875",
       "title": "With #UNCCD #COP17 in full swing under the topic “Restoring Land, Restoring Hope” this is a great moment to reflect on what matters for land restoration and soil health and how knowledge, motivation and agency are intertwined in land restoration efforts. A - LinkedIn",
