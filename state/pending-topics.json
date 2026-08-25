@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-25T21:00:57.933Z",
+  "generatedAt": "2026-08-25T21:37:01.464Z",
   "candidates": [
+    {
+      "id": "t_949780574",
+      "title": "'They want our land': Mother, daughter, son claim plot behind Mutiso murder case - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPelM2RmNCbGhJN0ExeHc2WTNqeDkxYWhMZnhUTld0enRrTTk3ZHR3NWRHOGdFVFpQR2IxbkF4V3VVM3Nqd091cUdSVnJoQTVPd3I1UkhzMWNkQmpuaTd3MGd6dXJCLW5hWmFGV29IWnM5N3pLbE1sVXdtVHZ2aGktSW5uMi1zbWc3U3B2eWMyUzhHSW1fXzRlOXRhS2ZiZVJZUzNZbTRaUWFCY09WV3VnZHZ2TVV5Nk1jUXl2UGZSbjJ4RmpnYWtZX0NpdFBPNTRnd0hMYjBtTlJpRFVz?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 21:00:00 GMT",
+      "discoveredAt": "2026-08-25T21:35:45.298Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1229016493",
+      "title": "Landing Mandera😀 Kenya’s most politically challenging airstrip Www.inventingschool.com - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91c25aNURIYUhLdkpVOEdlbmxRdGNFejlvT0hzdm9pcFQ3Qmk5bHBVUEZpczl6aTJBVnZuLVJlVjBVOEE0U19STTA1bmV4LUFTRDRDTllocGJQb2VxVVF1QTBfRnZwdDB4YVEwaDN3?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 16:38:19 GMT",
+      "discoveredAt": "2026-08-25T21:36:04.153Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_895197453",
       "title": "Ruto: Mau Forest secured with title deed, only fencing remains - the-star.co.ke",
