@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-08-25T12:40:33.593Z",
+  "generatedAt": "2026-08-25T13:35:02.962Z",
   "candidates": [
+    {
+      "id": "t_206990157",
+      "title": "A strategic framework for extending the Egyptian geodetic CORS network in support of vision 2030 - nature.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUWC1YM3FZNGlGeGZsNThoM3RJc2FacTYySHUwQ05RdFp6WFhRYU9aSS1LT0FlUUFVd0VxdUNJMHFWNG54eWY4WUlrd2FrdndKM1VCcTl3UmdiSzhjbWFJ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 05:42:27 GMT",
+      "discoveredAt": "2026-08-25T13:34:57.523Z",
+      "sourceName": "nature.com",
+      "discoveredVia": {
+        "query": "CORS network expansion",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_1325170572",
+      "title": "Geospatial programs up for two public sector awards - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVI1c2F5QUdxLUFMME5IaC1rZkJTTFNYd0pXYlNqRmN1Nmc2ckxTazlwNFVrMGhEZHRkTUVZeDJNRDJ3VEJvQS1pZVRFa2MwRGt1VzNtZ1Q1eEdqUFFLYURRSHhObS1aVy1WS180R0lndVhnSTJaWW9mcFlnWHZtdWZSeEVOSXpBaWJ2Xzh3?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 07:31:46 GMT",
+      "discoveredAt": "2026-08-25T13:34:48.392Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_102898626",
+      "title": "Leta payslip: Kenyans react as landlords demand tenants' financial details - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUxZdXJRbUVibEx1eW1YNUlUTF9LUWh2QzVySXNVdXcxNUpoT1ZleFpRNTY4MjI1eTlaeWo2SDJCekZEVWRJZFhKWV92dmlqQzIydFJVOHFfUm5rN2lXbmNGTG43bml0TzJycW43U1ZFLU8xTHgxUGZndVdQaWJORDZsR2dycTdCVzlLN2xMTUpqNkUtRFUtMmYtbVVPaW93bzVUTjRYV2pHYlFlcEdCdm0zRl81dW8?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:03:49 GMT",
+      "discoveredAt": "2026-08-25T13:33:48.026Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1170841108",
       "title": "Kenyan Woman Sparks Reactions after Claiming She Used KSh 35k Salary to Buy Land, Build House - Tuko News",
