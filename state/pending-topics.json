@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-25T19:49:35.337Z",
+  "generatedAt": "2026-08-25T20:25:04.081Z",
   "candidates": [
+    {
+      "id": "t_895197453",
+      "title": "Ruto: Mau Forest secured with title deed, only fencing remains - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOVVqYzBKWHRZT3ROQmhLM2VFQmNKR0gyWTF4ZEcwNUZDWDJDejkwNXZlYTBva0ltbjVKN043SDI0b1Fia0d2N1JIbmRnUlFGanZqWU82ZFlEZzU2TWFrNDl2SU5oWWJOaFhVbDNCRDd4UWlXaEJEdnlya21ZUDhzS2lTNU5hYlRUcE41MTlpYzYzc1BNaWVZTHU0dHl2aDlhSDdRdGZMY3RscVpLclJ5blJyY2FERFk?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 16:12:55 GMT",
+      "discoveredAt": "2026-08-25T20:23:43.609Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1850990736",
       "title": "BUG-000160135 for ArcGIS GIS Server /> - Esri",
