@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-25T13:35:02.962Z",
+  "generatedAt": "2026-08-25T14:26:29.537Z",
   "candidates": [
+    {
+      "id": "t_1874755619",
+      "title": "Nakuru squatters reopen 38-year fight over forest land - nation.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0E1enptdEZleGtydXp1RFBlZ2lRbHZyUG9sUUdWZThIMi1aS0EwQnc3X1MtLXN2S2RnUXFOenozM2ZYMTQ3Rk5NaElTMzFGVXV1a3Yyd0ZpWHRoVkd0bDRXdWFlUGlVd0UyZHE3Wmt6ZVJQSUhuRm9ndDktNTRsSHJpVjdJZXdkdXZ6UmJWeWtxbWhtNFNCLTFYY2p0YVdRVHByOFpxbEhOT3NfbXJxdGJn?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:22:21 GMT",
+      "discoveredAt": "2026-08-25T14:25:09.200Z",
+      "sourceName": "nation.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_206990157",
       "title": "A strategic framework for extending the Egyptian geodetic CORS network in support of vision 2030 - nature.com",
