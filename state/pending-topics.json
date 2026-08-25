@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-25T15:26:36.649Z",
+  "generatedAt": "2026-08-25T16:18:34.224Z",
   "candidates": [
+    {
+      "id": "t_168769752",
+      "title": "MPs grill PS over delayed Wajir Airport land compensation - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSmhqTHpSbUVBQkVEVi14N0g0SXVwdUxHYTgteGlObklVX3Z4b3RoU2tYbGFmdlVJOC14RW9qc2w0VWszbDVKSDFaVFRWQ3gtc1VwUlZvMXhlaEhiekIyVmJiYk1LRk1tNEZha0kzbXJObVBWb3REVDd6am1DRHBmTnNkaXVtenhHaGxKd2xMWmxnazI1dlZqbnpn?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 15:44:05 GMT",
+      "discoveredAt": "2026-08-25T16:17:11.529Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_627325041",
       "title": "Nakuru squatters reopen 38-year fight over forest land - Daily Nation",
