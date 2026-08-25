@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-25T06:40:27.544Z",
+  "generatedAt": "2026-08-25T07:30:46.894Z",
   "candidates": [
+    {
+      "id": "t_871159495",
+      "title": "Kenya pushes for global action on land restoration at COP17 - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFVRUFZQU2xRcnZsc19Tc2hkZ3dtZXNoc3BUdG5JbE1VbDJ3SWZEeWc0ekw2b3g1bUVTX1dkb2VjSDI1ZTdmTzYzTzdvOUlncnpubjhhSHY1WHpyaHdiTFNtZzBwZS1GTzFrNkRRTlJUNUVMekt0UFUteEJMQVVZRTNxQlBfSWhZbzZoY1BUMzgtUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 07:01:08 GMT",
+      "discoveredAt": "2026-08-25T07:29:40.869Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1231049190",
       "title": "Farmer accuses police boss of blocking access to his 80-acre land - standardmedia.co.ke",
