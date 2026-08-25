@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-25T23:32:07.832Z",
+  "generatedAt": "2026-08-25T23:57:08.172Z",
   "candidates": [
+    {
+      "id": "t_30072022",
+      "title": "Health data is Kenya's new land We must own it before it's gone - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUM4TjlrUnVMR1g3UDBwTVNaVlZ0ZnBjdG12R0FVQ3dHLUhZX21PMko5NC1XSnplRGNjY3VaM0Q5SjZLM0NEaHJyRVpBaTlNSW1JQTQxTHc0V1lQWDlycmpLNWNQeWQ0cThTWkRXWVh6c1R6RV92RmgxaXNxUEVGSUE2eU1Nb0x1dFA1U3dfbVo0VDI2Q1NzUzFjSks0NFNMQWx5a0RqT1p1ajdjZjlHNUdXTHhUN3lkd1hldUtxZHBYaUxDYWFoWHRtT2U0UW1YdklOMF9ZMDJXTWVYbFE?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 21:00:00 GMT",
+      "discoveredAt": "2026-08-25T23:55:51.169Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_949780574",
       "title": "'They want our land': Mother, daughter, son claim plot behind Mutiso murder case - standardmedia.co.ke",
