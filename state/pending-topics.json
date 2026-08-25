@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-25T18:03:11.444Z",
+  "generatedAt": "2026-08-25T19:02:03.659Z",
   "candidates": [
+    {
+      "id": "t_1850990736",
+      "title": "BUG-000160135 for ArcGIS GIS Server /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzkyTFo1elVHOUlIWTA0RFJnamhkdHFDV25teWNjSkUxb0dXZUpqaGIyeUIxWURzTWtKQ2hULWl0TmR1UGRkWDQtczE0Z0ROSFA2TVAzU0pRUVFRWUxCNUhlRWNTeW1nSXFRRy1McVZKdzd4SzA5bFFZY1JBUWxGelBWQUllQ1piZVg0SWJLQkJFMjNZVVVISVppRUgtZnU4cG1DRjkxUQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "discoveredAt": "2026-08-25T19:01:40.461Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1031278406",
+      "title": "Ruto: Mau Forest secured with title deed - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPenVwMU5LazU3UTk3bk1jZ2wtNlRaeUsxYU83SmItdU9wYjJpdkQzdXBOZTdMM2h1VUpmY2VOaTBwdnBCMnI4eWZiMld4eVJTcURFa2NMMFJKUkg1ZDJZZ3drMWhIV2dfVnJzN2xnaG5YNTNUeDFEMkhXUFdrdHEtZ29tRjV1OFNNRmc?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 18:47:00 GMT",
+      "discoveredAt": "2026-08-25T19:00:39.843Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_168769752",
       "title": "MPs grill PS over delayed Wajir Airport land compensation - the-star.co.ke",
