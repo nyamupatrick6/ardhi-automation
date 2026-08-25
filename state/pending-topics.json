@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-25T14:26:29.537Z",
+  "generatedAt": "2026-08-25T15:26:36.649Z",
   "candidates": [
+    {
+      "id": "t_627325041",
+      "title": "Nakuru squatters reopen 38-year fight over forest land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVlMYnhhU0FXSU9MUld5LTVyMVJaZVp6bm1HNUs2Y0JPV1g3VnR5dWJlRzJXTmpoSl9lcWdHXzN0cXJ5REFDamdfYVRfc0UwRlQ5WVZXejNCcG80VWc2a05wX0ZqaFYzM0UyTmZmVHNnektCXzFxVzJFeFQ4NUFxT0FSVXNlQlZHZ0VIMmU5dWsyaktZY19rZkw1Q05DM2o5NjNZTF9xSEVVUQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 13:22:21 GMT",
+      "discoveredAt": "2026-08-25T15:25:09.974Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1783279423",
+      "title": "TrustPoint, NovAtel demonstrate C-band PNT in GNSS-denied conditions - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0o4anJLdFNLcXYxRjR6UDRDdnlrbjg5M053TmVVNndhU3RSNmJqMGR5Tzg3MllpVHVHNXRzelN2Zl9zQ08tcGM3TG0yck9fWW45WGJickNWb3NjQ3RPV1F5cDZwZjFaY2pmeTJzSVVWbzJaZDc0YklGTmFRdVZTakpSWTRJOHpvMGRGeE1nOTQtT1BDc0tMbQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:50:43 GMT",
+      "discoveredAt": "2026-08-25T15:26:19.034Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1874755619",
       "title": "Nakuru squatters reopen 38-year fight over forest land - nation.co.ke",
