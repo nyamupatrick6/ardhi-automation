@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-25T11:04:26.913Z",
+  "generatedAt": "2026-08-25T11:48:14.215Z",
   "candidates": [
+    {
+      "id": "t_1170841108",
+      "title": "Kenyan Woman Sparks Reactions after Claiming She Used KSh 35k Salary to Buy Land, Build House - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzRNbnZZMEZrUzZaRnMwbUxyTFVyWEtERE93ak1sWl9pZ3ZyX0pnVWZEQkREemlNVTlxdVI1Y3BrVGF1WjRxVkk4UnFKeFY4cWhHNnB4bldiek91MGtuOFR0b2dFa1k5U2hCdnZPRk14UE9BUFJscnFTaUlUOGlpUVVzSVI2UmxiT2x4ZG44LTNGOTRVc1BNdWFFWVhJa2M5ek9pSnNRY2RKMlVJYlFoNg?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 11:16:37 GMT",
+      "discoveredAt": "2026-08-25T11:47:02.974Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_871159495",
       "title": "Kenya pushes for global action on land restoration at COP17 - Kenya News Agency",
