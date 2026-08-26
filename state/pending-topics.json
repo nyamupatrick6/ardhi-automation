@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-26T07:43:30.346Z",
+  "generatedAt": "2026-08-26T08:39:18.853Z",
   "candidates": [
+    {
+      "id": "t_2030889747",
+      "title": "7 Practical Ways to Use Land in Kenya Before You Build - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcXYtNFBqS0R1ZDM0bDVKc3VrVG1VdXNKMU5QLXlHYWxLMGhJTzkzZXo3bnpxQ3d6X25lWHdrT01QSXBYM241WnVKSFRJczNwM0I2S1Z2WDRLYmV6WGNUSUxqUk5PbV81Y1RZSjJGREg3V2swc1QxenVHVmdVWVZXWUFSZ0NEMUpiUHE0TjFMVXdPb1RrRnRkYWhESG5mYVE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 12:11:45 GMT",
+      "discoveredAt": "2026-08-26T08:38:21.322Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_289291419",
       "title": "Health data is Kenya's new land We must own it before it's gone - standardmedia.co.ke",
