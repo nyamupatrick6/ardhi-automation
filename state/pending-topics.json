@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-26T08:39:18.853Z",
+  "generatedAt": "2026-08-26T09:24:56.810Z",
   "candidates": [
+    {
+      "id": "t_304398014",
+      "title": "Public funds at stake: 6 land officials charged over KSh 50m procurement scandal - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVZzYU9aeV84cWRaU3lJSTVCb0dZMVVXQ2g1NWwwSEJfOTdhY01sWGxhd3lYbkVJWXFDVHZCQ1lCdXdHdm5FOGxENGZGTzUyd2gybzVZejNKU3ZvalZBS2hLQkRHMUkwMlNHdkhuaklsTWNMSGwxME9XSW9SeEktbWhfMTRkS2hjR3l0V1VZLWlneG93QXBRVXp2OUx6V3FING4xTEJNcHJlaVp2b2dRVWZvVQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 08:42:04 GMT",
+      "discoveredAt": "2026-08-26T09:23:39.687Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2030889747",
       "title": "7 Practical Ways to Use Land in Kenya Before You Build - LinkedIn",
