@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-26T14:10:18.898Z",
+  "generatedAt": "2026-08-26T15:56:47.048Z",
   "candidates": [
+    {
+      "id": "t_844190915",
+      "title": "Five top Nakuru County officials charged over Sh50m land procurement irregularities - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeEZQNFFZY0Q4cEdZX3ZIZlFIMFd6S1FxOU56akNoYTBFTmxIeG1IZ3ZTVTUwc0REYUNMWG9LcjhxNmJhdFlKNlU4WWNnY1BPY2xTME5NQ25RcnUzaGhfdnZmMkhiV2xKVE82UkVSSU15OEVIeVA2Rm1obEhHVV9HRU5IWjZRX0FicjN5TE1JeTh2V0EtTEJfT2h0QWhUdUJhZnVOSGVxRG45WHVfQkxwZU5aSFEtQmhtb2p0UUdPLVJ5QlNKSGRLbVdwNkx2bHdHcFExRERTcXhralJmOXdZ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 12:28:23 GMT",
+      "discoveredAt": "2026-08-26T15:55:23.453Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1082614619",
       "title": "From chief guest to ‘waiter’: MP's doctored photo lands ex-aide in court - Daily Nation",
