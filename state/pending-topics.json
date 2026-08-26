@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-08-26T18:58:24.596Z",
+  "generatedAt": "2026-08-26T21:41:06.396Z",
   "candidates": [
+    {
+      "id": "t_922889994",
+      "title": "Two murders, bitter family feud and Sh1.5b land war: The deadly revenge in Dr Mutiso's murder - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQY0hOaUtOZXpLdjI4WG1yV3J5SGgydXB3SDdldExyOTVLdFAxNTI2QWJtRkVCNkhod1B3MU1raTlHNmZHZGt0Ym9zQkszUVI1S2tlNUxlTmhpRFVWSVFuekNweUJNMUtudkw4MzQwTWlvQ2hLTENfd09fTlZLUVBWUV8zQVZDYi11NDdlbXBaQlZzMkNWMjRhNzM4Qm8xcU5Mb2JBSzhoU1VfRFBaLTZTc0E2Qlh1djNTRWJ6TnVOdTJ0LTI5Szh3bks4Nm9WeC01d09PT3hJVy1JNld5NDNaQzFWZkhuaUhXYkRrckl3MWdVQ3owSmlZRWFrV2lCeFR6MnBTMGtWMFpqUEQ0Z29ReA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 21:00:28 GMT",
+      "discoveredAt": "2026-08-26T21:39:44.797Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_980909370",
+      "title": "'They want our land': Ndetei family feud spills into Dr Mutiso's murder case - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbmpqODEyMklsek9Zd2dyRm9BNHhaNUxHVHlIcmRyQmMxbGwxNnlweHlqalhqTi00bjIwcXpNejhtTjQySEVHZjNPbG5aajJnRW9aQXFad2VhVTNVMVF0emlYaDFCRFpWMXU2WjNhaXlnaHhYYVlkdnlISFctbzJHTjlRQUtRVWxZcVM0MUM4VFdBZzZETmsyZnVPVDlBbVNvMzhnMDRGU1lHQ0tSNFVZUjNxRjd4SEx3cjk5Z0NUQTRNdV9zTVNZQWhqS21lMXNkcDRXRkI3UWZPVTc1amloNTNaQ2FqOHd2aFhXZFF0V2x2QUJJN2UxVg?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 05:00:00 GMT",
+      "discoveredAt": "2026-08-26T21:39:44.797Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1987860680",
+      "title": "Supreme Court to hear high-stakes battle over sh8 billion Karen land - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN2cxZGx6MkduY1cybGlLSW1OWFktbXRESzF2QmNweUVBRTVFRUhBSVA3M19qanNPcmpMd1RjdTRHSlM5LTRpZldranJzREJWbmFJdm5CSjFqWjZsMWdDbFJrUEM2LVA4THNBN1VTbzc5dExCQ04yeWNKWDdzUzZRZ1ZlZnZfMXFFOXZDZW1lSE95VThGYUNIV1dsWnFtMFI4STZfWWl1RzhIU1JPdFNZTXpKbkhwZV9SMUVqX2hpT0xtcGoyNXlkYmFuMURTb1QwS2hZ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 21:00:00 GMT",
+      "discoveredAt": "2026-08-26T21:39:44.797Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_901133552",
+      "title": "Ruto: Mau Forest secured with title deed, only fencing remains - staging.the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHFIM3EtSTJVdk1kUnpteWxTRDJCUEh3NXd5SEJIYUpaQ1lvVHEwU0ZoaUhTd3FhLVdxQ2ltQ25BY2I5QmFnZUdZbDNhcWFuaHFlcUtEaHMxbHZ3eEN4NTJKRV9PUGJlVHd2SEplcGlicmRxNHNJZk5XdjJqOVAzYWc3TG1sQm9SNXJPRzBiVUtiUWdfOGowSWNvUWFJYkx0S1RRdlZjUEpHN1RRRVVhSTM1R0Q4eDEyZmRLZA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 16:12:55 GMT",
+      "discoveredAt": "2026-08-26T21:39:45.815Z",
+      "sourceName": "staging.the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1583626464",
+      "title": "Kenya is setting the standards for bold action on land restoration, drought resilience and sustainable development. We are representing Africa with a clear message, our land must be restored, our communities must be empowered and no country should face c - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BVnNHaUVrQ1drOVAwak5HUktWZllCLVUyZk9YQXhIbWNjUW41MTVROXYyZjJBTUdlUlB4SktBdFk3ZzM1Y09URlBQbXNEaHdYU0UtMDd2QjBfZmlSYU5nZU1uWQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 18:30:20 GMT",
+      "discoveredAt": "2026-08-26T21:40:02.965Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_9972887",
+      "title": "Deg Deg Dani Oo Sirta Xasan Sh Qarxiyay, Digniinta S/Land, Trump Oo.. - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yWS1IUGczN2Exc08yTmVtNENPRTlteHVxQTA2YnNLZ0tWbFZjTWVxLUJfWkN4SGlEbDZEa0ZtQXVuYzZGc3phNlBaRTRiTGs0YjZSSHV3?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 16:43:08 GMT",
+      "discoveredAt": "2026-08-26T21:40:03.935Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_844190915",
       "title": "Five top Nakuru County officials charged over Sh50m land procurement irregularities - standardmedia.co.ke",
