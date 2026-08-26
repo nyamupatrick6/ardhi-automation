@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-26T05:10:07.380Z",
+  "generatedAt": "2026-08-26T05:53:57.920Z",
   "candidates": [
+    {
+      "id": "t_1934465105",
+      "title": "New Ruiru survey office to ease access to land services - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWhwZkF0QWNWLXdDd2JYWjhKM0RVR2k0YXdESmVmdXo3cm5fVGdwQWRfS1doNlVNN1BaSjQ1U3FsT1J5RG1KaGlQWktxRWJsX0taNVB3Z0JPMC1IdXRjY3NiaW5ILV9zbzI3dmJBZGJnaEJtODFpWk1kRXZhbmpnbHJDUHlReVpzTWN5MUlMeWdSY3pHc3dmeEtTQWtFM04tWERUZFlGNlgtOHhlUkMwenRvNW4?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 10:05:10 GMT",
+      "discoveredAt": "2026-08-26T05:52:35.554Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_444272943",
+      "title": "Senior Govt Officials Charged in Ksh50M Land Deal - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDc3a0lzQzBoNFhVWXhkQVp6YXBoOVZvb0FoaXI5bll1WEF6ZkxzNExqWGJ1ZmtDbTFJaDdxa1ZnTUpnN3RNMnFfUG53MGsxOFdFeXZQVWc3QlJPMmVfc0RTenFSci1xQm1NeV8xSlJKa2N6dnA3cTE1MndCWWF1VkJFakhSdU1TYkR5QTkwN3lDTndZdl95NDJMcG1ja1UtT3M4TVUxX3d2bGhucGp0a25jT1Y0Mkot?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 05:35:55 GMT",
+      "discoveredAt": "2026-08-26T05:52:39.351Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1907191737",
       "title": "'They want our land': Ndetei family feud spills into Dr Mutiso's murder case - standardmedia.co.ke",
