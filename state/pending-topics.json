@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-26T02:41:20.347Z",
+  "generatedAt": "2026-08-26T03:39:49.443Z",
   "candidates": [
+    {
+      "id": "t_1185486113",
+      "title": "Two murders, bitter family feud and Sh1.5b land war: The deadly revenge in Dr Mutiso's murder - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY1ppdDhENkN3bldaNUNXV3dWUHk4MG40UDlwejVIZFZtaHZoa2hqRG0tZ0ZHUVluUFlkV181dm9leGlzSTkyYUFfak5LMldhclNNZVA0U19DVXdUajgySjFZMnpscnJwQUU5TzVqcy1wakptNE85UGE0TnE4WHBzWjNPZ2ZMVEtLclpEWFRhcm1CNXh6QTNHVzViRnk1Z0w4alJzSzN6LUtBX3JKamwxOWZKR0k5eGZET05LajZ4aUd0SkE1SS1FbmprVzdyVVdFX2ZxRG1POXZPRE5YS3d5MEp6aFJJOVZLQ2JJc0U0WQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 03:15:34 GMT",
+      "discoveredAt": "2026-08-26T03:38:35.696Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_30072022",
       "title": "Health data is Kenya's new land We must own it before it's gone - standardmedia.co.ke",
