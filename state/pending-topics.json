@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-26T06:42:01.479Z",
+  "generatedAt": "2026-08-26T07:43:30.346Z",
   "candidates": [
+    {
+      "id": "t_289291419",
+      "title": "Health data is Kenya's new land We must own it before it's gone - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU3c4d0dxY1hwOVVzOGVYMkw1M1RrZVdEMDV1UWRqMXJBMTNlbmdHS19pektsaEZ1VUVleWxaOENFd2JiV2luVk15T3dsWmVUX1RPa2lmc2FEcEdyd2lTWEM0RzNzMFctdVBxZU1VUzc4c0NlQmlQQ0F5eERkLU5Rc3o0WFZFeG5OdGlGX0F1VFdSbDRyQTRiQks3X003N0l2bkZMaUd4Yk5YUWdpcEdKNFBqUUU0SE9qUHBQcA?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 21:00:00 GMT",
+      "discoveredAt": "2026-08-26T07:42:12.869Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1934465105",
       "title": "New Ruiru survey office to ease access to land services - standardmedia.co.ke",
