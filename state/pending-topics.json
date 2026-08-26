@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-26T04:23:55.397Z",
+  "generatedAt": "2026-08-26T05:10:07.380Z",
   "candidates": [
+    {
+      "id": "t_1907191737",
+      "title": "'They want our land': Ndetei family feud spills into Dr Mutiso's murder case - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDRUQ1FQVUV3ckxVR3BYbVlna01nYUctMDhPdzRaai03R1lrSmF1b0ZoTFE3WGhYXzhESVg4WmFRWDhocmNxTnBoTno3VC0xWWZISVY5ZDJQcjR2OWhWSWJJdGlNZnFBN2dmRUVNSFZqbnRGT3pFZWJaYkdhTnFPaWFoQko3NFdTbWhQdHRzU2VUeVBCT3FOcURrNF8yUGZoeHg0TlZ3YUpaSzB1ekNHLVFaT2h4VTFrSm5Xd2tBZkJ5cWdWWnhQU2k1VG9OMENUM3JyMVR4MXo?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 05:00:00 GMT",
+      "discoveredAt": "2026-08-26T05:08:52.415Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1185486113",
       "title": "Two murders, bitter family feud and Sh1.5b land war: The deadly revenge in Dr Mutiso's murder - standardmedia.co.ke",
