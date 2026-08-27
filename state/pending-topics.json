@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-26T21:41:06.396Z",
+  "generatedAt": "2026-08-27T01:04:56.146Z",
   "candidates": [
+    {
+      "id": "t_737097557",
+      "title": "Geo Week 2027 Opens Scholarship Applications to Support Geospatial and Drone Workforce Development - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnNpa2hWME4xb0JVaERUNTA4QTJQb2ZoSFRLTGdyVWtrMkFxQ3pwdjgzSmkzMC0zMUplaWJBRkNqbVdlMWszRnVMckx1ZHhSb3lJU1kyZkhObXJjQy1mTC1vendtRy1ub1lUa2d2NkdzSklMRVVwMG1HUFdiYk52UDk1QXlCV2ZXS0kyd1YxUDJ5YmxuQVRza3dFU2Z0LXlUbWdseG1hcDlKTnEzNmczVk1Td1lNUWlGTnpHYXdiTzBQVF9tN0toWXZqdVQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 13:06:22 GMT",
+      "discoveredAt": "2026-08-27T01:04:41.045Z",
+      "sourceName": "uasweekly.com",
+      "discoveredVia": {
+        "query": "Commercial UAV News",
+        "origin": "Commercial UAV News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1632566143",
+      "title": "Ruto closes Mau evictions chapter with Sh2.6bn payout to 13,000 families - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3lwVjFpT0pBWVFXUUtYeGZINXZQSmY2WVV6TW9nNmhZRDZrQ0QtUVZCd3lIZ0NPTFluZnBpc2s1UWtDajg5NzhiblhGQU9KQVVpZDl3bFB4bHJYSTdMU1Jta1BpNXRzc3gwYVRtQnFqX1RLUkU5WjhpQ2Nuc09qcHVvUmo1V0FSRVpjM2ROcGdOaFNONldUSUhQZUN0T0hld0c1aWxPMmd0blVuZTJoQXprTQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 13:00:00 GMT",
+      "discoveredAt": "2026-08-27T01:03:38.963Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_922889994",
       "title": "Two murders, bitter family feud and Sh1.5b land war: The deadly revenge in Dr Mutiso's murder - standardmedia.co.ke",
