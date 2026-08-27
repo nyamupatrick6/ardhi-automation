@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-08-27T01:04:56.146Z",
+  "generatedAt": "2026-08-27T11:14:49.556Z",
   "candidates": [
+    {
+      "id": "t_1131276289",
+      "title": "Decades-old row on Sh8b Karen land headed to Supreme Court - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmZsc0QxbTlLVGFqV2dRZElUYTYxWjhhN2JzNnIxanMyeTFwa2dvREVkZHhqTFVYVXVUcVdJbHhHU1VrZDd3Y3AyN0dMeWFrY1FtazdEUXZJOHJvUE9xMzFxWkk3SUhBazJiNmNLZVc5STVRSFZFdDhjb0RPT2owTmlBcXJyT3ZtbnFsMUt2T2h1SFkwYTVWUkxjMHB4T2M4SlRpUGtwMENvdmxKalQ4czVWRGc1V0FJbjZfUUVxZlVTYkh2V0E?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 06:00:30 GMT",
+      "discoveredAt": "2026-08-27T11:13:27.315Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1841682344",
+      "title": "US Army orders additional GNSS anti-jam kits for vehicles - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZHRsSUZwNE5oU0FkcmxZWnN6NHBndnlGX21WdzJsRV9pZDRxZUJtb19za0thdWpmNERDU21Hc2hVSEpjUjRMOXdUdEp0VkE1QnR3dHF3MVNCc1ZjOG1hWHBqVEFGZ2I4Rlo2UGZyYVdjbmFTN05Fb0M5SVBpSUJsWDVLcVZFNnRTMEZr?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 03:12:21 GMT",
+      "discoveredAt": "2026-08-27T11:14:31.475Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_755958589",
+      "title": "Polish institute analysis finds drastic increase in GNSS interference, offers guidelines - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlpveE5LSzN1UERUaGxRbWpsMTJUQUt4UVRpbG5kR29XcTRnX0wycHEyMldOSFhoMXNyNzJmdjB2TU9Kd3o0WkdhanJGcVhNY0FtWnlWR1hmZTgtcnhqcW9tQzBNb0g5ZGctc3hSeEhOOUdKbjJ5VnZqYlR4WEVrVXVSZUtWNC1QN0xZNG42NWpFd3U5OTl2NHd0Ukd2em9QVW5XMG9PTTNtdXVzMDhIVERRQQ?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 02:50:29 GMT",
+      "discoveredAt": "2026-08-27T11:14:31.475Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1750638134",
+      "title": "Bourns introduces LTCC diplexer for dual-band GNSS L-band signal processing - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFFicFlnYVRQZXZFTmNYYUJmaGw4cDBHRnZzcWdiRlJrNlhOYlZhTHRJaFJpNk83ckphZXQ3SU4zbHZoMHNSc3ZOdHBoZWl3MGs0aWlfZnBwVGFBSkZSanI2Vkh0dDBSQTdpRnFYYTgycWp1QnpfdHo5Y1RCbkhGR3RlV3BQNFFvSVNmVDEyejlTVGNSQ0llY0d3eHVKSVVyQ3M4?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 01:15:25 GMT",
+      "discoveredAt": "2026-08-27T11:14:31.475Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_37628156",
+      "title": "When your landlord decides to build over your head... - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlVsWklMaDVNWkFKeHJsR1lMVVVBSjVEcmVJN2xZOTJzN09UZGhudmhUUmx3X2phOVJ6V3h4dlRvcndYMmw1U2pwOFhPTU5sV3phWk9Gc2JjSE43NHYtcV85MFJ3a3pGbFVRb3BSQzV0MmZKSjJsOXNoNlltellrUl9QUW1QTV83OFRnaVM2c0JacFp1M2NkVlhjN2xVVWJsUjFVd1BYQ2R4Zw?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "discoveredAt": "2026-08-27T11:13:26.250Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1613963942",
+      "title": "Why Karen's Sh8 billion land tussle is headed to Supreme Court - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2ZGMHVUZHliU3hmODlWZUFDMVFGcmVZWnNyN1VDM1pfVmt2S0pZZ0lPcExrazBzMV9sOUxvWThRNkJqdDRHejZOTXhvcEp0MG5yanJNZGE4eFcyS3dQZ0x6VThlSWpHRGhGVmFWLUlLNk1zMUxVcFZHNHV1R29SNVFLRkZJV3RYN1o4NEJHWFNFbU1CVFhPRnBRTWtxbHIxcHFuZVhQMjRkUmwyZHFOTHZ0NG9PSEUwUnI4ckxnUHFBTi1Od0Zxb1R3?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 03:00:00 GMT",
+      "discoveredAt": "2026-08-27T11:13:27.315Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_737097557",
       "title": "Geo Week 2027 Opens Scholarship Applications to Support Geospatial and Drone Workforce Development - uasweekly.com",
