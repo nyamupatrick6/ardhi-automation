@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-27T11:14:49.556Z",
+  "generatedAt": "2026-08-27T21:04:35.501Z",
   "candidates": [
+    {
+      "id": "t_1509578790",
+      "title": "What RTK actually does inside a SLAM scanner, and why pseudo-fix is the silent killer - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWE3VGtjNmt4cmNuMUNqb0VWRmFKdUZqcGh6NVlscTJCQVZ1RW5LWWhfMVhQa19OR3hUbE1mUVZ0eGppZUZrRGt2MFNpeUxxWXRZNWtlS2hHS0hITWhNeTF5ZExOZGxBaHlUdXVLaG9fZVlicDJ3WmtTMDE3dXg1QW1SWXpjdERySy1KMm8yUUd5SENIZzhWeVN4VnM0TE5NS1c1bW8xcHVHdVMtZUVv?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 19:33:39 GMT",
+      "discoveredAt": "2026-08-27T21:04:18.123Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1131276289",
       "title": "Decades-old row on Sh8b Karen land headed to Supreme Court - standardmedia.co.ke",
