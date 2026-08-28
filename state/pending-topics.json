@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-27T21:04:35.501Z",
+  "generatedAt": "2026-08-28T05:28:24.657Z",
   "candidates": [
+    {
+      "id": "t_1045272941",
+      "title": "Kericho County Commissioner Omari Ali chairs the National Government Development County Implementation Coordination and Management Committee (NGD-CICMC) meeting in Kericho, where officials discussed the ongoing land acquisition process for th - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON1FqUFpmbE9jc245TEhWOFNRbFE0N0MyaFJNMk1DbXFGOEp4cWp5V2RuMUVma1FvX1FwaDFHM3Q4eXlCdGRaaGI4X0xqMl9od2VDaVEzTDBsU3BhRnRuODQydmlfU0lfNFEwcGJUc1lkYm9acDJDWXBqZE1LTFhLaU5sc2xFTmF0QzJtX19PbDRkTllPSnNJNEVxdzJCQlVTUF9jSDJKX2V2Y2R1cDY3cjhsMHdlXzB0dTZIbEpucWxPUXlZRHBsdjVCYVpMbkZaaW0wajZoU0xTdkJ0aFE?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 17:47:48 GMT",
+      "discoveredAt": "2026-08-28T05:27:03.721Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1509578790",
       "title": "What RTK actually does inside a SLAM scanner, and why pseudo-fix is the silent killer - GPS World",
