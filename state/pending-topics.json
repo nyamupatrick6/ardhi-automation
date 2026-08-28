@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-28T05:28:24.657Z",
+  "generatedAt": "2026-08-28T17:42:36.134Z",
   "candidates": [
+    {
+      "id": "t_2052006576",
+      "title": "Candrone Joins GeoCue Global Distribution Network to Deliver TrueView LiDAR and LP360 Software Across Canada - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWm05c2FVa294ZndFeUoxMnczNlU1ZTl6V2JKUElKRzg1dXEyc2VNcll3TVZYZVhHNFl6UnNZdjFaVzE2WWFRVzQ5UUdFTHVlU1hORnRQUWJRenhWVGNGSDdUR0RPM0d3SmF3T3NLcnVZeFhjVTFtYmpHOGxCaTBIczJTekJfVlVfSUdnMzktclZRZ080Ukd5dnJySDdPcWdvY3p0TmJKVGwtSlQzQzBSV2tFQWZhekFiVmZ1NXpTcTU4VW5OTTJlMG9FMmxyNVRnRnp1Tl9UMHF5MS1Xa0tQOUNzdTJwcW5zdmZlWTNZTmJScml1MmZ2M1ROSnZfZ3A5OHdtak5EWkFpX3FwX2JF0gGUAkFVX3lxTE9Mc1gxY3dTMDVqZk1CMEhqQU9nWXEtRnd0T3llR0ltUXZBZ3lQU1BCdTgyRGNKWUdCbVNLTG16M0tkNHhLdVRNd05CeVhTN1hVNDVabGxpTVdtejFsR2s3YnBiSk1CWi1LcUg0U1VjcHQ4MmJJaGkyZWxFRmtocG9tbzRCTHVMN0pJYlNhZXFZaGREMW5lNVNVbWN6b1BCU3lrLVRNOTRSRjBjYTA1S2ZVQ2Rvc0VXcHVWQWFKd05qeDlIU0VwNFJQVHZNdEE3TXFCMEU3bFNIWTB0MGl5YWo0clU3Y0JzQ0F5NFVwekEtcXZDaVVaZmFBNnhNUWVhOEpMeVhBWWE0QXhuZW9UM015akllZw?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 12:21:52 GMT",
+      "discoveredAt": "2026-08-28T17:42:32.524Z",
+      "sourceName": "The Manila Times",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_824286668",
+      "title": "Kenya to host Africa standardisation headquarters as state offers land - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVlydHhpaGpVNU9SRVlaUHJ0NjkzNW5NZ0YxWTlYS29VaVBYUDFtVGw3alFqcVA2WFVFWjZlSEFyc2ctV2dsbGZOWUNBeEl6TnBHVXhaa1F0a09DLVlDUEZ2MzQ1N2dUZENpMXpIWXdQSWIzcnQxTmRzc19INTNSQm82YmJuZmRkSXV2RkN6amZiSE43MW53a3RCX1NWQWt0VGhsY2xmYm85bnFodEpEOHlMdFVaOGFES2dBMjhDT2I?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 06:36:00 GMT",
+      "discoveredAt": "2026-08-28T17:41:18.991Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1045272941",
       "title": "Kericho County Commissioner Omari Ali chairs the National Government Development County Implementation Coordination and Management Committee (NGD-CICMC) meeting in Kericho, where officials discussed the ongoing land acquisition process for th - facebook.com",
