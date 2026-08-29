@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-29T17:30:24.786Z",
+  "generatedAt": "2026-08-29T19:59:39.130Z",
   "candidates": [
+    {
+      "id": "t_455461222",
+      "title": "Land injustices: taking it to court Wiper Party leader Kalonzo Musyoka has accused President William Ruto and his administration of perpetuating historical land injustices, rising economic hardships and the abuse of state power in the coastal region. #NTVWe - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yQ3JFb1FzT2tPMEthRVB0OXNpdVFNVndBTXVsUG9nQlVhbmwwV25kdEZ5SF9Bc2Q2a2I5X1Q5WEtUMjFDbFhOT2pzMGl3V1pYUUZicmF3RFN3ek9pNkE?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 18:16:45 GMT",
+      "discoveredAt": "2026-08-29T19:58:33.747Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1290717223",
       "title": "END OF RUTO! Kalonzo,Muturi,Aisha Jumwa, Opposition Storm Taita Taveta,EXPOSE MASSIVE land grabbing - YouTube",
