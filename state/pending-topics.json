@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-28T17:42:36.134Z",
+  "generatedAt": "2026-08-29T01:26:23.424Z",
   "candidates": [
+    {
+      "id": "t_259680437",
+      "title": "How to set up RTK over Emlid Corrections - docs.emlid.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2w1dllTbVd0aDF6Q05sZzA5NmJpS1R4YldqeUduTnM0djM1eVJVQ2d5d1IzYUU3RlRyZTFpTENZZV9Ba283b3d4Y0R0NXc2dnJ2SmJrM3p4NFJaQUNsdGZCc1drWHZOYzVlS0RJWDcydXc1RVc0Q3UwTkdIRllEcFBHeTV0Wi1WMkNPM25JVHRqaTFob1dGdFUzNTlRQ0E?oc=5",
+      "pubDate": "Thu, 27 Aug 2026 22:46:40 GMT",
+      "discoveredAt": "2026-08-29T01:25:56.305Z",
+      "sourceName": "docs.emlid.com",
+      "discoveredVia": {
+        "query": "site:emlid.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Emlid",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_2052006576",
       "title": "Candrone Joins GeoCue Global Distribution Network to Deliver TrueView LiDAR and LP360 Software Across Canada - The Manila Times",
