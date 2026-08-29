@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-08-29T13:53:48.601Z",
+  "generatedAt": "2026-08-29T17:30:24.786Z",
   "candidates": [
+    {
+      "id": "t_1290717223",
+      "title": "END OF RUTO! Kalonzo,Muturi,Aisha Jumwa, Opposition Storm Taita Taveta,EXPOSE MASSIVE land grabbing - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUXBmNktsRUhDTmtLM1Vlc1ZmRUpNek5rMjQ0cGQtVzNDLWhjTU5sNjNGRzZsNG5fWlkzMmpJYUJmd3puaXJPbGhqa1pQTTZGc3VhVEF3?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 10:59:26 GMT",
+      "discoveredAt": "2026-08-29T17:29:24.491Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 3
+    },
+    {
+      "id": "t_1964451916",
+      "title": "Supreme Court strikes out Sh3 billion Runda land row appeal - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNl9XbzVUcTlhTFQwdU5Na1U3eGZZVEFybW1ucE05X0VuT0VKaVFnTE9LNmZjbXA0QUxRckJPZFVfSXVrV2ZDY2VGa3NnRzZ5RTZUbTYtQlJ1bExlZk03VWNOSTJpbjdGS3RkWWJJcE9VREgzRDA1aXNOY2VoQUx0SE1KcWJMeGNabWs3MUVGbWhqdU5BVzJSWkJlTFd0YzlyZVJGLUU5MTJjczdvMmt3M3l2dlp0MmM5T2hhMkRleXc2d0lYcGxyRHlvV0JLZTNBSkxWRw?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 09:39:24 GMT",
+      "discoveredAt": "2026-08-29T17:29:06.118Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1356280071",
       "title": "Candrone Joins GeoCue Global Distribution Network to Deliver TrueView LiDAR and LP360 Software Across Canada - GlobeNewswire",
