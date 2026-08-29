@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-29T19:59:39.130Z",
+  "generatedAt": "2026-08-29T22:31:44.167Z",
   "candidates": [
+    {
+      "id": "t_633256214",
+      "title": "Kalonzo, Muturi lead opposition charge over Taveta evictions - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYnJ2elUtOWZrLTFsRXc0WExnVWtScDZkWlF0cnVDMFZieGlGYkxBaHZFaUszc25IRTJLei1OU1A5YWVHb0tPNFNNNTB5b2NKbmlwLXZlMUlqMVZic0dqZV8yNWE1Si1USmQzcHhBa2FLU0dRdmlER0FsbzRUUDIwTXJzcEFJTEl0dFUtOWtHX1plWHdYeVQwQWZUcVBmTGpNb0tqLVZWM1dUcnhOcnc?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 16:12:21 GMT",
+      "discoveredAt": "2026-08-29T22:30:24.545Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1089378264",
+      "title": "Waititu’s Ruai land up for auction over Sh40m loan - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaXA0QWZaU0htdnJMRE5sR0s5ZkRvTGV1M2ZyUnZuZUlaY2JiWThSMnV3N1M3a0twNDdtb01BY3VpV3NmTm5fME90QlVOMl9NQnB5YnhQVjdZVFVSTDRFNFNZbzRsZXhyQm5wMEFtUG9fMDNFNTRKTERmcnY3dUg5NWx3OW1wYnBBMENYbHk1anhNZ3VzcjZlcVE4VW5vbVVfYS1FT0NiaWxLY2ZERnE1dnItSVkzMzIwMHFRcVp5MHNvRElMdVRydlhqazV0VHM?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 15:50:14 GMT",
+      "discoveredAt": "2026-08-29T22:30:28.393Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_455461222",
       "title": "Land injustices: taking it to court Wiper Party leader Kalonzo Musyoka has accused President William Ruto and his administration of perpetuating historical land injustices, rising economic hardships and the abuse of state power in the coastal region. #NTVWe - x.com",
