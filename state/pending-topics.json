@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-29T22:31:44.167Z",
+  "generatedAt": "2026-08-30T00:40:54.450Z",
   "candidates": [
+    {
+      "id": "t_673503408",
+      "title": "Restoring land and hope: Kenya must see the economic opportunity - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd3FMRzJ5bDhPekRWM3IwYjVKN085T2MxRWRxd0xyREJqX1M3WE5fbThOZ0s3MTNRRDhrTnRZeUFHN19OMkVzYTM0R1oyV0lrZEtkYmwtR083MnBCTWhyVVlhemJxRzN6NC1FVDZvWlZWUElmQjEzVTV3RzV3d0x4U1ZSV0VpdGIxd3l2cWg5NDN0WnpQZW5rZkZja1RmY3NsY0VZb3pLNmo4T1YtOTdYYTVVUS1hRmNrSnN0R2NfdDBpbGlqc3owdUUtY1ZPZ0JHY2dubVpnekhkd2Zia2Z2S2FR?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 03:20:44 GMT",
+      "discoveredAt": "2026-08-30T00:39:35.947Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_633256214",
       "title": "Kalonzo, Muturi lead opposition charge over Taveta evictions - Daily Nation",
