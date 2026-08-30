@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-30T11:10:26.418Z",
+  "generatedAt": "2026-08-30T15:23:31.973Z",
   "candidates": [
+    {
+      "id": "t_807982202",
+      "title": "National Land Commission Research Conference Archives - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkbTM4ckUwRlI4ek9Xd2lxSDRpOHRZWVU3LWlfTkVhRDZEVzJ5X2E3dHVwUWRVV1EybnVzQmZ1X3lXejNmY1JJelM3UkpFeFY5VXpZRi1nMHlObUNNNlJSd29PaU9pb3F1X25xNHhUTy1vNHhRSWRfQ0lDYw?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 06:25:52 GMT",
+      "discoveredAt": "2026-08-30T15:22:17.853Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1101592659",
       "title": "Land is finite, but science and innovation can multiply its value - KBC Digital",
