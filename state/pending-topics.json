@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-30T05:50:36.122Z",
+  "generatedAt": "2026-08-30T11:10:26.418Z",
   "candidates": [
+    {
+      "id": "t_1101592659",
+      "title": "Land is finite, but science and innovation can multiply its value - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG80V2xrOXhaZnNlNXo5c280VXRHRDJaU2hGdjRkR3FmanY2c3lFSU5ENDRERXhlS2xRbmNUblNaVm1zTXBoajhaYXAzSmRHTjc3SkFzRC0xaEVfOVZxU0JfSlpZLXFOTmJoWUJjYUF3UGN6c0JCODgtdGg5a3YtTkxNdllLcXRwNGhtOVFsVVk?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 06:11:09 GMT",
+      "discoveredAt": "2026-08-30T11:09:13.974Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_673503408",
       "title": "Restoring land and hope: Kenya must see the economic opportunity - Business Daily",
