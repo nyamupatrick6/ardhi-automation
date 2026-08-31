@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-08-31T05:44:29.909Z",
+  "generatedAt": "2026-08-31T12:35:05.627Z",
   "candidates": [
+    {
+      "id": "t_268615830",
+      "title": "Candrone Expands Drone LiDAR Mapping in Canada with GeoCue TrueView and LP360 - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORE10N3pVa2NpMkFid2VFekxFck5zU05rRENxUjZ2VlRIcXZGX3ZMbWV4bFlxakJZXzF3Qk94cFlnM1hmdnJGcUE3RHdTWjJUVndOdVBQMHN0VHZnRG5NRXVOUjktd2ZqbmpXVEVEaDVqcGRUM0M4bjFnU2FsT0NtVENiNFdqUk5jNHpJQmM5SHdHVVFuNy1KSHZ3clFBczlHanFGQ1hVRHZULVFqa0ZRbQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 10:57:23 GMT",
+      "discoveredAt": "2026-08-31T12:35:02.534Z",
+      "sourceName": "uasweekly.com",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_708517147",
+      "title": "KeNHA, NLC Target Land in Three Counties for Rironi-Mau Summit Road Expansion - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGEwLXdlVUJycks4ZUx5a3NudzF0STRUamtwX2pJMnJSeUNZblowektRYm5fNGJuRVZXaFJZc2pCeEthbGxDaXdGSlRpYlZOYjhxMVNwM0ZpclplMGdqd2ZHcHJPY1hzWTctMWhydlhuZXp1SEEya2xDcHpjMmtmclRsOGs0ekM5T2hXWWxXVXhsOGhjdjYyVGQ1WlFFZUpBa1dJb0lzMVEtUHZUSjFISWtoVDVNTmRwSS1NVw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:34:20 GMT",
+      "discoveredAt": "2026-08-31T12:33:42.460Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_237110576",
+      "title": "Govt Lists Landowners Set To Lose Land During Rironi-Mau Summit Road Construction - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXRjSV9CZHRTTEpvdUNhQ0NuOUdUclJFTmJ5MVFaMkgxb0VWR0QzODJ5UXFyMl9xSC1aeVUxckdGY1VJOHpqcUlOcFN4OGpHY0hMRkJTRHItc2dlUG5GVXdPX3ZrMUZRczBmRExMMlRFemtubEtibW0wSE0zMWZPbGVtb2lsbnZpRWpWMHRoWkpnblNSRTFrOW1INDlaZEthbDlYRExpNUxmcWo3dUtN?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:29:44 GMT",
+      "discoveredAt": "2026-08-31T12:33:42.460Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1743848450",
+      "title": "Nairobi City is swallowing up rural land… with consequences - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEl0eTZ4bXFtX1A1bEc2ODRXREo5Rlh3VVU5R3VZcFRuT3J1ZDB0aThkVUt5N3Vva1JwekhLTkQ4bVYta1lSeXgtYUk3a0lneWwxNlg5RHp5NmRwdFQyTUJ4cGFCWVNYNVVhd0xYWHpLTjc5cC0tc18wSEpXanZQejNjRTh0NnNrTkFzS0ZKNnl6Q1JUSkI0elp6NWdUNW9nbl9SdENoMkdZYm5JZDNFeA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 06:08:31 GMT",
+      "discoveredAt": "2026-08-31T12:33:46.913Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_807982202",
       "title": "National Land Commission Research Conference Archives - KBC Digital",
