@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-08-31T19:15:09.487Z",
+  "generatedAt": "2026-08-31T23:15:02.641Z",
   "candidates": [
+    {
+      "id": "t_1130249554",
+      "title": "Product Engineer II - ArcGIS Monitor - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16N2psUFZmbmd1LW9jeDJaRlNaUVFFM19LMjFLd1BMdTJmRmo1ejFFZmd6eUhIYUpUdDc4b0gxQ3lSSk1lQU1hZzNjN2g0b2oxYU94cm1ScGIwdkdrSGd3SWp0cjVwbDJt?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 19:27:33 GMT",
+      "discoveredAt": "2026-08-31T23:14:40.936Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_900932297",
+      "title": "Open-Source Photogrammetry Gets Friendlier - Digital Production",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzhYdlRTdFRDTGlJZFltenFPcVZEVWRkT2cyWWNVVTFoWTVMYy1qYUN6a0ZRTEN0Z0d6UXNNMnlCWEZXclZGaUFsYlJVWUl1QVliOTBPUUZWbmE5cTVqdmladDc4bTM0dkdoSGNfQmJiWEU2Tlp0RTNiWnRhN3VzU01HNlZfYkVaeV85Vg?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 08:16:46 GMT",
+      "discoveredAt": "2026-08-31T23:14:59.736Z",
+      "sourceName": "Digital Production",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_456898844",
       "title": "Nyayo Estate residents protest alleged land grabbing - farmers.standardmedia.co.ke",
