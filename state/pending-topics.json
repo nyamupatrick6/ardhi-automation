@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-08-31T12:35:05.627Z",
+  "generatedAt": "2026-08-31T19:15:09.487Z",
   "candidates": [
+    {
+      "id": "t_456898844",
+      "title": "Nyayo Estate residents protest alleged land grabbing - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckN1aUo4bEI1SkY4d0VTQW9QY2RXNEtUXzNfQl9uTHduYWlXOGlRZUtNOExkcEF5VjZiRHVfY1lWWTd3anZOZGh3YzhrcHBYZDNGVzF1ZFQ5ckpZQUdhQW5ITmwwcE10VTAxRDZWcGtRYjVJMW0zX0VTTG1vam1hOVgzMElTUVdwYk50UDIyYmlMZUxWVmhxWmI5b19hQ0ozYWRuUHRSMHR2UWFocElRNDMxWGpfWDRxUTVMb1JPaTlOZw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 03:22:09 GMT",
+      "discoveredAt": "2026-08-31T19:13:46.184Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 3
+    },
+    {
+      "id": "t_1064324817",
+      "title": "Candrone Joins GeoCue Global Distribution Network to Deliver TrueView LiDAR and LP360 Software Across Canada - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTDZBM1hnS0l5dWlNZWtrTUdMSGlPazJlcmtQZG5GckxUSENraXVwZVlJSE5aNUtXYkxhQVJscGxRWWZPVG4xSGxmUUhiTU1SSm55WnlNOXZQQ2M3eVZLWXcxMVhPZ0tWWUNJUURUTEhoY0dVeFBPUU50ZE12bFlOVnZscW5Tb3NHUkZ3dFg4aEQ3NlNHVFdQaXcyQWVScV91c2NOaWxZeENKbmYyRUYwRk5tSVNUUHpfWmJYN0dmbVhNMk1VYkVtRnRjSXdBMkVoMTRmU244UXo3M1NfQ0FiRG9kSm9uMG9IbkVsVUtFbEFWcms5QlRBZ0RiVzFQcUFuUkRRZG5NNnE2a2F6?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 12:00:00 GMT",
+      "discoveredAt": "2026-08-31T19:15:06.046Z",
+      "sourceName": "GlobeNewswire",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_133806518",
+      "title": "Communities in Wajir urged to register land to safeguard rights - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUdYcjRLQ0twbmtyRVJsbFhaMlc3LUpKc0NpMDFTNzdodFNiZFg0aEN0Wkx3THhSVHlOdVMtOHA5T1JGZDNKRGtac1ZiQmE0Yk5lMmdZTXl0bVNkN2Z3UmZLR193QkptVTItMTFIQ1pUVzI0SEtpWHF4ZjU4UUkycndvR2pIQlJNdUhIWDkzRQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 17:17:26 GMT",
+      "discoveredAt": "2026-08-31T19:13:52.785Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_268615830",
       "title": "Candrone Expands Drone LiDAR Mapping in Canada with GeoCue TrueView and LP360 - uasweekly.com",
