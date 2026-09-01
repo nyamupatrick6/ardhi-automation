@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-01T19:45:14.698Z",
+  "generatedAt": "2026-09-01T22:21:59.532Z",
   "candidates": [
+    {
+      "id": "t_806228949",
+      "title": "Mombasa county sued over failure to set up land planning disputes committee - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWFzLXVZY0FXYnNhWVhLNkVqaWJER1k1WlktSUc1Und5Q3JVR1prZUdHaXNrSXlDZUJXXzFXT3FEWDJ5X0s5Tk1GMTkwWFpTSEJ1YlV6MzUwRTJmUS1KREtUMlNmV001NHpNamVTU2RHYkxvTVdRSHVtTGROWncwUzVJeHAyaUpsZHQ0amFHSk1PdFpsWl81amRtM094bkRrZXV5Qmg1VjdCQnFkdi1GeEx3QUgybDlaRDJrOC0xZ2h6ZHhjSC1FMWxZOWQ?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 13:59:38 GMT",
+      "discoveredAt": "2026-09-01T22:20:38.994Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_622868825",
       "title": "Update to ArcGIS Pro Product Life Cycle - Esri",
