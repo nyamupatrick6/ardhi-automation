@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-08-31T23:15:02.641Z",
+  "generatedAt": "2026-09-01T01:52:37.603Z",
   "candidates": [
+    {
+      "id": "t_1567307154",
+      "title": "CS Joho To Hand 475 Acres Of Land In Narok To Private Investor For Gold Exploration - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekdFc0p1Unh2dUFzY0RFeHVmOXZka1A0VmRqQ2cwWmYzaFlBODFBZUFIemRXdG9Ib0lsSU9WV1FkUk9XdjZPUktZN0NnMFdwM0Y1eTRKaU5RWXY2SjBNTWRDM2xPTHVsQ0xYZ3NsemkzVi1YVmlRN0o4WWFCY0I3Mw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:02:11 GMT",
+      "discoveredAt": "2026-09-01T01:51:14.092Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1130249554",
       "title": "Product Engineer II - ArcGIS Monitor - Esri",
