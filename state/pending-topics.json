@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-01T12:37:17.651Z",
+  "generatedAt": "2026-09-01T16:55:09.410Z",
   "candidates": [
+    {
+      "id": "t_622868825",
+      "title": "Update to ArcGIS Pro Product Life Cycle - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzNTTEoyMVQxb3VCTy1FRGgyLTliVmV6NVlIcVNObVNNblhlYnVBTTh6Vjd4TTM4SUJLZzE1SWI4bUtSdEltcnJoM00xeWl1d05MUVAxUklpTXlaMmM3OTQySjc2MzBRQWR5Ukd1YUppZ0t3cjNObjlEYm55UllDbGVnMFJLUXp5akJNTWlibEE4aldrZ2dESWNPMVVaVTNZT2ZESXAtYXVsQQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 13:09:01 GMT",
+      "discoveredAt": "2026-09-01T16:55:01.178Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2066798989",
+      "title": "Fertile Land, Empty Pockets: Despite Africa having the largest tract of arable land globally, Africa's food import bill keeps ballooning. A majority of Africans are unable to afford a healthy diet. #NTVTonight @Karanja_Ibrah @BrianGeorgeKE - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YnFfZFdtNmk2M3E0Zk9Ib2VXU2dWTXFPRXZkakY4LU5VR3UtbWVEWnFoY0JLWXdhYWFhZHJULXloeXl4MFRXZHFoLVRuY2dBOUktaEtqVWx4dEw3Z3c?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 18:53:33 GMT",
+      "discoveredAt": "2026-09-01T16:54:06.606Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_611760496",
       "title": "Geospatial AI and the Future of Mapping Technology - Chcnav",
