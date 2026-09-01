@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-01T01:52:37.603Z",
+  "generatedAt": "2026-09-01T07:11:44.407Z",
   "candidates": [
+    {
+      "id": "t_1242162302",
+      "title": "Calian’s anti-jamming CRPA technology: Protecting GNSS in contested environments - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0tmcWpzTlhTY0EzQ1I2aERGazhxX0xjek1lYTJUdmstNy01ZXBiT2hDbFpQNngwZVhHMjJIOU0yZWFTeVZoMVNzR21NRm1XODJmT00wUERFaWFzc1JUdmNEd1ctRzJxQlEtNDV0ZVFUU3hvTzFuNXFnYXpZMXduck1WX2RWbW51WE5GaVM4Y0JXa3o4NEtVRlA5S20ydlNkZG5ENmlZYTJGaF9fQnliWUhJUmlvNTRNVmlB?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 04:00:00 GMT",
+      "discoveredAt": "2026-09-01T07:11:27.724Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1567307154",
       "title": "CS Joho To Hand 475 Acres Of Land In Narok To Private Investor For Gold Exploration - The Kenya Times",
