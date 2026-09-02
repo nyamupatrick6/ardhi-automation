@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-02T00:31:27.110Z",
+  "generatedAt": "2026-09-02T05:03:03.223Z",
   "candidates": [
+    {
+      "id": "t_442845357",
+      "title": "Court blocks eviction of Kisumu public housing tenants - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlVHZUtEWlh2SFNoa0tJTGdabWlCUk5PNHpRTTBUSUlxMzVoRXZjbS04Tm0yMDFLY2VRdkNqdmo2bmhEZzBHSnliNldHV2tEZ2F5NE53RXFPdkp4T0dfb3JMVVhHSVNMUEMzNFY0Tmd0alhnakx0d2hhZzZoTXFtYXhfcnR0THV4dFRLejExN3VRM2dZNkpQQ2Q5Yk5QblFzUHBlVGxPaW03ZUJv?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 05:00:00 GMT",
+      "discoveredAt": "2026-09-02T05:01:47.530Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_806228949",
       "title": "Mombasa county sued over failure to set up land planning disputes committee - standardmedia.co.ke",
