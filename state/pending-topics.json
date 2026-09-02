@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-02T09:42:56.595Z",
+  "generatedAt": "2026-09-02T14:03:54.895Z",
   "candidates": [
+    {
+      "id": "t_1739835953",
+      "title": "Mother, daughter arrested over alleged Sh40 million Karatina land fraud - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWIzNjk3aDcyckY0UmloMkxRLUpjd2N3WU9ZdjlEYi1YMk5EM2RseDE1RFNGeC1tX0tidW1fZ2s3WVRVcHhCMEN3UmFmekFfVFNVUTdqRUJLQkVBRng1MFlhd0xfYjlZY2N5ckpOMC1zY3RUbC1FM0J0NjZJSmRzRkVGaHh6aW01TUFQQnE3cWlmNGZKY25raG9Ock15M3c4YldRdjRsdkFXTloteGhmc0JlNlJxcnhPUXRmSExiTmZCcUw3Z1hIbWlQNTB6NDFyMU0zM0ttUnBUUQ?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 15:04:13 GMT",
+      "discoveredAt": "2026-09-02T14:02:34.382Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_838248255",
+      "title": "Court Explains What Land Buyers Can Recover After Fraudulent Deals Collapse - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkp4b3hfLU82M1VqSml3akRubGhBS2dZLUZxXzB4X21UUnEtaEg1QWtra3EwSW5TN0x2Q3BCT3hIV1dMaExTVl9lQjZpbzlHNWdBZWZsend4VWF1YjNLR0tFeHQ0UXo2OWlCRnc2MWEwM0ZpMVRKTkFPbW1iZldNUDhPVVZvYl9lNHVxR3hUYTI1NDJTYUF5d1RuZ1o3a1JkOXZ4R2d1TUdSeFJqaFFZUEtVRQ?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 09:56:01 GMT",
+      "discoveredAt": "2026-09-02T14:02:38.531Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1195321292",
       "title": "Kenya Railways Gives Update on Naivasha-Kisumu SGR Months After Land Acquisition Notice - Kenyans.co.ke",
