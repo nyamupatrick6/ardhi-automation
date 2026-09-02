@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-02T14:03:54.895Z",
+  "generatedAt": "2026-09-02T17:57:00.292Z",
   "candidates": [
+    {
+      "id": "t_607718636",
+      "title": "Mombasa county sued over failure to set up land planning disputes committee - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa19KbXp3dGgyZmFaR3U3dzRFcC1abUNLYVgtZ2dJQ1RKRy0wUDV3cUo3OUJZZ3lSaVZ6VW5DazZNTWNjc1YzcUI4RjZzZTI3ak9XUjhPQTAtVUQyVWp6OHNxdy1qTFlObHVDYk9oSmlkTmRQYUp6TzRiUkxfS3N4dF85WkI4OWdLc0swMDJ3ZVZpeXhqRFFmclhRcEtqNVozOVZlSkxRZnpRYlg4UnRQWHlYTE9qcHhiZmtWQVUwVDFJN0ROcGFlZ2xuNUN2X0dSUnc?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 13:59:38 GMT",
+      "discoveredAt": "2026-09-02T17:56:14.032Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "county land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1739835953",
       "title": "Mother, daughter arrested over alleged Sh40 million Karatina land fraud - farmers.standardmedia.co.ke",
