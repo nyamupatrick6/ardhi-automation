@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-02T05:03:03.223Z",
+  "generatedAt": "2026-09-02T09:42:56.595Z",
   "candidates": [
+    {
+      "id": "t_1195321292",
+      "title": "Kenya Railways Gives Update on Naivasha-Kisumu SGR Months After Land Acquisition Notice - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEhjRzA3dnAwanRzd2RWczhGd2x4NTUteklueGZTSnBvZE1aUlJWVXo0XzF2WUdLQ01MZjV5eURweWhBdlNlbkNIeFcyeEdkQjlGWHdILXhyamdjZjJYQ09JWVVPMGpkZ0xleTVGYVlhY1l2Tjk4cnQ3YnZzR1FaRzlqM2JCMklYVnUwaWVNaEJ6SHBlNWU1VVM5Skk?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 08:11:06 GMT",
+      "discoveredAt": "2026-09-02T09:41:40.710Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1143343658",
+      "title": "Kenya's land wealth is never a problem; it's the framework to unlock it - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM1VBOUVsU1pZMUF4alhHc21mb0ZkazdXc3Z0eFJQTUNBRlRuUlhKOUNvU1R5V1JVQ2V5b19xdnlXbkxFQmVpSkwxM3VETlRFSG9hT0VWNVRfb0VqS1YyTTQwT2s0eWJWclpIb2tGMzdmb0llY1pLYk8td0NoWXdaZEFOM1dEaENaOU1zRXdhZEpERnhQdjVPdEk2cHlDRGlzbUwzTTJvZWNPZ1lpU1dBWDBycXlsSzlwUGdfMThNQXluWkh3UEk2WlUwUDNSX1g0UjJNdjZMZC0?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 05:00:22 GMT",
+      "discoveredAt": "2026-09-02T09:41:37.022Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_442845357",
       "title": "Court blocks eviction of Kisumu public housing tenants - the-star.co.ke",
