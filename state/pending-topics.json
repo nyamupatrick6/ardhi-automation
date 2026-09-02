@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-02T20:30:08.324Z",
+  "generatedAt": "2026-09-02T22:50:37.412Z",
   "candidates": [
+    {
+      "id": "t_1225850403",
+      "title": "Where Does Ruto's Harambee One Land? The Airport Behind Kenya’s Presidential Jet KAF308 - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWW9VQWVYcDlpMlY4eDBuemZYa2NyQjdDbVdkMXpOYTlYRHk3YjVKSEpic0tCWWlPQVZVRF9TNHl6VWJkdkZKU0YyTGxqbHF6cHYwZzh1d092VVFkeG5ZSF9aMnVmbUl3Q1kzOW91N3ZSU3BTb1VmU1daRktUV3ZfS0xDMVVpMEs2RTZOUVVUVm51dnJDYjdpU1doaTVhbjBPVVNldFEzR3lzSHA1YWxOZg?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 10:21:54 GMT",
+      "discoveredAt": "2026-09-02T22:49:11.886Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_607718636",
       "title": "Mombasa county sued over failure to set up land planning disputes committee - standardmedia.co.ke",
