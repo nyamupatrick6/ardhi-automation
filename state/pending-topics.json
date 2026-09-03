@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-09-03T14:37:48.467Z",
+  "generatedAt": "2026-09-03T18:03:32.333Z",
   "candidates": [
+    {
+      "id": "t_1019798101",
+      "title": "Mosaic debuts compact mobile mapping system pairing Lidar with 360° imaging - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjRtX0ZnSlc5MFMtT0JmR3d4WTljelhJS1BQb0lzaW5PaVBnQUh6eG9VeUVpWjJzM2swVk1pNEpjcGVDdGRSakVuSGNiYVljeF9HN2ppanNJY01HM2dXUV9Fc2w1SDllQ2tBOFNLQ094blBfOUQ1bnVYQmFFNlgwdk1mTGNxbm9PWVNwMm83bzROWVpVZ2k5MUNPdk1zT3dRUVJUazFWWExQZ19JWC1HNWJlVGJzakRoVWl6dmJB?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 08:48:00 GMT",
+      "discoveredAt": "2026-09-03T18:03:11.222Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1794528063",
+      "title": "GeoCue Integrates Ouster's BABA-Compliant Rev8 OS1 Max Lidar Into TrueView Drone Payloads - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmU1VFVxMVZ6QXVyQVNDMzNRTW1QTU1fTGQ5VXNIa2hhMWJXdGg4RTg5SnJ4REFUallUbWhpMWYyWUJCdUpvUzdhUTE5cXZnWGttRFRNU0RYV00tc09kYS1OdUkyZXpLNlNvV0VsRWloUmdxTVJnWlY2eHlFeTMtUml1cDcwc05HTmdPTEI1dGxpWXltaERuRk1tZ2xjVUUyZ29PQk1sM1RkaVFFcWZMaDJnMnZtdm10Z1Jkck95Yw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 17:13:56 GMT",
+      "discoveredAt": "2026-09-03T18:03:16.290Z",
+      "sourceName": "Dronelife",
+      "discoveredVia": {
+        "query": "Commercial UAV News",
+        "origin": "Commercial UAV News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_716914149",
+      "title": "Esri India Launches GeoSARAL, an Indigenous GIS Software - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW5qTFRDSmtIUnR1c3N5Ql94clp2dy1SVUQ2eHBXNXk1Q2dBYThTbDdibk5fdV9nMTI5SHhmVWVGejF2UDE1OG5pYzlHWTZDUU9YTkhSNFRGUElTNVJwYy1HY0o4RmNWVWNUYmxLclZPZDRSRmJrRU9fQk1QdXRlOUhUblNTNlhrS0xUcFRZSTFld19OUFF1YUt4d2JWVV9rM3pBYmpGMV9Mb1IxVEHSAbMBQVVfeXFMT2lEWkpFeWk0SDlZMEtlcHFVT0NMWlpRenZidzBfejNGVEwyekppN182RVAwdDBUM0dsc3otU3QwNWxHaDNadHNQMVR1aktLandxRTJtS2RsNTFjNHVXMWxvSjd6LUNUUG5zMFNtUGpzMGpobV9wRFFGUUpmTWd0TDRfXzNNOENxbG15NnlhZ3IxTjMwY1JQNWd6SkF6UFlFMzFwQjhWbF9SbnVkZ0pjbU1ERE0?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 13:37:13 GMT",
+      "discoveredAt": "2026-09-03T18:03:24.363Z",
+      "sourceName": "Devdiscourse",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_870991943",
+      "title": "Embu MCA's six vehicles, land frozen over Sh111.5m graft - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnhHMkcxOGpyVWpvc21sei1TYWRhRDBEM0lVMVVMNGFvODA4T1lfY19mVHI1Y0R5QkUzRmt6SFVHXzhpQ1BLTlloRGFKUU05NzF1RzVwRXpMUnlpd2NRaFNRM2xVSkJnbllRTVl2a2RldUl5clZnbm45a0ZDakJRNV85ZVhYOXh2TVNwRkR2VVd0UVZ2bGdOazFTLUV2RlRoM1VQNkpYandpUQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 09:51:34 GMT",
+      "discoveredAt": "2026-09-03T18:02:06.959Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1716935863",
+      "title": "Why women are becoming Kenya's new land buyers - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWpub2pGc2RSTzBsbF96U2QtRGItTVdVWl95NXhxdUV6cUpBY0tWRlYzemlfME12ZkY1a21mM1pzOXZuazE3X010T0JjYW5HT1FfRHpqV0NES1U3dHNKTEJieHRfRUF2aTRGNUpBWG82OVF2NUUyQTUzZWV5N21CejZwbm83V2dJdjdYdDA2RTZuQVFyU0pEUDlvdTFXbWhBLXFNeV80M3JRejhfZE9uZVVLaDF5c1Zl?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 08:00:00 GMT",
+      "discoveredAt": "2026-09-03T18:02:06.959Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2057288932",
+      "title": "Embu MCA's six vehicles, land frozen over Sh111.5m graft - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWV9fckh0MUtEUVdXMjRZdTFLeGxIeFZybmpPeW5SRFhZNGtfQl9hNjlLaWdBUHFScEd6Y1VPblF5ZlNXX1pNMEFvRWQxN3M0d29GN0RLS0pZT1pzaHUwTlJXSjNtTlI2YnhkOXY4RjI1OE1LVkU5dkdRTkVPbHNWSGdtX3JpRzBKSUtqUlNJcjdjMmt1azZVSy1JM2Y0WWhLMk9LLUxCak1TbWZxUHB4TS1XbDB5S3pJU0pnSS0xMU5Vc1k3cFFRZ0swSdIBywFBVV95cUxOWV9fckh0MUtEUVdXMjRZdTFLeGxIeFZybmpPeW5SRFhZNGtfQl9hNjlLaWdBUHFScEd6Y1VPblF5ZlNXX1pNMEFvRWQxN3M0d29GN0RLS0pZT1pzaHUwTlJXSjNtTlI2YnhkOXY4RjI1OE1LVkU5dkdRTkVPbHNWSGdtX3JpRzBKSUtqUlNJcjdjMmt1azZVSy1JM2Y0WWhLMk9LLUxCak1TbWZxUHB4TS1XbDB5S3pJU0pnSS0xMU5Vc1k3cFFRZ0swSQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 09:51:34 GMT",
+      "discoveredAt": "2026-09-03T18:02:06.959Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1791475739",
+      "title": "Court freezes land, 6 vehicles in EACC suit against MCA - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmlLLU5JN2pmUUFuOVZidlgwcVNXY1FUdERQMUhIU3NWUHAtbHJ5VXNMYl9sUXhPel8zdC16dEEzeThhczVUMXNTWUtHUjVJYTV3QjhDTmRKb0lhTnZDRzlvdGlSbXByZjk1eVlzTFJXejdvV19TNmo0T2xTc3FZVkRzVGNRemRtNkJxVHVETy1sODBiLVJsYw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 11:59:52 GMT",
+      "discoveredAt": "2026-09-03T18:02:08.005Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1125376786",
+      "title": "High Court Freezes Six Vehicles, Land Linked to Embu MCA - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzRkSXdBZE1CaDh2U2lPZFRXcUpBY0JtenVRcktHOXVpOVAxSFIyb056SHhjU0o0WHR0QXdvaUJleEZjV1Q0LXBZWEd6UFdZNmRQa0ZYVjI4SnpuVjBRb1FSRlhaSi11a2ctZDJBMVNURlNoaHVHUGZpTDFHWjlXc1hjLWE2SVEzdzdzRlU1MWEwT1o2ZU5BeHpXMWtIeGZqTzlwQVJCcGw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 14:38:28 GMT",
+      "discoveredAt": "2026-09-03T18:02:11.022Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_309787372",
+      "title": "Mc Exodus Comedy @kenya land insider by ken - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bd0tBRVdEVUxzNEFyNzFKMHlDMW91S0wzbUNiU3VZRTJITk00VjVWbTlSb19PeHBteENNUklOeThmNjlzaGZnSk45RFZRd3R0T29aN1pfRzFtc2ZUTUFaVC1WdWdkZVJUQnc?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 12:06:32 GMT",
+      "discoveredAt": "2026-09-03T18:02:28.278Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1090708537",
       "title": "Counties Turn to Digital Land Records Amid ArdhiSasa System Downtime - Kenyans.co.ke",
