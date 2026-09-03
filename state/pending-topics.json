@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-03T18:03:32.333Z",
+  "generatedAt": "2026-09-03T21:07:16.828Z",
   "candidates": [
+    {
+      "id": "t_397673021",
+      "title": "3D laser scanning delivers millimetre accuracy for Dubai's metro expansion - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHgyNGdyYVh2cnVVNlVpS1cxaXRkRW14UlQ2enZYQzZMTHBVTEVLbWRWME5SbXhBR0s4R2thQjZDdWdMMlh2WHpGT0dSWUR3Y1hrQzNmR29KV0diRjhnSVR2eTE2TnBjaHYtaTl0WkduZzlVOUVJZVluVlpya3BhbU9mdENwMVZlTnFDREtEZXg3NHB1b0M1UkZxZGItUGxJaTNsYUdsLWxiTXBQLWlFNXpnSGtKbDZBUVRtbw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:36:00 GMT",
+      "discoveredAt": "2026-09-03T21:06:57.585Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_95156208",
+      "title": "Esri India Launches GeoSARAL, an Indigenous GIS Software - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaURaSkV5aTRIOVkwS2VwcVVPQ0xaWlF6dmJ3MF96M0ZUTDJ6Smk3XzZFUDB0MFQzR2xzei1TdDA1bEdoM1p0c1AxVHVqS0tqd3FFMm1LZGw1MWM0dVcxbG9KN3otQ1RQbnMwU21QanMwamhtX3BEUUZRSmZNZ3RMNF9fM004Q3FsbXk2eWFncjFOMzBjUlA1Z3pKQXpQWUUzMXBCOFZsX1JudWRnSmNtTURETdIBswFBVV95cUxPaURaSkV5aTRIOVkwS2VwcVVPQ0xaWlF6dmJ3MF96M0ZUTDJ6Smk3XzZFUDB0MFQzR2xzei1TdDA1bEdoM1p0c1AxVHVqS0tqd3FFMm1LZGw1MWM0dVcxbG9KN3otQ1RQbnMwU21QanMwamhtX3BEUUZRSmZNZ3RMNF9fM004Q3FsbXk2eWFncjFOMzBjUlA1Z3pKQXpQWUUzMXBCOFZsX1JudWRnSmNtTURETQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 13:37:13 GMT",
+      "discoveredAt": "2026-09-03T21:07:09.503Z",
+      "sourceName": "Devdiscourse",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_235499891",
+      "title": "GeoCue Advances Survey-Grade Drone LiDAR Mapping with Ouster Rev8 Technology - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEs0TVJpOGI5dXU4NkZOd2ZzUU5LU2VROGJrOWVfZTBjUGN4R1BDMmg4Q0ltU2tGZ1dPdGJBZlR4MGZNNnhQRjk4LU5oSHlLRzF3OEhscUNabi1sQnlmQ1F5YnZ2S1R0YlBrTnBtQXBQcjZRTlMzWUlKSE4xU01EeGxsRFZ5RFpDWk5RdVRheXlYaHJsNTVhb1BCN0UxeGxidUQyenBEcnhqSzludDQw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 10:07:04 GMT",
+      "discoveredAt": "2026-09-03T21:07:10.409Z",
+      "sourceName": "uasweekly.com",
+      "discoveredVia": {
+        "query": "UAV mapping technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1019798101",
       "title": "Mosaic debuts compact mobile mapping system pairing Lidar with 360° imaging - GIM International",
