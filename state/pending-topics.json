@@ -1,6 +1,178 @@
 {
-  "generatedAt": "2026-09-03T05:27:55.943Z",
+  "generatedAt": "2026-09-03T10:05:17.360Z",
   "candidates": [
+    {
+      "id": "t_1090708537",
+      "title": "Counties Turn to Digital Land Records Amid ArdhiSasa System Downtime - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTBxOVdqTVFKNlZ1b0JaN3ZjdFRWaWNFeno4eDhuWkZ1RHlQNWlSdU02SExpay1iSlZma0h2QjhNblNaeWFGLWZGem91eDFSTGctb0djYkhQVFE1aTlaMkwybHVuaUwtY2tnOGYxT05wRlJHQkFHNnp2TW9CNHBEaEJEcm9yRER5VkpYY3N5bFROVEpvUVg5YUJ0elhxWThKTE5iUHpB?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:07:54 GMT",
+      "discoveredAt": "2026-09-03T10:04:02.869Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa",
+            "digital land records"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_331932547",
+      "title": "Mombasa county sued over failure to set up land planning disputes committee - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOVhLMnJHQks2Q1A2aC01YWZhcC1mQlktS0VOOEk0VVliTG5WTlZhTlRaa0tIUXRYZmNCUmk2eGhVUDNqRWRna3cwU3FiMkp2TlAySjBWdkFLamozdFVaamNqaHR3dHN6MFNFa2psWGo4ZTl1c0FoWEVIbXRHd3RhQTZSREppaEc5aTdTOFdhbDFfallsVlM2dVgzZ3N1dEp4aGlqZmlmU1FRQzV1UzdTODUyU3RZQmdkakR3NW9CRmFIWkF0Zk1pZnh1Y2tfNko4TVB2N3N5cXRYNzBtRVE?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 13:59:38 GMT",
+      "discoveredAt": "2026-09-03T10:03:58.902Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2093508815",
+      "title": "LSK demands urgent restoration of Ardhisasa platform amid land transaction delays - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTnc3RzZLS3ZXd1RGY0QyTkRkQnlGLUJTX1dWRzJYRVRYTmtScURsOW5MM2c3R2Nta0JVbW9hWGI5aEJoTGhUTnJvQ21OZXNNN2d4alZqUVZITS16djlPdUhRVmozbFpIWXkzWTlrUmJKWmFfaGd6TzlPdjBnTFpjTE1MNnI0bTZyUWFZZHVIZU5pUDdrQS1wYXBfUU05SHJ3MFZOSmxxeEhwaTRPZDFOVjFjX1JpTHlaQ3FpalR6ak1PcUR2?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 06:22:42 GMT",
+      "discoveredAt": "2026-09-03T10:04:09.631Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "ArdhiSasa Kenya",
+        "origin": "ArdhiSasa",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_569237878",
+      "title": "ArdhiSasa restored after LSK intervention over outage that hit land transactions - Pulse Kenya",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZl9mYk9hdElOcnpGWnpVYThSakVEVnlSZWZzV0IwWEdpV1F3US02eDFEZHpURm0zRWJDUU5melRKYnd1Z3hxdncwekdka3VHaGwwcm9TQnV2RzhGUlIwbll3WGJtZ0l2VXdWRENFbjJKNU5Gb09NYXBJeGZ5VEthRGhrNk5uUkRBNXFLZ0hxRTMyUkhhT0taSm1ya1cxYmxsa2w3ZjNQdFFtMVpFbUZF?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:04:51 GMT",
+      "discoveredAt": "2026-09-03T10:04:25.067Z",
+      "sourceName": "Pulse Kenya",
+      "discoveredVia": {
+        "query": "mutation form Ardhisasa Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_903744611",
+      "title": "UAV Navigation enhances VNS01 for precision drone navigation in GNSS-denied environments - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUx6YUdWQzRXeHgwUVhqXzNYN2JfR1Mtd3A3VHRiR2xwa0tSX0Y4V2RNNUdZanpQNzVtUHJxZEltN01EcVBGRmJTdElnQVBrVUdwRjJRc3IwSkVfbjZWT1NNTXhfRVpTTzdKa24yNzVkX3EzNXlqdERRQ1NxTHhqdVBDTXIxa1FOTHJDenhGbXZ4bEVxMDlJUlFTNVhMbTNNbDJpUHd3VTlvbG1jV1c1TTBwcWU?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 04:06:12 GMT",
+      "discoveredAt": "2026-09-03T10:05:00.033Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1220349824",
+      "title": "UAV Navigation-Grupo Oesía Enhances its VNS01 Visual Navigation System with Terrain Referenced Navigation (TRN) and Satellite Map Matching for Precision GNSS-Denied Operations - sUAS News",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQVmE2TTl4Z1NEbkllT21LU2tLTG1sYjlmT09OeHRIT3owa253MTNKd1EzUDFtb1l3YzE1ZkZFZzBGTG1remk0ZEdSYV9HSFlNNzFTNmd3Q09McjZLblVkM1JxX2U4cXF6M0JvNDBnRkg2VEtMaTczd0VadXZQaVAwR0NveWtRam4xTV9uUG5uRlJlbnFhRW9SZjdVX1g5ZWRjTk83VnFNekRHYlc2ZDJXY1ZocVotaHF6eFM4SXFDSjdSRm5ETmJ3ZHNQUzB2dTNjdVMwdEdMTmo0UWZGUGtYVENSdlBwZGN0UmpvYnpTTF9aLVZsQWtCREo3aXpNblNVT0ZGellZd1FpWGJqTVFpQ2hlcHJSbEVieURRMXQyRmh0cW9JMHVzTXpZWWdaMFRU?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 19:52:06 GMT",
+      "discoveredAt": "2026-09-03T10:05:00.994Z",
+      "sourceName": "sUAS News",
+      "discoveredVia": {
+        "query": "sUAS News",
+        "origin": "sUAS News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1795283716",
+      "title": "NavVis introduces new CLX LiDAR scanner - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xczFrWERJTVNfc3VERF9idVFsVzN3bEVnRWxObFFiV2Y5LTVFcUF5MlJtU0JhallGSEF3RkhWRlozakpINjJIMG9uRnpnenhEejNvYlRmWW9xM09IWlVBcmhnSHBYRUFFUTcwN2VNZ3RQWm10Q09sSzdvWHdfdw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 05:45:53 GMT",
+      "discoveredAt": "2026-09-03T10:05:02.918Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1612173998",
+      "title": "Embu MCA's six vehicles, land frozen over Sh111.5m graft - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHJNRUI3dFFCMWdsU3JKbEprTThaQ0RVX0tfcjl1RGo1R3BzUGVVRjc2YXlBdWxxcXczY1hRYm5QOWJQYVpRMFNmVEg1YXRGRzVrdFQySVBQck5uUEhLU1RIeUF3TUNaVmpsQkViRVlvUUVTajduZGd6eE5UZlJVVDc0LVlnbG41TGY3Q20wYjVNNGduUmZ0T1A4NUJ0bGpwaUVHbmhyNnQ0SU9RbHRNOERvU0J3WExfM0VQaEV5RQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 09:51:34 GMT",
+      "discoveredAt": "2026-09-03T10:03:58.902Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1644996804",
       "title": "LSK raises alarm over ArdhiSasa downtime, demands urgent restoration and official communication - People Daily",
