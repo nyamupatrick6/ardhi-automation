@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-03T21:07:16.828Z",
+  "generatedAt": "2026-09-03T23:25:33.763Z",
   "candidates": [
+    {
+      "id": "t_952557153",
+      "title": "Esri India Launches GeoSARAL, an Indigenous GIS Software - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX19YVy1Lck9rU0VTRmszQk5RUHVhX2tWMFd0WUx0UmpaaDJubzZCZm1ud2M5RGItWTJIMVNrbUdhWXlnRWszOWZPRGxUZHpmdEYxY21XNUtYdFFlQXhYaWFuZ3Mzb0tfVDh2Nk1VM28xR1hYYnFIQ1NUXzlZN0dwUVRRanBza3VNc1BOLXAtMm9SN2FsVEp4U2tnUmpFT00wdzhSaV9n0gGrAUFVX3lxTE8tZ3MwczdqRHdIUWhNaHBIUnBzVTBZdHZpMGxaLS04Z2MxcENBTlVremFOMEo2QWs2SWNUSk90d1ZnU0J4UTNKZGhUUDZrUmRPNzloRE9DRzNUbWZjWExNZ1ZKWnRoOVdpTzFWVl96eEU0MXhyVzlveVl4dmttaTIyNG1xN0NHTzdjWFFSdE9CT0Etc2ZIVzkzQTJYdVp3eEJCdVF5UzVNVWJTNA?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 13:30:30 GMT",
+      "discoveredAt": "2026-09-03T23:25:25.910Z",
+      "sourceName": "ThePrint",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_397673021",
       "title": "3D laser scanning delivers millimetre accuracy for Dubai's metro expansion - GIM International",
