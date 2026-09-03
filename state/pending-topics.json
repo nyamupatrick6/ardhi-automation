@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-03T00:56:32.345Z",
+  "generatedAt": "2026-09-03T05:27:55.943Z",
   "candidates": [
+    {
+      "id": "t_1644996804",
+      "title": "LSK raises alarm over ArdhiSasa downtime, demands urgent restoration and official communication - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbG9veUJNcUNibEk4S1lnaFR0amY3dkhuZXM1NFBNZW85emZDRjUzNEpueGY0ZkpCdkE2dlN3Rkk3V0FXY0pPdHk2R0tfN25JbGgzLThNMUxkbWdlSE1nMExzODlKaW5QYzJTWTRKRGo2ak1LY2hYdXIzdk9QOVJvdGZidWNBRXJyNktzY2RGdzdRbGl4b1NpRURPbGtNemNwN2NUV1RCTFo4VUd4VFJDUkZzVHBuRm9ITWZUUVNXcGFIcW5DLUE?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 17:24:13 GMT",
+      "discoveredAt": "2026-09-03T05:26:33.175Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "Ardhisasa / State Department for Lands Kenya",
+        "origin": "Ardhisasa / State Department for Lands",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1225850403",
       "title": "Where Does Ruto's Harambee One Land? The Airport Behind Kenya’s Presidential Jet KAF308 - The Kenya Times",
