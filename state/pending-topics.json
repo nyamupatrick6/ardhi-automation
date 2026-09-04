@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-03T23:25:33.763Z",
+  "generatedAt": "2026-09-04T01:06:04.469Z",
   "candidates": [
+    {
+      "id": "t_1180800049",
+      "title": "Esri India Launches GeoSARAL, an Indigenous GIS Software - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWdzMHM3akR3SFFoTWhwSFJwc1UwWXR2aTBsWi0tOGdjMXBDQU5Va3phTjBKNkFrNkljVEpPdHdWZ1NCeFEzSmRoVFA2a1JkTzc5aERPQ0czVG1mY1hMTWdWSlp0aDlXaU8xVlZfenhFNDF4clc5b3lZeHZrbWkyMjRtcTdDR083Y1hRUnRPQk9BLXNmSFc5M0EyWHVad3hCQnVReVM1TVViUzTSAasBQVVfeXFMTy1nczBzN2pEd0hRaE1ocEhScHNVMFl0dmkwbFotLThnYzFwQ0FOVWt6YU4wSjZBazZJY1RKT3R3VmdTQnhRM0pkaFRQNmtSZE83OWhET0NHM1RtZmNYTE1nVkpadGg5V2lPMVZWX3p4RTQxeHJXOW95WXh2a21pMjI0bXE3Q0dPN2NYUVJ0T0JPQS1zZkhXOTNBMlh1Wnd4QkJ1UXlTNU1VYlM0?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 13:30:30 GMT",
+      "discoveredAt": "2026-09-04T01:05:56.545Z",
+      "sourceName": "ThePrint",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_952557153",
       "title": "Esri India Launches GeoSARAL, an Indigenous GIS Software - ThePrint",
