@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-04T06:06:55.206Z",
+  "generatedAt": "2026-09-04T11:01:10.730Z",
   "candidates": [
+    {
+      "id": "t_1196663388",
+      "title": "Karatina Land Fraud - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HNl9jbklyZlZibG1kZXpaa0tnRlJqWVRFdWxiN003N3VXLUxTeDFsM0czWlBZZ0h2cE5PcUJQUWtNb0tRcGQ3VWhXRXFHaGFPV1EyVEU5OXdhZnYza2R3QWhpTXYxNk5wRzY4V3pR?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 17:29:38 GMT",
+      "discoveredAt": "2026-09-04T10:59:50.836Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_408631928",
+      "title": "AI GIS AGENT - QGIS Plugins",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94bmZFVzBKSzdqUWVmN1Z2RHd6WGV5alFubm0zV2kxQXFZQU0yV1NhLXR3YkRZbDhGa2JJT0g4elhIdFUxMHN6aXJSRTg2V054OUoyZ3FYOEFjZw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 09:33:00 GMT",
+      "discoveredAt": "2026-09-04T11:00:49.488Z",
+      "sourceName": "QGIS Plugins",
+      "discoveredVia": {
+        "query": "site:qgis.org (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "QGIS",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_554845947",
+      "title": "Esri India launches GeoSARAL, an indigenous GIS software - tele.net.in",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUJhc3JCNzJWcTByS0NXdmV0Sy05R1RlOGQ5eTNPRzBzZk5HOWZleVB2VXlhelFaeWdmYUF2WlVoSVd5Z3RVZmJ1YU9icnEtckpaSDdEVUxTUFBXMkc5dV9BSjNaSmU5R1U2LTR0Q0dVbm84OHpTaWJpc2lld0FRNE9nbV8tbGEwd1VBMm9wQkJIeF9FRGxhNWZPS3JpNnc?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 04:40:23 GMT",
+      "discoveredAt": "2026-09-04T11:01:02.544Z",
+      "sourceName": "tele.net.in",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_929446169",
       "title": "Court overturns magistrate’s orders in Eastleigh land and distress dispute - the-star.co.ke",
