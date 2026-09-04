@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-04T11:01:10.730Z",
+  "generatedAt": "2026-09-04T14:46:21.635Z",
   "candidates": [
+    {
+      "id": "t_1940417574",
+      "title": "EACC targets to recover Sh111.5 million, cars, land from Embu MCA - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWI2YzBLaWRkSy1HRVAwQUl0VW9UVkhWMmN5dkRCMTZWNTg4RlJod0FOTV9iNlhEc1B5UUlXWC1sd3RuT2xsemZyaUpjN0plZ1JGZ2VocFVFVmcyMklRRlJhajlNYkNEZjN0UXI5ckJFTjNHaF9GR2FhdW4wLU82S3dIZWc3cDV4NktTM29jem9DSHAyZXd4Z1Qwd3JpcktyWjRmcHdOU0g1YUJwY2p5N3lyMA?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 09:52:19 GMT",
+      "discoveredAt": "2026-09-04T14:44:57.006Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1196663388",
       "title": "Karatina Land Fraud - farmers.standardmedia.co.ke",
