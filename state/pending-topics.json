@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-05T15:22:11.502Z",
+  "generatedAt": "2026-09-05T17:35:33.510Z",
   "candidates": [
+    {
+      "id": "t_1269646469",
+      "title": "Geodetic control networks: challenges and solutions - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEZPZDBHeFZnWnVhS1dOMFNTRTROUkNmQ25PWHZPbVNwblNpbnhwanZIN0hRM01TbkJxZWxGUU93MTVCWlU5VjBmZEpieExkNmVKX0lTNHI5Wk9DaUFhUlU4ZmlwUkljaEdQUDRHekpNQVlqb3dNV3JsRzBtX2RqNmFrZHZKb05aRUlnamJ1dVg0cFQyYVdv?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 15:46:01 GMT",
+      "discoveredAt": "2026-09-05T17:35:13.368Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1599447327",
       "title": "GeoSARAL brings indigenous Linux-based GIS capabilities to India’s geospatial ecosystem - ET Government",
