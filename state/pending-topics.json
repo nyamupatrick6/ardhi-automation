@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-05T00:36:34.441Z",
+  "generatedAt": "2026-09-05T04:55:55.499Z",
   "candidates": [
+    {
+      "id": "t_1935181586",
+      "title": "LSK demands urgent restoration of Ardhisasa platform amid land transaction delays - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWhyWjRGLWh0UjQ2cWstRDZSYWJWbFVLMmlUM2lDVUZtMGF0OFl1MEd2VGVNakdiRTNGQWplOWM4QlhJVWV6S082Q3NXUTd3UWNPZjcweEVYSzNnN0M1bnd2RlYzSTV2TTZTWnBfR0hwdGNjSERVd0lyOE9CZFJKVTFwN194bFd2YWpKQ1Q2N0pEcjNVSExTZW9wT0JvWWM4cTJWWWwwMUY1cU1pNUUtRzdzNHlhSEZrUzFnLXRUVQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 02:32:43 GMT",
+      "discoveredAt": "2026-09-05T04:54:33.369Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "Ardhisasa / State Department for Lands Kenya",
+        "origin": "Ardhisasa / State Department for Lands",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1400759851",
+      "title": "Kindiki calls for global action to combat land degradation - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcldycDkzRWpxbDJtYS00X1VfbWt2TDQzWXh1a0NaUV93ZEdJMm1lS25tWUpQZkl4NU9kTW81UkhSd2tQbVM3X1pYWlB0SlM1YnRMeHAtUTl2ZWIzaEY4VXF5dFpNQmRkTS1VQnY2UWxCWDRFMjZMbHE4R0hPRXJxMWQ1czlyRHl6TW9WcGRhMDcwaUFwUGlRNWpzZWE3TWpFV3A0SVZEb21BdlFCUTlJYUw5LXFBWmREMlVfaUFjQ00?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 10:51:53 GMT",
+      "discoveredAt": "2026-09-05T04:54:38.071Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1777126993",
+      "title": "Land claimed by Ogiek remains public forest, says CS - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDlCaS0wbmp4SnR5b01SNnBmcEplRVAxS3RsSmVpR2huVmluOUZjR0pLZzhpamNacTctWkZxd01yNnYxdXZhLXdWYm9xbk5senBOdjNkbjlDNVZkbFplRFQzVGxkVVdRRlJRa3BHV3Nvd0RRQmVreDZUQUlDR0ZLTU12MzNkcTdWMG52LXdaNTJnQ2s3T2p3eVBR?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 01:55:00 GMT",
+      "discoveredAt": "2026-09-05T04:54:39.017Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1940417574",
       "title": "EACC targets to recover Sh111.5 million, cars, land from Embu MCA - Daily Nation",
