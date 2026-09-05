@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-05T04:55:55.499Z",
+  "generatedAt": "2026-09-05T08:47:31.008Z",
   "candidates": [
+    {
+      "id": "t_4965788",
+      "title": "RUTO vs TATA: Kenya Orders Tata Chemicals Out, Land Grab Allegations | 1,000+ Jobs at Risk | News18 - News18",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT2ZpaE9mY1V6eklpcHVmd2VHY0c5UUQyX3psVEUwdk1yR3Jpa2FPQ2c5RUNZSWVlNkNqb3hfLUQzbDBHYnZHeVh0dVJ1NElPRjdMZEtkdWVpSUJHaHZ2MnUyTWFRdTRCLTh5dmZsSnYzOVpsQnlkMzZRSUQzY2JGT0ltbFF4TjVjdHdseXp0MFFvQ001VUUxRVdsSThHV3J5UmQtUE1fUlUwbVpIMjI1R1RvVjlmM1VEZW8tNnYtajF5M0VfWEFFWjZNamx3VEpjbGVudXBLb1ZuZmFfOTRfdFQ3eF_SAeoBQVVfeXFMTnc1bFpGMmhjWU1WYWlTZEZlb1dhNnFQR0h6YVFSdEphWUNJMmlWZXItaVRZa2hNOFpDeFFtNXAxWWJMV01JaXpYc1RCNUxtbVhiR0VXNkVEZllJY1JZM0xNQ3ROTGlINXVxdDFSWEhLN3lkMlp6Q205djJibGxXRWxKeDBIX2pkRDduM1ZhQms0V2xscVAybGtJRGNuQlFybzNBQnoyMmRRcldjNklxZld1ZXY4THBSYkFBWE9BTjluSlNjTElVTHlLR3NpaXQyOEdIbmVkMEJudm4zMFZWUW1fSEJPS3RaNldn?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 06:56:00 GMT",
+      "discoveredAt": "2026-09-05T08:46:39.433Z",
+      "sourceName": "News18",
+      "discoveredVia": {
+        "query": "land grabbing Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
     {
       "id": "t_1935181586",
       "title": "LSK demands urgent restoration of Ardhisasa platform amid land transaction delays - The Eastleigh Voice",
