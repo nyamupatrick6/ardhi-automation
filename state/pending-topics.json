@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-05T12:20:35.195Z",
+  "generatedAt": "2026-09-05T15:22:11.502Z",
   "candidates": [
+    {
+      "id": "t_1599447327",
+      "title": "GeoSARAL brings indigenous Linux-based GIS capabilities to India’s geospatial ecosystem - ET Government",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWGJ6a2pyQmxYaFZQNkJaX3J3X0VDMEthNU1aYUJTb05NQ0RiSUUwNVMyOXh5bXJoTFZlQ1ZTY3pfRFQ5X2FBMzhTd2NhNEV2YWQ3SmJHdzZCV3BqYUJRdzdoNE9RdURsel9YSDctVjE2LU1uNUtwemlxR3VzaHJ0T01PRkhRWDVzU3ZjMUxra0xJb2NIajRvNGVreEdWUnI2cEFYbmtld2pHLUlOVHdrdzFuRTFmWk1HRHlhSklQeHlMMExHRzczV1QtUVEwc0dGOWF3M0tub1d1cmszWFY0cngtUUJNREwxQ05WR0tRR01JQdIB9wFBVV95cUxQZjFlT1p3a2RMSHJIak5yekVSR1lSNHU2TWVGb01jTWlPUGkzMzZKRFR5UXF2TWZTN05MNGNEdVlxcVVGRDdudjM4Sks1NzdURUN5QnRnaHMwLUdaV19oeGZuUlV2NzhWQlY2U255enRCSF9vd2pyb0tTbS1jLUxBWnJDZE5WYUV0V0ZSS3B2V2l2R3Z1ZURoUXVvWWRCb2hOb1hMQmZEUXRCYnZYOVdISm5uZG9Ua3duOE43LVFKZzNLU0hUd1h1bXEtTU5DU3pHWkFUNlBPc2ZoYUNaNXhTSWc4UW54UTNudElxakVUeld5RG81SUpJ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 10:41:31 GMT",
+      "discoveredAt": "2026-09-05T15:22:03.065Z",
+      "sourceName": "ET Government",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_978674581",
       "title": "Two Italian tycoons charged over land fraud in Kilifi - standardmedia.co.ke",
