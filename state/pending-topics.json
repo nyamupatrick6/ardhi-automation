@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-09-05T08:47:31.008Z",
+  "generatedAt": "2026-09-05T12:20:35.195Z",
   "candidates": [
+    {
+      "id": "t_978674581",
+      "title": "Two Italian tycoons charged over land fraud in Kilifi - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGpnUi04NmFSd05uWGR3RjlZNWdkaXpERk50SHBXSDdqSDVSNkwyRUVFMmJ6MjZoTTlXZHk1OEpBZU9YNnU4NWpOMzdiVkR6eUFzU0NrUm9jRlp1eFlFTV94S3l5cTh0djhock1LWGZpRC1BQmpyQTNIV2pudVFBSkk2anBZYUtiVV9jR2VtYU04N3gwY0F3cVlQbTkwSllNVW5fWG5iS1o0UXJvVGVTbENhRzFJclk5MVBSck1CWQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 10:28:56 GMT",
+      "discoveredAt": "2026-09-05T12:19:17.029Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_436017423",
+      "title": "TATAS OUSTED TO GRAB LAND RICH IN MINERALS? LOCAL KENYANS SLAM THEIR OWN GOVERNMENT FOR CUTTING THEM OFF FROM A LIFELINE. Kenya’s shutdown of Tata Chemicals Magadi is turning into a political and economic storm. Manoj - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oVzB1Q29zeFlWUWl3c0I2Qy0xQmp0RWNSRk1QNF9nQXJrX25HQ3VyRXNJaDJQc1RNYnlodVZ3TGRxRURLSGVBejgwQ1JpV1dINW13SHNRX2NCc3g4cXZSd0dDTQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 09:17:47 GMT",
+      "discoveredAt": "2026-09-05T12:19:34.032Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_774304441",
+      "title": "Ruto moves to cap company land holdings in Kajiado after ordering Tata Chemicals out of Kenya - peopledaily.digital",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWFZUVmVTR2lDd0JvbHZMNGVfTGo1VWNneDBRMTVGVm80anRwUVplZG1tUWtSby1PQS14V0dDWlhDcHdyNDdvd2ZXZkdJY3gza0h2eWlOdVBrRll0Yjg1MkNZU2s0X1QtYmNmVHYxTzFBZUFJZWdxQWZYRnlsbWFJN0pya3o0SXNVWXNxZkNBNWpsU3Roei1XbTNEakd6LUF1MU5uN0ZMeFlHVXZCWE9EVUJBZHNzMlQ1eXN4OUl6eHBiWXBD?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 10:58:08 GMT",
+      "discoveredAt": "2026-09-05T12:19:46.718Z",
+      "sourceName": "peopledaily.digital",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1541893588",
+      "title": "UdeG congratulates IIEG for receiving the World Geospatial Excellence Award - Universidad de Guadalajara",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVBxanRrY0IzWVlQYjM3TDBReHhTZzVtSlBRSW0ybGVET1Fzb0NXLUFKWnkzSHppcThUSllhWDFoOUlJTnpaVEt1bHZ3ckJsQ01MT0Rfb0N6YzVHZHhXaDZYZTZVUHRWcnA2bzA2ek1CRzJHNVBDTmp1S3lLeG05dTYyVkk1amVKQUlQWTJUOWhQVl9Da0ZQTFQxZkZ1UXY4bXBz?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 10:07:01 GMT",
+      "discoveredAt": "2026-09-05T12:20:16.815Z",
+      "sourceName": "Universidad de Guadalajara",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_73502477",
+      "title": "GNSS Market Size, Share, Growth, Report 2026 to 2035 - Precedence Research",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhakVEeWF5cDJiZ1pwYks1TFRHVnZBZlRTOEFtTTJscGNoNzJ4amxMUjlIOVdzRGRUTElBMllLUmpkWE5Wak5DRktBM3lLa0tfMnRaNjhNZkhFUjUtOTNOd0J2d3ozU1RHQUZUYWw5SGhCWG9WVHBuSg?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "discoveredAt": "2026-09-05T12:20:33.775Z",
+      "sourceName": "Precedence Research",
+      "discoveredVia": {
+        "query": "satellite positioning survey technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1202249998",
+      "title": "Ruto: No company will occupy 240,000 acres of Kajiado land - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzRxVVJQbjJiMV96TjZ0NGdGMTBHbjM0QmJRdVZURUtTRDNxU0NWV3UtWWRCYWFFT1hIdXhlVWJQRWZfUjVMWURuN2tmdHZTSkZodjdteU54aHVQSXFZdlhtZTN0OERyYmFZLVh6Z0djT0J3SUxGVTVLMk9hbjlxa3E0aW5kdmxDMmpnMWwweHlteXpMNEhMczQ5SGFGX0pSNUdHQXNsS1BfdVZMYkZiWG5R?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 07:02:23 GMT",
+      "discoveredAt": "2026-09-05T12:19:17.938Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_4965788",
       "title": "RUTO vs TATA: Kenya Orders Tata Chemicals Out, Land Grab Allegations | 1,000+ Jobs at Risk | News18 - News18",
