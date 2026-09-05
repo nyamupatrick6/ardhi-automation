@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-05T21:41:26.245Z",
+  "generatedAt": "2026-09-05T23:20:04.975Z",
   "candidates": [
+    {
+      "id": "t_729782169",
+      "title": "Ordnance Survey strengthens Bahamas geospatial capacity with survey kit donation - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXBUcmJ3aElualYtWFlvODlQMkg0clp6Sk16Wkx3cUdOZGVrajkzbUVmaGpjM1J4dEVVTmpGWXlySXNHSDBaQUVSVUtwZnEwZW53UDZWSkVjTjMxZi1tUzc3YjhXOGgyVjcyMUQxZ25YRUlLZ1hpM0s3cWdqUmx3MUdORFo4RXNBNGQ1d0hwTWpKZDIyWUl3dGZEMElQOWR6VHZnVVhidlp1SUNsSzdUOUw3cmVHQ2dPVUw4?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "discoveredAt": "2026-09-05T23:19:58.911Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "laser scanning equipment survey",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_71563756",
       "title": "Kisii church members demand Ksh.7M refund from politician over disputed land - Citizen Digital",
