@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-05T17:35:33.510Z",
+  "generatedAt": "2026-09-05T19:27:54.588Z",
   "candidates": [
+    {
+      "id": "t_1705860953",
+      "title": "Establishing an accurate geodetic reference network for Uganda - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUVpMEYxNTJaME5uekdfRU5Lc1RGdnJ2Z2VaRnhNZzRSX0FWY090WHdiWEFzNVZaU05QNUFhejJRTTlnWHlRamlIOHVrcWdHb0ZfSVgwNmpVZkRscDUyb1JZR1ZOc2JvNjlEM0lnREsyVVE3ZjU3UEFiVVZqRHpqZk1hY0ZJRUlTSEVVcHNzQlpjYnB6amxJZWpXUGxQOVdwb1E2TUFKOA?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 15:46:08 GMT",
+      "discoveredAt": "2026-09-05T19:27:33.552Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1269646469",
       "title": "Geodetic control networks: challenges and solutions - GIM International",
