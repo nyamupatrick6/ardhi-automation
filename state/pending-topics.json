@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-05T19:27:54.588Z",
+  "generatedAt": "2026-09-05T21:41:26.245Z",
   "candidates": [
+    {
+      "id": "t_71563756",
+      "title": "Kisii church members demand Ksh.7M refund from politician over disputed land - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVRfbjlGZnJQQU05YkRlZjYyb1g2dTkySS1nNmdjOUF3cFNKWHh5YUN6NHJMLUg0SmUzaXNKN3ZRS1h4UkZsYmxvOGxUck1vU1ZYTE5PTGpNbXRLcHZ5RmVsMnQxcXFRVUFHaFdHQTY4ZzNISE1mbURsOEZnTkstYVVlOTdqVVJiVEVCWHZ0WHAxbW5ldVlzS0dNZmd5dGp2cEJSRXJ3aGF4MzIyS1VvTFhSanlnUQ?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 18:56:08 GMT",
+      "discoveredAt": "2026-09-05T21:40:07.561Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1465735827",
+      "title": "If geospatial surveyors stopped tomorrow… - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGdKTmM4ZHgzSmhkdjN1dHhpMzdiYWp2N3BaSGk1NGRqXzZSSW5iNDY0eU53ZTRnUm80bVhGQXlxdGZ1R05ZVTRYSnV6YURyM1VuMExOdmV5anZyemgzR01iRm50dWk2b1o4aFpqVUJlVUF2V3dRZ3l2cWFxZUF2V081cnBEcW5LWkE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 18:40:27 GMT",
+      "discoveredAt": "2026-09-05T21:41:05.322Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2017013161",
+      "title": "The Pitfalls of Working with Lidar - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaTM4YzF6bHhBanF6ZUY2MG94NUIwMmszMHRpOUZVd295dXItbHVWZGtRNFpJLUJONExoSXNlMlVpWkNJanNYa1hyQlVmOTREVjNkQVI1MDY5TTJKUVBKWHhFV1NoNzI4Zl9hUHRTaTdQRzRaREMyTVI0M3FJV2NQaWJR?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 20:28:22 GMT",
+      "discoveredAt": "2026-09-05T21:41:05.322Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1188890058",
+      "title": "3D laser scanning delivers millimetre accuracy for Dubai's metro expansion - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzMtQWdZVzhXUEpTLVJZNXY0XzRBbWZhajRBY0VzdTlIMTNaYUJpZWhpMHQ0bmNoYmpIZlNWTjI1aVZFYmFGeXRjN2E2Z3lWQUc3Mmdfcmc3YkQtSWlmZ2JTdjVvR3p4a295WHhkX0NvNlVzeDlabks2Rm1Hd1lYQ0tWZUhMRjJqM001LXJGTXF1bmtTdlVxSWF1dXlYR1JxZ29EbFNaLUNrY3NicHEzbXJn?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "discoveredAt": "2026-09-05T21:41:20.202Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "laser scanning equipment survey",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1698492038",
+      "title": "Gachagua lands in Spokane, Washington for diaspora engagements - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFlKT3MyN0NDSTc1QkpKNHNIX21LZm1QaVNiVEdxeFQxaGc3WF9MTXpqZFdDck1Hc0pCdXV0WXViYk1wMFpMSEpyY1RUTHRvSjEtNDVDYTdXa1Z1SGg2Ni1WRV80ZWYtMFlFLUFLeXNHQmNpcVVpWEJ2bmNRQm1QYlBlVmFoanJ6eDhVZ1ljNkRkaVpOSEE?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 08:34:00 GMT",
+      "discoveredAt": "2026-09-05T21:40:06.572Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1705860953",
       "title": "Establishing an accurate geodetic reference network for Uganda - GIM International",
