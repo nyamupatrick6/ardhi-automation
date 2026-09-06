@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-06T17:08:05.893Z",
+  "generatedAt": "2026-09-06T19:16:21.454Z",
   "candidates": [
+    {
+      "id": "t_208859080",
+      "title": "DCI: David Maitha Machakos Land Fraud Arrest Made - Wansom AI",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaW10RjNFXzNaRW95aDlZMzNsa3RPQThwNktOaEd1ZmR4ZFlrWm55Q0xjUzZFMWhJX2g1RnRNV1pEMl93WEU0dkliTFFORmEwRVdCR1NSTVZlRkRTSmtXQ0tmVDBneUlaTkRCQUpZVFNEc2lvRzNUTF9xRGtwSFR4dUtyelZaLW02NzN5RVo4M1dORzh2eW1hbkFyazBHaGsyUnBuaWxTZ2d1MnBQVFQ1WmNscWdSVnd1SGp5dUE0V3gzN0pZ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 10:31:01 GMT",
+      "discoveredAt": "2026-09-06T19:15:22.057Z",
+      "sourceName": "Wansom AI",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2123471675",
+      "title": "City Hall announces 2027 land rates as Nairobi property owners face new annual charges - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZDJXcmtIY3JiWVRsLVRHYVc5VGEwLTRqT1I5OW10OU5SVm43RGY4V2JCbjY1cDdpMzZDSDRHWGhhYy13UFJ6ZVVDT0pTYWV0a3RESU1tV1hySUtTQVNzZTFhbHRKU0lJbWVIQUpPZ0RKak5CNnNQcnAxX0Nna2p6eGN1YlZ0MzdZNVNldTZaNVRLRjE3dE4tWHRfM2hqUXUyTktPMnVmeTM5R1p0blRfaTFTNS13blBUM2VuWFptdDBhUk1uZVFsRC12a3NsU2tE?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:06:51 GMT",
+      "discoveredAt": "2026-09-06T19:15:40.212Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "land rates Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_208618287",
+      "title": "Woodley residents challenge Sakaja over evictions, court orders - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPckpTaGk3eEhYQ00wQjlmVTBXUUxIVEZORWozWFdZYzVwRVVHNlp0akNuNHZfRlE5eG5sSGZoVmdWanZlczdHNjFGSnNvcW5fSWtQY0xDS1N2TW1SMTgwbm9MNHN0SDlWMno5SG10SHRzeTRDd0JYRW1XcmZWaEFCc3BmZ1FuVnl3RTVveWRwT0VnV1l0Mk4wT05qLWxKNnE2SER0cExvd0EyMm9zbllENExPMm9hQnpNdG40b2RB?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:55:37 GMT",
+      "discoveredAt": "2026-09-06T19:14:59.731Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_632551989",
+      "title": "State eyes emergency land for Mau Summit toll road - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0czMG5ZVTB5MkJPcFhIZ2phNTFJVlUwcTl0QlAzTzl0Mm9BSG40alQ0eTlSY2oyaUR1Y2FzckNOQWk3WTlsLXkxY2hVMDVBNTA2aW90Y0lyaXVzUDVmZWhpbHNLSkxWU2V2eUdXT1ZjN08zQ0FUTHc5d2hvaDQzWXptQmdCUmEtRzBYM1RZc1RHN1kxZDRCejVSUGJzdE53bFE0RUNKSnY?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 18:45:00 GMT",
+      "discoveredAt": "2026-09-06T19:15:02.705Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_909870620",
       "title": "DCI apprehends person interest in Machakos over Ksh2.4M land fraud - People Daily",
