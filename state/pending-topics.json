@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-06T11:04:27.463Z",
+  "generatedAt": "2026-09-06T14:14:43.941Z",
   "candidates": [
+    {
+      "id": "t_909870620",
+      "title": "DCI apprehends person interest in Machakos over Ksh2.4M land fraud - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnQxWmQ2S2NVMHd4ajVXNmx2N1UzUEFVWlNnQjQxNUJySGpVazg1TFlQVWk5V1dSYmI4RTEyblFOS2pCN29QM0o1T0dvZ2plT3FyTWZlUXU0RkxVNnZMajZ5Nng3eE9vNHdYNXEzdTVxRk5iX2Q5eTBKaEpfZ2ZWR01SYjRwVGlRQkNldzdwWFN6T05OZTM2VW1zYktkeXdz?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:14:37 GMT",
+      "discoveredAt": "2026-09-06T14:13:45.969Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_673013882",
+      "title": "How a Land Buyer Was Duped Into Paying Ksh2.4 Million for Property - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmZ2ZHdTenBUN1ZGVnl4VEgyOWNqQThySDhDZ19SNjI4bUN0bUN4dmVFRUx3c1lZczFLX0JGbzVRUFd6UXlKME5ES2lKd0VpaDdNN0pkX1Bzb3BibXdmcGdNdnpKczZYR1N6UHlmVjE3NzR0SkdmRHVjSVAwUFpSaGJjUjdnanBaczVhUXk4NUtkbnROR1ZMQQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 11:31:03 GMT",
+      "discoveredAt": "2026-09-06T14:13:28.522Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1240994588",
+      "title": "\"Stolen identity\": Man nabbed for conning land buyer loses KSh 2.4 million - tuko.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0VxQV9qNHNqN1oxaWpRWGRUZnRiMnVSMDBRdjVpdGxLS3dmcnFZTmFhUk5qVGNXb2tFMWVtNmtUQmpab1NqSFVnV1hMaVJQRG9sVWRBSzZvLXlyVjBFZVFSWTlFRjVrbXZhcm1kNXhDeEN5TXBoTWxKMGxIdVl5WWlzR28xWFJYMVZyRWNfZTVIV2tndERSME1Bbzc1Nng2X29DRGNhcEQ?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 12:04:18 GMT",
+      "discoveredAt": "2026-09-06T14:13:29.451Z",
+      "sourceName": "tuko.co.ke",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1527336655",
       "title": "Sakaja Announces New Nairobi Land Rates for 2027: Here’s What Property Owners Will Pay - The Kenya Times",
