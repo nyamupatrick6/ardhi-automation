@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-06T06:01:40.112Z",
+  "generatedAt": "2026-09-06T11:04:27.463Z",
   "candidates": [
+    {
+      "id": "t_1527336655",
+      "title": "Sakaja Announces New Nairobi Land Rates for 2027: Here’s What Property Owners Will Pay - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTFJOSnYwbDQyeGxQMTJrcXZyNUVFM1Itb3NOVC1ESmlFbnM0aDFVc1puZWpXWHlBei1BVDBBTDZZTVpOQjQwREw1eTBPejZVZlczeTVwd29fVE15aThVLUxoQkc0MUxta0gtbDlXOW9DVk1KMVdVTm96WlhvVWs?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 07:18:28 GMT",
+      "discoveredAt": "2026-09-06T11:03:48.219Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "land rates Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1585571901",
+      "title": "Kiambu Landowners Ordered to Surrender Property to Multi-Billion-Shilling Highway Project - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzNrVjNVRG5xdlJNOHc5SFRvX3RxTVVScEgtY09rRXhPZmdEc2tObHRPZFF5UUJLYXkwTWpLdUpVRjBSQThVb3U5emJtX0NUeEFwSXVXb1NEN2JQWjBfNXlLTFZ4c0pTaF9jMUVkR1FEaGRTd1liMUE1UWgzelpqMDNRWTZjak1ITXBwWUJoMFQxaUFLWVNsVHBRMllyWkRmSlE?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 07:24:33 GMT",
+      "discoveredAt": "2026-09-06T11:03:04.877Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_942492700",
+      "title": "Nairobi County Announces 2027 Land Rates - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjRuU0hkUGQ0Yi1pN0EzcnQyQWRYbE04Vk5CSE1vbXFsb1BreUJRUktoUjY1UnNZWTRGMWJHMlFObnhQTUUwSUNyZWVBUS1mb1EwWUR0NnBfbVhveTZFb29jNWVRMGdVTTVEb2V3b0JFVmk3MU9CT1VkYUl3bjAzRGstS0w0RjdHX1pSR3dtaUI1THNWZGllLVRkN0g5aFU?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 09:05:34 GMT",
+      "discoveredAt": "2026-09-06T11:03:14.189Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_16684433",
       "title": "Mosaic debuts compact mobile mapping system pairing Lidar with 360° imaging - GIM International",
