@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-05T23:20:04.975Z",
+  "generatedAt": "2026-09-06T01:05:54.389Z",
   "candidates": [
+    {
+      "id": "t_16684433",
+      "title": "Mosaic debuts compact mobile mapping system pairing Lidar with 360° imaging - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVFJcFBWRWtmQmp3cU1rbFFWS2xFMWdOaDBxRUdFQnM0V3pXdnNzeFBXTUUzRE9ZdUo5dnpBdFRKSGtoX2RDWC02aFQzTkI3QkJmRm9Xckk0S29FcFRiRkdlUFZuU2pqTy1sUEoxUjRINWxyTVRidWlnd1dhQk5FaFJfTjFOYloyaG9ZYWhtS2NBZkRzT2s0aGFsZktBUzlCa1A2eDB3azN2RkpXNmkycWtYaw?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "discoveredAt": "2026-09-06T01:05:33.790Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1122884645",
+      "title": "Ruto vows to reclaim land held by foreign firms - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYTQtR0pWWWRhWHFwXzlHZHpEeUxIeXNuWWxUTDYxVHYyenFVbWh5d2lBWGM1T1lBcklEdWVLeC1ZaXhJcUE0NHNXQW1UUVdQS3V0eVZ3?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 18:27:23 GMT",
+      "discoveredAt": "2026-09-06T01:04:53.131Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_729782169",
       "title": "Ordnance Survey strengthens Bahamas geospatial capacity with survey kit donation - GIM International",
