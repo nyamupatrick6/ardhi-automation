@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-07T21:35:23.396Z",
+  "generatedAt": "2026-09-07T23:45:18.885Z",
   "candidates": [
+    {
+      "id": "t_699952983",
+      "title": "Court orders DCI to arrest two traders in Sh150m Westlands land fraud case - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEU4N1hXUll0UUoxT25PQnBUS1VRa3U5VlZVdGduZV9nQVFDMUxYVXg4UHY1bm9Wb1NQY1phZ1B0Y29DS3h3ZTRtTm41VWdNYjdyaENfUVM4VGM2dFMwVWRTNlBFUHJPcl9FSlB6TnhidnoxaXhCNUx1azJYV3VsN2hLLVNreTdNcmpLVWRaSllfTHpNTHNaYWNEalZ5NG8zMUJSQ0cxRnVBUlYyY0lMYnktMnZiZmpVaTlRSTB5V2NVUHVWb3R6Z0VVY0t1OUpXWUV0dmp3NHh4VnBEbVBXeNIB5gFBVV95cUxNcnNOTmlrRjJlNXd0RDdDaHJCaXluSDhvQ0QxdWpfS0g5QllCbXI5eGNsWW9DeHg1V0llS1FDZ1JEM00xY1NUeENyczJXRE5GZkEzWGo2emI4Z0R1Wndjd0JmQ0MxblBDWDBFX19DcGdpcEMxeDZjeVBhbUxEeGJQUzJxUEJXVEJoTllVdW9LdndUdTBNblA1dS04a1Z5cGZmUGJtX3lVMEpZalhhbW1NeUktVmkzY0g5cWowRUFJdzlvWlVlY2JDNXdFUjJGWUJBbjluQTVNdm1qd3NhRHhISlRyQkhOZw?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 21:23:00 GMT",
+      "discoveredAt": "2026-09-07T23:44:00.666Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1654159346",
       "title": "GIS Software Engineer - Emlid",
