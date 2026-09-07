@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-07T06:10:44.001Z",
+  "generatedAt": "2026-09-07T12:43:09.414Z",
   "candidates": [
+    {
+      "id": "t_165003269",
+      "title": "Sh2.4m Machakos land fraud suspect arrested after posing as genuine owner - Capital FM Africa",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjVOWGdpcWFlSVlpaW83MjhRa1pDNnNyVHl2LWZXVTVIZzlHVFg5Vld5UEtwRGRIOXViZjBiLXNkX3gtZ2IzSkdYRERoNEtObzJLWU1SM0xFSUZOU0dyei12Q2taS1U1MTM2Ql9WazY2MUhyc1czZmtSZEEybVFHTks5a2lNNXZHQlVSRDdQckpiaGJFZm5sbElwX2t1ZkZU?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 10:31:01 GMT",
+      "discoveredAt": "2026-09-07T12:42:11.895Z",
+      "sourceName": "Capital FM Africa",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_104829844",
+      "title": "Teachers in Nairobi to benefit in land and home investment deal - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcklqU1pBelRMbS1ialJ5Y3lqOWFoaEtzaHBmelVsb2ZReDBFNHAxRXpkZ3ByYXVEcXJlSEFhanFBRUhmWUlEUktKNjQ1MUd1cGtlYmplLUJKdjc3d2pZTlpya0hpRVdnVzBjTkZHTXZTanVZOTZ5MkkzRld6aW5jeWc3eEtTeEtBelB2aWY2ZnhkUERFb3RnNGc1djY3Q2RVUnlTNzJ3?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 10:24:27 GMT",
+      "discoveredAt": "2026-09-07T12:41:53.436Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1943573106",
+      "title": "Syokimau Man Who Sold Ancestral Land to Buy Matatu Now Works as Gardener On Same Property - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTF4T21RRG4xaGJVVndzdEg1WnhGSm1YRE5VdU44T1lhcmw3bXZxc0UybHgwV1VDeEVTaWZJN3hXd0VBXzJUYUlHMGp5eEtHNHZqR1JHOUo0bjE5UWRhSVhSVkRlWkVQWFVfSnRpdEVvcWMtUnlrZ3g3QnJ3RG50VVZHMkFyZGxna2RNYTkwbW0zdkk0TVdkMnVCWDhYeXNTV2c?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 06:25:51 GMT",
+      "discoveredAt": "2026-09-07T12:41:56.279Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_276935289",
       "title": "Audit exposes grabbing of land reserved for vulnerable children - nation.africa",
