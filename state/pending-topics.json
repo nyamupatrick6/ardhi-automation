@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-07T01:05:30.903Z",
+  "generatedAt": "2026-09-07T06:10:44.001Z",
   "candidates": [
+    {
+      "id": "t_276935289",
+      "title": "Audit exposes grabbing of land reserved for vulnerable children - nation.africa",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXpMVTFONHowUDdHcmxTd050SHNTWlV6akMwcUc0V3lVbzNqZWNKem1xdXRZY1FpekszM0MxWF95djJ4WGJrMTJCcV9DY1EyemZuQ2xDYmdOMnlxaE9lRHJtRVpUemZ2aDNEamxrUmI0dGpfNGZXYkhBX0s2cWE3WnFIeDZrVDhmaFJZdjdVa09wVU1GYVdRX3Biblo4M1VISnlxMDh1dw?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-07T06:09:25.468Z",
+      "sourceName": "nation.africa",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1439517441",
+      "title": "Kenya’s government is set to buy more land for the Rironi–Nakuru–Mau Summit road, after design changes added new interchanges and bridges. The changes are set to increase the project cost, which currently stands at Sh183 billion. - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlZ5d0VWTUQ3S1h6cW5ILU8zUFliR0hyc0w4ZURFSEpiU1J2bUFWZzdBX2xlRmNBeElaZVYwNjhXU3AtVWxrV2pVTmhvSnJERVJZdVQtQkw1WWdMbWRhcHprNWpTdw?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 04:00:00 GMT",
+      "discoveredAt": "2026-09-07T06:09:43.361Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1793052925",
+      "title": "𝐃𝐞𝐬𝐢𝐠𝐧 𝐜𝐡𝐚𝐧𝐠𝐞𝐬 𝐭𝐫𝐢𝐠𝐠𝐞𝐫 𝐞𝐦𝐞𝐫𝐠𝐞𝐧𝐜𝐲 𝐥𝐚𝐧𝐝 𝐛𝐮𝐲𝐬 𝐨𝐧 𝐒𝐡𝟏𝟖𝟑.𝟕𝐛𝐧 𝐌𝐚𝐮 𝐒𝐮𝐦𝐦𝐢𝐭 𝐡𝐢𝐠𝐡𝐰𝐚𝐲. The State has begun emergency land purchases along the Rironi-Nakuru-Mau Summit toll road after contractors recommended design changes th - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPTDdwM3J1YWlsbEpUTlRxWmJhWFBiSFVud1FqUjNWc3dGNF9YTHZmWEJfczUyMTEyVDg2QWxLTDBpT01zVUZuWGNFdXRaRDk3UmxzLVJQcHVpVjVwTjR5Yl9UeGZDUk5ZS1FGQ1JXZVVQdFB3N1N1VTBsNUxMRUlnVzFSOERuaGhKY2pXZVNfV1VMVDVISEo3aVdmSWF5MFpFUUk4akxHRVo2dWl4YkFIeTA2Q0dlR215aGhLbWxISXp6ZnpENnZncm9IMUt2MW9xZmNPNXItdzZwT2dNWUZIWW50OWZGSTE4SW1pSEFKaE5GbXV0NXN4SnZqWTU4OWFsQW41UlFra1VpOUk4ZWdBYi1sUVFzZFQ0dmE1UFVTRWlSZnN1R1pRZUFwYnl4cFdJdUZLRFp5ZzRfQlVET052WGl5d3JHZWRzZEh4bVVwQjExOTJqaG5OUWw2SVFqMWluUVFVZTdQeWxkaUNGZHVIMnR3UUFUeW5ld3pmLWRDY1hMSmNIU3RuV0piMzZGMm8ycGdPLXNFeVptbVJhLXItZklvYWVMSk1PTlJDcl9MdHBFaVhIUVlmb1RZbEF2Q0ZlTTJMYkJyTVc0Ul85YTlqeUNuQlFyR1hsMWRuLQ?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 02:59:38 GMT",
+      "discoveredAt": "2026-09-07T06:09:46.327Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_208859080",
       "title": "DCI: David Maitha Machakos Land Fraud Arrest Made - Wansom AI",
