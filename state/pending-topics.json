@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-08T16:51:07.830Z",
+  "generatedAt": "2026-09-08T19:44:11.401Z",
   "candidates": [
+    {
+      "id": "t_2006575821",
+      "title": "Reimagining Bridge Inspections through the Lens of Digital Twins - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFpaS0lUM2lrdi0yMWtOVV80TUZtV0MxN2dRbHV6UFZRT1BjTGxPMmNWRnlsZmQ3dTZrN3Rjem55aGQxOW1sNzJKd3k2bFllNjdKdHpMbmZndEFmTGlLLXJ5MzE0Y29xNTlHNV9QbGdBLUVicE14WlZpSUlkZ0tlR2JtQ2otYjVsRnAwSXhudWhoT3pyOENmTkhpTlZIcU5XYV9GYzZmRVRJUQ?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 16:23:22 GMT",
+      "discoveredAt": "2026-09-08T19:44:06.957Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "digital twin surveying",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_154628676",
+      "title": "CS tells Kenyans living on riparian land to move ahead of El Nio rains - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS01RV3VyNG1ZNVZqUDFPYWRFUWtYZEk2cWJxQ3ZSWGxpREUyNjM3OElGLWc0NURqaVFoOWh0SWZRUi16Nk5QQWplZzhvZjE3N0MyZUNKc19VMGc1TllOOFNyQ3YybEdQY3FUeGFBVEVfeEVmazQzT2FKSVFIZmYzektlVE95OFB3UHRRbTRUV2c3UWJ5YTFGV1VYcE9zMDFRQzlBRUF4VDhWSWQwYzVtdnlaYW0xV2ZHeTRTbGlyVU1DaVFuV0JBcXQxZ0pMclN3b3hadTNjTjA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 13:31:03 GMT",
+      "discoveredAt": "2026-09-08T19:42:45.166Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2056200431",
       "title": "Man finds ‘greener pastures’ in bhang farming, lands in court - Daily Nation",
