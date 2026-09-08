@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-08T12:36:30.527Z",
+  "generatedAt": "2026-09-08T16:51:07.830Z",
   "candidates": [
+    {
+      "id": "t_2056200431",
+      "title": "Man finds ‘greener pastures’ in bhang farming, lands in court - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWxmLVhBY2Q0MXVfS3ZYak1vNUttbTBDQnhOZ3p0XzBMTFdJV19iX1dLd3RCX2ZaZ1lQcHdoVjNZTzB2Tm1Ja0xzQXQ1X2dDQ0xkZnlUUlctSklVenZjZnJVblFXdm9BdDJwVmFxbVhNNURwZTRhdERGUGU4bGNkUkNxS29wWDBEbS11b1M3V0MyTjlhNlN2bnBGVUliQzha?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 13:51:25 GMT",
+      "discoveredAt": "2026-09-08T16:49:44.888Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1053179528",
+      "title": "DCI recommends charges on cops behind Dr Mutiso Mlolongo eviction - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmtxeER4S1A5OTZ3cUhGdTZZbEpaUXpDc3gwS1U4M1pmaF9ZSHBtRmZndGxDWjkxcnZ6MklHLXBQeHFyQ2ViYl94d2FqTkJPd1k0MUJwSWRuUzhDSU1KY25iNEFSNkZyV2ttamt5RHRXc2t6US1FQkdPZ3lBcDZKbndTRzBZc2FmTGFDZllKOHRwLWtNaVp6a092VmR5STFiQ3NXTDhkeVRKcmYxM0dxSXZmNA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:11:00 GMT",
+      "discoveredAt": "2026-09-08T16:49:46.986Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_943088855",
+      "title": "Succession battle over Ksh.300 million estate takes new twist after arrest of trustees - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXY4S3N6VUZRbld1SW9ZNkpKV2kyRExJRWpmVXJVc0c4WlpXaW11enpGbm9xMjJmM1FxaWJoOTJKX2xEZDBPWi1CRFV0eXAwMk82YW1CUHpjUXh2cms4Rm9sd1lhMHNQTm81VDhEWDczU2d0RkhWOEUta0dfUXNhUzhDU1luZ0t4eEVaV044ZFhUR2NwUXo3WXo0dVZOR25LYk5rU05fYmpHUlloakMxNHBLREw1TC1manF2VFZvYlRZcjA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:01:38 GMT",
+      "discoveredAt": "2026-09-08T16:49:47.943Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_861034428",
       "title": "Ogiek urged to embrace eco-tourism to protect culture and ancestral land - farmers.standardmedia.co.ke",
