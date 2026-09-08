@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-08T07:48:10.963Z",
+  "generatedAt": "2026-09-08T12:36:30.527Z",
   "candidates": [
+    {
+      "id": "t_861034428",
+      "title": "Ogiek urged to embrace eco-tourism to protect culture and ancestral land - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeUVHZFVGekljR2hrYXJxeTFfZ1pMMWpqUTRDQnViVFgwUlo0WWpHbnF0a244dXJDRHFjZk5lbV9JMnJ2RzNZLTBLd3BqWFVaek1kdTJaM1RxWmplUEZuRkhNaGFsXzgzaEEtcmdQMVd1TTVXM2g5bFplUHhnYk9xemhrRkw2YnMwRW9uQ2h3WTYxS2N2MjJVaGxPbmlyck9zRXNFSEFxV25mVGI5Wmh5TnlRVTZGSXI4ei1QVWVfV2tBanc1TXZWX054bE1WbGt3b0o0Yy1fQnQ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 04:01:53 GMT",
+      "discoveredAt": "2026-09-08T12:35:10.166Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1685824075",
+      "title": "DCI recommends charges on cops behind Dr Mutiso Mlolongo eviction - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLVhudFo3OEFjRUM2Mm02Sk5fS3NmeVJkRmRtYldQS1BwQmFSS3h6TzZSR05Sb1U0SGtpUzRlSUU5ZHowSWVHZ2Fib2xrdUQ2Y2s3TjhEZ3JIOVhvdFZPVzVjMUNIOW5vME1nbDE4amo1eWU1cU12MXp5T1Z1YjF3VW9KcDNBZnB5QVBTbjJ4Nk13Ym8?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:31:00 GMT",
+      "discoveredAt": "2026-09-08T12:35:11.076Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_412120715",
       "title": "One dead, four injured in bitter land dispute - standardmedia.co.ke",
