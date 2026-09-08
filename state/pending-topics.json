@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-07T23:45:18.885Z",
+  "generatedAt": "2026-09-08T02:52:34.968Z",
   "candidates": [
+    {
+      "id": "t_1426702718",
+      "title": "Nairobi County has published the 2027 land rates in a Gazette notice dated September 4, setting a flat annual charge of Sh2,560 for parcels not exceeding 0.1 hectares, Sh3,200 for 0.1–0.2 hectares, Sh4,000 for 0.2–0.4 hectares, and Sh4,800 for land exceedi - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XNFJUQlhPTnpTT0J1RUctTHlxcmVGbmpZWjV0U1BfdGpJWnVhWF9VRnRSZTdObUVETUZLekdqTnhQam9OVkptbFZsUGpyM3JuN2lDbHNtdUdOQ0F0aGw5dQ?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 17:59:48 GMT",
+      "discoveredAt": "2026-09-08T02:51:27.990Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_699952983",
       "title": "Court orders DCI to arrest two traders in Sh150m Westlands land fraud case - standardmedia.co.ke",
