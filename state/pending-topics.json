@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-09-08T02:52:34.968Z",
+  "generatedAt": "2026-09-08T07:48:10.963Z",
   "candidates": [
+    {
+      "id": "t_412120715",
+      "title": "One dead, four injured in bitter land dispute - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGw3cTBwTlZKc2gxWEhkOHNZY1pOdkZXWmFRRFZDcGdWSVA4Q3laZWxMTkdCeDRBWmhIVENWR0JlWFFVcEE4QVBoOFlBQUo1dmtsQjlJRnNZcjdWUWs4eFlWam1pQ2Jlc0phMFdFNk1kakNuQ21ucjViZEhSTzZQMTRNTk1fLVNONnNjTTJsT2YxcFVQTzR1S1I0VmNaMEdKNFo3TjhCVXowX3R5?oc=5",
+      "pubDate": "Sun, 06 Sep 2026 23:49:26 GMT",
+      "discoveredAt": "2026-09-08T07:46:54.318Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_354953502",
+      "title": "Driving real-world solutions with geospatial technology - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZXd1eC1EX095TXZnbkpzelNXQS1ZTjhUNEowWlBkZm5xRm5PNjZCbWQzUzV2VjNXS0dGQjZFanVWNDV6T0o2ZDJtNkJVQ0RuRkZOS2xvR3Ria09Ba2ZIZEtCMjhTNS1hbkJvWWwyQzJGTGphUkxrN0pTMUpwaE40UmpZUUh2a1JXTnAzMzBXU1JkZjFlVmY0cTdxX2JkQQ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:44:56 GMT",
+      "discoveredAt": "2026-09-08T07:47:51.226Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1699775206",
+      "title": "Road to INTERGEO 2026: Who Pays for the Point Cloud? - Rivistageomedia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTm5nVkhtVkNwVTVBRWhDZlI2QlVkZ3Q2c1A2Z1E4LUxqZFhSRWNPd1oyZE56aFJnRlg4ckVBNUpTdWN4T0lCdW1KS3NxMG81dHJDc0F3cTRYcjFnc0pXZkl5NERzOHdVQktaTk5Eem9qNkI5NGhRVXJJZDR4b19MeElGcjVXMEJWOUhZX3E5NTVkZjA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:12:17 GMT",
+      "discoveredAt": "2026-09-08T07:48:07.637Z",
+      "sourceName": "Rivistageomedia",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1123229837",
+      "title": "Herder shot dead in Meru, cop injured in Isiolo clash over grazing land - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0JtWEFLNkhpR0ZyeWFVc1JnMkMtQXNBV0JMVlB6eVFIbG1xMDJYaXVWandLNGE5QXk3b1BLTlJwd1R2eHVXTmJmRGRvWnVvVGZWdXhZNURLTF9TU05UVWNhVVdoUlFDekQxZ1A2LWtqX1I0OUtoUUlxMHoxako2dV8xRTgzS2piRmtYZ3FXMlkwTDBNMG8xaUlRc2xtZmc3WkRNSG12Ym5rUlNsTThaSl9TbmtqelhFbnFqZ29VVU1Mdms?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 04:52:00 GMT",
+      "discoveredAt": "2026-09-08T07:46:55.206Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1208720681",
+      "title": "National Land Commission (@NLC_Kenya) - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40NU1QNnVPTm4zaTQyRHZpcDRZN2FILXpuZ2M0UkRVR29TT1I5WllQZE5aSlpfeEFIVzNQZklMTjdEcWFiWTRfMjM4SEZaTjZWbFE?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 02:23:50 GMT",
+      "discoveredAt": "2026-09-08T07:47:10.992Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1325604288",
+      "title": "THE DREAM IS FINALLY COMING TRUE!! 😭🏡 DAY 1 — Delivering Building Materials To Yeyo’s New Land‼️ - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QbnZDcFRFUjhwWmN2MW1FbmJjYi1xS0ZYYlE2empvNlk1YmVWc2RSM0tnQzdjTk8xSm83VEZEX20ycEl6U1lxdC1pZlFscW1ZckpaVDFR?oc=5",
+      "pubDate": "Mon, 07 Sep 2026 21:45:06 GMT",
+      "discoveredAt": "2026-09-08T07:47:12.072Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1426702718",
       "title": "Nairobi County has published the 2027 land rates in a Gazette notice dated September 4, setting a flat annual charge of Sh2,560 for parcels not exceeding 0.1 hectares, Sh3,200 for 0.1–0.2 hectares, Sh4,000 for 0.2–0.4 hectares, and Sh4,800 for land exceedi - x.com",
