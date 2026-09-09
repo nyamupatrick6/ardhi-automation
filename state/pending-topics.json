@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-09T00:22:50.587Z",
+  "generatedAt": "2026-09-09T05:11:59.311Z",
   "candidates": [
+    {
+      "id": "t_170860139",
+      "title": "Remote sensing for land administration - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV193MzhnV3JsX01YS0NFd3cyc0hNVk85NmdRQ0kxTmJfdHBwTzZXYUlZbEUzXzh6SVBfUW51M3Q5Vkh6TllVRFFSRzJ3RUwwa2VfV2dzc1gtNGNUWHZKVFMwekx5LXltYWZlYUlxZGFMZ3RpaHdQcFJta3pXSFlUMnV4UC16LTA?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 22:07:21 GMT",
+      "discoveredAt": "2026-09-09T05:11:39.957Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1593515894",
+      "title": "How the Geospatial World Can Learn from Apple - hydro-international.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2h6UE5OUFJucEhWMXAxenY1Y3BnazFrSkxsN2VsVzdLWmNUVjVjamdWV0E0V25HbTdwdDJGVU5SM3ZVZlpaczk4d2twZVpkVm5XczBma1dkRXRRRHA0UnB0NkxfTDVwZ0VFeTkycGJ5RlliVjJleGVPLXJBSVlSNlkwX3NqU3pIZVB6MDNpY0k2WG8?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 19:35:36 GMT",
+      "discoveredAt": "2026-09-09T05:11:41.581Z",
+      "sourceName": "hydro-international.com",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_298386154",
       "title": "CS tells Kenyans living on riparian land to move ahead of El Nino rains - standardmedia.co.ke",
