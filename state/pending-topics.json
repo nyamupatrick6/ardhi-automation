@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-08T22:21:02.923Z",
+  "generatedAt": "2026-09-09T00:22:50.587Z",
   "candidates": [
+    {
+      "id": "t_298386154",
+      "title": "CS tells Kenyans living on riparian land to move ahead of El Nino rains - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMU8tX21SSUFlWTBrTXB5c0ZQMG9PRWVIcktLZlZPelA0YXl4UU5OSkJwbXNaM2hoTFJQcWVJWmgybW1vQ05zaDhYbmRoOTlCTGpaeFQ3azRmNlI4NS1fbnRhdzdfUUpnbjZHbkxGSDN0QzM5MmlXN2x4WmJ2Rmo3UU1qd3F2NXNIR09nX1doSTQ0LUR1ejRHX25kckF4Q0xpRldyTTRlTkstZFNaSGw3NUgwR01jLVlyZ3VDV3Q4UDJkUV9lMFc3bGdSMmgwLUY3eWJVQmVuN1Mydw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 13:31:03 GMT",
+      "discoveredAt": "2026-09-09T00:21:28.943Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2006575821",
       "title": "Reimagining Bridge Inspections through the Lens of Digital Twins - GIM International",
