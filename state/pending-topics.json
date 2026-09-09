@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-09T20:21:42.153Z",
+  "generatedAt": "2026-09-09T22:39:08.580Z",
   "candidates": [
+    {
+      "id": "t_1782409279",
+      "title": "Geospatial Astronauts - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BY1U4Zjk2TjJ1MkpYSUNhU3l4Sm1PSWl1VkFDZlA0aWZHVF8xcVRrTjZIRVlWVjZmVzFIbklyVkRhMUZmTjVwLUxVQXFLd0xKZXRIc2VjelU5ZXpuZzFPZ3plZHR6X3JRNVVSUHlEREQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 12:47:22 GMT",
+      "discoveredAt": "2026-09-09T22:38:48.126Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1833739590",
+      "title": "HEARTBREAKING NEWS💔 ROAD CLOSED‼️ TO YEYO’S NEW LAND...What Next😭 - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yWGlRY0FGMnpMS29CYnJBS0Z1YWR1QWJoZTM0RHpiQ3dlZXNhR2R1alBFRFpZc1VUaGpaWVd2QkVKZVd3Y19iYTFXTkp4d3JKaGd0TnNR?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 17:15:06 GMT",
+      "discoveredAt": "2026-09-09T22:38:06.288Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_556031703",
       "title": "SimActive Adds Interactive Mode to Correlator3D for Faster Photogrammetry Workflows - Dronelife",
