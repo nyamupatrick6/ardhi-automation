@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-09T14:08:43.475Z",
+  "generatedAt": "2026-09-09T17:52:28.434Z",
   "candidates": [
+    {
+      "id": "t_556031703",
+      "title": "SimActive Adds Interactive Mode to Correlator3D for Faster Photogrammetry Workflows - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzRQMTM4Nk4wSVZ0aE5oV0ZlY0ZBYzJnUmZSQmN5TVdfNjZJYVZ2SXVRbE9OaXQxYURfR2hOanhjQU9aZF9XbEd0X2VydTdoYk1fWnJHTXZrLUYzRU0zN2EzN0F6dWVsYmZkSkp6ZzgybTA5QVU1UnRlaWJHOVo4MmRENnVpNXl5VGNJSlZYTVFkVENiVmN1QlpCbnBYUThrQU1tbVJfOFl6NWVtOVNaaWZsZUhhaTE1?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 15:40:17 GMT",
+      "discoveredAt": "2026-09-09T17:52:18.855Z",
+      "sourceName": "Dronelife",
+      "discoveredVia": {
+        "query": "photogrammetry software update",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1196723234",
+      "title": "Sweden’s digital twin city project moves forward - gim-international.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUhDQVAxQkN1RzVZOUdLVmFncUtueW9fYjd5TFpBbTFqSWU2NFo2UkdCWk9UbFNqVVZ5N1lGa3Bad2VhNHNiMGpHYUdleXBfVGllTFM0WWRVbFlvTTRVRWotc1dKUEhOZGE1RXVTRGVnaEM4YjBlM1pCdkNmT0hjWE9XSkNiSjF6cjVaU2QxN08?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 12:05:49 GMT",
+      "discoveredAt": "2026-09-09T17:52:23.764Z",
+      "sourceName": "gim-international.com",
+      "discoveredVia": {
+        "query": "digital twin surveying",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1870888094",
+      "title": "Atwoli calls for health, land functions to return to national government - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2pUS1U1RzVqdDJmNDhBczBGdlh6VVYwNW9kUVRSLWpjdkJaTnB6c2JJZlRHem85VDZPWHBReThDVkV2VXdWbUZTQkFMcDVSeFRMY0Vyakt3eWFXbTZWdmFRdlFvOHMwX0RyTjEyZTJIQk9Lb0pwRXEtbDBhQlBNR1RvdHZpT3JIMzVpaVVhRmhaaWNFVG9MdUFkT1Z3amZQU2g2R2tCdGtSb1pyRDJnSg?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 16:08:45 GMT",
+      "discoveredAt": "2026-09-09T17:51:07.574Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1022537694",
       "title": "Boy, 15, builds underground home in Bungoma over land shortage - the-star.co.ke",
