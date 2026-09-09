@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-09T09:51:53.978Z",
+  "generatedAt": "2026-09-09T14:08:43.475Z",
   "candidates": [
+    {
+      "id": "t_1022537694",
+      "title": "Boy, 15, builds underground home in Bungoma over land shortage - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQlNJSnA3U3drRW5la2t1YlNOV0ZxaVVLNExiV1FmOEVZak5tYkdKSEhYSk10UmxXMTU4SkZORlFHWDR3bTZlX2ZNa1E2NWxMTVc4Ym5aLTdDZlNfQlVjR3JmLU16NmFUWFo5TUM4dkQzWHR6TDJNSnl4dkszVjhUNU1qSUk5cmQ0LUFuTGJxSmJ2U3ZvN01R?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:23:00 GMT",
+      "discoveredAt": "2026-09-09T14:07:22.521Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_601126685",
+      "title": "Tata Chemicals case: Shifting landscape for foreign capital - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0lwSVkyWldiYnFadDZlYkZTckQ0aG15LXhCQ2xUZ29qbENKd0ZQODBxQ3d3VmFyS0hFcl8wZkNNYUowQWgwak9EdDdlcFczUGpWOW9TN3B6TVpQTEVlN1J1TjJwYkZYaWNmVzJiQWhpMHg4enVkV1VfblYyTEVhTmJGRHlTZXZkSXNlZ1RtdzlvUGR2YXplU1lMb28wVmJVOHRPdTkyZk9CR09pM3lBS2wxcTJmbzZuWFNUVTQ1VE5pbUE4cFdpbUo5QXFDUQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 13:45:00 GMT",
+      "discoveredAt": "2026-09-09T14:07:24.498Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_766125976",
       "title": "PointCab Origins 4.3, point cloud software, scan-to-BIM, laser scanning - Médium.cz",
