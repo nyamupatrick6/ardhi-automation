@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-09T05:11:59.311Z",
+  "generatedAt": "2026-09-09T09:51:53.978Z",
   "candidates": [
+    {
+      "id": "t_766125976",
+      "title": "PointCab Origins 4.3, point cloud software, scan-to-BIM, laser scanning - Médium.cz",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTENFU1lyMFRvM3ROX3N4QTVFSGZuZTVBU2g0NHdwOG5mWU1Vd3dJRDFGZDFtUmM3UDJJYS12c3lONDN5U19wampKN0xNcnRyS0ZVcFJmNlJXZGdQemd0SmZsS2R5S1VZVHNkWU5hVnRYVUIyN3h6YTMzZXJGOVpBOUVKU0ctQ1A3NFpVRjViU0FRUjdJRXhjRXNQa2NNRE1vS1BXWi1IYjRSMXVJbm51bjVaV0xMakxINUU2blZ3?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 08:47:29 GMT",
+      "discoveredAt": "2026-09-09T09:51:50.306Z",
+      "sourceName": "Médium.cz",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_116430948",
+      "title": "The Institution of Surveyors of Kenya (ISK) and the Ethics and Anti-Corruption Commission (EACC) have today 8th September 2026 discussed possibilities of a strategic partnership to combat fraud and illegal practices within the land and built environment sect - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfVThmTGVETGI3ZFdqUW5MSVVWWWljT0FsLUJUTHFoNFdpLWp5TVdGTWkxN0tqNEtUWmg3eUw4T1FUNHV6YUYxYkxMc0FRSWZVb1dBMmJXbk5tUFpWT05N?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 17:37:40 GMT",
+      "discoveredAt": "2026-09-09T09:50:52.346Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_163089088",
+      "title": "People, not technology, are at the heart of an urban digital twin - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXZEWGg4bEZ5Z21LZHJweF9RcFB2WTkycEtzaWtkT2VoX29sSTdCY1lUVUEzZ2k4N0JPSjJmT3JabEs3eGxEc292X2FVX1NOM1BEa1pEdTNvX3pqRmRYZXdSRXNMYkpVd29oMEo0Qkl6cktkeHpzaVFDcGNjYmpocUpyLUh0R21QZXJjUG1Xc2VhNzlmRG9LLWxsZWZVRTc2UWhCT3llWTY?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:29:25 GMT",
+      "discoveredAt": "2026-09-09T09:51:33.946Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_170860139",
       "title": "Remote sensing for land administration - GIM International",
