@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-10T00:35:41.424Z",
+  "generatedAt": "2026-09-10T05:13:45.462Z",
   "candidates": [
+    {
+      "id": "t_884964561",
+      "title": "Turkana conducts surveys as county prepares for land titles - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkx6RFMxWVk2QTktdFg3bEprRWF5VldPVW8yUWVyY1FhMVpwMjhsRFpYRExpWk84Y0d3cThRNmFKMVRxay1oaG1tWlBfaUxCSFktNFowZEVROWdleGU4VU1hN2JNVWNUeXZkbUZNNjBvZ1NpRXJQRDU5SVRsNUN4aHVzcWYyV0M0ZDJyVER5SEFua0d6MjB4aWVKTW85YlcwRVpnQUd3U3dVZ0QtVkdlWGVBaXhYcDIxX1E?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 03:15:00 GMT",
+      "discoveredAt": "2026-09-10T05:12:26.947Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_95039686",
+      "title": "Boy, 15, builds underground home in Bungoma over land shortage - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1R6RzgxZW5qY0RNNERaRE41clNNbDM4ZWZFZE16M241cXhyelhEM0h4ZG51dmFFeC1RYTRhN1RNeXNlNTk3UEVVeUZ2ZDB6TW9pLVJGZkRyX2Y5bHdDVk1EVGt5VjFNY21qMHhYbFQ3NkpRcC1OYVFsbzB5bVRwdlpfd09HMmZLT1FqUTVDWWtQS0FSbXNB?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 04:05:32 GMT",
+      "discoveredAt": "2026-09-10T05:12:26.947Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_929210141",
+      "title": "Restoring land is key to drought resilience — CS - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVExwemJOb05pT2VMVUF0NDJpal9lUHlLN0gzT01keVJ5RFBUNHBvcjZxR0gzUmM3Rld3V09Sc0pqYUtlUjNVRzJ2Mlk2NWZPOU9PY0kwWTd3MkhXZDRrb0NocS1OUHhkSXRlbHVRODZRVDhKNkpRSnpqaENMRkpDVXg4NWlQU25acVVpcUFlbGc5N0VNRFcydmdJUzZ5a0E?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 01:00:00 GMT",
+      "discoveredAt": "2026-09-10T05:12:26.947Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1419172971",
       "title": "Trimble Acquires Terasat Japan to Expand VRS Correction Network - Inside GNSS",
