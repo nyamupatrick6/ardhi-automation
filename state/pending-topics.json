@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-10T14:03:13.999Z",
+  "generatedAt": "2026-09-10T17:44:41.310Z",
   "candidates": [
+    {
+      "id": "t_461652128",
+      "title": "Senate cleared to probe Kanyotu’s son over Kiambu land dispute - nation.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR3pGODRMWHAxeVNjT3I3cnRwOTZBbzFrSUtPcXBBSEszYkktZDc3R0pocWJqeGdNZjJhcnBPbUFaTTFPejFVU2w5Z2luRXRuRzU5c0swR0JtaG1WOEFIN1F0SUExVG9CdVlsemZyRVQxWjFkaGViTTBHSjRkX0pPRHBENU9tWmRxeEFYYVdrMTYya1hDaDdfLVUxX3k0Vy1JdUMyZ09RYVdiLXRHVGc?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 10:18:28 GMT",
+      "discoveredAt": "2026-09-10T17:43:48.974Z",
+      "sourceName": "nation.co.ke",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1223025916",
+      "title": "From Baringo to Garissa, herders push back against vanishing rangelands - nation.africa",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUFWMGZMX1ZXNEZ0ckhqNmRyMFZVRkFDbmZJa2VjYVRaUWJHZkVZa3duQ1F6aFpzWEJSc0hVVWszQlBRT1lhZWQ0OXVWaUpmN19uY2wwT2NMaDIwQkQ5Z2JPbDBxNE5PYzk0TkZ1aUhlVWhCY0ZHcXlPOXhvUE1XTFByZXRTTVN4TXhhejhvMWRGU0dfR1FVVjJVMmhPNjRfNkY2SThxUC1sR0xEd2pUQVVjU3o?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 11:36:05 GMT",
+      "discoveredAt": "2026-09-10T17:43:17.071Z",
+      "sourceName": "nation.africa",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1580794382",
       "title": "Senate cleared to probe Kanyotu’s son over Kiambu land dispute - Daily Nation",
