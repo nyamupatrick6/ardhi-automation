@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-09T22:39:08.580Z",
+  "generatedAt": "2026-09-10T00:35:41.424Z",
   "candidates": [
+    {
+      "id": "t_1419172971",
+      "title": "Trimble Acquires Terasat Japan to Expand VRS Correction Network - Inside GNSS",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzcxNTQ4aURsT3BlbWxrYzh3djViWXFoQnFrUURGMUNDWlg0YVZwS1NQVEtiM1o2ZGNFUUljTDR3bElYZWgtRVA5NUo4eXJkSkF4dDNZT3RTWDBMdzh6SEFGNkpPMGVmVS11MTJxeUNrbkxVdU8tRU94U2NNaWhwTEQ2RjdHbUJRM0w5S1JEeHc?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 20:39:25 GMT",
+      "discoveredAt": "2026-09-10T00:35:36.017Z",
+      "sourceName": "Inside GNSS",
+      "discoveredVia": {
+        "query": "CORS network expansion",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1782409279",
       "title": "Geospatial Astronauts - GIM International",
