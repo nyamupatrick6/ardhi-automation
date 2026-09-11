@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-11T00:49:30.171Z",
+  "generatedAt": "2026-09-11T05:36:20.055Z",
   "candidates": [
+    {
+      "id": "t_577141674",
+      "title": "Whoever advised Ruto to order eviction of foreigners wronged him - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTVGQ0RXR3lfYlZLaE9NV2twY01HOWVUbC1MNmh0SlJDM1FDSlJlUU04S29rWFpIQ0VCRk5DYXlGTWRFQmp1Y3B1NE5wQzU1MXpGcEZqMlR3RklzZjZwZkF1ei1RWXIyaUpXSFQtWVV1T0tVX1NaVlo5dXZmaGxDZmV3WWhReGpwaWJqZ3NNcjJyQ3ItVy16bml0LXBROXVadDg4ZGl4U29WS2dFNEhzTTNmQzN3M3RDNExVQUExaGU?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-11T05:35:00.980Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1902943260",
+      "title": "Man wins back Nakuru plot after court finds owner died ‘too early’ - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalRUUFNLMFZXbWFUYlZQUmsxNXh0MDRDQmVPVUNacVloVkE1QXptNzl2ZVEzS2RBS0U3ejV4andpd3ZtUGFJQTZQUVowX2hjQm1WYnBrbXZQLUdHeGZfbm8wSl9lUHVrWVpLUmh3OXktWjhzOFNuZW9yTW13SnZURzUyaEdNNmVWOTRtaW1IbzhEcEFrZDc4YkxZUlVWZEFZRWZudjhkYkV1dFk?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 01:53:00 GMT",
+      "discoveredAt": "2026-09-11T05:35:02.021Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_631948919",
       "title": "Burundian migrants in Kenya fear eviction as documentation deadline nears - youtube.com",
