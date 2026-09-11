@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-10T22:46:41.251Z",
+  "generatedAt": "2026-09-11T00:49:30.171Z",
   "candidates": [
+    {
+      "id": "t_631948919",
+      "title": "Burundian migrants in Kenya fear eviction as documentation deadline nears - youtube.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbUlsWHpUakVVWU41WUc2U1VCQUxSUFNDVFBaVXRfUGUwbHlTWXdLUmtlemVCcXp6a1dKRXlfWHE0V01UOXNSYkt1Ymlxa2FPU3lxNDNn?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 18:52:12 GMT",
+      "discoveredAt": "2026-09-11T00:48:28.246Z",
+      "sourceName": "youtube.com",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_461652128",
       "title": "Senate cleared to probe Kanyotu’s son over Kiambu land dispute - nation.co.ke",
