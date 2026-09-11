@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-11T05:36:20.055Z",
+  "generatedAt": "2026-09-11T10:00:33.454Z",
   "candidates": [
+    {
+      "id": "t_916242385",
+      "title": "School raises alarm over construction on disputed Pangani land - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTdKdGJYdVpKa1hEeWRROGsyTUhOSnNheGVGSGtyMlQxYk5IQkYzY3FCVGkxQUE2YXZMYkpPVVZIMmkyVXA3R3E2SkVJT204SnRTbS1tUjN3UXZucDRFaFR0Q0VsTUhlTWYxbTYwRVRUZnFNZWtyWGJhT256RUFEbWl4WWg2d3o3aGtCMTBMaW9vMUtyVTFRdEFKU29GeGVFRE9OckU2Umk?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 09:28:00 GMT",
+      "discoveredAt": "2026-09-11T09:59:16.309Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_102525660",
+      "title": "Atwoli: Counties have failed, revert health and land functions to state - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSkVYbzRJbHBFcFh5eTA5ekd4TWQwamxVTGU1VTlHY29jUG1jRlFsM0kyVUZxeTdreG9vdF9UNVVpcFlHdnIzcy1fY1FvMk5QdkJRNF9HS0tpbElxUzZKN0ZSVTlrd1dqaWl0RWNUS2Z0LTFqMGZBQTdjSjBIS0JsSHBJdFM3OU1aOVQzVHFOa0dfYUNRU255VU9ZYTNqZkpiQUR4S01zdncwQzFWclo4azJPUkRpTE0?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 05:34:00 GMT",
+      "discoveredAt": "2026-09-11T09:59:16.309Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_201778472",
+      "title": "𝐓𝐚𝐧𝐳𝐚𝐧𝐢𝐚 𝐁𝐮𝐢𝐥𝐝𝐬 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐋𝐚𝐧𝐝 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐭𝐨 𝐂𝐞𝐧𝐭𝐫𝐚𝐥𝐢𝐬𝐞 𝐏𝐫𝐨𝐩𝐞𝐫𝐭𝐲 𝐑𝐞𝐜𝐨𝐫𝐝𝐬 The system will provide a common reference for land information, backed by modern aerial imagery and updated geographic data, and is intended to re - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxOSEFPTDNBd3VPWnJ0bmJoR19DbmRES2hwcDBvbjh3aDVqT0hMNVp4SVZzUzFYSS1WOENxNjlKMVZzY3NTYUotcGhvbkpBX2JLdkJvUG5hVVlzUm9VQ0tjZG95b29YZE5RNXhfMGZzclI5QnBDaWhYWWN5dEZYbDRpX2VsN2ZrLS1ORGR4MmdCWl9mdFJyUmwzSlhaazNqQUZMbWJFbFpMMmxHeW5XcnZ4a3FucDZNM1g2MnJ2Q0x5WTkxRXFFQ3lXN0tBdjZBTEtVbGZhNExXX05CMGs4WG9nZUd0c3NjcERJLURUTTZrSTc2WVBIZk5oSDNXYVhFSEg3aWs3b3NtcTM5VzBWS0lheHNkRFE4dTRuc3U1cFVjYU1oUTdhdTF3bERxVnlMX240T2VIbVhMZ1FZa3lCaHRJZ2JXdlVhY1l4Z3FzdDBfV0FNdllkUW04ODBWWVo4SFh4REFGd29Nci1abXFVdF96QVowMHlELVNHQTN5ajFnWG80NDlsaGdnN2U5ZmFKMnJWYi0xOUVUeU5BTWJZSE1lalVGQTBGMHlrUGotbFN1Sm1zeS1EdWN5Rzg3RDJUbkZxNXNUNWlzVDBmMnQ1VWlXdTc3RTFUQXZvSVI2MXdNcVNkcTVBOGZ3cUswN1J0cTJYVERLVzdOb2hwTDJy?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 08:05:56 GMT",
+      "discoveredAt": "2026-09-11T09:59:35.437Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_577141674",
       "title": "Whoever advised Ruto to order eviction of foreigners wronged him - standardmedia.co.ke",
