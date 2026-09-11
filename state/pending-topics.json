@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-11T17:47:31.211Z",
+  "generatedAt": "2026-09-11T20:24:24.702Z",
   "candidates": [
+    {
+      "id": "t_583040707",
+      "title": "CoMeta: Photogrammetry & 3DGS Software - Chcnav",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LZmRTb2w1X3Y5R2dMV0ZyZXJRMXRfaHItanJEdFZPUlVrcW9ycTVoSE9aSWtxTEJLTzhPOUJwMHNsX1dhdkJ0aXRvOGxUZ3NkeEZqLWpHczZkLUxDSlZFQ1hn?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 16:56:17 GMT",
+      "discoveredAt": "2026-09-11T20:24:00.136Z",
+      "sourceName": "Chcnav",
+      "discoveredVia": {
+        "query": "site:chcnav.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "CHCNav",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1584876804",
+      "title": "Narok surveyor arrested for allegedly demanding Ksh.100K bribe - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSTFNTGNTeS1ZWm93X2pZRVkzMkttcEV2T1VmZ1RUalVqVnpJMUlfUVVkS1M0UFd1UFFvUndRcXZnMkpjNEttQVZZZGlXUldCX2xtelV2cDMyd2Zvc2kzczN3czVOYWNmMXdrekJVeVlHZUJsU2pmRXZxLUtTZ0M3bG1JcHF6bHJ6UjZSYW5YYU9uR2FWUVE?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 13:43:08 GMT",
+      "discoveredAt": "2026-09-11T20:23:04.531Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2072827439",
       "title": "Goethe Institut Kenya Opens Exhibition Asking Who Owns the Land - Khusoko",
