@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-11T10:00:33.454Z",
+  "generatedAt": "2026-09-11T14:14:47.504Z",
   "candidates": [
+    {
+      "id": "t_2072827439",
+      "title": "Goethe Institut Kenya Opens Exhibition Asking Who Owns the Land - Khusoko",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbThEYTVkXzJMTnNVRWxLZ29uMnhKVWZ3OVBqRkNPTExROElobEhOTVhxR2Q5TVFVeW5Lclk2cTlEbmZEYkJQdHk0X0lMZEEtSERzXzJMZnA5RjIwZXh3WkpDcjJSQ2ZQZnZGeWxlSWloZEM3amZ5NGtkSGRxb1lSbDdlSnl4TXBSdXZTYWNXT2U?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 09:29:12 GMT",
+      "discoveredAt": "2026-09-11T14:13:57.939Z",
+      "sourceName": "Khusoko",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1726816151",
+      "title": "BUG-000180762 for ArcGIS GIS Server /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHBjN1pScjZKSXJkRjhxQVlvdTJzSFJfU1k1Z09rSUQ2d3kzSDZiVXFrZ3hHNjBBQTRWMlFfejVJSnZTc2tlUEdGdnR2MEVwYUF4amFuWkZHLVFFVDhUdC1GOHhuTGtYZ2tkeWZaNldkU3FiVGVxdVJ5STBEOU41TzJ5TDQ1YlUwTl9Ha2FHcnJCRmxXTFJvRWdWLXAzUWdxd1FLdXZn?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "discoveredAt": "2026-09-11T14:14:25.546Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1659363314",
+      "title": "City-scale digital twins for flood resilience - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0tUUlMtcWN3anJUa0ZZSUFzbklyY3RqRVBYbHJlbDJxY2FTRXdGTlBvdEpWUDhManpZMVgxUG1RTTZBbm9rQUhXeThaZzluSmtybVJobWtFbVM1ZkdLRXREZ1dzUFNCbFQtZmRtM1plQlp1UjBENVU2Q05jWUs3OXBEQ0hLOVJfSVYxdmx6bEk?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 15:20:45 GMT",
+      "discoveredAt": "2026-09-11T14:14:27.482Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_959724580",
+      "title": "EACC arrests surveyor over alleged Sh100,000 land beacon bribe - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX1ZGLWlJRWhkYlMtTWtNYjlmanJuRURZOTQzbkVQcjE2d19tUll6eUZFSExVczBGME15dkN6RXAzaDBvR29xVFIzU2VCSXhGLTRPQUROS1V6TWNsSWFVRkhnd1A4M2NqLWY5NGZXNDNBRWlfRzFHbnZTcHNnNkZmbXdXUjREMUhGTmc2SVdFQlFNM3h1VFVTdA?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 12:43:00 GMT",
+      "discoveredAt": "2026-09-11T14:13:29.449Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_916242385",
       "title": "School raises alarm over construction on disputed Pangani land - the-star.co.ke",
