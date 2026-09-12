@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-12T13:07:16.557Z",
+  "generatedAt": "2026-09-12T16:22:48.035Z",
   "candidates": [
+    {
+      "id": "t_814230744",
+      "title": "Govt Issues Fresh Land Acquisition Notice for New 300KM SGR - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHBCZldTbmhmbC1ya251Y212XzV5cDZYQU9ReHRpWnFBWXoxQWtJcEF2RTBDZEFXMjE3eXAxbm5zaFJYN1Nod2d5cThnWG0tdHBwdU1DVnlZblNha0lUZzE3ZWxkNVlLZmxQRGtZN2o0cHVXZUZ1ak9nX3Rmem5RRHNSRjZFLW1wWk9TenNfQ2NxWG5TX3ZQUHNZWjNBQ0xUYVdaR3pR?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 15:50:24 GMT",
+      "discoveredAt": "2026-09-12T16:21:20.172Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1214873778",
+      "title": "Ruto: Foreigners are welcome in Kenya, but follow the rules — no one should harm them - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ0J2WjV6VHpqbjZTbVlRUlZGSDF3cnpRNmRqdTBuYzktVGJwNm9fYXI2eThwTUczaW9NeUR4WGduTXFBdHFUUktjaGNnc25Qdnp2QjZYMjBoLUJsdVMtTTlmOXRIZElDdkN1X0tNZlFWdWJpc3dDN0RzeGw0LW1CSlVwSmxiQTRtdHpJVlN1S0kxZWtxZ1AtZldLOF9nVW1ReEE?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 13:30:00 GMT",
+      "discoveredAt": "2026-09-12T16:21:21.945Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "Kenya Law Kenya",
+        "origin": "Kenya Law",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2128431664",
       "title": "Surveyors Flag Major Risks in Kenyan Apartments, Homes Ahead of El Nino - Kenyans.co.ke",
