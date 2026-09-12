@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-12T18:44:33.898Z",
+  "generatedAt": "2026-09-12T21:11:31.340Z",
   "candidates": [
+    {
+      "id": "t_1009899240",
+      "title": "ArcGIS Online Training | GIS E-Learning & Instructor-Led Courses - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNFV4VEdWbDVweHVDM1FwQklTUjFxY0JieEtrb0pFV2ZHVlBkeV9SZFllVURaSkVCT2J6Qy0zX2hTNVlKZzRKaHFFOXFsUGtIMUM2LTNienpQTk9Xai16TjhZSW1XcU5JbkE?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 16:02:18 GMT",
+      "discoveredAt": "2026-09-12T21:11:09.261Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2087521249",
+      "title": "16 injured, vehicles damaged as Golbo protests force suspension of land registration - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMFlIQ3pEMms2eV9LS2lLVnk1d1VnVDNUNWRrSHVBdmdQV2lxNDdua0lhY0F6TkJSSnJpZG5IRGQ3VGRmTTBDUG1hZEdteXRBNzZlaXhVb1Z3aUFsQWM4QTR4X0VTcXlCYXh3Tlh5ZW1MUThMaGhQU2F4N2JkeUs2WXRCY3RJUmk5ZFNZMUY1SlZQcHNteWRCYm5hbno5aGNEcDdIQzNvbERPYzdCOUJ2U1NqR2NDTndObEhnVHR3ZHRWY25BMUx1dnRlaVF4Q1U4TUhFMmdjVElSbmM?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 21:00:00 GMT",
+      "discoveredAt": "2026-09-12T21:10:12.254Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_814230744",
       "title": "Govt Issues Fresh Land Acquisition Notice for New 300KM SGR - Kenyans.co.ke",
