@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-11T22:47:36.875Z",
+  "generatedAt": "2026-09-12T00:53:12.424Z",
   "candidates": [
+    {
+      "id": "t_431448178",
+      "title": "Whoever advised Ruto to order eviction of foreigners wronged him - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEM0aV9HRXVGN0xYbnB3cHhTeWFoSDBZa1RNTTdrY29pRGh3Ri1oc2pJUEVVaDNrMktOQUVfNHJIbDBoc2dXSGJ0NTJzcFlUU1FZbUQxakVLVkZlTjJiVzNPZ1dkWG9uZG1hMm04SE90ZFE3NEx3YTFuMUpHRjlnMnVSX1Y3blJqV2FJQ1FyblpkVGFIMHlpX0hPdHdGcndhcy04UzJGay1xWC11U0RxTVo1Y0piYXltU2tOdlloOVFyS09rVndFc1BCWUM1NC1tR0E?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-12T00:51:50.742Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_293346260",
+      "title": "Surveyors warn property owners as El Niño strengthens ahead of October rains - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTZRaXRXNzRhLUxCYWtrNC0weDRPVTF1aXRvVEQ3MkNyRW93aDl5ODNSRlB2TnhmSVpoRzAwUExqeDFxdXlrLTBIUTRxLW5UVEswMFAzdUkwNVUwSWhmS1J6ZHpQQVE0cjE0V0d6RHNvSVZ0bEV4NDgtVFVLSGlvY19tRGVyWXdZeTRvZ3B1dzVnTFM0TnNmdDlKcnA3LXZHY2stYzNCUHctczhFUGlIX0trMm1vRjUyMmhZTW9tMko?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 19:32:13 GMT",
+      "discoveredAt": "2026-09-12T00:52:04.331Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "The Institution of Surveyors of Kenya Kenya",
+        "origin": "The Institution of Surveyors of Kenya",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_583040707",
       "title": "CoMeta: Photogrammetry & 3DGS Software - Chcnav",
