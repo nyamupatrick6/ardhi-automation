@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-12T09:34:50.656Z",
+  "generatedAt": "2026-09-12T13:07:16.557Z",
   "candidates": [
+    {
+      "id": "t_2128431664",
+      "title": "Surveyors Flag Major Risks in Kenyan Apartments, Homes Ahead of El Nino - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmg3OVEyM1JuZE5lai1Bdm5mMUxXaXAwNTRpZElGRjFuWjRNcURxMkdsM2tqdkpGWmx4N3MtVHd6V3pTUHdqWXVlTHJUYjQ2SkJKTjFyWVZjRm9tTHZiX2VaMG1OMDBRR2tfR2xkblZDeDdqd01nQ0FadHlQZjdmWTRGVS0yLUVYTlhmRVRONmQyeHhmQ2xJREdGVFZody0wcGRDLWI4UE9UdmxMcjhJTVJvTQ?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 08:58:45 GMT",
+      "discoveredAt": "2026-09-12T13:06:10.787Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "The Institution of Surveyors of Kenya Kenya",
+        "origin": "The Institution of Surveyors of Kenya",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_863627203",
+      "title": "42-year old male, married with 3 kids aged 15, 9, and 3. Trapped in a Sh 1.6M loan balance, repaying Sh 22K p.m for the next 6 years. Net salary Sh 28K, hardly sustains needs, forced to take short term app debts. Is it viable to sell land I inherited in a prime loc - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pV2dMaG94b19jLVlrcHN5V01RcWlsZmR6QjBnZTctenJnT1c4NElCQkNLRkUtOUE2RjdnTWFQR0Y5VE9SUEV0SVM4NFZtQXJQckF2dGlxeW01Y29tTDl5WHZn?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 04:50:57 GMT",
+      "discoveredAt": "2026-09-12T13:06:14.609Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1660773472",
       "title": "\"Ordered from above\": 51 houses razed in Molo land row - Tuko News",
