@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-13T06:17:12.489Z",
+  "generatedAt": "2026-09-13T12:01:02.077Z",
   "candidates": [
+    {
+      "id": "t_91553368",
+      "title": "Govt reveals list of Kisumu residents to mandatorily surrender land for SGR expansion - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcG9qUHhsQ3FDNkJpbkFIMV96N0Z0VU1MZnE4X0VBeE5NdXNYUnpVVzlhLWNicWtCUE5HRF9xaENzOFFRMTdKT0xEY1gwN0M4NTJXdloyOEpPUlhTZTBMTTMwVXVaNDB0UWNla3ZObXlORVFWWkpRbkgxZmlhR2xEM3hQazJxcmVGUkVJQ0lpNUp3V205azJVajJPRGdVT19IeVNhLXdsNi01Y2sxSUZUN3NmLWJyeDUwcWc4Q2Y0YV9DZVp6QkZHQWpfZ2tKUQ?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 09:11:26 GMT",
+      "discoveredAt": "2026-09-13T11:59:38.292Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_233610497",
+      "title": "Govt Reveals List Of Kisumu Residents To Mandatorily Surrender Land For SGR Expansion - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyV2ZKWXFJRnpKNTdPR2hLR3lQeFNYRGs2S1BsUXY1b3lvekpVN1pVejh3Y2xObnVYdkVmN2thREQ0Wm1oWVRHNXhuQkVESXNUWTRPam9ia1FXaHNJT0d2d0xIanVYSW5LbVNZUVJFTVpXSTZoVFRVTTdHcUkyZw?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 07:51:56 GMT",
+      "discoveredAt": "2026-09-13T11:59:38.292Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_773465784",
+      "title": "Maize-maniac: Billionaire importing maize as Kenyan farmers are left on their own 🌻Meet Henry Mwingirwa: maize importer, tycoon, and now politician-in-waiting 🌻His firm Baita Trading Co. just landed a Sh25.8bn deal to import 6M bags of maize from Zambia - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LQkVxUlVNcXpYdEVobkc0S2p3S09HaXhndFdEUUhDcjZGbExRUld6X2NaaGVtM1RYRVNRNjVrVnNZLUtvemFybXktaHAzb1B2LXN1SlAwU2dOZF9P?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 20:09:34 GMT",
+      "discoveredAt": "2026-09-13T12:00:00.846Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1009899240",
       "title": "ArcGIS Online Training | GIS E-Learning & Instructor-Led Courses - Esri",
