@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-13T12:01:02.077Z",
+  "generatedAt": "2026-09-13T16:08:18.818Z",
   "candidates": [
+    {
+      "id": "t_1399686489",
+      "title": "Court Explains How to Protect Land From Unauthorised Transfers - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUW5jOUNPQjh5a0Q4MGlZVUM2OFc4aURYR2EzMVVhS1ZYRHRoM3dDSFJma0xYN0QxeUNGMXNsZTlyYTdBY01tZkVyM2NxNk1hZ3V2UjkydHg1aHhzX1luVUJUekVqazdWeTF6RmZFa1NYQkJZSDROU1doUV94OG4xdnhYejBZaDlLdDdka3NzcnJRYVJiY0piQ1lZLVgzQllMMGRNSG5BdGdYejZkeDdnaA?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 13:32:27 GMT",
+      "discoveredAt": "2026-09-13T16:07:01.862Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_91553368",
       "title": "Govt reveals list of Kisumu residents to mandatorily surrender land for SGR expansion - Mjengo Hub",
