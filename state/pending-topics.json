@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-13T18:50:33.839Z",
+  "generatedAt": "2026-09-13T21:15:40.815Z",
   "candidates": [
+    {
+      "id": "t_1942796051",
+      "title": "Ntimama10: Land fight, Maasai unity and Ruto re-election dominate memorial. - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZnVOYi1OcklNYVJ1Zi13OWNkT05tc1dUbXdkSmlCazMwcnFrcEZLcjZrRDVZS3l4dUtJMnB0U2w3eXB4MElUQXlJaDRnWEZlbTJsVTB3VWlXRmo2V0h3a2NIdGNVQ0J0ckZvOUVBM3RwQS1rT250cElaZnJwMEd4SFh2Nm40d2hQVlhqUXpSQW1BazY3XzFudEctTG5iTmFvdjkwOF9XYm9Wa0tpeVhCUHVOeEthZ2FqTzhrc2JQZzVnVUdtM3pweWZrd3Q?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 21:00:00 GMT",
+      "discoveredAt": "2026-09-13T21:14:20.758Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1399686489",
       "title": "Court Explains How to Protect Land From Unauthorised Transfers - Kenyans.co.ke",
