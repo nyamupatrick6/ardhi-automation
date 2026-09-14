@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-14T18:43:49.886Z",
+  "generatedAt": "2026-09-14T22:15:53.821Z",
   "candidates": [
+    {
+      "id": "t_834564162",
+      "title": "Meru Land CEC bags continental cybersecurity award - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2o0ZVlBNTUyWnJuWkhXNVFMRlF2am1hMFlNTXJhNjI0Z1kzQm1rY2YwellHNHpRaERkMkg5QzFhUUxLampITThiV3B0VG1wOU5zdXl4VlR5MTFaZlV1azVwbG1XS2FrWHRQWjd1T1RoVUh1R1N5NEVYVjhvS3NfUXJKV3pWWGh0MV8xYURWRE9Cak94Q3hDNTFzMlNVRi16V2cxNFZwRkp0U09qRUp0azA1ekVNalcweVJZ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 14:38:12 GMT",
+      "discoveredAt": "2026-09-14T22:14:30.262Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1640952814",
+      "title": "Trimble introduces GNSS receivers with anti-jamming and anti-spoofing technology - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFRSRHVPTnptR1RpWnY4LTJSNkROaFVfREJTU0duLU1MTmx4X1FjVlNleVZvVlRUM1ZkV0Zkc2xLQ2RldjBNcm1xNUhVOURtdWsyS1E1VHFzT3RGVDVaVTZrMXF6QnNBTGo4dTE3UDROd3FqNmF2OE5XaVdBQzNxLUFveXBfaU9haElWX3loeklCNHJqeDdpUTlJcGs1cUZBbTlaNUd4QTBvdw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 18:50:13 GMT",
+      "discoveredAt": "2026-09-14T22:15:34.625Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_120773437",
       "title": "Leica Geosystems unveils X-PAD portfolio and GNSS smart antenna - GPS World",
