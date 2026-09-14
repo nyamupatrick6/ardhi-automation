@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-14T06:24:30.798Z",
+  "generatedAt": "2026-09-14T13:19:31.236Z",
   "candidates": [
+    {
+      "id": "t_1392321567",
+      "title": "Kajiado Wants Tata to Pay KSh13bn in Unpaid Land Rates - The Kenyan Wallstreet",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WLWtKUFkxb2FZSW5sRFJhWmtwSmRocjJTV3l3elBIdjdMVmJrNmhhcVRtZzByUWlKWEkyd1NBMW51ZUotM1h0ckpVR2taZng4azBvWVFhbTFUTlM4LVNwNHZzUFJkM2Q3aHE0?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 08:36:18 GMT",
+      "discoveredAt": "2026-09-14T13:18:48.625Z",
+      "sourceName": "The Kenyan Wallstreet",
+      "discoveredVia": {
+        "query": "land rates Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1273965407",
+      "title": "Standoff deepens for Tata Chemicals as Kajiado County demands Sh13 billion in land rates - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWlRCRTF5dDJOUWJSazI2OVVJNnJXS2dTVy1RdGVhT01jUmFsWkpWUW1abEpfVC1QYlhlZ1ZLZkZ0TWVwY1FBX0VWU3ZIcENYemhkVjVNZDlGUkZxcUZiWUV1RHpFbk5jbHhkYzZVMnBTZUREbjNuUmZjRWhCOWFCdTJpTmU4NXBNdGFhbGVQOHZ1ckdzcVZQTWk3MWlwRG1mOHc1Q1FGMUxSdnh4Z2VvaTdBZmdGS05GSXZhNmJxZ1BKWUVPVi1YRw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 05:32:35 GMT",
+      "discoveredAt": "2026-09-14T13:18:48.625Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "land rates Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_407948259",
+      "title": "Introducing the Leica X-PAD portfolio and the new Leica GS11 GNSS smart antenna for everyday surveying - Leica Geosystems",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGVVUk5HdFFSc3JaYnNybHk1UTVUUmw3QmZ0UzMzWW9ONmUwUDFWZ0gwaHlaZ2NTd3lQSi1JbUVSUTQwZDJXRl9kSXpRRUYtU1o0SkdEVlFDWTdzUkZlMVlTTERUeDIxWUp4NlNxS09raEowLTg1T3FOY2JCUTh4QmNXYTN6VnNScnJweVNkR2RmdTNPZ2VUb0J6VGVqX0d5Q2Q5cnF3aElVRDUwbDlYQkVUd1hxdw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 12:12:14 GMT",
+      "discoveredAt": "2026-09-14T13:18:58.478Z",
+      "sourceName": "Leica Geosystems",
+      "discoveredVia": {
+        "query": "site:leica-geosystems.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Leica Geosystems",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1187428434",
+      "title": "Tata Chemicals owes Kajiado Ksh.13 billion in land rates; Governor Lenku claims - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNFJGM3ZNYTZmQ1B3TU00anRyQVNkMjhxZUhkVmo1bzRiV2hETHRIYW81cUh3UXdfckpuVlU4NXVRMG9LbEtsRDd6dDRqLXh4Y0Q4VmF0cV9ORVYwVFBPZ0VHYm5PU1JmLWo5VFBDTFZHWnFFaGF3NEd0N0ppcHBlLThHUzlQdWlqLWZseHJCYzNJOFJlLTgzeVFaMjBaRkhmZGg2QkxBT1E3NUR3ek5rLVV2T2pBdmxv?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 19:48:08 GMT",
+      "discoveredAt": "2026-09-14T13:18:09.594Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_669334666",
+      "title": "Court cancels title deed transferred two days after owner’s death - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTlVVmVVbmRVNHFmaTZaQmY4Nmd5RnpQRU9VY0hiVmJUYjZ5eWphMnNKTFR6NEs1VE1pdk5mbzJTQmo3c2Nqa1VheTRJRmZ3TW82QUxKdDRaQzFIWDF4N1Z3Q1l0RTlzeDQyajRybUh3a1otMk1GWnZ4RXVFdGtjOFN6a19GdHdlWEdNNWZ3NEcwWUJnY05KZjNhcmE3UGYtdFdxaExCYXdrcmpJU3dQRA?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 11:30:00 GMT",
+      "discoveredAt": "2026-09-14T13:18:10.572Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1407478684",
       "title": "Ole Ntimama's memorial blured by land fight, Maasai unity and Ruto re-election - standardmedia.co.ke",
