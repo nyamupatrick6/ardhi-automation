@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-14T13:19:31.236Z",
+  "generatedAt": "2026-09-14T18:43:49.886Z",
   "candidates": [
+    {
+      "id": "t_120773437",
+      "title": "Leica Geosystems unveils X-PAD portfolio and GNSS smart antenna - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEtyS05fNEVTQWNlZDBlNGljNjZPU1pvUFp4a2tpaDNqQTdOWUpHNC1QTG1vSVp4bTRWdnJYUnNjaU5MX2ZWUFBPZl9OM0ZHTVhCVC0yVXBpSGY0Znd6eVlMTUhFcVRibXBjUXg3RF9fZ0VNUEUxNlFvamIwOFJQblAtd2xpcm9XODQxZEpHZUpXbkE?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 16:24:13 GMT",
+      "discoveredAt": "2026-09-14T18:43:31.737Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1392321567",
       "title": "Kajiado Wants Tata to Pay KSh13bn in Unpaid Land Rates - The Kenyan Wallstreet",
