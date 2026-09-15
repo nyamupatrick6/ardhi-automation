@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-09-15T15:29:28.534Z",
+  "generatedAt": "2026-09-15T19:11:50.627Z",
   "candidates": [
+    {
+      "id": "t_2012153889",
+      "title": "Ardhisasa needs to make land transactions truly transparent - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZkU5SnFUMnE3UjJiWG12aGZQaU5HdldLcnlhdHgxcEFWMmk3UFcxdjhaZnJRaWkzaUZCOHRGVUNzeW8xQXNfbUNjdGFuWjV0ci1JLVdtYlBFUFR5cW94b0lJWDZYZi02QVYxUTFoSmlxX1ZvWGpUMkdRR2diUHlrRWZfV0JzRnk5TWtCZXpBVDVNTWRSWFM3VEF2XzUtN3UtWTU3XzlhVFlFb0xwXzVqT1dxQjV3SWV3cWwxRjVaME52bWZMVjk3bVdsSmxUMEU?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 15:45:00 GMT",
+      "discoveredAt": "2026-09-15T19:10:29.397Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2101261475",
+      "title": "Kwale Land Dispute: Families seek government intervention over 3,100-acre property - youtube.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudEo4X1JIMnV5dmI1UUxzeS10UThPa0o5ZUxoaHBaVC1zc0k0UFBTbXN6LTVERzloQmRLMXF2UlBrWk40YWlZU20ydkcyNzFtT21TZkln?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 10:42:00 GMT",
+      "discoveredAt": "2026-09-15T19:10:46.306Z",
+      "sourceName": "youtube.com",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_581642418",
+      "title": "Sakaja: Military, police and prisons owe Nairobi Sh2.7bn in land rates - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQclQxSFhYdFVLR0kxLUYwQ1R5OTVVZ1NxLVo3bl8xejBrYWhIZzJRWUFIMzNkdVRzNG9YUDBqUkZwUnpxd3VFaEZpMVlwQ3JkeElxODFPNXNBLWhGV25OakRxaVVEZEtvakdXUDY2VlFRMFAzNFhvSEQ3b05VTFVvQ0pxN1NHUjRObl9oS0hDaWNJWkFvMnJERlZtNmg3VEw3cTZ3RlBtUnVDZmNwVHJDRjJPdjMwb2lvcUMyeTQzalN5RjdST2c?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 14:05:00 GMT",
+      "discoveredAt": "2026-09-15T19:10:26.355Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1282500867",
       "title": "Kangemi traders oppose relocation to disputed private land - the-star.co.ke",
