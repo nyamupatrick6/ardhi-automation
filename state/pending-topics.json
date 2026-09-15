@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-15T05:46:01.731Z",
+  "generatedAt": "2026-09-15T10:58:45.833Z",
   "candidates": [
+    {
+      "id": "t_1016707675",
+      "title": "Two families call on government to intervene in a land dispute valued at about sh1.5 Billion - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MTzZzUGExNndXcWlacnQ4aHNLZmxqT3RDRTZnbWEyQWRzZTBSS0tXVU41RmtRZjdWcE1XbndXY0xPaVRWNUF6c3R2ekhyLWpkWXNvVVRB?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 18:26:42 GMT",
+      "discoveredAt": "2026-09-15T10:57:45.779Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_850706530",
+      "title": "GeoCue Expands TrueView Standard LiDAR Portfolio with New TrueView 550 - manilatimes.net",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT3JTaGpkeFhnN1IzbmxNZ2NYaFVTVGR3ck1TR0EwenZXUmY0ZWdaTFJHWWZmRWNmUDhHOVpfUjZ4S2dyMjlNUTUwdWZNZHczbXBKN2ZSYldKOWhtUFNJX09EZThwZ0Y1alRGWUNQb0pXNzduWXp1R0taU2pJdmZ5alhKdDdMZ040STFRU0t0ZUQ2Tlgybnd1UGtzWXE2OERETFdScUt3WFF3ZVZUMDZZS19pRzBSNFFSU3NISkx5T1BTNFhXTjZRNTNCNURCNEUxdkctUVRiX2xuVWNt0gHiAUFVX3lxTE1zU2NiZmFDeUtkOEE2b3kwQkxQRzVKT0VfYTNQVFBYM2R4SUJpUFZwWS1XWWhNaV9LaWxYV2lfcWgwd0M4bWtmRE1lN3hYbEREdDJsSU9kcHRxLTlCS0hzdXAwOGx0M0tWYXpXQUJzcjNGOWQzdlZ2MDBnWkhHUE1jZkw0dFpGcW16bTh1d3Rpb0VyRjdnYTZNWkMtdXNxeUdINlRQVzBRNUJlTU1zQnEzdS1JNmQwX3NaVTlraHZvaHBhQUo5Wjh2RDdIcXBPajNLR2pKcklnTkFyTFBpeEhMZWc?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 07:12:44 GMT",
+      "discoveredAt": "2026-09-15T10:58:42.884Z",
+      "sourceName": "manilatimes.net",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1349694537",
+      "title": "Sakaja says ministries owe Nairobi County Ksh.2.7 billion in land rates - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUFJQVVyRU1jbjNxV0d4UlR0TjFwaGdGbWp4b1N6V1c0T1p4d2lYblQzWXRGMlJxRDNhTk1xbm1jNG56bmNOekdEV0ladmdDbTlIalVXZHZNQV9VTjhCaVpKRXpuUGJDcFR4Vl9NX29BQ0o5S0k3Wk1jb1lxNXo5WjdMVm1HOXVVd2FZaFhFNmdBdWVONjBvQ1hMY2RrQzBXSHc5WlltZFRyRU9WeFE?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 11:48:29 GMT",
+      "discoveredAt": "2026-09-15T10:57:29.290Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2101215154",
       "title": "WGIC report: Trustworthy, decision-grade geospatial data - Spatial Source",
