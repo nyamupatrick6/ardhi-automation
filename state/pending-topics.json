@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-15T19:11:50.627Z",
+  "generatedAt": "2026-09-15T22:18:53.315Z",
   "candidates": [
+    {
+      "id": "t_834633333",
+      "title": "GeoCue Expands TrueView Standard LiDAR Portfolio with New TrueView 550 - suasnews.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkVIYXFhYkxaMjlKYWo0NEVoWEpYQTNYemxaZm5HXzJRcVh5MnEzSmUxTmZqVVZXTHpqdXl3VllLOVBSUHZVZlNfQlRZM09Dd251Y1Z3Ul91bzIxNFVVWlBCUTlVOWFXLWhxMkRscEVqbEtsSEEzTXotR1VHWnVmSU81U0sxSzQ3a01aVVdFQ0xRRUU1dzBJdHgwRkYtUVN3OVcyTk9abw?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 14:11:46 GMT",
+      "discoveredAt": "2026-09-15T22:18:36.653Z",
+      "sourceName": "suasnews.com",
+      "discoveredVia": {
+        "query": "sUAS News",
+        "origin": "sUAS News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1424706549",
+      "title": "Nairobi Opens Eastleigh Land To Private Investor For Multimillion-Shilling Project - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEFHd09rWFZjY0Q3d2c5bTZlN3Rlb1h6UTNDTDVCU0JUS2htVDczZ3lrcGhFTTVtcnp4V3NzUVcwRUNvZWw2eF8yTl9uWEZaZWRfTTFrNE5iU3Atb1Q5M29CWDl6U1o0cm5lcG9Sdzg0RjNiN19PVUdjSThPNWUwMGpxWGtvV0lBVC1VTUNfaWt4S3FmTzltelgwRDZDSmQ0NUNQbHVENVNSNUtsZTZ5WUVDVEdGLTk2VFhTSkdLaw?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 16:08:02 GMT",
+      "discoveredAt": "2026-09-15T22:17:29.124Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2012153889",
       "title": "Ardhisasa needs to make land transactions truly transparent - Business Daily",
