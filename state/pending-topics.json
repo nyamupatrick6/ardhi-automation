@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-15T00:42:28.618Z",
+  "generatedAt": "2026-09-15T05:46:01.731Z",
   "candidates": [
+    {
+      "id": "t_2101215154",
+      "title": "WGIC report: Trustworthy, decision-grade geospatial data - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0JyMUEyNTVHcTBWOU9rU01uNUlCMXJLa1FiRElLeFJZT3o5czhsWlM4V2gwVnRvOE11X1lWTHpnU2puWDFkdTBQLTBWdlFSUHkxNENZNmdfdVhHSXNWN3VJMXRzVnVRalVmOG9fckt4X2g1SzZoaE9FV1EtOEtoTDdXbDkxVkhvazVzWDhVa3AwUQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 00:51:30 GMT",
+      "discoveredAt": "2026-09-15T05:45:47.136Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_497178466",
+      "title": "| Land & Property Diary | 13TH Sep 2026 | - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MMVNrNWFBTEN3WFNJdU1za1lzSUZaVkt6VHMzWnNiMnkzN1kySVE0djRpckprLWpjVG1wbHZ2M1JJb2MxeWlVWGRzS0NJQmc2cXFQejBR?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 16:11:53 GMT",
+      "discoveredAt": "2026-09-15T05:45:02.359Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_253376706",
       "title": "WGIC unveils report on impact of AI on geospatial data - GPS World",
