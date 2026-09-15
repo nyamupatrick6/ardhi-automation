@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-09-15T10:58:45.833Z",
+  "generatedAt": "2026-09-15T15:29:28.534Z",
   "candidates": [
+    {
+      "id": "t_1282500867",
+      "title": "Kangemi traders oppose relocation to disputed private land - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTA5cEk3NEFLMFJLb0kyWGVlSFNLaGtrMXctWU8wdGRRWGNUTkdDM2JJbVBIbENySm91R3JZcFd1a0xCZTdUZjRUTWNDN0FxbUs0RlVnYjJQdkVDZHBGWHZ2RXpOVmdhUS1vNXBsN19NbThXUDVnZkdvbUd3aThsUWhjY2NZRU04a0lDVkN2QmwwZ2xFNHh1WExNWkt0WDNNbHBYLVRKSkY?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 11:28:03 GMT",
+      "discoveredAt": "2026-09-15T15:28:05.446Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1332596396",
+      "title": "KFS Responds to Claims of Grabbing Muthaiga Golf Club Land - kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelB6eTBSNGV0dTVYaGc1M29pZ01TN2ZVc2tRQm1Qb1pZZndwXzJUa1U1WllaR0E4U1l1TDdXb2hqd2FkNWpIaHRBNzdzWEp5cGlFNy1tZzFyTVpPZFNtVVZxamJYV25aaTctVk5JUGFHYWw0UWc3dUo4bmdTd2l2dk9TV2ZSVGtab0hWM1llZ0VzR2w0SnVmR2pONTg5V1hBQkFjY3F3?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 13:00:06 GMT",
+      "discoveredAt": "2026-09-15T15:28:08.410Z",
+      "sourceName": "kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_474389188",
+      "title": "Kenya Forest Service explains its position over disputed Muthaiga Golf Club land - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDM0cEE3ME9QYVhOTjhLSXJxVzhGeGdSbmNjSjJGUmtXemVRYzVRa1dzS0ZFdFRidXJPYzNMQlMwaFhnMHN2b3hRaGViMzA1Sl9USEw1bV9rNkdhM05lNGdabURXU0x0eGZDQWNDTGJLYzViOWVHdmlnd3MtUy0xSU1kbGZHQi1XdDBSdlJ3bEhsTkhnZ1ZXZjFURFh0bnYwUkcxVUpaa3Q2MkFOOVhIWHJJRQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 14:14:15 GMT",
+      "discoveredAt": "2026-09-15T15:28:35.855Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_318530722",
+      "title": "Why KFS Has Taken Over Part Of Muthaiga Golf Club Land - thekenyatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGJUWnVhN3NDUGV2UE00X3RNVDlEaWtVYVhiRHR1WGxfM29iWVA3bTVtaHFNTV9HNVBnTXRIZ1J2MFMtalNkYlZuTFdRd3JxTjczcXA5b0NReEg3WFJMM3FFYXJnMExSdEpBMi1Eb0UzU2pfM1RGMXluR0E1OU92Mk1YSFJQNndkVFdsVjhnYnhRcHFGdi0xU1haNUZWRk0tM2VoSVFERHc?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 13:31:00 GMT",
+      "discoveredAt": "2026-09-15T15:28:54.461Z",
+      "sourceName": "thekenyatimes.com",
+      "discoveredVia": {
+        "query": "land survey dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1614971773",
+      "title": "Trimble Unveils ST30 Smart Target for Optical Surveying to Enable Unparalleled Accuracy, Productivity and Integrated GNSS Capabilities - Trimble",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNEIzZ1djNHZURV9kQzl0M3h5a3NiUDk3WHJIM3lwS0RNdEtRNEJiRWdfbzd0VEdyb0RRYWhkYlRuMEVVdUdYb1c3aGxEdGdCeDNILUdKR3o5LUozMHRtUkxrZVJzVzFpNG50WUNxeDBzZHllNXBDYW9xQkowN0N4TkpBOGt1UUZnZEtobXpLamF3am1vUzMwcGtiMVFMaXBUMVU5OHItM1RlOV9hcU9iaUFNS0hkOEpmamhYZjNsTXYtQk1ka0IwWkR2YXJ3RUxyRTV5SFFLakExOTRfTzBnZTFKZHNoSHMzdTZwMlF1aw?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 04:51:49 GMT",
+      "discoveredAt": "2026-09-15T15:28:55.513Z",
+      "sourceName": "Trimble",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1685964260",
+      "title": "RIEGL Unveils New UAV Lidar Sensor at INTERGEO 2026 - Commercial UAV News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sV0poRDJVOHJyV2dFaDFTY1FfQzNUQW5XbTZ4aW1nc0FZWW5kVkpyM2owekdwbkE2Vk5meExIS3Q5WFlJQ2s3cXdaTXU2QWJVeF9YTmZTNFBiQlN2aUpYZ1NvZ3VzUUVaRWZ4UTB3enN5cXR1WXI3cGNlQWQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 13:02:29 GMT",
+      "discoveredAt": "2026-09-15T15:29:12.465Z",
+      "sourceName": "Commercial UAV News",
+      "discoveredVia": {
+        "query": "Commercial UAV News",
+        "origin": "Commercial UAV News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_294700699",
+      "title": "Ex Employee Ordered to Pay Ksh14.9m for Faking Disability to Land Job - kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFUxMmtGVjBHOTQzUlNud0xyU0FvTGRxNHlxbDBpUnExRGRkZEFQVDUzU2JSSjk4WVBfTFRFWENIQmRxUm1xejlscUpRalBQMXVlUkN6VzFRUmhVVjM3Q0RCRW8zV05fSlkxTnJQUmRQUlZEejNEc0o4eTVhNGs2T013QS03ZjZIOXllSjVPR3p4Y0RjcWE4dkM1TlhIVjZ2bDNzNzJMS0J2dUVnTTBwVU94SQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 13:43:19 GMT",
+      "discoveredAt": "2026-09-15T15:28:08.410Z",
+      "sourceName": "kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1016707675",
       "title": "Two families call on government to intervene in a land dispute valued at about sh1.5 Billion - YouTube",
