@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-14T22:15:53.821Z",
+  "generatedAt": "2026-09-15T00:42:28.618Z",
   "candidates": [
+    {
+      "id": "t_253376706",
+      "title": "WGIC unveils report on impact of AI on geospatial data - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckpSMDA5RUhuTEFtWlU3REhyRllmblN6dHV1OTh2WVpCTWx5U0k0Y1d0WTNtTF9zUkdObmRGcklRaFNzRHZMek5CZE9sLTRLRWdnZkxOLWRydjdvVlZpbDVfWU1YVmR4RVdlcFh2VDNfcUp3dkZaVHNyeW5JUkRDdVpKZ0kzbWM?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 23:19:11 GMT",
+      "discoveredAt": "2026-09-15T00:42:10.654Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1848714705",
+      "title": "DriftLoc navigation algorithm released for GNSS-denied positioning - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRllCSFpYUGZCbTJzTlVNOG1zd0t3NVd3SnJQUTA4TUFiZmFYb1QySGI3WTNLV1RrWGlWQ0FNc2VfcDhuSjhBRHJLRDhNdVc4QXZEYTlzdmJIZmdQaFVvdzJacHRLVlh2VWxpMXIwSUJpOTN3UWQyTzAxODk3empReV9xTlp6eUdaU0JUcm9UTUtsclc3cXRV?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 23:00:12 GMT",
+      "discoveredAt": "2026-09-15T00:42:10.654Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_834564162",
       "title": "Meru Land CEC bags continental cybersecurity award - standardmedia.co.ke",
