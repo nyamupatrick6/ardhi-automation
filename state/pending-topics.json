@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-16T18:39:08.809Z",
+  "generatedAt": "2026-09-16T21:43:04.671Z",
   "candidates": [
+    {
+      "id": "t_2054669650",
+      "title": "Best 5 Drone Survey Solutions for Towers in 2026 - TelecomTalk",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxdHFWY3BVU3lsRWhPQmZJbjRkYVVPZENYMEN2LXc0WS1FcVJQTXFwSThUTjBoZnFCTW1XaGUxSHlsWnFSak93ak93OTdIWURDWDNZbmtuSkFma3dlazA4bDZqUGtiSnhmeERyb0NQYjlmbU4yZkdsdUdDdDM?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 13:13:56 GMT",
+      "discoveredAt": "2026-09-16T21:42:59.860Z",
+      "sourceName": "TelecomTalk",
+      "discoveredVia": {
+        "query": "digital twin surveying",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_178493685",
+      "title": "Inside Pieter-Steph du Toit's posh car collection, including Land Cruiser Prado - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYW5rQmxMa1hmVUpWUHJXOFZrT1c5LVVjYU5BdjFqWDVjbjJIdE5zUTdIYUV3T1BJZk9LRmtYdnRPX0o5V1JmTEVpNldQdk5zNnpZSENxRnlFM0FFTWFpallvcUd4bEFrS1NFZEtKWnRWMkpZRnd4QnR0LTA2QzhELS1tdENqc25Ia2s4c3k0R0JkNmVVS195cWFhNTZ2Wmg2LUkwWEhtVjh6NnoxOFpiTFFxRDdHZw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 18:43:47 GMT",
+      "discoveredAt": "2026-09-16T21:41:48.386Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_826710033",
       "title": "This is a country of land grabbers - David Ole Sankok - youtube.com",
