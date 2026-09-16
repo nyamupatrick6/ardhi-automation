@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-16T10:01:17.250Z",
+  "generatedAt": "2026-09-16T14:48:41.020Z",
   "candidates": [
+    {
+      "id": "t_52651966",
+      "title": "How Drone Data Is Helping to Fuel Raleigh's Digital Twin - commercialuavnews.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RME9JdVh2N2lOeFZpdzhFSnJMQ3lxZjJDeGQ4NnY5bGJLUlZpdWN6RENvV0VGeF8zN19JYmNxVXNWb2EtX1RZM290ZnkwSGtrR3FNX3VZb1I4MmxMdFN0THU4UjRIRHRYYW85WmlyOG9ERGs?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 13:43:27 GMT",
+      "discoveredAt": "2026-09-16T14:48:24.669Z",
+      "sourceName": "commercialuavnews.com",
+      "discoveredVia": {
+        "query": "Commercial UAV News",
+        "origin": "Commercial UAV News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_577624167",
+      "title": "Why you need land surveyor in real estate and construction industries - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPck50WlpnSDRTQ1NhYUxpOGl2ZlRicUhJMFJnVUJNZ0hXOXRYMFdSZ3M2T3A5eU0tbW1neUtzaldLUXowbTJJZ1Mxd3BCQlhkX3N4UlRhNU8waGlDVkxWcVF4UlFRazNtRGhLTWk2VXJTOEVwQzdSWURwWGlLWkZvZUJLWnZIVUdDOHhaZTZXNTBlWEkzTWl5Y2V3eVphZWRIRW5SUVpoeDQ1NmxCWWJyeTVpbVFxTlVkcTc5dXdXNGpvaFpabzhzbWNxc3NVdw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 12:18:40 GMT",
+      "discoveredAt": "2026-09-16T14:47:21.466Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_385299915",
       "title": "KFS defends Muthaiga Golf Club invasion, to hold meeting over Karura Forest encroachment - Citizen Digital",
