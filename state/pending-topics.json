@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-16T14:48:41.020Z",
+  "generatedAt": "2026-09-16T18:39:08.809Z",
   "candidates": [
+    {
+      "id": "t_826710033",
+      "title": "This is a country of land grabbers - David Ole Sankok - youtube.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OME1LUHRmTWVaQkVESndGclI2SlJMYkxTZ0wwSlhMRTkxNUdpd2ZoNHJUZG5TYkRIWmFiQ2ZUZm1Wc0NNNjktSDNRc3AxTms0LUh1ajZn?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 04:33:07 GMT",
+      "discoveredAt": "2026-09-16T18:38:01.898Z",
+      "sourceName": "youtube.com",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_1962505369",
+      "title": "KFS says Muthaiga Golf Club lacks evidence proving ownership of contested Karura Forest land - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSG9TREFDVmpOcEJvWGVBV1J2aS12OGtSU0oyX2dCQ3VZNVoyWkNFTHJCbUltVDB0bGlPQTh6MTFoVHFvUGFwdzJrQ2RyVkxuVWdybFo2VHBnQlViSE1mLTlOZGY5MnkzXzBZZHdWSUFhZUs1em1VR3FkTmVXcWF4RjZPb2g2Qk9UUjU3TTF0Q2lqbEd3UGdsUGRNQ3cwVWZZbGpSaGdKMVNPeXk3SVZsNnRkcVlsd1hyMGwtV0gtcnF3b3Rmc3ZERjBWM3A?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 16:20:26 GMT",
+      "discoveredAt": "2026-09-16T18:37:44.379Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_52651966",
       "title": "How Drone Data Is Helping to Fuel Raleigh's Digital Twin - commercialuavnews.com",
