@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-16T00:29:56.375Z",
+  "generatedAt": "2026-09-16T05:12:44.569Z",
   "candidates": [
+    {
+      "id": "t_1867279792",
+      "title": "Meru Land CEC bags continental cybersecurity award - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTAxWERkdVBKZk1fVXFZR1V6RW9xUjZ3MUZac2FIVF9tQzJnSGpyZ1NCSVlWY3k1a1RCVXFiUi1zQ2ZiWFJCTDdtaXZBb3BtRWFibjlRZ0RxSlE3bDBrRE5VN1RNQnlfTzFrT1VMcU15anR0bEVNVjZjcXBmclBGUmtWR053Zm9GZlVQUm01N0U0X2xSb3N0eHBxTnNrc2V1Ym9pcEp0cVBWZ2lJalMzUS1vZ0tyNXgwT1VTWTBn0gG-AUFVX3lxTE9pMDFYRGR1UEpmTV9VcVlHVXpFb3FSNncxRlpzYUhUX21DMmdIanJnU0JJWVZjeTVrVEJVcWJSLXNDZmJYUkJMN21pdkFvcG1FYWJuOVFnRHFKUTdsMGtETlU3VE1CeV9PMWtPVUxxTXlqdHRsRU1WNmNxcGZyUEZSa1ZHTndmb0ZmVVBSbTU3RTRfbFJvc3R4cHFOc2tzZXVib2lwSnRxUFZnaUlqUzNRLW9nS3I1eDBPVVNZMGc?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 14:38:12 GMT",
+      "discoveredAt": "2026-09-16T05:11:26.016Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_704374762",
       "title": "Military, police and prisons owe City Hall Sh2.7 billion in land rates, Sakaja - standardmedia.co.ke",
