@@ -1,6 +1,141 @@
 {
-  "generatedAt": "2026-09-17T04:59:13.172Z",
+  "generatedAt": "2026-09-17T09:54:01.257Z",
   "candidates": [
+    {
+      "id": "t_253419198",
+      "title": "Gachagua Drags Ruto Into Muthaiga Golf Club Land Grab Storm - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0cwY0FvR1ZtaU11cjhreTRxUjhqRGt4cEw3Y1RDNUFrUlo4NmI3MTdBekhJZTVycUxlWFl2ZmtRdEVGU3BKTUZrUmJKM3FfVDdiWGJWdjFkcF81TVJzclR3cUZsU2ZRN3hQbXlfZ0d0SDJPVWFWdk0xRHg0dldFVw?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 06:53:12 GMT",
+      "discoveredAt": "2026-09-17T09:53:08.093Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "land grabbing Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_743855798",
+      "title": "\"We are peace-loving Muslims\": 9 officials get bail in SUPKEM land row - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV09OUWZSTHlZNC1zb1NhNC01NzZTY1NiZjhPUzVmQzlVd2lQTGgySjNfRVc3TVBwQzZiSDlHdGwtb0YzZU4wU29RN1VWeTdxMWoxSE1PQjFyUVBKOGQwejctM2x2UC1mNTVNOHRxYnNNdElKdFBPOHIxTEZMSVFFN2FVSFJPWXJlamxHSWRXbHY3Y3YxbXh2TTU3OXd3YnVBcHlxbG1MQmFCNmc?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 08:41:00 GMT",
+      "discoveredAt": "2026-09-17T09:52:48.624Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_65291901",
+      "title": "Patriotic Kenyans, Members of Muthaiga Golf Club have woken me up at night, informing me that Mr. William Ruto, using the Kenya Forest Service, is planning to grab Muthaiga Golf Course after grabbing several parcels of land in the neighboring Kiambu Cou - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfQXFVcTQxdW9uaE4zbVdJQjZrRUI2c3BBeEFDTG90US1XNkJodWZoRnEzZi1ZU21ZdGQ4NlRCZXd0dVFZZmRyQWZlazVxYkRJTGg1bHVXZFNQbVNP?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 04:02:11 GMT",
+      "discoveredAt": "2026-09-17T09:53:00.803Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1415347529",
+      "title": "Trimble Introduces Next-Generation GNSS Performance with New Receivers and Enhanced Technology - Trimble",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWhPZDdDYTNQanNOam41U0RvSDE5V0NRbE9sWjNKbjIyUFBPT2pOLWdZXzdhUGxHUlNlbjh2cklfajQ4SU1LZldheldZX3pPb2d1bUU0a00yWTBTMWg5NXNjNHhIUWxka2ViRlo0VC10Uk9TTFJzTFVoWHBkNkp2Sl9yLWh4Q0pTTVVLbG5TQ0dtTVZ4V0pnWl9MaWdxSHcxbnRsUG9weENqY3JJdmU0Y3JZX0VYbjI1RU9sZXJXX1JRV3JuRF9wdWx3?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 12:37:22 GMT",
+      "discoveredAt": "2026-09-17T09:53:29.859Z",
+      "sourceName": "Trimble",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1720654164",
+      "title": "New book: Land Intelligence and Geospatial Ecosystem - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZURDdU81dGk5al93dEE2NzBpeHhBQ1hLRHo5YWc5bkdRX1JpMmYtVGJab1d5Q0dKdllkQnhEaTM4OElkcEkwdjdZRXJ5M3BsamU5VlpyNFZUWlVYNzdtRXpNYjJEOTRndXVLUjhmN1U1dTlib0VTVFdtVkpqcExkWlFpZzk1YXB4LVFJMkxn?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 05:13:15 GMT",
+      "discoveredAt": "2026-09-17T09:53:46.372Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_996387243",
+      "title": "Best Mapping Drone Battery Manufacturer From China Enhances Precision Aerial Survey Performance - Issuewire.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2xDN0kwRVlUNTM1NzBnMnc5MFkzWXdtNVo4X04yZk9PeW42QXZCRlpsY1RYN0ZlMnhPY0U5STBSa3IxZHlyV21zNjVYTnlDbDBwUkVBYU93XzdGWHVhcXRxc1lOYTN5REN3dHBRZ05XaG52cXZFX1RPZVNuT1JnZDhrWHpPaHdjcExUeWJkMzgwQVVtdnVUSDBvSnM2dlNkT0dlR2ZpS3R1ZnIyWktPdnZBRFQ2alRKRWtqT1R1elRBcjNJX0dQZmd1ZV9ISXdZaFBocA?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 05:37:53 GMT",
+      "discoveredAt": "2026-09-17T09:53:53.817Z",
+      "sourceName": "Issuewire.com",
+      "discoveredVia": {
+        "query": "UAV mapping technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_71696422",
+      "title": "CoMeta Desktop Software Introduced with Photogrammetry & Native 3D Gaussian Splatting - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObHNGejNzU0t2aEpzUWV6dXFFRGk3RVNlS2FacjdtV2VIdFNWejFjOFZyQW9vQ2RmSkJiY2hMeG9aanR3WWZQUndELXNmQl9sZk5Jakc3ekI2Z1Z3UjNfXzZ2bTZWTUJyVHMybUFiVlNnLS01VXF6TG5HODVELUlBX1psZFNXSmtnZzB5TnJDVXFpUmdMd2x5LUxEWmstSVRtb2NlMTVoTk9XZzFUYUdSRzNnRXNPd1dqUldQRzMzWDcwX0thTGF3bHpVS2Q2WjQ?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 06:35:19 GMT",
+      "discoveredAt": "2026-09-17T09:53:57.325Z",
+      "sourceName": "Unmanned Systems Technology",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1340942831",
       "title": "Scout - AI Geospatial Catalog - plugins.qgis.org",
