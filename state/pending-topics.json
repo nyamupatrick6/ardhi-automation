@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-17T00:03:30.284Z",
+  "generatedAt": "2026-09-17T04:59:13.172Z",
   "candidates": [
+    {
+      "id": "t_1340942831",
+      "title": "Scout - AI Geospatial Catalog - plugins.qgis.org",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9leE8yY3QzVmxtcFFEdTJvM29UMnY3a01FMWdWdUM0aklDRkk5ZkRQY3RWYWFLcFJrRGpKVXVoUk1fOHE3akFVNTRBc3QyV1VZbjJwbkVGOA?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 11:19:00 GMT",
+      "discoveredAt": "2026-09-17T04:58:52.011Z",
+      "sourceName": "plugins.qgis.org",
+      "discoveredVia": {
+        "query": "site:qgis.org (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "QGIS",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_443362478",
+      "title": "New Zealand geospatial awards recipients announced - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkhqeldObGo0eU51Mnc2dlBTTnlma01iMWFieFdCWmRROURXd0RJUDdOQUpmOEJJMnhkTnZseXBQcm9hMm05RFVxdDFiQXF4WkhWa1BPUUhBZVZaeVlaTkM0RUt4QVFQcWNtdUFVSHFDZWdpWDB3eDFCeExDaUZoei1RQXpHNVhCM3ptQw?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 01:09:01 GMT",
+      "discoveredAt": "2026-09-17T04:58:58.648Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_726348370",
+      "title": "Best Mapping Drone Battery Manufacturer From China Enhances Precision Aerial Survey Performance - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcndidE9wVHlCN0ZraDR5ZDdrYmhoZmJHenVTa2RKU0VKMWR1a2JSVzVkVldlSDU0NEtyMThKOXlkanU5bVJhT3hsdkRWRnkyX2hORW5GSko1cWlyS0JWcHp2cURvb2ZEVVM5XzZqenJTRDlaMm11N3paYVRMWVlpVU5RZWh6MjhiNDdxUGw3MTJ3RVJBQVp5ZGlWcnJnc2VqYUhsSXRFTFBzUmxaNjlqLXFfWjNOaGhBLWlLRkI4bHphOXJyb1lES2Ytek9jMV9YbEtB?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 04:49:00 GMT",
+      "discoveredAt": "2026-09-17T04:59:06.207Z",
+      "sourceName": "EIN News",
+      "discoveredVia": {
+        "query": "UAV mapping technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_140137992",
+      "title": "Karura Forest boundary row: KFS, Muthaiga Golf Club to hold talks - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUJnVFZvSHRKeG9nZkRwcll5WFVCa0FJeVlwTXFyZmZqTGxFZHFPd2JnckxwSC1teXA3ZU1wX3R6bWNtNEp3UjhXeDFEWlB2MnNYY0pVaFZVWjRoeTRJY1RqanhqQVNQTVFmSnc3RXM4aGQyV0ltVXVNS1RZOWJVT1NGWVR0VFJJYm1NbXc4ZHlkclRTSm5R?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 05:49:00 GMT",
+      "discoveredAt": "2026-09-17T04:57:54.197Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2054669650",
       "title": "Best 5 Drone Survey Solutions for Towers in 2026 - TelecomTalk",
