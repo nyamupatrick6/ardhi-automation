@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-17T18:33:33.872Z",
+  "generatedAt": "2026-09-17T21:44:35.922Z",
   "candidates": [
+    {
+      "id": "t_541854271",
+      "title": "Geospatial Management of Earth Resources - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelBlYUNYN2txcDZLSXAyTm9sazlkVUd6aVVFVzJjdXdUMlhGYWdjRTFoaWlZUTF4emVMbHRhMnZzR0RtanZxWDI4dFVTN1NvaHR3NkFYaGREU0stWWtmZEE0TFR0N2pjQ3RTS0w0bmFMa3Q2TDc2NFdhLUJiU19qbTBPRS1JMXVqS0E?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 06:36:28 GMT",
+      "discoveredAt": "2026-09-17T21:44:14.660Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1593312602",
+      "title": "Explore the biggest 5 - bed + dsq apartment in Brookside Westlands Nairobi boasting views | Ksh 51M - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92U29lV2REZERiNzVkR25XQU5BLWs3UW9uQU9Nd045S0lMVDRFTkI1N05pc3VaN1RsX09nQ05SUmZ3TV9SeG9PRzFqTFRCcVM2dk8xbU53?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 12:00:06 GMT",
+      "discoveredAt": "2026-09-17T21:43:31.435Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1778370882",
       "title": "DCI moves to block release of title deeds in alleged land fraud case involving KCB official's sister - standardmedia.co.ke",
