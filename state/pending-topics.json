@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-17T14:39:27.822Z",
+  "generatedAt": "2026-09-17T18:33:33.872Z",
   "candidates": [
+    {
+      "id": "t_1778370882",
+      "title": "DCI moves to block release of title deeds in alleged land fraud case involving KCB official's sister - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYnY4aEdqczVrSXFiLWJGeGN5MkxEb21NOV9Dc0I0cVZMNjFmLUNjbFFkQ2I0UFZ5U2wtWm1WamVvOUtrVzJickZNMXV1RmNPbl9DVjd5TjVWRk8yY1BQalA1ajk2MDBwNUNwYWdTLUhiLXNXRVctV0pOdmxYNkgzYlJLd29GdVY2N2JBa3Nkd3FtQWZnZG9LaDVYX3I4aE90MHJscG9xYnFLMXRrUnhua2taeUc5bjFUUEVYQ214ZEl2b1VtVk9SUGt6OGlJRGtFRktwWF9XemdsWHhqSktycHJsXzNHOEZsbHVqOWUzZ0tFTEQtd01XcmQzUjM?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 14:44:51 GMT",
+      "discoveredAt": "2026-09-17T18:32:12.079Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1421166315",
+      "title": "A curious man wants to know which course can land him a job that comes with a house and a car. - linkedin.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzlHOGN2dG9VNk5qR2pWN01Rajh6Y2hmYzJVUVVYOUpkZ2ltalZ4R2hhY1JKTmdsQm9nUTkwS0t0VnFsemhGa2h1XzVDS0tERW1HYUN4ZVFuTkIwNnd3M2pTWEhYUnA2VU9KMzBDdmR5Yk5vcFBCbTI5bVFXYjZTaTg0d0tVY2ZSNzlGd252QXM0dzFjcWxIam5ERjJ4N2c5R3NrZGtVM0I2b2NGMmV5ajIwQWVEMVJRLThF?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 05:51:32 GMT",
+      "discoveredAt": "2026-09-17T18:32:32.784Z",
+      "sourceName": "linkedin.com",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_253419198",
       "title": "Gachagua Drags Ruto Into Muthaiga Golf Club Land Grab Storm - The Kenya Times",
