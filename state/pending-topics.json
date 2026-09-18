@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-18T17:03:57.151Z",
+  "generatedAt": "2026-09-18T19:42:01.606Z",
   "candidates": [
+    {
+      "id": "t_1620183161",
+      "title": "Court battle erupts over NLC Finance Director's appointment - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMW1RZ1ZjalJtaFY5Y0hMdzhEYl81bm00dnhmSUxFdXkxR2paVlZxOHhnbXgtbXhndHZsWi0tRENobnprclZfQUk0YkNzX0UwTXV4eHhuclNfM2tEQVBLZmhvbHAtbzZHWjMyTDNJb1dEd3AzZmtnc0ZTQWRsTFdHN040Z0pDcnYtTG41UmhUb00zdFBKR1V0Nnd2UEdiMExkSkpKUTc2UmM1Tk9vUWNwMEgtU29RY01xNTA1a2ZKNXVrLVpGQW1wYzVMdG44YzVpd25KLUJseFBiM2N3bE8xQ05FbGtIZjQ?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 15:52:36 GMT",
+      "discoveredAt": "2026-09-18T19:40:39.518Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_312488292",
+      "title": "KIKUYU LAND | Official Theatrical Trailer - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YSE5DeExXd0lmTnQ1Rm1DdktpUV8zd1h6MFdRSmpxMlRRQXkwdDBXQVBPdFpQMnpVdFBfU1Z2dlpJcE1kY2ZsY2NUVm96U0VKZURuaUZB?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 18:08:35 GMT",
+      "discoveredAt": "2026-09-18T19:40:59.148Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_861353104",
       "title": "Kajiado County calls for full devolution of land management functions - YouTube",
