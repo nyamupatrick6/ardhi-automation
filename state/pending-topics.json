@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-18T02:59:14.164Z",
+  "generatedAt": "2026-09-18T08:04:45.968Z",
   "candidates": [
+    {
+      "id": "t_1182808651",
+      "title": "GNSS Positioning and Construction Safety - Chcnav",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTGZzeWFvdnlTTUEwLUlheUlSSF9kMGFCc19WR084aHp3T2M4UzN5cDJwZzlUb25wY3oyZnl0UTg2Y3Vnc211bnBtUHRDZGhSeUpwYzhtRnNZSGZydmtHR0VBdnluazhZTWJzTUJRMERleHJucEtiOUM5NEZIRUp0LUt4NUF4SEVzR056d2tyd1NHdHB1NnRYOWY0SUpkaDRKa3hDM1haTUcxMTRYeWRF?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 16:28:55 GMT",
+      "discoveredAt": "2026-09-18T08:04:21.892Z",
+      "sourceName": "Chcnav",
+      "discoveredVia": {
+        "query": "site:chcnav.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "CHCNav",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_739845021",
+      "title": "How recorded private calls can easily land you into trouble - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2NUdzF3bHJyb0p2S2Q4RkdDQTg0RnlzY2tNWmxZT2hxUjZsOW1sMHVvNkJqLXdVVlV4dld3MUtmZjdGTWJCX1N5cmF6U3V5TDF6UUY2TkNYdGVxNlM5bDk5MUJtX0VvdGZ3M002aHpiZVlKc2NhN2xOaDNCSERvcGtpaHRWR1JUOWtwWGNGTnVWU0VuTERfZ2ZMUHp4V3EtSHFEWEljWEpFeUZMM1hqdWtQOTktWmI0c2c?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-18T08:03:27.548Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_897839590",
+      "title": "FINALLY‼️ OUR ROAD IS READY 😭🏡 First Construction Materials Are Coming In Yeyos Land 😭WE CONQUERED! - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Z1BPa3FBQWtnZG1NTXBDZGpMaDF3b2kwWmF1TjZvTS1vYm5XZUJNYi1LYTlmbFV0UnZMSnBnNS15eVAwaEVTQ0hZLTBuSjhfdGRzUlh3?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 20:55:06 GMT",
+      "discoveredAt": "2026-09-18T08:03:45.974Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_541854271",
       "title": "Geospatial Management of Earth Resources - GIM International",
