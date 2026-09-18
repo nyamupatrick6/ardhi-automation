@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-18T19:42:01.606Z",
+  "generatedAt": "2026-09-18T22:15:14.510Z",
   "candidates": [
+    {
+      "id": "t_1480021187",
+      "title": "Court battle erupts over NLC Finance Director's appointment - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWRnTnVwN2o2Tkk1NXpUX2g5ejl2dmJZODBLY21RbXZKQ1NIUm1hQUVxaUNremVfNnZQTWJVRHBpQ3drbTRrTHZOeHgzRDhxSWNQNDk5aEtqcFlJSllPSHB5TWNWREQ5cjdsYVFYUHlmak9uUjAzNXo5cGVqMlBkZjVreldFNDVMNXFLRjlwNTYwQmVhaTNadVd1UWtzMHp3ZWFOM2VFUnBZMkZYVG55aEFjcWl1ZWJkbkZyRG4yMzRvS1lvZkE?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 15:52:36 GMT",
+      "discoveredAt": "2026-09-18T22:13:54.470Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1620183161",
       "title": "Court battle erupts over NLC Finance Director's appointment - standardmedia.co.ke",
