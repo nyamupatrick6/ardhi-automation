@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-18T08:04:45.968Z",
+  "generatedAt": "2026-09-18T13:01:11.258Z",
   "candidates": [
+    {
+      "id": "t_1792606754",
+      "title": "Digital Land Reforms Help Curb Corruption and Disputes in Kajiado - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1bFNVN0I2ZUdIaXUxS3AyUzlQcWZ0MWZkcE5aeGc5V1BFUENiMUs1eHdCVFdKMnJNMUNrdm5nNERtMFQ2U3MyN2dIdEZiMlJxZUtHX1hn?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 10:36:24 GMT",
+      "discoveredAt": "2026-09-18T13:00:00.910Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1182808651",
       "title": "GNSS Positioning and Construction Safety - Chcnav",
