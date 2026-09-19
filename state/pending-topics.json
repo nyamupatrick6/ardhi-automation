@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-19T00:25:24.199Z",
+  "generatedAt": "2026-09-19T05:00:50.977Z",
   "candidates": [
+    {
+      "id": "t_504075150",
+      "title": "GIS Work Agent - QGIS Plugins",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZc1Vydnk0ZWEzZWRHVWgzLWZQN2xDVm9jSEI5dkVQQkhOMjIxRUpHZDBFaFR2SENiSnAyUE9adDNGNExPZnNVRmlackZBWUNzcVpmeTlfN0c2QU9i?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 08:47:00 GMT",
+      "discoveredAt": "2026-09-19T05:00:28.897Z",
+      "sourceName": "QGIS Plugins",
+      "discoveredVia": {
+        "query": "site:qgis.org (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "QGIS",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_212500136",
       "title": "BREAKING: Ruto Lands in trouble, shocking details emerge. - YouTube",
