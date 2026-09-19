@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-19T09:21:54.922Z",
+  "generatedAt": "2026-09-19T13:23:27.980Z",
   "candidates": [
+    {
+      "id": "t_1210788901",
+      "title": "Global Leader in Construction, Transportation and Geospatial Technology - Trimble",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1c0OHRVbGhJRnZVTG9xcWVzYmJLVnZuV3V4d09NQ2hTeGpVbWpaVUVjTV9YaUVValdSSVlMaHFOTHRvRFFtQ3V3d01QMG80V2l2cWUyV0tpbXlTQzVUNmdQNVRZZEtUTnNoZjJfR3ZmaGJOeGhHSVYwV1VsSWNwUnF6V0QxQVQwR1dSUUp5cW5aSnBxSXFGY2hsajMtLXNDUTQyZTZKOGNaOEdaS0xMT3dMTXNYdHBpdjhVLVRKWnRINUdIcnFXTXJ2dS1GcTJyckt5TTBuRU0wQ3h2Z05xZUh1b2wxYk5ZcVB1UnpVdGpiZEgxLW9F?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 06:24:44 GMT",
+      "discoveredAt": "2026-09-19T13:22:57.654Z",
+      "sourceName": "Trimble",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_224364152",
+      "title": "Invading lands: Laikipia tightens rules for herders - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzdJU1ZCOWU1ekRPd0FCS09WQkpPSTdIZzgyZXRPclh5azZDUkVDVjB1R1VDTldHRkF2NU9fNU05MlQtejZyTjYyTWlraGtmcmIxeUQtbDJ0dzMyTkhVbXBZVnRIU3RvQlJSdVJWTlczc3JROGt3Z3hjY0NPdw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 07:39:59 GMT",
+      "discoveredAt": "2026-09-19T13:22:17.788Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1966675489",
       "title": "Kajiado's digital land reforms praised for strengthening ownership, curbing corruption - standardmedia.co.ke",
