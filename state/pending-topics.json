@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-19T21:30:07.578Z",
+  "generatedAt": "2026-09-19T23:30:31.569Z",
   "candidates": [
+    {
+      "id": "t_1702652870",
+      "title": "NLC finance director Bernard Kibet sued over Sh7 million EACC recovery - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVUyZTdDSkZ5bXVxWmFYYmp2eEE2aF8wcFlKekZ2ZnpTNUxSazhvc09GMlR3eVdXd0E3b3pHUG1Rb0cxbk85bDRPWDBPc2NZenY3R0c1R09Xa29GX1pvRm5VMnpJOEdadjVJM3k0Z2ZwemZUeUFUb2xRR2RMRVJ0WkdaRkFnUERnRGlqV2h3Wk16MnlOR1YyM1BQSURMcnItcFQ0Vzdn?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 16:55:42 GMT",
+      "discoveredAt": "2026-09-19T23:29:21.941Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1115232568",
+      "title": "Very rich car culture: Not much is said about this small island on the Indian ocean called Reunion, but it's packing some serious heat. When the French claimed it as their own in 1665, they brought East Africans, Indians and Chinese to work on their farms over t - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11UVhvUE9HNldDME8yT0phQ2tYcEltVTg2MkJZZllJUWs5dGkydWFBemE0RUJQa1VFMlY5alJ0VFQxbGJuaVdDVlJKZ2xFWW16eER6OGxiY0E3bzdVMkprcFc5cWJXdWcwaGUzSFhn?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 18:38:36 GMT",
+      "discoveredAt": "2026-09-19T23:29:29.198Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1185223695",
       "title": "Kajiado Land Digitisation Targets Corruption, Disputes - YouTube",
