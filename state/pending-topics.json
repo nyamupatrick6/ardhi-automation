@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-19T16:47:29.437Z",
+  "generatedAt": "2026-09-19T19:09:36.057Z",
   "candidates": [
+    {
+      "id": "t_954291680",
+      "title": "Joakim Akumu: Ardhisasa needs to make land transactions truly transparent - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkFCWGFKTjFyREIyQTIydEgxeWpsbmtFNkxqenNrWmM3Zks4RFdtaEFpTHBFaHNrMS02Z2hreDl4RzRlWWxMTktsbkVSclE1MktGR2lkRGlvQk8xVXpfZjV5YXZsUktERHFYcEE0eGV6NEJ1WHgtWF9hTkFyMFRPcXZMaEJyWTJKc0ZISFhwLWdqVFoyempyMjlwQ1BKSWNrZGljSFBRelVuUTV4cms0bEhxRQ?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:34:47 GMT",
+      "discoveredAt": "2026-09-19T19:08:23.663Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "ArdhiSasa Kenya",
+        "origin": "ArdhiSasa",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1899657232",
+      "title": "Co-op Bank and Fanaka Real Estate are giving Kenyans a new route from buying land to building property. Co-operative Bank of Kenya has partnered with Fanaka Real Estate Ltd to offer financing that can cover both land acquisition and construction, potentia - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnZiaFV5RGl5MmVsVnVucE1aQk5FTDVZMGs4bUdzSGdiRGIzQVZaNmZiRWJNeUZMbkRSS0JpQ040S2N5R1dvVXRwWW41Wk1sNGFld1JZc2JMQTFGOENDQ1V5RlRfZXh3UzVRd3Z4UXgwNVotSUJBdER1bEVfQVcxTV9hNElFdDlmQ3poZ0Z5RjhwZ0J3cFRjQnREZGZfbld0TWV5S1dvejVBTzlrc2g1RHVwY1ByX2YzaE1mWEtB?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 17:39:56 GMT",
+      "discoveredAt": "2026-09-19T19:08:33.773Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1210788901",
       "title": "Global Leader in Construction, Transportation and Geospatial Technology - Trimble",
