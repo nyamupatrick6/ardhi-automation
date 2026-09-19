@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-19T05:00:50.977Z",
+  "generatedAt": "2026-09-19T09:21:54.922Z",
   "candidates": [
+    {
+      "id": "t_1966675489",
+      "title": "Kajiado's digital land reforms praised for strengthening ownership, curbing corruption - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ2hjOGdPVDdLbXpBU3ZrOVdZVHdQb0dKSWgtSjJNbWhsSlR2Q2hsLWY5VndkZGgwZFhndzlrWkM2Yl9UMVI1SWdPa0Uyc0dxS05LeGgtRXhQZXN1X1BlOUFZeUJJUEI0bEJrd0xNUm9BSHE4TUwzZUVod3dWb0xKMU1Jb3NVRk5kUDJYLTBiSTZaNVA3b3kzYzZ3SzdGOGRfOHFnRnNVWFBsU09kbXdBYU9YYTd2bnhia3NiRVRBdm94OTRWSlg0MFRSMEd4VkhMNURIbGJIRFNSYlJzcHp1MQ?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 08:47:18 GMT",
+      "discoveredAt": "2026-09-19T09:20:37.062Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_504075150",
       "title": "GIS Work Agent - QGIS Plugins",
