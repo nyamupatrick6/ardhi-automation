@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-19T19:09:36.057Z",
+  "generatedAt": "2026-09-19T21:30:07.578Z",
   "candidates": [
+    {
+      "id": "t_1185223695",
+      "title": "Kajiado Land Digitisation Targets Corruption, Disputes - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05T2FjZ29BZEJPNk5YUGxNUGlVLXk5dE9ib2pRN3VRXzBwNWwtNEFWWHJ1a3dyN1NtLVdxWkhTS1N6RnZDR1RDVEZvV1UxZENBMmRsaVZB?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 11:46:45 GMT",
+      "discoveredAt": "2026-09-19T21:29:06.274Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1592195855",
+      "title": "NLC finance director Bernard Kibet sued over Sh7 million EACC recovery - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHpsNGVha2F2ZlNtYlZwOFBmTDhqTWRJMTVDRTJMdlNycTRPVWtLSnExQWVQc3B4LUo4LUpIZnRBVWxybGJGQmlKTmVxMXJpMy1MSlVwMlFxRE1xZFlVX2RGbmRGSEVySEdWU194OU5VRGdkSzBsblZzMDR3TkUxOTB2R04tOXJPalZHVVhBTFlHTU5JeW9zZzJ1UDRGOGFmQlpoWk5qb2R6NGx5RnExYw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 16:55:42 GMT",
+      "discoveredAt": "2026-09-19T21:28:46.855Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_954291680",
       "title": "Joakim Akumu: Ardhisasa needs to make land transactions truly transparent - Mjengo Hub",
