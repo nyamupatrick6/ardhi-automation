@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-20T06:58:05.001Z",
+  "generatedAt": "2026-09-20T12:04:11.002Z",
   "candidates": [
+    {
+      "id": "t_1910157115",
+      "title": "Nlc Finance Director - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QTjZrUTh3cm1DT1JYc3lUeGJCWTVtczBzdXYzeGlHd3VTSndPbk1nOXc3WTBSb2k4aHpvajNVaF9xbE9mdzJRbjl3blFzRE11SXBfd0tIeUVzMzRtbC1XT1ZKRmRFc0QxanlXMzBzYw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 15:56:40 GMT",
+      "discoveredAt": "2026-09-20T12:02:52.023Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1646752866",
       "title": "Leica iCON iCG11 GNSS smart antenna - Leica Geosystems",
