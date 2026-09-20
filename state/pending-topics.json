@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-20T01:36:12.575Z",
+  "generatedAt": "2026-09-20T06:58:05.001Z",
   "candidates": [
+    {
+      "id": "t_1646752866",
+      "title": "Leica iCON iCG11 GNSS smart antenna - Leica Geosystems",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHpZUTltM3l1ZDBudk1jQXdPMHE0c0VLY25KY1Q0enhVeUdJc3FaRFhUdTZNWThuUGRSYlVqcTBFLXd1dFdRMkJFeTVWc0pmbklwNmp2My0wTmlHQXkxMFJ4VHJJSmRDZGlNNkZ2enM1VEEyYWsxbUVjaFVXOFBEVjd4NVk0SlJDMUp4dTZnNHFxamhIOGEyV3VFZw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 21:56:45 GMT",
+      "discoveredAt": "2026-09-20T06:57:33.876Z",
+      "sourceName": "Leica Geosystems",
+      "discoveredVia": {
+        "query": "site:leica-geosystems.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Leica Geosystems",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_172133690",
+      "title": "Importing BLK360G2 GNSS Tags from Cyclone FIELD 360 - Leica Geosystems",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHlINy1yejlGZlJRNXlrR0p3TmxPaWdvM2tEbG0yNm9JTHlmYWR5emJMQzdVOS1ocXU2eWZXU01UdXVCdTRfN0U2SGhaZUdodHJxVmVjMDAtMFNnU0RoeGtUNlFudjYtZjctOW1kVDhLVHVOcGZBSDBjY2NpWGRVR3NoWVZpVXFPWDNxeExCSklpM3ZkNi1oNDluX0xnRnBwOHJPaWNkQkl4bU1DcXFQNmdjbw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 00:26:20 GMT",
+      "discoveredAt": "2026-09-20T06:57:33.876Z",
+      "sourceName": "Leica Geosystems",
+      "discoveredVia": {
+        "query": "site:leica-geosystems.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Leica Geosystems",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1410184593",
+      "title": "Homa Bay's wetlands are burning, and no one is stopping it - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQllMVlV5TE1JQ2JxRUsyOXljY2d5Q0lWcmM3M0NLckk4MGluanZ5NUFKMEhXQkxRMFMzVW5sVWV0UURzOVBTU0ROaW9pRjlaM1Z5bmJVbENidG9keHdFRDNnRW8yamRLUGpoaUJyT3lzMFd1bFM4RUdXMFNManZXdmpaajNaQ1VEdExkRWF2YV9tcW54MDVNdmZBN3U1SU5rOFE?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 10:00:00 GMT",
+      "discoveredAt": "2026-09-20T06:56:44.477Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_808202319",
+      "title": "Athi River homeowners face eviction over cracks in apartment blocks - citizen.digital",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlfQ2ZwOVVTZ1VZRjJfYzB4OERSak0wNDBXZVFOOWZvVHlrSW1QMW1aZVRfTzhkU0tCUGJtTkxHQnlsckFQckZPX0l2ZXQ5WFpiTzNQVlljX1BOaU81eElrOU9wdU56VmtsQlRnOFczMDh0aTZyRmJiNTdqOU5DYk9HWlRtbGViM1RrcTQ2UVpNSmcwY1Y2UVlNd2ZkZ0l5WVRjZGRpU3I2anM?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 19:06:44 GMT",
+      "discoveredAt": "2026-09-20T06:56:47.324Z",
+      "sourceName": "citizen.digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1702652870",
       "title": "NLC finance director Bernard Kibet sued over Sh7 million EACC recovery - Daily Nation",
