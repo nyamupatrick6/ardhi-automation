@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-20T12:04:11.002Z",
+  "generatedAt": "2026-09-20T16:13:31.371Z",
   "candidates": [
+    {
+      "id": "t_1422343832",
+      "title": "Row intensifies over land belonging to former spy chief Kanyotu in Ruiru - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkFKdjl5NDR6VF9BUWtWNU5paUJSV3RKN1ZlOWlSMDBSRVNHeWk0cHI2b3dvVUpJMHBKYTBINzRJaWdGb0VPbDJxVHQybFFpM3R3cmNIRXFyY0M0WlBuWVZvbmNLSUhEUmwwckJGT2VNVDRxU0hYaUdMUFljM1dONnJ6Qm1WeXlreWJKYkkyTzYtcDFFSTlDUVlFSQ?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 08:34:48 GMT",
+      "discoveredAt": "2026-09-20T16:12:15.843Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2030911587",
+      "title": "Geospatial Technology: The Core Layers - Chcnav",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFhxd0Z4WjZCZU1kano1b1FJZG5hVWljMkNVV1daaV85bEMxQW9VOXY0dzhpRVhNMDd3N2JseXYyblZVZjhTVmNYNUpKcmo5SE5ZU2NTTlI5cEM4OHRLQmd4UjhMR1pyZUNXRDI0Y01uNFJZSl9MSmYxZGZSWlFKbTVid0dvMGlYczBjTkM5bDhKNU5oOWlGc0IwS2ZuZ3Q5Ni1HYmJqNTl0NmhOSlFvZWQwM2JZSXBORno3Sl9YTmNkUnRTSGhQNQ?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 12:27:16 GMT",
+      "discoveredAt": "2026-09-20T16:13:06.302Z",
+      "sourceName": "Chcnav",
+      "discoveredVia": {
+        "query": "site:chcnav.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "CHCNav",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1889124111",
+      "title": "CS Joho To Hand Another Tract Of Narok Land To Private Investor - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PV3VDaFk4RTZkczJzT3cxSDZFWG04bEt3Z2Z3azZlOHdZdVd1SjVXZzhDRjZmQ05ad01HU3ZDcEFXRFRNWmtzdGJsY3VRYVVGZWo2T2ZOeENGTF9RbGhQdzlwT2JaOFY0NkluVWpOSzhpa2o0cThPYzFsMTJ6U2M?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 07:00:58 GMT",
+      "discoveredAt": "2026-09-20T16:12:06.877Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1910157115",
       "title": "Nlc Finance Director - farmers.standardmedia.co.ke",
