@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-20T18:52:26.602Z",
+  "generatedAt": "2026-09-20T21:10:25.362Z",
   "candidates": [
+    {
+      "id": "t_327879702",
+      "title": "Hemisphere GPS Announces New S320 GNSS Survey Solution - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZ1R2lFRm05ZXZ3SmJDanZIOEVKQ0pDSnVCU191Z29WVkw2XzZEUi1WdUhOTk5VdnZuaFhkYTFNTmVmc01ONmgtWjlETkxpYUFkdEhCZTlFa3FaTnVYRTVNUEVCLWxtckwtdUVCWVhBTjFZTW1HU2pyTnVISzFQMmpfUlZMck1PeF82anFGaTBJQlladGt1bA?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 21:01:13 GMT",
+      "discoveredAt": "2026-09-20T21:10:12.347Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "RTK GPS surveying equipment",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_2096383544",
       "title": "Benard Kibet Returns Sh7 Million Bribe To EACC To Secure NLC Finance Director Job - kenyainsights.com",
