@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-09-21T06:27:43.456Z",
+  "generatedAt": "2026-09-21T13:19:22.494Z",
   "candidates": [
+    {
+      "id": "t_413565022",
+      "title": "NLC Announces Compulsory Land Acquisition For Major Road Projects - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtWEZOUk9fZGhIV1JZX3ZFeUV0aEFqbFVPODhpSXZNYmhNTWh5T2xZNHpxam8yb3hKdk5lTDB0X0FhNzM1aTU4QzJ5dVZjV2FJekpjWFcyZzRLcm1YY3hzYWEwa2IyNVI5X09wS1U0bF9ZOC1IM1VoUGNGOA?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:40:05 GMT",
+      "discoveredAt": "2026-09-21T13:17:47.709Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_670173244",
+      "title": "Ex-KDF soldier petitions JSC over ruling in Sh100 million land dispute - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczNucTFRMkctZTY2bzFjZkRwWFcydDRLTjlPY3BBZW1jTkdQTHdtSEdXcEF5M253c3NXa2FlUlBZQVpITnFaZ2lDMFozdVU1OU1lX3I5UnhNMXhfRVlYenNZbnZOZHFiWDFLVHZ1S0JjR1hxM2E0ZEVQUGVIT1NaM3hJNXV1cjNJYXVlamtBdjgxaW05MVhEWGY4Z2NCbW52VnVzRDRxMDFEYVdMMjNpaGpncmIwNkJtRjlhUnByVTQ0VDhyUEFGRjZ3?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:04:08 GMT",
+      "discoveredAt": "2026-09-21T13:17:54.036Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1609853708",
+      "title": "GeoCue Launches TrueView 550 to Expand Survey-Grade Drone LiDAR Mapping Portfolio - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVdDRUpOZzdUYnQyTkU4cUFKSFliS1pzSFg1VHZweVUzZV93T0ZVNkN1ZE92UE15QTdIT0VqNXl5UmY3ZXFJWVpyekt4M2plZEVQaU56VFZWcHR0NkNpTldSRUlrNkxmWDlZWVJRTW9mMDFJWFY3YnQ5amxfRTU3M2t4SG9udGJjakgzOE5wc1V6QlZpbDNVQVVNLTcyM2Vxd2Vrc3hqZC02MGdvOWJyNXdTSjdLQQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 10:52:12 GMT",
+      "discoveredAt": "2026-09-21T13:19:09.203Z",
+      "sourceName": "uasweekly.com",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1337006567",
+      "title": "Community Land Registration - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBaXQ2UjVtdEh3TmREenUtb1dRRm9FRW1IRWFpS0pZMmpXbWxwQ2xRZ3hoOHhmYUxQSTFOVHhPTjhQZ3VXbGVkSFVfQ0VjeWViWUZpQkxsQW9NQVpkcm4wclhPVGZJeWhHRDl4QUVvazU2Uml4WElXZg?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 22:45:44 GMT",
+      "discoveredAt": "2026-09-21T13:17:54.036Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_758639620",
+      "title": "Concern as Govt Land Platform Goes Down, Kenyans Face Service Disruption - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xqb3RRSm91TERXLWZjZVZkajJjWEVEWHNDRWY2RVZvelFmTklYTUFacWs5cGJHQ3ExOHNYcjZjaG5JRG5kMjdQZnl0RTdjaGd0a3p1bjR4czliQ0RDSXdvOVJPSHNOWm1kejczSmg3bUZPQ0FHYVViYlA1Q0psRDY2cUdKMWx6Nk5pcUtZYmw0SFB3YXlxZUgzYUQzcWhIaGc?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 06:43:38 GMT",
+      "discoveredAt": "2026-09-21T13:17:58.246Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1548704340",
+      "title": "Kikuyu Land to make Nairobi debut in October - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05VlpGejlZRC1JTjdOb3NLUUFFQWVOMW9ENHRGTGFteUZBR3pxNlRmR3N2OTNHZUIxajdKamNpODV4cm9GdFhjZFhGcUhmUXAzVTRScE9OXzNXYTVwcHpzX3pFVWJkYnZpeWxnS2tacWdlTVB6X3c?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 11:28:22 GMT",
+      "discoveredAt": "2026-09-21T13:18:01.057Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1612788564",
+      "title": "land – Page 2 - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5heHFlUmZMdDY3YTRubjJOaTU3RzA3cmRZakNoWmtNWl8xeEptT3FtUHltaUJ4VG9HWHdzbm1oRmszMks5azQ3MlB4bTVqMHpLMUhweWh3YUNzSGhocWc?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 23:23:13 GMT",
+      "discoveredAt": "2026-09-21T13:18:02.799Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1671648436",
+      "title": "Lake Turkana is rising, and Sibiloi National Park is paying the price. Approximately 5km of protected land is now underwater... #Earthwise: https://t.co/MAGd2TIRf5 - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52a01zdDdZbC1kUWM1Mm8tcXk4ZWVvdFJPMm5OVjZjQ081VGNpcU81bTNxYXh6Sl84VFZ0YXVReGdXaU5sVFloNnlHdk5kZGhiZnJFRldGS19lWkRMd1E?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 17:37:25 GMT",
+      "discoveredAt": "2026-09-21T13:18:13.222Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1921286512",
+      "title": "Community Land Act at 10: Are Communities Truly Securing Their Ancestral Land? - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaVFXQ09MczhiSVVPb2V3QWotSmM0MGpZVlItTTFqbHd0TDRGOTQ1R2gyYlhJRjFCWXRIMnV4NWVORFp4T01mdV9wUm9WbF8xOE1oWF9B?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:05:27 GMT",
+      "discoveredAt": "2026-09-21T13:18:14.788Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1083687336",
+      "title": "Impact Kenya focuses on peace, land governance and Indigenous Peoples - Elizabeth Maskonte - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbjdmc2xKTTQtQS1XSndZc3FIN05obmprMWVBbHdETmpqcENpdFJKaUZhNVY5N0pVM2Q5WkNWNzQ4a1hJNG9XaUxIWTluVFlxQmEzdDhB?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 06:35:42 GMT",
+      "discoveredAt": "2026-09-21T13:18:14.788Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_713131077",
+      "title": "Land back. These views blow my mind every single time! Kenya 🇰🇪 you are something else 😍 what kind of beauty?! #landback #tembeakenya #kenyantiktok🇰🇪 #landscapes #fyp - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdEJIWC1TNWhMam1vS0tVTlp3eEU3ZWxIVHl3X1U0dUhiTzlMMFdRLUlobUhrX0ZpaU1hX0wzQjQtZ2RPQjJKQ1JfNXB1WnViTThNMDJneXNTWXFWVzkycE1HX3BoVWlRTzExUHZqbm5BX3c?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 10:12:27 GMT",
+      "discoveredAt": "2026-09-21T13:18:15.919Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1005995701",
       "title": "Kirima Family Land Feud: Meetings Held as Residents Face Landmark Court Ruling - YouTube",
