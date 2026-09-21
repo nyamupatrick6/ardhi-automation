@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-21T18:48:10.741Z",
+  "generatedAt": "2026-09-21T22:25:51.982Z",
   "candidates": [
+    {
+      "id": "t_2123612935",
+      "title": "Land Fraud Unit - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FX2lJYzdpY3puai0tcHBzdzhMU0VqbHNRWTl6NGo4Z2tudDZzVW5WMkhpN0lJN0tOVU9XNVZyQ1JWc0c5VHhyNVRabUVqeHNXVjhRZ2s1akJtNUdCVVo3bnlvZw?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:26:54 GMT",
+      "discoveredAt": "2026-09-21T22:24:29.127Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1197612545",
+      "title": "The land and built environment professions are evolving—and women must be part of the conversations shaping their future. Join the WISK Summit for a day dedicated to leadership, collaboration, mentorship and professional growth. Register: https://t.co/TrO1 - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2YkVUQThqSVRjekx5Z3JpZVhRX2JBRlV6eUlndmNBdkw5THFjaWVkeVJSY3A5VHVFUXJFR1VpMzZFX2VCTVBNTDdnRDVqVFNRMTZIbkNZdkRyUjdCaGQ0?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:38:12 GMT",
+      "discoveredAt": "2026-09-21T22:24:46.451Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1845614367",
+      "title": "land – Page 8 - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FTHhGRS11SDQxS0FZWXF6dE1tQ2tpV1dfZkVxSEljSjNVQ3RObjRpakRyUHliaHVOQ1pnb3JORF9CdzVpdXprR25UeUFJOUJyMkNfTlA4N1BBN1hmREE?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 03:40:59 GMT",
+      "discoveredAt": "2026-09-21T22:24:37.154Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_360097177",
+      "title": "70 acres of public land reclaimed in Kajiado - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qcDIzaTFNNE1JSEhiVEtFN0xCbWtiTzk2UF82Um5YYzZzOVN5NFFrRUFKM2RRbWJnZk8yUERFRmoyMC0zMlVpWk44aTB1MUN4TGVCY2VB?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 18:57:40 GMT",
+      "discoveredAt": "2026-09-21T22:24:48.028Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_383119171",
+      "title": "In Kenya you can divorce and remarry as many times as you want ❗ Even with the same person ❗ Follow keenly and understand the laws of marriage in the land 👇 - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NaEN0Y0NheFFwcm82MW1ma1g0VnlVZDAwVXFKY2tLd21LX0NyNlBNTGtyLTVCTTNZcGRvU0RDUFhrQkFSWFhibkRCM0hwdkF4UkdGS0NJeXBCLXQwcTFCaThNUEdsaU84M0xUcWkyR0F2ajl4akZUN01n?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 22:03:11 GMT",
+      "discoveredAt": "2026-09-21T22:24:49.018Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1785490467",
       "title": "Esox Geospatial Publishing takes the helm at GPS World - GPS World",
