@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-22T06:19:51.427Z",
+  "generatedAt": "2026-09-22T11:52:04.025Z",
   "candidates": [
+    {
+      "id": "t_1192787173",
+      "title": "Kanyotu land battle: DNA, DCI report at centre of Sh10bn property - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUlKRS05N0dScXJPQndJc2tRQlFMZkFSVTVpZ1pvNzh3cUZfcEZtX1E2NV9qcl9qZFFRaVJRd3RXOGdQR1RWZDNJODFoeW9xN0hPMUQ1NjZCOExJXzh5ZkpWS1Q0NzRRTVVGRG1WcHQ2NkVPRlREakNHRkNVcEpHcVE0b3kxQTQyMnNvY3V4di1oOTVaQjluSlB1M0xHRkRMMmJuMmVPdw?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-22T11:50:42.858Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1988684857",
+      "title": "State invites bids for land to build offices for Kenya's missions to the UN - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0tfUGJaZ0FEOXBnWjZQNjY4Zmw2V1dkZlg4YWZRRUZxRXYxNWxiSmZKVnpGc2UwQ2NDYjhpZWlPUkE1VVFRZTdHZEVDb3ZxbGZUUFpkX2Y5S0ZHekxpcnk3eGY2Mi1hQmJJREhUbVhMMzE1b3N3VTJvM21Bd0d2c1VBMGZPN2Jnb0lWd0FVamVxWk9fYVM2V0Nn?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 09:51:00 GMT",
+      "discoveredAt": "2026-09-22T11:50:44.836Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1344598039",
+      "title": "NLC proposes public disclosure rules in land injustice cases - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0lhMExOUEtMbm1yX25DZHVQaGhvSVdyYUtINDNhQnJTVEZmZnVzRUxhanNHblJIZ1dHRnhHVkJ0LWd4M1pCZTlzb0MwTmN3WTUwSU8zd2dzeGw5QjJ5S0dFTE0zVFVqUk1DaEhBSHQzYnJWYnhCWWFPR1ZDZXVSVE1oZjl1V0JTT3h2RXlZOE5lZm54ckZoYU43NlJwb1k1cll1UnVEVU9kX2liQTBFc1BrMC0tQjZfanlIaDlxOHJ2ZGRkWkE?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 11:15:00 GMT",
+      "discoveredAt": "2026-09-22T11:50:46.668Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1900398253",
+      "title": "Twende South Island: We explore an exclusive national park on Lake Turkana - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdWZfekc0T29qa0ZDcU9vclM1elpzdG1CNXBQWmdRc3pRcWsxVGFiZkE4OC1meWRqLWEtdVRVS1UxMWxvWjRwaXBSM0QwNklnVXl0bFZB?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 17:00:08 GMT",
+      "discoveredAt": "2026-09-22T11:51:02.616Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1601699283",
       "title": "CHC Navigation Showcases Connected Geospatial Workflows at INTERGEO 2026 - Chcnav",
