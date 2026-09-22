@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-22T16:12:12.801Z",
+  "generatedAt": "2026-09-22T19:47:23.405Z",
   "candidates": [
+    {
+      "id": "t_1534490986",
+      "title": "Senate Committees Pledge Action Over Land, Compensation Concerns in Kilifi Fish Project - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8weUJfdy1DYkNsR0hFMlhUMGpMeFpVaHNEbV9sVXl6bnFfdzFhdTJ1RUhXbDJrODhCYldhNFZ2TW5yODl3VUk1OWk5WHE1Wjk1UUJUeWx3?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 10:11:13 GMT",
+      "discoveredAt": "2026-09-22T19:46:11.039Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1468335084",
+      "title": "MCD launches drone survey to plug property tax gaps - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeE9TSTk3anN3X0Y1cE1yakYwaVRlMlhUTF9rMHJoUldNUWRFd0p2amdIYlNDYmhpQ2M5dGNnY0NjLXRXRE1vaE05ZEJHSm9taWRKLUFhR0VvLWZMOVdUWVpaaVFvenBFdWN4Mi16MkhEQVNpUVc3blQ1OTljUEthRjhSc1FLakxCSFUwcHhpVUFvSEhtRVlnWUNzNEVhSWlxX0ZWVDFPSEVZaWJnU2VnSlR4eVFGcVAtS1NvazAwRDBWQdIBxwFBVV95cUxQUmpYZjBMN2wwNFQwRGRVMk8yUDNYUXJlQ3ZPLWxza3ZLc2J6V0kwenZKX0oyZ0hwNmxmbHpxX3U1RGJOUzctcHF5T1RINFNWQXlCNkVSYlItX092TXIyMGRfT1NmSnZGYkxJOU9pWE1UNDlBMnZEQWJpSGw3RHRiVkRnbXhVU3I4bFNuWUNTUEc2NFhndjA1TVpNd0VVRUlqeHZRZHBvOWhXVFYtQ2VQM0psOElqcTFqbUs1SmVCUE9NNEVKRWlJ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 18:15:00 GMT",
+      "discoveredAt": "2026-09-22T19:47:07.963Z",
+      "sourceName": "The Times of India",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1360245246",
+      "title": "Discover how EU-FAO Digital Land Governance Programme #DLGP is supporting land registries to improve service delivery & bring land administration closer to the people it serves. 📖Read Full story: How digitization is transforming Kenya’s land registries htt - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMXNfVEJSUXk1RlY5aDZxVWJVdV85czA4ZnAxWTRNZzREaDMxQmdkU2FINFRnVnFQb3FOUF9nQjVfNUFMRDNkZjNCVnAxeGdud0d2bmcxZ2RwanFVRXE3akVIZi1Jb0Jq?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 08:13:49 GMT",
+      "discoveredAt": "2026-09-22T19:46:09.639Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1024376360",
       "title": "FARO INSIGHT introduces new reality capture solutions and workflow updates - Planning, Building & Construction Today",
