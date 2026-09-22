@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-22T11:52:04.025Z",
+  "generatedAt": "2026-09-22T16:12:12.801Z",
   "candidates": [
+    {
+      "id": "t_1024376360",
+      "title": "FARO INSIGHT introduces new reality capture solutions and workflow updates - Planning, Building & Construction Today",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV3dCUTVFOWQ4c1daS2gtRVp4alp1OG9PRGpTakpfTG81RE16R0lrZnNoTUFQTHlORFVpTklRLWYxc0Y0enBvUHVJYlF1bmk5TmhfeWM0QXhaVUhCUndLNjloc1M0SGprQ0V3V1YzRGxUTkpHS2tYOGdlZXFFWEFzT09LdHFfNTZvX25uVlczeXdodEJwdkd5TnRoMnk1SFZxOWhFX0NMYXEySEVnRFRlc1lPMnpBd0duV09IY2VsREJpUWlDdVRGZmppR0F3czczMlE?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 13:02:45 GMT",
+      "discoveredAt": "2026-09-22T16:12:09.267Z",
+      "sourceName": "Planning, Building & Construction Today",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1086937311",
+      "title": "COURTESY CALL TO THE STATE DEPARTMENT FOR LANDS AND PHYSICAL PLANNING On Friday, 18th September 2026, the Law Society of Kenya, led by President @ckanjama SC, paid a courtesy call on Hon. @nixon_korir , C.B.S., Principal Secretary, - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yT2hRS3A3Q2szNHhpNkNuOG9OaDNQbE4wMk1nangwaUE0MGdPekJ2cVRKazRxXzhZRlNaQXhtWElrRUlnMDZXcEI2TEFBVlJ2enJNd1AyVkhTSFYwZnpMOUZYNDFUQQ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 12:29:18 GMT",
+      "discoveredAt": "2026-09-22T16:11:10.055Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1192787173",
       "title": "Kanyotu land battle: DNA, DCI report at centre of Sh10bn property - Daily Nation",
