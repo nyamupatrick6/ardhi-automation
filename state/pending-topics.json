@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-22T19:47:23.405Z",
+  "generatedAt": "2026-09-22T22:42:46.630Z",
   "candidates": [
+    {
+      "id": "t_1188630982",
+      "title": "Thome Land Dispute - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TdDlSSnRURmxybVRVc2pRT29UNFZNUURmRFRLa1N0TXRjU2VaVHNUQUZ1ZHotdXl6dDhtclVXeWY5U3ZiQnFSb25adkk0Zkx0b0VKRDMwM1NHQUtVR2JQWTZndnQ0SGpRZFIxYQ?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 08:04:05 GMT",
+      "discoveredAt": "2026-09-22T22:41:20.771Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1331542153",
+      "title": "Government to issue 200,000 title deeds at the Coast - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2ZUbmNYZlhzLUtMb3poVDBhSExyNDZZRVc3Z0d5SU45T09VZTN3bEpWUGlqMk9Fb1l6M1NRVjd1YmlTV05YSGliZTFzVi14VTljd2N0aTBpQWNZb2Q0RTEwcVR6VWViMmFhalF4RWdXVm1xTjVnZkUtLUFtWlhJTzh1MDJmcmM?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 10:53:31 GMT",
+      "discoveredAt": "2026-09-22T22:41:29.017Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1534490986",
       "title": "Senate Committees Pledge Action Over Land, Compensation Concerns in Kilifi Fish Project - YouTube",
