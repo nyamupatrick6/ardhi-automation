@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-22T01:08:13.811Z",
+  "generatedAt": "2026-09-22T06:19:51.427Z",
   "candidates": [
+    {
+      "id": "t_1601699283",
+      "title": "CHC Navigation Showcases Connected Geospatial Workflows at INTERGEO 2026 - Chcnav",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1RPZE0tYWY0THZTOHZ2MTFoVVVjSnlXOFBTcUlId3Fhb0hHT09RbkowY19hV2pnZGY2SFgxQl9CbGc0ZkNYVXl1a19aWDlHc3M3Y2lkMjhvcDRscWxQbmZHSzIzTE0zd3ZNZWVrQkpoVVk4U1RmOVotSGQyeEhFblRhbXd4dEtNWGdtS2tPdWIxZ1ZTUDhwbG1oNXZERU91bl85SE1LN1RFMTREZ2hXQw?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 04:38:40 GMT",
+      "discoveredAt": "2026-09-22T06:19:27.286Z",
+      "sourceName": "Chcnav",
+      "discoveredVia": {
+        "query": "site:chcnav.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "CHCNav",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1051889790",
+      "title": "Kenya Begins Search for Land to Build New UN Offices - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkh0cmh0UjVEdllfM00wSjR1RUg5WDZrMXlYdEJ5X3pScUJkMmVSSi1nai15OFY5WFVITWZQY0dPOXAzNHptaFpDamVoR2dWbkQ4b09wRG5FTDBYVUxiMmpRSEZuSWRWOG5KTUE1NGhnSTNTWk5oQ2JtMTRtdWVUOFFCUnZFWkltX1pzQjFfNTNDV3U0X3c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 05:01:38 GMT",
+      "discoveredAt": "2026-09-22T06:18:37.263Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_176744879",
+      "title": "A video from President William Ruto’s recent Nyanza tour has ignited debate on political seniority and protocol after Lang’ata MP Phelix Jalang’o was seen sprinting to squeeze into the boot section of a Presidential Escort Unit Land Cruiser, while Kapseret MP - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ESDhGT1Q1TVdpZUdxRVVPQ1ZwUXhhNjVPbWZtQWs3bFlHUU41LUd4bEtVWkFRRTFuNFVGeEVQUVExanoxMjlKMXJ5OGhxTTM0cDZiUk9oVW4zTVdWT3FRVUJHVGNIZmpuS1Bv?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 05:13:07 GMT",
+      "discoveredAt": "2026-09-22T06:18:52.575Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_35809372",
       "title": "Kajiado Public Land Fenced: Over 70 acres of land recovered in Kajiado East Land to be used for a vocational training centre President Ruto directed land to be handed back #CitizenMondayReport - x.com",
