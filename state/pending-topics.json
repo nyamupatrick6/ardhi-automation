@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-21T22:25:51.982Z",
+  "generatedAt": "2026-09-22T01:08:13.811Z",
   "candidates": [
+    {
+      "id": "t_35809372",
+      "title": "Kajiado Public Land Fenced: Over 70 acres of land recovered in Kajiado East Land to be used for a vocational training centre President Ruto directed land to be handed back #CitizenMondayReport - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yb1c5NDRxZWw4SmFiZHBkbFZtUW8zcnBDUGdQLUo3eHVDRlVOQ0k2a09ZbW10S1VUMnpkZEJxdktQbzJOaU1kTnhFbWdyZU9DbTVIOGhtWUhWRnZYRU03dVhCaTk3Zw?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 18:48:21 GMT",
+      "discoveredAt": "2026-09-22T01:07:06.331Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2123612935",
       "title": "Land Fraud Unit - standardmedia.co.ke",
