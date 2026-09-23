@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-23T11:46:20.436Z",
+  "generatedAt": "2026-09-23T16:01:22.663Z",
   "candidates": [
+    {
+      "id": "t_1603919809",
+      "title": "Making AI-enhanced geospatial intelligence accessible and actionable - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlN4QWlxb251RW8wbzNoSElZcjk5aTRFYWNmOTZXT0VxWHh3TWxMc19FaG5KLWpFTjVPVkJ3QmU2aXFycXQwMkJJZFJ4bU1LZWpQYlZYV0JuLWRqckc4bHRqYTFGa1N1WmhVdlBHb3BaRTN5Rk5LRGpnYUx0YmlCM3VFS01fMlRQZFNBUHlZWUh6a3h1Z0t1dVJnX2RSVXllYXFkSGllZkRiYUhsZEJn?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 07:44:47 GMT",
+      "discoveredAt": "2026-09-23T16:01:02.253Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1125055602",
+      "title": "NLC proposes public disclosure rules in land injustice cases - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9LZnpTNmVnTVc4X0hsTU0zV0FVVlNBaUdiZWgzU1JzbXAzV2NfUVNvTXM3Qm00d19ZZHJQMHhnUzExRngzMG43bmR3YlRlS3ZPOHN4NmQ1TFEtWUVsMjVmRExOV3hDOWFoWTloZlBGNUhpM2hvR043c2pVdE1UQW84X29WenE5OE5uN2l3ZUhhZC1ENi1pLUE3R2N0ZldaQnB3U1h2UDI?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 06:38:41 GMT",
+      "discoveredAt": "2026-09-23T15:59:56.146Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1176741108",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbU9fTlBUY2owakdJUF9kcFAxN0ZuZlRacjFQbVhDMndmd2ZjQ1B5WjZzRHoySDNnNEJyX3pCYTI1MFhGbDRSTEw2bi04NHFWV3RTN254SFlUYkJUWm5CY1FRNFd5VGM4RGpVUThjWFdYa2NKc054ZTZGRmJNT0p2NWltMXcwVloyLWRJRVR2Y1FlMnpjNWdaQWVvV2hvOERTUTlGNllvRzdoSE14WnlRYVd2Mm5fMnAxUmc?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 13:54:47 GMT",
+      "discoveredAt": "2026-09-23T16:00:02.730Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_882348851",
       "title": "EACC Urged to Probe Land Fraud Claims in Kajiado - YouTube",
