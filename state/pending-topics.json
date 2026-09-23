@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-23T01:13:37.998Z",
+  "generatedAt": "2026-09-23T06:04:07.362Z",
   "candidates": [
+    {
+      "id": "t_1553232941",
+      "title": "Four land disputes put State Department on the spot - nation.africa",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2lBVTNKX1lUbzFjYlQzUmhodVNOU2JpXzk5cG9ULU93WktxZ3diVEYxbUhlT3FMNWttNTBVbTVkVTFqeUhUb2RhRDRRQk1WbWdnVV9JTlM1ejJmOGttVDU0bDlPQ1VfMXhHV0xwVUJia1dkVzYwWVRTdWZSZmc1MFBSS1BobXlKTV9GUUVDaDdXdW9nSkpv?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-23T06:03:01.476Z",
+      "sourceName": "nation.africa",
+      "discoveredVia": {
+        "query": "State Department for Lands and Physical Planning Kenya",
+        "origin": "State Department for Lands and Physical Planning",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1055300657",
+      "title": "Land court strikes out logging ban petition - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUlB3MFF1c1Z6SDZ4ZlM2dnppMU5CNExDT2g2TDB5cWI5NkthX3JsdDhGSThqZE1fQnh5V1lud3FyekdRbjkzNmhrZzRYeWpuR0RtbnNIU1d6TnY4eTlSSTBqRDlQUmlsdXdTZlFrS2VmQVVaTXY2YWRlSTZWQnA5d2J4NC1VeXdtNU1DZEE2MA?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 01:53:00 GMT",
+      "discoveredAt": "2026-09-23T06:02:51.005Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_290322232",
       "title": "Point Cloud Classification for Segmenting and Filtering Data - Leica Geosystems",
