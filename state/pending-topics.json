@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-23T19:39:02.954Z",
+  "generatedAt": "2026-09-23T22:27:58.013Z",
   "candidates": [
+    {
+      "id": "t_1004967899",
+      "title": "SUPKEM SETS THE RECORD STRAIGHT ON HURUMA LAND AND MOSQUE SUPKEM reaffirms that the Huruma property is lawfully registered in its name, with a title issued in 1982. We reject demolition claims and challenge anyone disputing ownership to - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sRGFBYlBJY3NpV1A4cjU2VEViVlplY3B2Wjg3NDZlWEoyM2RzWnZ4ZWQ5M05lTFpwVy1XZjJudV9GLXBqMWo0VXRhT1lXRWh2UVlBUnRQTGZpX0Ey?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 12:14:55 GMT",
+      "discoveredAt": "2026-09-23T22:26:56.847Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1603919809",
       "title": "Making AI-enhanced geospatial intelligence accessible and actionable - GIM International",
