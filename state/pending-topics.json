@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-09-23T06:04:07.362Z",
+  "generatedAt": "2026-09-23T11:46:20.436Z",
   "candidates": [
+    {
+      "id": "t_882348851",
+      "title": "EACC Urged to Probe Land Fraud Claims in Kajiado - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkSlhFYVJhMzlkOHFheldwOG5BNXJkX2V1Zm5yTmNKOER0dTdZckQ2bHphNk9JUkxhMDV4VG1LYWdFS1JsRnJGX280WDl3VUlvUndtN21R?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 10:30:15 GMT",
+      "discoveredAt": "2026-09-23T11:45:20.819Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_595215925",
+      "title": "Telit Cinterion demonstrates cellular and GNSS high-accuracy positioning at The Things Conference - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2MwaUJPTVJ0NXhfQXJ3ejljQktFbHdaX3ZJNzFFdWhXQTZlNTBQRUFieFRQVHZQVFFHbzB1ZnFCX010czFsTW43M2lfTlVvRGlBMVowWDM1dklzWHlueTZFekVzUWZNVFRJRmhLN1o0aVc5Qm14RXE3S1BhWjMtTnB3Q1BxaHpoRlpfZnVFc3N5b2dLMDZ1RUlLN25FbkhVYkxvRFFMWEhLNTRiVjMyNmJMZHE1ckFvMVJJNkJYUHU?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 08:06:05 GMT",
+      "discoveredAt": "2026-09-23T11:46:03.171Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_71503588",
+      "title": "MCD begins drone survey to improve property tax assessment in Delhi - ET Realty",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcXdWSWNLMnlHaTVWNnZSYnBIWXprZTltdnFFc2x1QllXLWxYLV9RYnlfaDc5SXp1R0d6QmJhYVFXaC1SSHNtSGUycDBnZ2VMN0xCbUNoeW05amtPMmpPVnpEMDlFelVubXE5MUtHU2l6dXFibS01Sy1UcDlIVHB1dll6eHg3UkJNWkE5U3RUU3BFT2hReEZkZV9mUVIwMVI4WGdXdUZYZFA2ZXE1dk1kRHV5VXN4T3NTeXh2VktlSzI5Q01VNHJSOGlSUTdua3p2ZlljcHp6U0PSAdgBQVVfeXFMTnF3VkljSzJ5R2k1VjZ2UmJwSFl6a2U5bXZxRXNsdUJZVy1sWC1fUWJ5X2g3OUl6dUdHekJiYWFRV2gtUkhzbUhlMnAwZ2dlTDdMQm1DaHltOWprTzJqT1Z6RDA5RXpVbm1xOTFLR1NpenVxYm0tNUstVHA5SFRwdXZZenh4N1JCTVpBOVN0VFNwRU9oUXhGZGVfZlFSMDFSOFhnV3VGWGRQNmVxNXZNZER1eVVzeE9zU3l4dlZLZUsyOUNNVTRyUjhpUlE3bmt6dmZZY3B6elND?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 03:43:21 GMT",
+      "discoveredAt": "2026-09-23T11:46:08.903Z",
+      "sourceName": "ET Realty",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1244314658",
+      "title": "“This is my sweat”: Woman says family resold land she bought with savings - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUWlHSmVzYnM2RlZfTDFYek0zOFhWUy1RdzVDQXBicl95SDcwNFotR0o1dXBibUJuM1R0c1NCQ3Z5VkJSNmtlSTlkS1Q1SG94aGJiVVd2RnhJZTZmQ2hycE1yaGxFVl9EUG5jbFpUQkNRdmxqSDlrcF8tbk1aRndQM3BsenMzQlNkUjEwMFdTdzluc1ZzY0I5ZU9HT2ZjY3Ba?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 06:15:24 GMT",
+      "discoveredAt": "2026-09-23T11:45:06.618Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1553232941",
       "title": "Four land disputes put State Department on the spot - nation.africa",
