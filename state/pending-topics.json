@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-22T22:42:46.630Z",
+  "generatedAt": "2026-09-23T01:13:37.998Z",
   "candidates": [
+    {
+      "id": "t_290322232",
+      "title": "Point Cloud Classification for Segmenting and Filtering Data - Leica Geosystems",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWM1LWZ4WDVqT2lZQm96blZDWDZ3SGU2MERTYmJGa2JUamd5ckRFWFExTGU1LUVYUzN3V3BNT1RsWEdadE5CRmpPei1HaEFfODdKNnYxdnVFT05lMDhmbURObXljMUEyYXRPcEJPVjRZdkhrcG54c1JnZm5vVno1NTdENDBYZk1RVUZXNWFWMXFXZ2o2dEp6bFpvMjdDR2QtaUhHZm9uY1JmRDZXUEZHVXlPRzdUS3dHc2c?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 10:54:26 GMT",
+      "discoveredAt": "2026-09-23T01:13:03.557Z",
+      "sourceName": "Leica Geosystems",
+      "discoveredVia": {
+        "query": "site:leica-geosystems.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Leica Geosystems",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1188630982",
       "title": "Thome Land Dispute - farmers.standardmedia.co.ke",
