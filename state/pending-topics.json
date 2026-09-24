@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-09-24T01:03:33.767Z",
+  "generatedAt": "2026-09-24T05:50:32.435Z",
   "candidates": [
+    {
+      "id": "t_1251169826",
+      "title": "Lamu residents warned against selling land ahead of Dangote Refinery - kenyanews.go.ke",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTdCZmtLNTBhLWxYbUd2ZnMtUHZSTi02NXo4Q1lIeVBUOGpVcmFBeFdSQTFoTTBYdVFLdEhaRzZleVBWVnFfQXFIOVBYTm5hSkZ2OWhjTFdsR1ZLRVlDVXNiQjhpcEhCWUEyaGVfVHJZemhETkdKejJkazl6WXllOWNIbGYxX3BVOHF5ZW5ibEg4TlpzNnBTaUlaSlNRQQ?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 15:54:30 GMT",
+      "discoveredAt": "2026-09-24T05:49:24.064Z",
+      "sourceName": "kenyanews.go.ke",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_965860244",
+      "title": "‘Let kithitu speak’: Court rejects elder’s bid to invoke dreaded Kamba oath in 40-year land battle - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWWhvWHNFQ2xTOFlFZDdBZjVoSFFndkRFc3c1aGJpdERBR2phbWQ4RW5FY3lwZ1NfR3lZcTBaV0hoVmR3V0dpdHVoZkkzeEV1cXp3T0pxNUIwN1RrWHhuSndWaXUzVTBnak8yQmpvbElLNEhqazdjckVZZlRGYXVJcndPbzFhNUJqWnVySU01TldRZ0RaMy12aXd5T1RwZURrNkVNVjBLTG9PTk1Kb2xmYmM0RFh4dzFfRm5YMU1NN1NEcmR3bWhHSjFzVHNtMDFOYnNjV2l4emtxTGNKZU5xTlgyZw?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-24T05:49:15.427Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1596159511",
+      "title": "Rise of taekwondo in land of athletics - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5xcnV5amNaTlRxV2dHd0ZBYVVFZXlaN1BiT0FzQ1hqZFdMbmFMa2kwbW92Zmx4RHN2VXZyWDhIaWpzYzJnWWRndVpqbmhlRHlHaGRfVzVDaHk0ZWlDZVJONTFNcVAzR2NhVFRRNDNmR3ZnbFIwYmNrTnRIUXZlZkhsLXZocjFNVG5ZckJvYmVkOVhHTEZEdk9R?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-24T05:49:15.427Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_447115192",
+      "title": "Harambee Stars players go on strike over allowances as Eritrea land for Afcon qualifier - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM0VJdFhJTVV3R2JmdTJUZDMyeGNaR2I4cWxkZ2RRSVRnNFdraEx2QVpvdzlFMkVGcFRwU04wLXlPUEdMNE9LcGZ3Q191aHNLS2JKeDdXN0NyVXhPdEJ6c3FERTJJQm9SQURKZnl5c09EbmNlMk56eWhGeE1tNUdEbk5nMklzU2FTVHVWMlp4U2Z1NzBvWVBiM3FKanhEZ2pvUWpwR1hzZGVuQmVzOWpMOU9XWHdIcGFHM0tHUmN1NVZmdlc5LTczdE5Ma25FQjFBdHFEdkZR?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 08:48:08 GMT",
+      "discoveredAt": "2026-09-24T05:49:15.427Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1147293781",
+      "title": "State moves to regularise land under affordable housing projects - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdW0tRE1tclZWOUFPWHlLVHBjWXh3TFliZkVjS1A1MjFNdkNzVy12N2ZEdzV4X0k2MkNGRkU1cGNoZ2s0SXFEMENvNllWWXVYbUNCbnhJdFVnZ3QwQzZGWkFrYy1LVUlTZW5jZGl6MHZ3WHFsMUlzVk1PckhiTWw3NnFuWjRQOTFTdmxEVC1yTm5LZ2pnbUdmbS1HYkpLZ0VuUDBXVE5rSG5rNlA5MUQwZ21rVHExZWF6MXZhVmFJbUFPRnhzNG8xQWtMR1pvVVl3aUE?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 03:00:00 GMT",
+      "discoveredAt": "2026-09-24T05:49:16.342Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1543366791",
+      "title": "Families in three forests to get title deeds at last - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVFUWnhKWG51MnZhd2FiZ3FSQ2VKUjdWSmZHY1NWYlg2SEN1MkFyRjFjQzZUdjVrVUhjLWljUGoyZUkzMnZRWkxZdWR3M3NrRTBUQklicFdHd3RfdC1pamwwQlNwUHhwS0p6My1uSUhhVUVTMU90LVBkRU9Ic1N4eXlEMkxUQWhMellKbXdJRFh0ZExWNWpKOFBqN1hwelQzTHBtcXNuTW5mcXM?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 04:00:00 GMT",
+      "discoveredAt": "2026-09-24T05:49:17.251Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1004967899",
       "title": "SUPKEM SETS THE RECORD STRAIGHT ON HURUMA LAND AND MOSQUE SUPKEM reaffirms that the Huruma property is lawfully registered in its name, with a title issued in 1982. We reject demolition claims and challenge anyone disputing ownership to - x.com",
