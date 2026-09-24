@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-24T15:51:33.815Z",
+  "generatedAt": "2026-09-24T19:47:12.385Z",
   "candidates": [
+    {
+      "id": "t_1752953124",
+      "title": "Which GNSS Receiver Fits Your Survey Site? - Chcnav",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbF9WMEZxVmROaFVjdmRvYWt6NThENGg3Vl9OckRRTEdiMUUzQnQ2dURMSUZ5TVktMzllZTgwVU93V2tPZjVwcFlfZ3VrS09uMl9DeGlrdXZadVBNdEJYUzhMa0dxeENEaWxwU2Z2elExOFF6LVFvbHVDcGppZGVwZ0MybXBtRVpMX2JhWjRRV2Y?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 15:50:12 GMT",
+      "discoveredAt": "2026-09-24T19:46:47.877Z",
+      "sourceName": "Chcnav",
+      "discoveredVia": {
+        "query": "site:chcnav.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "CHCNav",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1467579571",
+      "title": "Court orders Ministry of lands official, wife to forfeit Sh233 million, properties, cars for unexplained wealth - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb3pncWhmblFYYUpZOXRjTVBvZEJFbkFIYUowdVFuTVdfZzJmeTVFQkVyU1Q3VWFPVl9qZlJDX0xUS3lLN2hGX3lCWm5BX0p1VDgzSXItcENvazNFcHVFN0RZVVl6eXBTMkNNZDNubTUxZDJOY0F6cHNCODlPN2pFWkw1elVGM1pvdjVEakZtMWRRNktldWhoR3psVTdfMWY5Snc3LUlMNW9PQ29fcWFjU2daajgtTXl3cExsUkdtTUx3VnRJTHpMZlpYeDkzODdXVy00Yg?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 08:00:29 GMT",
+      "discoveredAt": "2026-09-24T19:45:51.991Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_933567019",
+      "title": "No power: High Court strikes out Sh2.75bn Embakasi land petition - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVEVzY0hlNE9pUlV5WUZfbEtTR0phSWFtYW5YcFJ4SUpzcU9YM1RVSHhkTjBzalE4MEFRQXFSQk5rX1hzaHU4ZU82c3NLZ2J1azRDRDl6T00zaHZPdGZzSGUtMWlGLWFfeUFZVnlTeG92ZmhQWDQyY0YxM3BjdUQ3Tk9TSDF0cThqZEZhMG90LWJHUjYxZ0o1TWREN0U?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 17:02:00 GMT",
+      "discoveredAt": "2026-09-24T19:45:53.035Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_601693599",
       "title": "Trimble’s ST30 smart target for surveying integrates GNSS capabilities - GPS World",
