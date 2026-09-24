@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-24T05:50:32.435Z",
+  "generatedAt": "2026-09-24T11:03:34.308Z",
   "candidates": [
+    {
+      "id": "t_316574970",
+      "title": "Mass Evictions Loom as Govt Moves to Reclaim Land for Airport Expansion - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVJmSGxrYXpVb1IyV0JXTnhtUmM0NVFRTDI1UjkxdU1feWhOcmFrVFFWbllnVUhhXzRfY2NhQ2dNREhTVlcxSTlDZklrcF9IRjI4Z3BEYk5lZEM0TTBRa0dZcjZEaERqMjAyWUttOU5Kd3hYWnlGLS1laVV3a3JvLWRBWTg4VUxjVzFSUk0waHdQby1seDlOREhManJKdkpYS3JjUVNB?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 10:18:48 GMT",
+      "discoveredAt": "2026-09-24T11:02:19.503Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1997310671",
+      "title": "Court Issues Orders Affecting Land in Ongata Rongai, Ngong and Other Areas - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTVMSm9zTDJPUmhIbFIxSzBXZm92XzBYOVg5VG43eWE2bGhObHFpNUFrbTB3WkYwdmxndnJlQnlRMS1QR2t3UFc2QnJ2bHc4UVJvNWpubFRzSS1lcEhnRUwxNUFiM0lNSE1fWGVfT19RaWNhZUtPdy1EN0tsWV9DUjNNWVd0akMwVnJIRXBKNjY0ZkdHTUd3Yk0yaE15eGxUSTl6bFRuMHIwclVfZGxLSlFjdWJidw?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 09:27:51 GMT",
+      "discoveredAt": "2026-09-24T11:02:19.504Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1251169826",
       "title": "Lamu residents warned against selling land ahead of Dangote Refinery - kenyanews.go.ke",
