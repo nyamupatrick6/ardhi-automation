@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-25T06:12:52.141Z",
+  "generatedAt": "2026-09-25T11:58:06.809Z",
   "candidates": [
+    {
+      "id": "t_211391500",
+      "title": "GIS in Style - QGIS Plugins",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53amdmek0zRXBEY3lncnowWUVadDE5RktWSGg5WUg1aFRJRXlXVVd4ZF95SFVWZHZ4WG5CSnlmbFlWY3g1UExXeE9GbXRXeUV6ZDM2dWYzSFpLUQ?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 11:35:00 GMT",
+      "discoveredAt": "2026-09-25T11:57:45.039Z",
+      "sourceName": "QGIS Plugins",
+      "discoveredVia": {
+        "query": "site:qgis.org (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "QGIS",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2141029090",
+      "title": "Court orders ex-Kilifi land registrar to forfeit Sh426.8m in unexplained assets - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkJNWk5nYV96MXllbko3VGNmMUpUdGZwYVkyd1A3WkV6amNXb09oa0xfQTlhb2N0ZExPb3oyVnpaRDd2UWx2VmxTc2xWNWNPYU9mTWROYkJtbFZ6SXdUbTFNRmYtRHk0NlNJRUlOTXhvMHMyMVE0ejhVU1dtNDlSTXQ0THlZeVBrVi1GZHZMQTY1U1FMamY2Znl3?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 08:59:00 GMT",
+      "discoveredAt": "2026-09-25T11:56:47.674Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_658345432",
+      "title": "Former Lands Official Ordered to Surrender Ksh426 Million in Unexplained Assets - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0R3T2huREFxdlNLZlltSzdUN2NMaVVKNmZsYTBSVTFXRnlLbDByUDM3ZGwyRk5TSHRVaENUY0Y0QmdUSTA1MThRVlI2cGpkcWZ2NGVDLTVROTlTLW9zUjRSYTA5MWJ5Q1B0THNZTHZ1ai11QUJnZVZxazlGSnBfU3pJSFFFWjdDNG5JZDA4X0tpVmJuVk9VSTVsUzZUVTZfYjNZYjNHTk9fZXg4cFVEdXJ3?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 07:27:42 GMT",
+      "discoveredAt": "2026-09-25T11:56:50.591Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_833327922",
       "title": "Recalculo RTK a Coordenadas Ajustadas - QGIS Plugins",
