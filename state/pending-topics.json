@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-25T20:08:32.769Z",
+  "generatedAt": "2026-09-25T23:21:13.027Z",
   "candidates": [
+    {
+      "id": "t_401136487",
+      "title": "Why PCEA lost 17-year battle to Catholic Church over 28-acre Meru land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2VPQjZxRjBpMUJnVHplRGZyOHBJTTZoVkEtWC1MYWQxSFhIRDFLYXh2dENJMzAxOHRVOE05Sjg0RHVUaC1feWZ4aldhTm93WG43emtiMDRvRFNTbTNxcktubUxmU2lSbzY1QjN4bXVlZUE2NjlkVDBPOC1ldGZULXUxNXhFMkJhcU8wbUJ4U0draVJoRkdMSWNJR3NhanBTMkRHdTdJMHctUWZ1aHhCdGt6WGoxbjFoNjBGTA?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 09:29:15 GMT",
+      "discoveredAt": "2026-09-25T23:19:51.058Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_56980703",
+      "title": "Court orders former Kilifi Land registrar, wife, to surrender Ksh.426.8M assets to Gov't - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGlEOW8tc1hyN1NxSkV4SzBDWEl4VUE1VEI5XzNwRWlEOEl6bk13Yy1YZ3FmRjRCYkxrZmVlbW5OZXBDVWtfUVB3QTVkQnY2QmhIbGxkbVlKUHptVG9kSFhIanQ0ODZKdXFHNUxtLVNLM0daOG5sN25sMVpOcXV2cGs5Yl9ubEROMEx2LWY0aUNVbnRLRkRQeFdlNFZadVNzUU1tUk91a09zY0RPYnh5NDlyWDVfalJjMExvQVppdEI?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 07:43:53 GMT",
+      "discoveredAt": "2026-09-25T23:19:54.091Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1174665054",
       "title": "Ruto lands in Lagos for Dangote refinery tour ahead of Lamu groundbreaking - the-star.co.ke",
