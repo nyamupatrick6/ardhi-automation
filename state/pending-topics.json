@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-25T11:58:06.809Z",
+  "generatedAt": "2026-09-25T16:36:14.813Z",
   "candidates": [
+    {
+      "id": "t_1425279246",
+      "title": "Inside Sh426.8m wealth former Kilifi lands official could not explain - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUF1X0IwSGloVVpVb0VrQ2ktTmN4TjhFd1lFNENaN09CakV4ZDRETEVpaEFONV9mS3hlaUNwYXVZVXYweVJNbXZBOGphUzhKZWF5UldoQ2hCVHdiR0lDM3ZDREhIVWRKV3EzUDRQNzJvQVRtZ0ptRndlQmJTOE5vU0hfcmJVdDJWcmpXeDNmNHEyOW1WSURTMDNlQ0dCdEdnb2RVVXprVHJncl9KMWVz?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 11:03:59 GMT",
+      "discoveredAt": "2026-09-25T16:34:51.383Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1367347766",
+      "title": "Court suspends enforcement of Kajiado County land rates, rent charges - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaG5nc0NJTVQtaXM0N1pzM1dyYzhUTEc3a0hfS1ZSOGpLSHBwcC00U0dzVXdKLV90dUVLc2NvUTZUQ0hDRjJUblU3MmcwNWFnNUtNNFdQeW1nVDY4X1NYenNubVlOVGp1cHpoQ3dLME5RRHkxMHlWLVhBc3poUmRwRklvcFlYWkJhblBjdFJZSml1SW9MYURwcGdpRjk5aUxWbS1qZ0pDZlF0cFot?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 12:55:23 GMT",
+      "discoveredAt": "2026-09-25T16:34:54.626Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_211391500",
       "title": "GIS in Style - QGIS Plugins",
