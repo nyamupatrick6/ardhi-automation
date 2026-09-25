@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-24T22:59:37.727Z",
+  "generatedAt": "2026-09-25T01:17:53.614Z",
   "candidates": [
+    {
+      "id": "t_534441396",
+      "title": "Misri land survey begins after 35-year wait for title deeds - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSldIZEJUNlhjZHlKMHJIT0w2TWhhZlRNcGtadWN5dk43QzktUXVkRmpPbGt3UWN6dnpFa1JUeDJkVm5pRnJuai1jaFN4VmhVNkpuMEMzc09KWG80TC1kZHNfWVU0MFNEOGVkRzlJZ2lRd3RsMENrQWFwUG41QWNBNVEzUmlhVmRKU3FsaFRqMlRJdw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 11:24:26 GMT",
+      "discoveredAt": "2026-09-25T01:16:39.226Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1963319398",
+      "title": "Co-operative Bank of Kenya has signed a partnership with Fanaka Real Estate to provide financing for Kenyans seeking to acquire land and develop it. Under the arrangement, Fanaka will supply land across key growth corridors including Mombasa Road, Thi - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01a3JiUW5VZUJGUTJZdXV2RkRPYm1ETnpmajY3aWJSVGx4cUE4TUVVLWhyRzFxVUItdTljMjlDUnFtelAwaXF1OFRVTG5FbjRYamVDVlRFRmJtbEpTbkd6RA?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 18:00:40 GMT",
+      "discoveredAt": "2026-09-25T01:16:48.633Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1803693836",
+      "title": "\"If land is in Nairobi, you file it in Nairobi, if it's in Busia you file it in Busia, the jurisdiction is where the land is situated.\"- Ruth Tanui, Advocate Of the High Court #TV47Breakfast @anneodida - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmYkROOG95OUhqWUF3R0p3eUNCQTJnRmsxM3N4TFFJMnM4NjV4SWNWeUFFNm05YVA5MmdlUTlaVEJmeWpLbEF0bWotMzZoTTI5dklobnE2SGxLbzcwTWVYVTU2TzRFdEJ4?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 06:43:05 GMT",
+      "discoveredAt": "2026-09-25T01:16:50.669Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_844210664",
       "title": "World Athletics Championships are Coming to Kenya- Land of Champions#PulseofAfrica #Afrcannews #TrendingNow #ForYouPage #ExplorePage #creatorsearchinsights #blowthisup - TikTok",
