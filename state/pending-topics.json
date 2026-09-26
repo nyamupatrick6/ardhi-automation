@@ -1,6 +1,89 @@
 {
-  "generatedAt": "2026-09-26T01:43:16.828Z",
+  "generatedAt": "2026-09-26T07:02:09.775Z",
   "candidates": [
+    {
+      "id": "t_1497757563",
+      "title": "NLC seeks public views on historical land injustices, public land grabbing - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UWXBudnExRUhhMDl3bDFtaEQ5NkR5ck5xcDVndWNWZk5lQzZIR25Pcy15MWU3WklYQVZ6TVdISkx0S0hXZTlJVEdQQ3dZOGFwRjJtQmZn?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 08:00:10 GMT",
+      "discoveredAt": "2026-09-26T07:01:09.464Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "public land grabbing",
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 3
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 4
+    },
+    {
+      "id": "t_944800942",
+      "title": "Understanding Drone LiDAR for Aerial Surveying & Mapping - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3EwSnNGWi1RSnE1X0tPVmQzQ2VlelJtSm0xQWVvc1pLeVBibVM1Qmw2NVFTVGVLbkFqUkNoT1VJVVVkUk5VekFMelhOQWIySmo0bDdsVmhCcTRpTDRkbWFBUWIzV1FCdk94azczMFdMRmk4TTh2US1MVzZtYVl5MThpWU9hZDN6bXVBakx4d3ZqN2VNb2ZmVEpaY2pZSXJrNm9rVDJFNlQ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 05:19:26 GMT",
+      "discoveredAt": "2026-09-26T07:02:02.580Z",
+      "sourceName": "Unmanned Systems Technology",
+      "discoveredVia": {
+        "query": "UAV mapping technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_84447758",
+      "title": "🏠🌧️ Don’t miss \"Land & Property Diary” 📺📺 this coming Sunday. Tune in to @citizentvkenya for Land & Property Diary, an informative weekly programme that helps viewers better understand land ownership, real estate & home development in Kenya. As we a - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fV3E3TjczV0NsQmV5cTlnT3BqNnczSGxneXBrSUtvOFZURXBEX3VENkJKeDdBeVhfRXRFVmxpbXdNRm1TaFFURnBVR0RsdmJXbnUxZ0o2X29LdHhyUTkydA?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 18:54:01 GMT",
+      "discoveredAt": "2026-09-26T07:01:08.115Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1246271340",
+      "title": "EACC seizes assets, cash worth Sh420m from former Kilifi land registrar - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JSlN5VVNnd2hSeDdSUTNjTTNfM1R1MnJobmxUUHMtaVFLVEVVdTB4MDktQ3gzeEEyUHJYdXBIMFR3NEJYejRrZjZZeFgzSEhOd1llZDFn?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 19:31:19 GMT",
+      "discoveredAt": "2026-09-26T07:01:09.464Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_974954075",
       "title": "Can Better Land Governance End Kenya’s Land Disputes? | Daniel Mugendi Njiru | CLPA 2025 - YouTube",
