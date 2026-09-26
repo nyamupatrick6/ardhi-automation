@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-26T07:02:09.775Z",
+  "generatedAt": "2026-09-26T12:17:20.061Z",
   "candidates": [
+    {
+      "id": "t_1312698453",
+      "title": "Huruma muslims accuse SUPKEM of Mosque land takeover - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MN1FBWHFoNHdwQl9aeWxBZUFFMG5UVU4wRTdMVldJbU9EY1pJY002VWhCdVlyb2Z0VTJ2d0NuUEdqSTNmdkIwMmtvTnBWRzRKeDJwU0Rn?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 10:22:56 GMT",
+      "discoveredAt": "2026-09-26T12:16:14.851Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1497757563",
       "title": "NLC seeks public views on historical land injustices, public land grabbing - YouTube",
