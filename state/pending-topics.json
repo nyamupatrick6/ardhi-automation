@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-25T23:21:13.027Z",
+  "generatedAt": "2026-09-26T01:43:16.828Z",
   "candidates": [
+    {
+      "id": "t_974954075",
+      "title": "Can Better Land Governance End Kenya’s Land Disputes? | Daniel Mugendi Njiru | CLPA 2025 - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40a2lyRTJ6WHBBTm5JY3I1TEFvaEI5cXZ3cjVhek5yeFFPaG96VHZvTWVkQ21WMWtzdkF4ZXR3Z213V0RhaVB5N0RYcEFYNHFLcE45Mzhn?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 09:39:19 GMT",
+      "discoveredAt": "2026-09-26T01:42:14.498Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_401136487",
       "title": "Why PCEA lost 17-year battle to Catholic Church over 28-acre Meru land - Daily Nation",
