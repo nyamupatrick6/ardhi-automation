@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-26T16:30:26.922Z",
+  "generatedAt": "2026-09-26T19:22:47.565Z",
   "candidates": [
+    {
+      "id": "t_1073137169",
+      "title": "Kajiado residents accuse land officials of fraud - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXbHI2RU1yM3lYOTNhcmRQVUVGcURyZ01DZWFHNFlKenJpS3R3QXQxckdfM2QwbUdIMndnYlJMUlBpdXJkbW5fRHhQS3g3UVlDTm5PaU93?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 10:26:07 GMT",
+      "discoveredAt": "2026-09-26T19:21:45.481Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1761369054",
+      "title": "Huruma muslims accuse SUPKEM of attempting to take over mosque land - citizen.digital",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamNBck1nVGsyVTNzbThMOXRwTU9rWktqckJoX1VZQmxwTlZ1NTB5dHJrc3ExZXhueFhROEFFTUl5UDdVVGppN1FjbWsxM2FzOU5HVGdtTENJbjVGTlFlWFJpXzNwc0dSRV96SUNSazRiZUpYa1JwRUtSaTFJQmhGd0pXcTFWMXBNRnFWWkNBYVhxelM5UnJfakRtQm9CZmhZX1NkbzBiWUxGNms?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 11:05:45 GMT",
+      "discoveredAt": "2026-09-26T19:21:28.300Z",
+      "sourceName": "citizen.digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1988028395",
       "title": "Govt Lists Land Parcels For Compulsory Acquisition Across Four Counties - The Kenya Times",
