@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-26T12:17:20.061Z",
+  "generatedAt": "2026-09-26T16:30:26.922Z",
   "candidates": [
+    {
+      "id": "t_1988028395",
+      "title": "Govt Lists Land Parcels For Compulsory Acquisition Across Four Counties - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LWmRCVnhlbFl2MWRjVk5qM01NTFI1Umh1b1FHOFh5czQtOXlvTFJ0MXFLSmVoQ0lIWDdJOElNaHpKcGczWjZLU2JwVTB1X2szNE1aYXMzRWQ2UmRobWs1bWVpSDdmeHNXdkZ4X1djTWJvWWtHS1hGekpqNzM?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 13:16:35 GMT",
+      "discoveredAt": "2026-09-26T16:28:58.756Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_69982743",
+      "title": "State Issues New Land Acquisition Notices for SGR and Key Road Projects - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEZVeXpKbWNfT1lrX0dubVA0TTlyRFZ2YkRQZS0yQ19pVzlMU1EyX2ZfM3NadHVYb0RwRG9ic2taWUdKdmlBeE0wSGRUemZNdlZCZ2RMd2lvdVdPeGZvUVZxT2xpVnNSUXhMQjRnUXhfSWxFbVFCbzJRTDc0cTJMNm14aXRJMzdNS05aUEFsRnhrU2RzOE9NLUFoaVpoNkQtTlg3VXFhT1ctN1hDZ0E?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 15:51:46 GMT",
+      "discoveredAt": "2026-09-26T16:28:58.757Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1215188423",
+      "title": "Ruto begins Coast tour with 200,000 title deeds, Lamu refinery groundbreaking - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT09RbU96bl8xRUNxbC1PdVF2c3R0TXdFV0lWZjJmcHlzSVlTTXlFUTdsNXh3NWRobl80YWNpa0JyQlp2MUs2QUpDZFhnLTlHeWlwSFR5am4zRXdBSlBIMzYxdzRucG1IbjJKNFRRMThxNTRGZEpXdVE0UDNmT0FiOU5uUzJMU1hmMllYX1RBMzVhdk0yQ0NodGN2b0RYckU?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 13:22:44 GMT",
+      "discoveredAt": "2026-09-26T16:29:11.333Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1312698453",
       "title": "Huruma muslims accuse SUPKEM of Mosque land takeover - YouTube",
