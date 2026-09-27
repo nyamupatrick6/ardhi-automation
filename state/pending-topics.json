@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-27T00:41:45.572Z",
+  "generatedAt": "2026-09-27T06:09:31.537Z",
   "candidates": [
+    {
+      "id": "t_691140390",
+      "title": "Ruto 2027 remarks land university lecturer in trouble - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGZJWExaeG1oTzFIQW40cWV0ZXRia294c2JRUW1kd1E4YnhRdXlWX3E2b1ZMZUJCNXVXWUUyMVoxY1VIY2VMTFQ2NUh5ZXJEeUZlVVVoV0FnenEteHBwbTlrVHhBWmVZOGwzbFNuQmxfMFVuQTRRT1hySU1YWmRUYUR2NHNtNlVDTjlHcjl4dkw1YWFCYnNDaFBDVFg?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 05:05:00 GMT",
+      "discoveredAt": "2026-09-27T06:08:16.085Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1937929105",
       "title": "Garissa former pastoralists transform 20 acres of dry land into productive farmland - YouTube",
