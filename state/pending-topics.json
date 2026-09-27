@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-27T12:10:24.828Z",
+  "generatedAt": "2026-09-27T17:02:52.824Z",
   "candidates": [
+    {
+      "id": "t_993304179",
+      "title": "Heavy machinery land in Lamu ahead of Dangote Refinery groundbreaking - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjVwQ0dacG5XeFNkOVpGQ2VUQmE2c0N2ZFlyajRtX1BmVmR5TXo2M2pfWmdfamNvRkpDOFFMSF9nQm9aVjlpNmNjaFk4bmJjLXBxZk03aFlVY1RNWXJzbFdnRHZRSW1uZzdYSzYtTjlnbFRZeXR0SXZ6MXZuWWc4RjY3bjRJcnJlRjg0NVVVZk1kd1dyei1nbUt4bDZIQQ?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 16:00:00 GMT",
+      "discoveredAt": "2026-09-27T17:01:35.141Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_691140390",
       "title": "Ruto 2027 remarks land university lecturer in trouble - the-star.co.ke",
