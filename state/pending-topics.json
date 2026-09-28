@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-09-28T08:10:44.223Z",
+  "generatedAt": "2026-09-28T16:49:12.438Z",
   "candidates": [
+    {
+      "id": "t_1328112638",
+      "title": "Huruma Muslim community wants President Ruto to intervene in a dispute over mosque land - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NRjF2X01Yc3RfNHZrZlpINWhxNS1aeUxiM3d4RjRxWTI4VVY2LWpubTBmajY2dmNRbTVaNTZqbk9zU3h6SENpX3E2OUFtN0xIN0xZMEhR?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 10:43:01 GMT",
+      "discoveredAt": "2026-09-28T16:48:04.697Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1762436045",
+      "title": "President Ruto arrives at Kibaoni, Lunga Lunga for Title Deed issuance - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONExoLTRWckNIM25Eek5MWVRVUVFtTWJ4NDlxbHlPUHdrcmZPTVdhejJkUEZDQTBvVVZ2dUoyZURDN2QtLWJvRkpwTC1yZVRwMU1Ia2dkSGJUVTd5QzNpQmJmUzh3aDQ2QXlaY2pjYmlJTlhjOVJocmQyMFNudmZHQWNRZXM5dm5ienA4bkZtV2Zyblp0dndpYXIxS00xb1BvdFdiMWhMMUtJZmJEZGsxSHNvTVFIUXBvbU5oVnV5Zi1UWmM?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 06:37:13 GMT",
+      "discoveredAt": "2026-09-28T16:47:45.593Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1105485767",
+      "title": "Ruto: Over 300,000 title deeds to be issued at the Coast this week - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzdvNkJKY0J0RHFQOE1DZERzTk9ObnVlUnBPM0tacTB2UDBFVWhhU0x2T2xiMzF0UGhlNlhBMkFtMlN3VGhrZ0tObS1INTh6amRxenZaMElYTGZlWlhQRm5qYndkQTJoRGcyUmxJR2YtNlVDekg5YmszbEZpZjlsSWhPdS1tTXl6eVluUzhESUxpOEx0SEhWNk11dmlBSGN1UnRqS0h3?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:08:00 GMT",
+      "discoveredAt": "2026-09-28T16:47:45.594Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_705642991",
+      "title": "Kahawa Sukari''s Sh15m land boom and why residents are fighting to keep apartments out - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnhrWUpMUWJnZ3ljYmg5WTB2Z1hrOGgyT3VvTmwtekVtX1E2bWNNMndTMy1FYjNHMUVYc2J6cnNEREdKSU9GMjdsRS1ZQ1JJLXFfeW5IVDdvNERXNmtNNXRtMlZVWFpYWHhONmJhUDFmU3NOU0dxMjZxdVhST2lRb2tjRm1NLUwyN0Fha05kbng5QWFVTWpzdF9YcThvcmVhRGhZeWIyTmdEMzFNZFNRMGhiZ3VKeEVUaGNERk9taDA1VGs?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 15:30:00 GMT",
+      "discoveredAt": "2026-09-28T16:47:47.666Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_517010537",
+      "title": "Kajiado residents call for action on land injustices - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNU9DNzJVME42UE0taTFGZmY4c1E4VGVQQkFXY0NNTVQ0cDRhczNxR1RGVVR1d3BZZmtKQTA5NjZtV0lNRm93a05yOGN2YnNVUFhmTGZIU1hvNEpkcmQwU2o4dlA3bXJPVEsxUUc0dUc3ZHhzcFFTc2VXODZadkEtSjk2cTZtMzdV?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 16:20:43 GMT",
+      "discoveredAt": "2026-09-28T16:47:53.135Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1333597989",
+      "title": "Heavy machinery lands ahead of Dangote Refinery groundbreaking - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVpodUxQanpCWXY0dnVtR202ZGk4dGFVWUJPVGIzdjNMQUcwUlJIMzdHLWVJWm12LVRNZzlXWFpySDRmNWJmTkpWa0NaMDlKM2Nyak9sMUdIUVJzOU9YTTRnVS1CRmx0UzR6d1Z3UVk3RTRsaUZRbER1bTI2T1otTlZ4cm5yQXRFcUpPMk1WeGxINWotQ1E?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 13:22:26 GMT",
+      "discoveredAt": "2026-09-28T16:47:53.135Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1320795353",
+      "title": "President William Samoei Ruto issues over 26,000 title deeds to residents of Lungalunga in Kwale County - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM09DMkdxb3ZMNzNVM1huY3NlTk80VDBtVndLYU0wVVc5b0NlSFlwR3NqbndLOWRlNU5jQTBzY0cwUTNONUI2TkdnTkRSYmw5SlJoQm9rVEx5R3dDa3lCUERORzRmY0dwWnJrYmtVVkVkVzRud1VUa2N2Mmd3RE1zb1lCY1hrb3c3UF9ubVprcV9qc0V2Y1RnZWdhRUZZVmRHd3VodXQwNXpYaTRjai1URGxZRVloNGFiTTNuMmNSUWowQzZYNVVuWDRvcm92NzU3VkpuOEloSlF1NHdtaGc?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 14:44:57 GMT",
+      "discoveredAt": "2026-09-28T16:47:54.246Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "Ministry of Lands, Public Works, Housing and Urban Development Kenya",
+        "origin": "Ministry of Lands, Public Works, Housing and Urban Development",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2133438233",
+      "title": "President William Ruto says continued subdivision of agricultural land into smaller plots could affect food production in the country. #thestar #kenya#williamruto #taitataveta #development - tiktok.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mX2c1aGlCcEhMWENtTDFXTm1odWdaZUxkNDFGcWpMZmRmU1BZd3o2ZUMtOWpqdHl0S3BNVHhaeFdzWmc4QTZ5MW9JcEFmdXpYREREZGRLTWNMS2VlMG9UOFFkdy1wYnM0U2pHZVNUcw?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 11:17:16 GMT",
+      "discoveredAt": "2026-09-28T16:48:05.788Z",
+      "sourceName": "tiktok.com",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1197791133",
       "title": "(Understanding China) Kenya can turn China’s green success into a blueprint for land restoration - the-star.co.ke",
