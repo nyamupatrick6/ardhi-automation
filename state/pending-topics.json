@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-09-28T16:49:12.438Z",
+  "generatedAt": "2026-09-28T22:24:31.742Z",
   "candidates": [
+    {
+      "id": "t_172333842",
+      "title": "More than 130 Lamu residents have gone to court seeking to stop the planned Dangote refinery project, saying they risk losing their land, homes and crops without compensation. - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByMEs5MWZXUWVXcDFza3FTMHJ1cFh0bzBuZW1zQzNnWExRTFN1NjdBMDFlRFk4WnNEbW1Rc00ya284bDVrUHpPem5hNGxGN1d3elRvQ0lPZlVZcjY0VWVaM04zWEhvUQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 14:24:19 GMT",
+      "discoveredAt": "2026-09-28T22:23:31.114Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_592114756",
+      "title": "Ruto - We will solve land question in Coast region - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2o2T2tIWWhSbFdBT3E3WGtrUFo2eURTa3ZmU1RhTUFRcW9acHJCbXYxd1RVMnJjanc3RFo1bnFmck96OWI5clk4SmpyZ0NnejZraUtud3RaZk40TG1HMERQenNUbGd6b1hNVjZsaEY5VTV6Qlp2NDRZQ2pFT1cwS0hPckx1QUtLUV96N1ZUeGVRM2lRTnpzek1saUNHbldjdF95UjFVYw?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 13:26:13 GMT",
+      "discoveredAt": "2026-09-28T22:23:14.771Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_56152259",
+      "title": "133 Lamu residents challenge land takeover as Dangote refinery project begins - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12ZzRIckJkanJYU2owUTdmeDdGN0E2WGR5T2hYdnRzS09wM0FfLWx6MjdzNWxLLXNLZnF6NFJYNGd3T29iT1Z2YWxmTUk4d1hqZkZMaU1R?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 15:23:52 GMT",
+      "discoveredAt": "2026-09-28T22:23:32.640Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1328112638",
       "title": "Huruma Muslim community wants President Ruto to intervene in a dispute over mosque land - YouTube",
