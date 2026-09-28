@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-28T01:44:21.591Z",
+  "generatedAt": "2026-09-28T08:10:44.223Z",
   "candidates": [
+    {
+      "id": "t_1197791133",
+      "title": "(Understanding China) Kenya can turn China’s green success into a blueprint for land restoration - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUmxRRzQ2MzRQVllsYjhpNE05dHlOVGFta2lCSU1Ga04zQkxGYTdlaU1zd3IzVXliZFNUd2RCWGdlay1CaEIyY3R3ZkE1SG9qa29XM2tJdXluRklJd0xPanpVaS1TMEFKSFhHLWlQUDNVVXgydDV6X1RoQklzN01MM2pfRGNBQkUwbDhSbE5vTndham5mLXNWZk9RRzlMeEZYMkRMRVhVUHd5QU0xaXNTZFFJcG9nY29FcFhOODJXWUF4RW50TTBBSE5rZlFaREpEVjdqdFoybVpUUElTRHZIZDJHQms?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 07:32:00 GMT",
+      "discoveredAt": "2026-09-28T08:09:27.615Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2051235699",
       "title": "For Coast families, secure land ownership is an economic foundation. Over 200,000 title deeds will formalise ownership and unlock new opportunities to invest, develop and build wealth. This is the land answer the Coast has been waiting for. #PwaniFocus ✔ - x.com",
