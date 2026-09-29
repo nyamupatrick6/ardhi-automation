@@ -1,6 +1,177 @@
 {
-  "generatedAt": "2026-09-29T02:18:25.717Z",
+  "generatedAt": "2026-09-29T08:41:04.622Z",
   "candidates": [
+    {
+      "id": "t_207860611",
+      "title": "EACC Recovers Ksh 25M Land Grabbed 32 Years Ago Near UoN Campus - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUhtY2dzZllFNFRDZk5SZnJkNXp6d0stWVRaa1RkVVhzY2g3SVJoRGM2M1J2dnFzYUlhSlh4X1EtY1dZMHNoQW8tcGVmU2tQZ2ZQbjBwTENyOE5JRTNKRmFSRk16TXA5c1doNFFwSzZaSGVzbURRajBFZE9FQS1BNUJyU0QzZ3I4UEJBV1VxLVdCVlJ3NW45cE4yRC0?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 06:49:00 GMT",
+      "discoveredAt": "2026-09-29T08:39:49.850Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_363914075",
+      "title": "Dangote's Sh2tr Lamu refinery faces land compensation battle - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmFkeXE3NUhoZWs5WnlZV2JCMEtnYzFPQmVtMUE0b2tSeGJzZWpkMnktT1VfMWlKR3VuN3RVWndNS25SZHlFdTFpOFZ6TjlSQ21ZRTUtZWM2NnQ1Ni1mTVRmdnJ4dlRaS1c1RHVXQjZERnpIeE8ybHRzV1JQNENGYUhWY2pGYVhvcnpFUXFaUm1qSFUtSXhtY0hWSlhvdzk0TlBMRmFXREtFdW94SUwzbWpBRW1td1UxZTln?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 03:00:39 GMT",
+      "discoveredAt": "2026-09-29T08:39:46.042Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1017668023",
+      "title": "On the ardar: Ruto takes land ownership drive to Kilifi with 36,826 title deeds - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjJVUy03U0liTzVHQkx4RHpSYWVHTGMydEdmVldPQkZWR2hHZ2FtQld4OUUxVlR6MWNGVlBpVWRLY2VSUmJMUHpMQ285bXE0c1VMN1plOUNiRFNuTzdsenNGaHZnZk9LeXhydTRrZjA5a1VTWV9BMzlIaTlSS2lOMGxJZjBLZjM3UkUxVVl0UTlHeFp1YVlCdU9NbktQQQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 05:36:00 GMT",
+      "discoveredAt": "2026-09-29T08:39:46.973Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_334170907",
+      "title": "Ruto issues over 94K title deeds in Lunga Lunga as Coast land drive intensifies - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJOU5lUlhvZngzOWZJcnAwcDhZanE0d3EtQmNBNGlLN2FUTVRqSUVvM3c5UUFpUVhVRkt0c3B3SVYzOUtjWWEzRElKTkhnM2JlVVV1cjJ3?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 13:00:26 GMT",
+      "discoveredAt": "2026-09-29T08:40:04.719Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1151209407",
+      "title": "Trimble introduces ST30 smart target for optical and GNSS surveying - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1ptRFRGTGpJSFc1Q1JZNmJRRFRTemRidl9IdVowYVBwQVpmTkZESk5TMnJyTUNNR29zbjJPNURPQ2gwelNIbmIwUWoxa0duT2VLU0JaYlV4c3pwODZLNWVLM1J2T0ZwYnVncnNlMEw0dFhnMTNyMUNqS0tyOU1WSGJzWWdhM01qaFd6WW1MZzdWT3RXQmpuclo2RUlXWjhDTTNHRF9KWk5WUQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 06:50:09 GMT",
+      "discoveredAt": "2026-09-29T08:40:44.289Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1347454533",
+      "title": "Cook Islands adopts Geospatial Information Framework - spatialsource.com.au",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUF1ZWZaM09TU3hnWEVvWUtTN3V5M1ljSnlGNWdMSDJtc0JiWC1VbUsyYWxpVFBIQll4aExnVkl4NDdhWU5CX1FQUWFJZU1PV1FNWXgwUks3RURrV1JLeU9HdzdrOVlfeE1FUVNzak1HOHVmaEVIUm9EMFFVUXdLVVd4dTh0SGRxcE5XZjhtTQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 05:22:32 GMT",
+      "discoveredAt": "2026-09-29T08:40:49.980Z",
+      "sourceName": "spatialsource.com.au",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_514730162",
+      "title": "TERN webinar: Why LiDAR time series matter - spatialsource.com.au",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWs2eU11UGV5T0JlNW14UjlvX253RlFVX0YzNEhnNWF4UGFZV1RfLUFyQ0RHX3RCeTJiT0pweFFuQ01FSTV0SmxLZGwwSUprOVM2QkVDQVJMekMtQmstQXRKS0lFNHlpemtNWGRueUF2NXpvY1ExVEswRmJCRzVROQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 03:42:31 GMT",
+      "discoveredAt": "2026-09-29T08:40:49.980Z",
+      "sourceName": "spatialsource.com.au",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1555997735",
+      "title": "Ruto issues 94,000 title deeds in Kwale - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFRxWnlKYTExWFI2ME1RVnlVSDFDa2poWWZQNENYUnlfRG5DYk9QNkVGX2Z0YVJCMzJUTnlQVHVfVDUzUHJBN0dhRTRVUG01c1FLTlRQZ0M4NVN2aG5fSmZ2Zm8xMmx5WHVyWG5ybGFmRVJ6bk5XVzRpSFVxWmpzZWVEVVZzUXlCLWE0WnBGVENUUE5TUGtYY0pwMnlWWXpo?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 04:06:46 GMT",
+      "discoveredAt": "2026-09-29T08:39:52.528Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_779216450",
+      "title": "President William Samoei Ruto issues title deeds to 94,165 households at Kibaoni village, Lunga Lunga constituency, Kwale County. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1c3dm5QbXprMnZ0VjY4Q3BxRkstUTQ1dFZhMGxwUFRBTW5vQXhQaVZUUzZXOHM2NDRyZXJ4WjhtLXM0Q1lYV2V2VE1zbWppQ0Zyd0NBZ0NEMFNDRkJoVEY3c3lKTndDOFhJZUtLVERrdXhBQ2I3MDRoR3N1cFFfd2RlTnJuaVMzbkYtSEZMX1B6Nl94S3RpWGdKRzViY1JxLUxmb0lxZW8xbS1ncVdrU1p0bm5RaWNmVVRlS2poLXliUTYxSmJIcm1Fb0FNM2dVZGp5WUVDNUxla0p1cEE?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 15:02:07 GMT",
+      "discoveredAt": "2026-09-29T08:39:55.238Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "Ministry of Lands, Public Works, Housing and Urban Development Kenya",
+        "origin": "Ministry of Lands, Public Works, Housing and Urban Development",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_659854428",
       "title": "Kenya has strong land laws, policies, institutions and technical expertise, but effective implementation remains key. Presentations at the #RRC2026 highlighted how gaps in implementation, monitoring and oversight can contribute to urban sprawl, incompatibl - x.com",
