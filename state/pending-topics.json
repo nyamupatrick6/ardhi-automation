@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-28T22:24:31.742Z",
+  "generatedAt": "2026-09-29T02:18:25.717Z",
   "candidates": [
+    {
+      "id": "t_659854428",
+      "title": "Kenya has strong land laws, policies, institutions and technical expertise, but effective implementation remains key. Presentations at the #RRC2026 highlighted how gaps in implementation, monitoring and oversight can contribute to urban sprawl, incompatibl - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uTDc3cWo1LXFOcloxbzV0RVIyM3RmQVlwS2phTWhKQTUtUmlXRl96Q2JQa1c2UHhGdDRjdUxJbU5Pb21iM2VRMUd3UGt0MHRJaWZuNVZTWVg1cVJQR1dyY1hJYjJOeXRIdFE?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 06:23:40 GMT",
+      "discoveredAt": "2026-09-29T02:17:22.763Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_172333842",
       "title": "More than 130 Lamu residents have gone to court seeking to stop the planned Dangote refinery project, saying they risk losing their land, homes and crops without compensation. - x.com",
