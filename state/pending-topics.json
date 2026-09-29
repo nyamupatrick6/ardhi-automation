@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-09-29T15:06:58.955Z",
+  "generatedAt": "2026-09-29T20:02:45.091Z",
   "candidates": [
+    {
+      "id": "t_1866136547",
+      "title": "Dangote's Sh2tr Lamu refinery faces land compensation battle - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzNZdVNKVDU1UTdyYlRxVzR6YktSN1lFLURSRWZGWG5SMU9IUGlRMG5HZVNFVzFiUUQ0QU9hVlJHQ093aFlheDZBQWlQdmItRlg5VEhha0Rack5YSFMyOEdzZlVKWUJ6aDJ1SW5YSngwT1RTeEJtajRfUElyd1BoQU9pTUZuQkJNQ21zSXBXTWRoMFJvZG9wcnlfWkktQTg5eUY2bkQ1S0dqbkZHYXNQR3FkaHMycW03ejdoUlpyZ0JFS0djUzA00gHHAUFVX3lxTE03M1l1U0pUNTVRN3JiVHFXNHpiS1I3WUUtRFJFZkZYblIxT0hQaVEwbkdlU0VXMWJRRDRBT2FWUkdDT3doWWF4NkFBaVB2Yi1GWDlUSGFrRFpyTlhIUzI4R3NmVUpZQnpoMnVJblhKeDBPVFN4Qm1qNF9QSXJ3UGhBT2lNRm5CQk1DbXNJcFdNZGgwUm9kb3ByeV9aSS1BODl5RjZuRDVLR2puRkdhc1BHcWRoczJxbTd6N2hSWnJnQkVLR2NTMDQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 05:00:00 GMT",
+      "discoveredAt": "2026-09-29T20:01:24.094Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_244235370",
+      "title": "Miwani Land Dispute - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2akhMVTU5M2Y4eEwwc2dHRUdpNnpqTzVoeE9iMmxQU09RN1lxQUF5YVlLTmZyQ3BoejJqcHlTWVZTdGRnV3hXV1Uzei0zamc4UVRFWG9SQUk4QTc1QlBKNEcyOWxmTGowOUE?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 12:15:07 GMT",
+      "discoveredAt": "2026-09-29T20:01:24.094Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1523901835",
+      "title": "President Ruto’s Coast tour takes political turn as land, title deeds take centre stage - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZEoxMmpyd3lYYS05ejJCS2ZGbTk3dzc4ZlluT1VlcGdBS2c2WFVmZ1JOYTlRMXVIQ0FIWmlucVRPVWRzSVp3cm5DeDZKOWVqWUViNnVB?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 18:26:27 GMT",
+      "discoveredAt": "2026-09-29T20:01:43.125Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1317920554",
+      "title": "Land Regularisation - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BNDRPTEh1WkhLNTRRS2NEUDNNaFZqMlZRaFNIemNYeVQxREFqVjlhX2gydmZJeWhuM1JIcUhKbFI5SnQwS0NuN1JvRzBpdl93Y0MyQWxyQzVJbmdCNTJGaW5xS2ZuaHVQbnc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 08:30:39 GMT",
+      "discoveredAt": "2026-09-29T20:01:24.094Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1086595862",
+      "title": "Spain announces ban on evictions after protests over 87-year-old woman's eviction - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZm5oaXZLMldjZ2NJbEpWRjYtTGJZRWItVEtNaFFUQ05LcHd5Yl81dlVFTm1COHJwQnJaeXZfOG1zU1N4SVl3LURaNUNyZUQxR0ZDMTlodmJFck9XeXNxaXdpSDNRMkxEeU02T2RoSmNVdVhzYTBMUVRhQUQ1TWF3cExPcnJNWHhSVTZIaGpITDhrTnNzUnRBUlBJQnFjdE1zWG4wal9uNHVBMzZGWm9QQ3BKYTNYQXNCQmhjS3RsSXh1QzRHSk94SA?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 16:11:15 GMT",
+      "discoveredAt": "2026-09-29T20:01:25.043Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1122285448",
+      "title": "\"Officially received\": Dangote lands in Lamu ahead of refinery launch - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0lPSFg4MjV1a0hhUURJVWVqZUF4cWtsSDFfYUVqMjNJMEpZREJPWnRRY0RMT3o0UVM1UUhYMUg1RU1mZnQtNE5aWGhqWVphSjFzbHJweEFxeEZscUVWTVRlWmJscW4wRkJSeTV6MG1kVVAzSWw1LUNaZlV4YzBST2pmaGNiZ0tJcDNrWTI4b28tSXVQNzVpRFdEanpncFFxYkpXejFBVnFnZkxZODBxLTB3TDhkQzR0di1HNVpVbnl3SXhmc1Q4?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 17:59:03 GMT",
+      "discoveredAt": "2026-09-29T20:01:28.957Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1778546201",
+      "title": "A Kilifi resident expresses joy as President William Samoei Ruto presides over the issuance of more than 36,000 title deeds in Kilifi Town. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGhHUnAzVWpvelBsZ3BnS3pGZWlrVkd4OHV1ZTBwQmZZYUFIRDc1Zmt0RUhqZWRXME1rMmpqTXNxZHNSb3p5NlItYU1pOEsxUFIzM1FyZUtHZ2w3Y0lzeENjdHRNWUZnZW8tTWlGdFkyWnlGc3FMaEJlTTViTkZ0VGtvTVBzSHpuU20xMjZGMXp4ZGttWEhhSFhxbEFMQnRCX3VIcEMxS09qeDJsOUR6cFNRcExUeks2NFZnYVBLcy1rY1hBTGVranpCc3E1XzBnSnNiTFhFRHZ6YUUxVXc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 11:30:28 GMT",
+      "discoveredAt": "2026-09-29T20:01:33.228Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "Ministry of Lands, Public Works, Housing and Urban Development Kenya",
+        "origin": "Ministry of Lands, Public Works, Housing and Urban Development",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2122085731",
+      "title": "Farmer turns dry Laikipia land into beef goldmine selling up to 100 cattle per month https://t.co/SjWyL0OmDi via @biznakenya - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10bjRVVmdaZDR1TUVhZDZ1MWhIamtRSU9tYW5UU3FmTWlHM3VzY2F6S19waFVfNW5qb21sNmN4MnVZMS12QkhzekhOejhmM2oySDJkejdkVUhzRVo5QkM5YQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 18:37:11 GMT",
+      "discoveredAt": "2026-09-29T20:01:41.614Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_42739758",
       "title": "\"Near University of Nairobi\": EACC recovers KSh 25m land grabbed 30 years ago - Tuko News",
