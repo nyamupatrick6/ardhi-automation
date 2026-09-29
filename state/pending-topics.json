@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-29T20:02:45.091Z",
+  "generatedAt": "2026-09-29T23:46:47.808Z",
   "candidates": [
+    {
+      "id": "t_1384719404",
+      "title": "AEC backs Dangote Kenya Refinery amid land dispute - Vanguard News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDNjOV9KSDJUM0YtRU9PUEJLRlc0a0ZTWmZxb2xuWW1uMmotVHRQQlVDYWplR1h6TlY1MHlDQ3Jib2wtYkJvWEdLLURZTEFLODdDMDJSb18zWE9NelVuZEl2ZHlMeENxRm56cVZwbHZiY081bTIyVGprVi1laXFRMmpUVmdsWVRzRVhQR2dOOGvSAZYBQVVfeXFMT1R3Uzg3dWppRXAwc0xCbnZHdk5yMGY4cFFmWUdhVDFnUmNHczE5WVNNM1RjYUdTd3BYdnEwUTNkdEUwNG1zX3dXYWV6eU5nT3BGTll5cUpvbVNCclphcEVaOUVLdlVCUlk5WTZHMFMzbnRlc0VBRTFSbnotanNXeFhfZ1ctWFhZcUR5TU5taG5PTFRlRlZ3?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 18:30:12 GMT",
+      "discoveredAt": "2026-09-29T23:45:59.080Z",
+      "sourceName": "Vanguard News",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1866136547",
       "title": "Dangote's Sh2tr Lamu refinery faces land compensation battle - standardmedia.co.ke",
