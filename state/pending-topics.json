@@ -1,6 +1,178 @@
 {
-  "generatedAt": "2026-09-30T16:27:14.949Z",
+  "generatedAt": "2026-09-30T20:59:58.673Z",
   "candidates": [
+    {
+      "id": "t_787047538",
+      "title": "Land Grabbing Dispute - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFemcxNkF2ZlI4Nm5DRDNYNlVxRmlwekIyLWl1UU56TzdYdE9OSks3cHgtVnUtUXQxYWRtbWM0OENTbjBUbzIyRXRPWFJ0czZubk80U044UGxmWUx6eGREbTFyclhYSmc5eXBZ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 07:24:01 GMT",
+      "discoveredAt": "2026-09-30T20:58:32.908Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 3
+    },
+    {
+      "id": "t_210728523",
+      "title": "Court of Appeal nullifies Sh2.4bn Ruaraka land compensation deal - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNempSUDV0enI2QVowcUpCb2hMQ1l1MnZCS0lzYUQ2cThYOEhrZUpzTG5FdlNUbDFRcVlEQ2F1dHFNTzBaMGg3TWduNmJ5d25tSVBlMEVMbWRIVWh1a3lkQW5hVF83RG1lLXpTOTFYbzBXMGdmTVhCdzZHcjBSWVRyQUZTaExyVnNvcXE3cG94OGJJSE1MYnltSFhVS051WU1lLXJqQV9jMmh0SWJXWDJ4TXZCZGlORTM4R3IyYTYtUGtydnNnRG5F?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 11:36:00 GMT",
+      "discoveredAt": "2026-09-30T20:58:32.908Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1874205594",
+      "title": "Nigerian billionaire Aliko Dangote and Kenya’s President William Ruto are set to break ground on a $16bn (£12bn) oil refinery in Lamu, amid protests by residents demanding more compensation for land used for the project. https://t.co/INn64R6yn6 - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSWHBMSGNUNm1rbUQ4ZWdhQ1dkbjBEZDQxdDlGeW1HcDB0OElMM0loQnNneXgycmZ3YkdmblhqcEJpREMxbkJzMFRubFpkRnV2c2tJZ0Y5VjhiTjVBcnY4?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 08:51:49 GMT",
+      "discoveredAt": "2026-09-30T20:58:51.408Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_781377577",
+      "title": "Lamu Refinery: Sh2.2tn Project Launched Amid Land, Compensation and Due Process Questions - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfSFZXY1o4RGVVZXZXY05ha3FYUDJMbWtUbzYwSExHQkRWSFowVExIbXdfWmpMa3RpZVlSdkVFN251LVY4VFoyQ2xCLWFld0hSVjlqdTNn?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:11:07 GMT",
+      "discoveredAt": "2026-09-30T20:58:52.424Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_49433825",
+      "title": "Dangote Proceeds With $16 Billion Kenya Refinery Groundbreaking Ceremony Despite Land Dispute - forbesafrica.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRXpqWDBwMTlkNnp1Y0ptVUxzSkgzaXdYSnZuWC1HcmtHdUdfMnpLbEkyRHg5YXZiMEQwLV92NmtZTzdkUDBkdzRldmw0ckxMZFowbllPeVhncl9VNXdnTk1FRE1UNEdaRXBXMnRHeGpoSUN0Q3FyNGRzM0pkUjBzcnFMUHJFREFVdHRhSF9XQ3I3U1NKQmNoZEdmMlo5Um0wV1VLRW5GZmNKSnZiQVNvUnZrdFpfVmkzbEd0Qkhzb1FpekYxQkpwRHBNbWhoclp1U2dpQWNyRjdfaHI2aUtrMXRuMA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:34:45 GMT",
+      "discoveredAt": "2026-09-30T20:59:03.834Z",
+      "sourceName": "forbesafrica.com",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1974715100",
+      "title": "Aliko Dangote launches Kenya oil refinery amid land protest in Lamu - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVHBYQmVkeTlwRzZibk5ZTVRCWmt4RGpGSzBOUE85UC0wYV9IOW1TRkxpTUFNWkk3TXpJUUV2SU0tZHJ6bThMWms0dU9tLUIwSDZ6R0ViRnMzWEU?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 11:25:12 GMT",
+      "discoveredAt": "2026-09-30T20:59:09.036Z",
+      "sourceName": "BBC",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_489314880",
+      "title": "Video: FlyDubai Passengers Land Safely in Saudi Arabia after Pilot Attacked Colleague Midair - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjk5bDRSS184ejgtRXJ0Q09mdW5WY1RoRWlPV0hFcWxtLWlPS21LSHB3Ym1Oa3FvanVRVzNtTXBMbFliSnZVTFhvREZfa2w1SHZZejdrc3psV3l5emk3eGgxYVhNV0VibmRrUHBTOWNtVnE3VUdiRmxQZkNYejd0UmFxSFA5Rkp3QUg2TWdNbmFOYTdvSlc4RTZKR1Vua3NBdURJS1ZXaEU5OE1BQlFRcEc4UzB5Qy1pR2FR?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 17:01:02 GMT",
+      "discoveredAt": "2026-09-30T20:58:38.259Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_824677379",
+      "title": "Together with my brother Aliko Dangote, presided over the groundbreaking ceremony of the Dangote East Africa Petroleum Refinery, a KSh2.2 trillion ($16 billion) mega project set to transform the energy and industrial landscape of Kenya and the region. - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sZEFxekN3QUxVOHFYemp1OVpxMjBKc1BFLVpxYXkzWGxSSG1xYnpNMXB3SVBXeW4wU0FIR2tHdUpHLURldlhvLW44QVVqZ0RyeF9SNDBTTll0WEtjb25RUG8tbw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 13:46:14 GMT",
+      "discoveredAt": "2026-09-30T20:58:51.408Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1429448357",
+      "title": "Ruto assures Lamu residents of fair land deal as Sh2 trillion Dangote refinery project begins - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2bEx4NjlXOFJjYktmaVdEb25JZFF3ZkR2RTdNZzFOcFh4S3dfZ3JoNkowakRaSmJLdlM4VExDV3N6aHhhQ2dfeWZhd2E5SnBpeGRleUlR?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:16:13 GMT",
+      "discoveredAt": "2026-09-30T20:58:52.424Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1181080899",
       "title": "Why Appeals Court nullified Sh2.4bn Ruaraka land compensation deal - standardmedia.co.ke",
