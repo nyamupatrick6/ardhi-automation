@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-09-30T03:47:29.618Z",
+  "generatedAt": "2026-09-30T10:16:25.820Z",
   "candidates": [
+    {
+      "id": "t_526953889",
+      "title": "Refinery a game-changer, but settle land disputes first - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSm8yVk9PQW4ySlZYSUhBeE42Nlo5SkpJYzB0emFyX2ozSDFPYXBKVzBocERqbnBMbExVTml5ZDRQdVRIOUI0LVpvME1qem5LbXc5QWJ2MmRjREU3Vy1NZ2t6Yi0zcmZ0RlhRQ3B1Mi1DN1ZmT2lOeW1OdjZiS0c3YXdFeWVPNlpEcWhBSE15elA1Rm5ESEhlWFVpcmMxdmtCcTl1amFubmFZaE0?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 06:00:00 GMT",
+      "discoveredAt": "2026-09-30T10:15:08.929Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1933539714",
+      "title": "Fresh tensions erupt over disputed Gerishon Kirima land as residents protest night-time attacks - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ydXJLTlZwU0FMbVZxV2k3WlhVU0xaX1FLX1I1RGhLaDNSR0ZtNlFMd3NZcUh5YzNEekpqelNRMUxiakxPSURGQlJfX1plQzBqOTQtdkhB?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 18:18:14 GMT",
+      "discoveredAt": "2026-09-30T10:15:26.309Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1721227146",
+      "title": "Dangote says Lamu refinery land compensation was settled as residents protest - Sifa FM Kenya",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3JIS2NnM094ME02QWtZVzF5SEF4M2FnWFZhN2RtY2ZEMUc5NXZQMmNxSjJWMFJVR3hTSHZ0T2lFaDZ2SFdXSHowM2tkeXhVRW5GYlVEcnA4YTJtazlWZEJ0a09obWNjMmU4MFlzZHBmQzBNRms4QUt1VUVzWGwydm1ydzdBcFZEQkRJVmdoLTM1MU5wdEo1RE01NkF5dEVV?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 04:33:55 GMT",
+      "discoveredAt": "2026-09-30T10:15:41.319Z",
+      "sourceName": "Sifa FM Kenya",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_998767557",
+      "title": "SkylandX sharpens focus on surveying with in-house Lidar scanner - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3ZLQnBQR0xELU15dXQ1QVUzR1lPTjZRbWQtZlF6eE93M0RkNmtPLXVSajJQMURRX25PS2JURW0zNVhveWhYTW9PU0s1VS1ZN1FtY0JfdWppSzBqbTI4SEJmcTNjSEhTTDZkUWwyYlhPRWI5d2tVRnVDdURSTWpnMW15Sm9yWWpNeVBCWnZPVUhSOEl5RUIyU3BVTHJDNjU5d2RCRDh3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 09:31:47 GMT",
+      "discoveredAt": "2026-09-30T10:16:05.674Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_168001516",
+      "title": "From capturing the World to acting on It: Trimble’s vision for AI and Geospatial Data - Rivistageomedia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0NMTE1IcHY3TmNnMTRmV3c5YXNCSXFXYW1BbGRhZl94ZmZDcmJ3MVdQQUNTblZqRHNlT0txbW1mb19KS3FnQXhrOGs3MU9JNXU1NkFGUHNRVThHOVlQTXAtcS1ud00xQ0haa01oWkxsOExrM0N6VS1FRjdNUmdlTXBVSjFrZ0NxbTFXZlc5OW02azZheFNSVDFQdm9zNzFvWU1zWQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 07:20:43 GMT",
+      "discoveredAt": "2026-09-30T10:16:21.388Z",
+      "sourceName": "Rivistageomedia",
+      "discoveredVia": {
+        "query": "digital twin surveying",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1784754903",
+      "title": "Judiciary, Interior Ministry clash over land in Naivasha - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWFhc1JEalcwcElQMVR2MUJHUWlNMWo0a2RWSjAwcHNwbDBmTHdhMjBhSUw4cDNnaGp6VUY1VG1taW1yTzdKejRwY0FYckZObzJaaTZPMHZ1Y0lSTmtIS2FBUzNEdGdPalFqMndjTDZ1cXg1MHRnOUNDaTdDU3M5R0VpTkprV0VVRERyZ0kySFFxdHVmaG04UE9BNkpLODJDT3l5MXhrbVBYcVAySU9yVmdYUUtOQ1M5d3c?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 03:30:00 GMT",
+      "discoveredAt": "2026-09-30T10:15:07.922Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2139995002",
+      "title": "Former Treasury PS accuses police of failure to protect 700-acre land - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSG95dzZ2MjBseFRIYjB3QlpXdXNmTVRKUTBYNzlMaHU5U21Eb0xrQW9CX1FONHVaQU8xN1NVdjZ4d2JVbXc3aHdZUXEtWHhZcFVIUmoyZ3Y5SVItOC0xSzNvZlpYU1FEZmdIZjM3MHNlTnJfUWNmOTVJNlNVSWZGWlBJLXBhNkxobW9lR0NWU21nMW1CUGlocG9aRzk5cmRnV2RSTV9CcUFGUUp1TzNlNjlZZGozaTdqUTJ2TV9Ub1Zma0x3TEQxQmZaaEZ5VkRkVVo1RTZNbzNzZnI2TThqedIB4AFBVV95cUxPSG95dzZ2MjBseFRIYjB3QlpXdXNmTVRKUTBYNzlMaHU5U21Eb0xrQW9CX1FONHVaQU8xN1NVdjZ4d2JVbXc3aHdZUXEtWHhZcFVIUmoyZ3Y5SVItOC0xSzNvZlpYU1FEZmdIZjM3MHNlTnJfUWNmOTVJNlNVSWZGWlBJLXBhNkxobW9lR0NWU21nMW1CUGlocG9aRzk5cmRnV2RSTV9CcUFGUUp1TzNlNjlZZGozaTdqUTJ2TV9Ub1Zma0x3TEQxQmZaaEZ5VkRkVVo1RTZNbzNzZnI2TThqeQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 10:25:47 GMT",
+      "discoveredAt": "2026-09-30T10:15:07.923Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1383815876",
+      "title": "Degraded Land - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pdGJudWlXaEdFVVlOdzZGdVIwN29tQzRnVGExYnoyamltUWdfb1pWVmhVdV9wdzFfZVcwcWpkU1ZSenhONUZldXNUYnVmVXNacDdxM2g2UTFSbWFEQWY2MVpR?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 17:04:29 GMT",
+      "discoveredAt": "2026-09-30T10:15:07.923Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_753644320",
+      "title": "Africa's richest man to launch Kenya oil refinery despite land protests - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ01OcWhQM054cUJacTR3OEJjQ1lMRy1ZYXRjMHNuVjhJcTVpQjFibk0yTWx0M2xDTzNhUkZhS1NZTVVJYl9mQ2xXY2tsUmNxUnEzYmY0SkpyZTVlOVRIYjlQTXc3WExlSUVRZGhZVTNoaE85TFlZemtrV1lBZE53Zkdza09oeE1feHcyR1BRM29FajQ2aEJlQkJfWEVxcGM?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 09:36:00 GMT",
+      "discoveredAt": "2026-09-30T10:15:08.929Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1827752696",
+      "title": "Those on riparian land must find alternative shelter when relocated - Patrick Musili - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mU2lpV0c2X3Z4WlQ3dF9oR3VQTUZhR2VrY3A5TlduSFJVY00tMTJ1ZVdZel9saFVKT3Axa0xOWDFzbjdoT3dBRDZ3ZWtzTUlqcHlCY2dR?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 06:19:34 GMT",
+      "discoveredAt": "2026-09-30T10:15:26.310Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_602697297",
       "title": "Dangote's Sh2tr Lamu refinery faces land compensation battle - standardmedia.co.ke",
