@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-09-30T10:16:25.820Z",
+  "generatedAt": "2026-09-30T16:27:14.949Z",
   "candidates": [
+    {
+      "id": "t_1181080899",
+      "title": "Why Appeals Court nullified Sh2.4bn Ruaraka land compensation deal - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3p6ekNNTGkteVQ3ZHhRdjl1bEhjRlpkalBxdUhXN29sQ2c1UDVlTURza3IteVllOGJSUl9uQUhfdlNRRHVDM2NBb1pIZGpFa1duYUs1cmpMSEhvUHBxNElCUU0tZmRFYUpEMVFOYXg1WFZvVVU3WGV6bVM5VmVVZEhPTXRhTVI3N2VUQUNPUFBHN2pYbW9OSnBmTHFLd3oxYVduT1ZnNVY1TUFaNmZVcFZNcWtkN0Jqd2ZXQWpMZjVGdjA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 11:00:00 GMT",
+      "discoveredAt": "2026-09-30T16:25:49.287Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_349604511",
+      "title": "Kiambu squatters renew hope for land settlement after 32 years - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW5Rc2tZaUc0SmhUdW5WR3NBUTlTOW5SVncyZk1GQ1k4Y3dJTm9RZzM0UzN5V0VwY2RRMGZLNUphYkRDeEthTDIwd0Q1ZDVXUDJZRC12eVNMWHBXVmlMX2R4TDN1U2JjVTI1QmpwUUd1U0tQcUFEN3JHOTgzSVEyX0h1WjlEUFY1bG8teEJfSTNWMW9lOUE?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 11:31:56 GMT",
+      "discoveredAt": "2026-09-30T16:25:57.773Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1860373901",
+      "title": "Landowners Sue Over Compensation for Land Linked to Lamu Refinery - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VNTVIRmZwenRoS0JJUHdLekl0ajdwTXhoLWhVcFBVUlBWT2ZDQzRBMVNndEEybkdaalNFLXMtbGk0NFI1NlZxRFhOUm1tbUc1UWk2enV3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 10:42:40 GMT",
+      "discoveredAt": "2026-09-30T16:26:08.433Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1860176041",
+      "title": "Kenya: Lamu Oil Refinery Groundbreaking Faces Land Dispute - Wansom AI",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMkRkZ0FZRUV2R09PUFpIOWZ6bmo3alcwemRncGxfeXh3V09fTS1ReHF1MWd1cmN3U2d5TjlxM0NMUjh3OFZ1X19hVWFzT1lrb0paSmZRNGJhME5vSWtCQ200ajNRWHZzNlNvSXBfMHE0cDU2YzN1ZjRJcWVHc0d5Q1RNbXhUUEZMeDVrc3RZb0VvRThVYTV3TEFKcjV2QjhhS0JvVmF5cFpFZ0FXT0NRRjlLcGRXVWlaOENKaVdqS0poRGlCNC1peTR6V213bVptLUx1OVRjRQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 06:40:14 GMT",
+      "discoveredAt": "2026-09-30T16:26:19.983Z",
+      "sourceName": "Wansom AI",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1422345339",
+      "title": "Dangote, Ruto to launch $16 billion Kenya refinery amid land protests - Premium Times Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWm0yaG5KZEY4SDJva0duMVloWUFTUHFIQmt1UXBFSDY4OGU4bVdvYmpmWDlPb1dfN091dmFmN281dW53cFV3VU5wNnY2c0V0dU1CVVNmRnJaYjhDMjEyN3Fsam9nYU1ON1pXeklXZnJlZTdNYV9RZU5TSkFrSFVrZ2pYMjdCbi1DXzNvUU5PQ3dFNVhzWWdKMXVmQVp0UDA1c0F2UkRFSWxTZHphSHZZWm02THlmRUlwZWlkcEVLN3U1djBQeE8yS3NzSDhNQQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 15:10:05 GMT",
+      "discoveredAt": "2026-09-30T16:26:25.105Z",
+      "sourceName": "Premium Times Nigeria",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2121494927",
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRF9mTlBYV3lrTlpPTmFGVVhGc1N5N19rSmlQTHhNaGg2ZElkN3Y5cUVaWEtMMVFJRVU3T1RfVzVURTd0bFRtYWRIbFdfbVVrWS1zRmpzZGk2YmJzX2xSVWJUV1dhUlZwVzdJdmpMSFBkTnZDdVpMUU1wMy1IN1Bkc1ozUkw4TFBK?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 14:08:01 GMT",
+      "discoveredAt": "2026-09-30T16:26:25.105Z",
+      "sourceName": "Yahoo! Finance Canada",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_177113936",
+      "title": "Land Reclamation Committee - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00MnlRbTdaREpQVW5YX0dWN0N4Vlg5UG9WenVXbVR3SDVSUGxZODNpVmkwUDNJcm84a1hZaU1tal81bmZ6X1BfYUNNWGFKalFHX1I3cFNhM3BZbmxyd0hXdlhrSTJmZmtjMElZb0h1RUFHQ2s?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 17:03:06 GMT",
+      "discoveredAt": "2026-09-30T16:25:49.288Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_903287498",
+      "title": "PS Reveals Plan for Ex-Govt Workers to Own Contested Lang'ata Land - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORENOcFl1Zm1sQ040T3RPV3ZScm1aUmdBVnUxbW50R3NkTVhLOFpWeUNIV00xYXkzamdMX1ZleGxJdG55RFd0RVpsdnFCSnhocXA1YkRqNW1NM2p4RF9jVHIyM2lmejdjTFhrN1p5eVJiQ2FsQjRWcjJ6bGNXVE52QmQ4S0FtZ25OLS1hVlA5ckttb0FmTTAwTW1yY3I5RXFxcWJoRTFZQXVYaHhuelBpUw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 14:51:16 GMT",
+      "discoveredAt": "2026-09-30T16:25:53.323Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_526953889",
       "title": "Refinery a game-changer, but settle land disputes first - the-star.co.ke",
