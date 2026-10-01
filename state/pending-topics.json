@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-01T06:30:57.791Z",
+  "generatedAt": "2026-10-01T13:52:27.695Z",
   "candidates": [
+    {
+      "id": "t_1093526523",
+      "title": "Ogiek calls on NLC to scrutinize land compensation register - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHhRMWtJQk1GYVljUlBicjVpREVweHU4X05uNEJzOUotTDliRnJ4Ymp4ZXBfTWg4LVFvcmRBMUxlbHNMWVljd29Nd1ZSWjJxSWR4VE5IYjNjdlBaSmxxblg1Q3ZCbXVOaVIwR3p3QVQtZnJvOFQ4bGMwNUthTjd0VmhBd0o3Rk5BNmc?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 08:42:51 GMT",
+      "discoveredAt": "2026-10-01T13:51:17.856Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_176564397",
+      "title": "Over 31,000 title deeds issued to residents in Mwatate, Taita Taveta County. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUS1kU0x5NEgyYTJoeUNUc0NuaWhoQUtLMVdHVE9oNmNhVzVmV2pxbVlxYkNBWnc2cFdjYU9sbXpkZmRmYVFPUDJqQjhlaml4YmxsWTMxZkdjZlk3NWloS3g4djdfdXN0QW5MZF9OSG1kSzg1V19TVjgtUnptX3RudXZjNlo1YlpRMVlvLUl4Vmd0Y2FOZnNOS1pIalRjTFUyOVBYbS1OZ2cyM0NRTmR6ZEt4b2g3NkNJYkI5OVJuRXN3T0xaejNmT19xX1g4bzVIUHFqRA?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 09:06:02 GMT",
+      "discoveredAt": "2026-10-01T13:51:42.217Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "county land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_261596971",
+      "title": "I expected wedding gifts to repay my Sh700,000 loan; now auctioneers are after my dad’s land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQamxCLWRNR3dweGYwTUZGdWktVVpHZ2dpVGxkWFA2TFdzYm9TQWJId2paNXFLQnlSc2VycUxRNHc4V2t2YTJJbUczTkFnTHZVRnR3V3k4S1NtYTV3bG1Bcm16SFFEalUyRmpXcUV5SGw3eWdoUnVWWWZPSGdiVXpXUGlaNlNRMzZFWkVGeU9Qdlg5OVZLZlNiVDRDTVV5WEI4MDd2VHhUcTVTZ2hYNEZqR1JSem5mZkFHN0tHaDQzbHZ4U3VpZVMwUFZkZDBLaWVEejJrZnF4VG5ZRlROZmlNd2xaTWV2UTh5T0tkemNDVk1fZw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 12:18:44 GMT",
+      "discoveredAt": "2026-10-01T13:51:03.402Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1920844708",
       "title": "Former Treasury PS accuses police of failure to protect 700-acre land - standardmedia.co.ke",
