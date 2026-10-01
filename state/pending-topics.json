@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-01T00:27:23.353Z",
+  "generatedAt": "2026-10-01T06:30:57.791Z",
   "candidates": [
+    {
+      "id": "t_1920844708",
+      "title": "Former Treasury PS accuses police of failure to protect 700-acre land - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQkQ5SjBQN3lmOXZPbVY3aVhvRldteVRFQjZsVG51TUlGbEJ3bmRmcWtlRkRKMHd2RWpleUl2UUd4V1dKZ1lXMzZpMk9hVEN1ZjFUNGJqM3hGbkdVbms5XzU2RVNxU0hna2F0U21UUkY3SGFzRUdJaWt5UXdkZjZmajQxVUtVczhZemJPN1doanI4b1lPX1Bld0xqZEx6RmNWX2VXZnRRYnowVXItMXpYOVZhSkt5d05XU2xHNHZFLWw3NEMyU2VPUUEzZU5RSnBxMklGbGJXUWhpZjg?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 10:25:47 GMT",
+      "discoveredAt": "2026-10-01T06:29:38.427Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_759045897",
+      "title": "Dangote East Africa refinery: Ruto assures Lamu residents land concerns will be handled lawfully - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmx6U0FnOUZld1Nwbmo2VmdvZHoyYy1IaHdubE1iNE5iNFUtWFUtblRyeHp0SUNaU3JEVDg2SmVGZjVoTUNubkgtOXROUlU2aHBBWGt6bEcyTjhQNFhyV19MeWwwMVFwbzUwQXJvNUV6YVB2NjBmMC1XdjJfMFR2X2Y3MHBvb3JYLVF4Um42QjdQM21Pd0dTdkFJZ1pfLVkzYzl2eWc2cG1ncUE2Mk0tQ2pqaGVFY28wb3c1bzFUWXpTSEdzOXpkMTdvclRXa2Z4?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 17:58:09 GMT",
+      "discoveredAt": "2026-10-01T06:29:40.347Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_430116869",
+      "title": "State Unveils Changes Targeting Land Registration and Ownership - kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0R2VHlibjQxQmlIbE9iWl85RzNvV1hIMHNXU2lvRUNCZTc3aTNSclZFVW1TSVBfdTVrNkRNQmM2QjlTTFN2LUxaRmtIUXlTSGxtR3BvQXZLQmNfZVNhZlJzc05WZXVqUjhyWnFRbkVIVzRjWXpGSkh2bXRMT2ZtSXZWR2REUzhzUVRiemtHWUNGTm9QREJZOHVXTUpvdmlmd2Y1ZVU1c3J1OWc?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 05:07:39 GMT",
+      "discoveredAt": "2026-10-01T06:29:42.183Z",
+      "sourceName": "kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_978679733",
+      "title": "President William Samoei Ruto issues over 36,000 title deeds in Kilifi Town, Kilifi County. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3FpM2tTZm9qSHNkdlhyM3NDd3hrNVdVdFgyTkJ1dFlFWnVoRWFaT1NXZDZFd2NfQlQ0OGJHcy1ST3Y2UEVIcnZwNWJXcmZ2emZjOC1xbXNUNWxFU2ZMVGpQb2psMHFHZ3VBcmwwdl9WVXlMWHpFNWJxR05tZ3dxeFdlR3p2QVNLQlZxdFptcUJXVEQ0NllfVk5OYzhYWXZPV3BscVZMOV9DR0U2WHlBX3IwS2NNTXJXenRvcVNLZ1hvTk1ZcjdjZVhuZm1pd09BRlJSUk1xQnY3WkFsb1E?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 11:08:04 GMT",
+      "discoveredAt": "2026-10-01T06:29:50.104Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "Ministry of Lands, Public Works, Housing and Urban Development Kenya",
+        "origin": "Ministry of Lands, Public Works, Housing and Urban Development",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1836381264",
+      "title": "President William Samoei Ruto issuing a title deed to one of the Kilifi residents in Kilifi Town. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUFleW5fV3dUWkRiNDVIYW95dUVHV3hpZjktYnVuVWFUR3JjakxCMkNWTU8wd08yWUYxZ1RYWU42WjdrMkxieVEzR18wSnBLWHVRNmNZb3pMNmtQcjBGOVJ2MEJXbVhMNk03c2JTM0xYTHc5ejlZZEdKUjRmV3JqOHROYjV0UllycUtIa293S055NjBDbFFhem5iOWpQWEZnU295Sm1EMmpaeGhjd1E0MXEzVDNqR3Z0WmxzTTN1a3E1VDZtUDFNMktPbGdrV0sya2JaTklJSUdscnRZMVE?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 11:47:13 GMT",
+      "discoveredAt": "2026-10-01T06:29:50.104Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "Ministry of Lands, Public Works, Housing and Urban Development Kenya",
+        "origin": "Ministry of Lands, Public Works, Housing and Urban Development",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_379426723",
       "title": "Land row, public participation concerns cloud refinery project - standardmedia.co.ke",
