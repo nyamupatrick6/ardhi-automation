@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-01T13:52:27.695Z",
+  "generatedAt": "2026-10-01T19:15:29.030Z",
   "candidates": [
+    {
+      "id": "t_688843351",
+      "title": "Lamu Land Disputes - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04SDhqb1V5QzFkYW1JZkRFWWRtSFVpdWtScDZnTHVRWG9ha1N2MFQzTzJGRWRKczBjUWk2V1lJRzRMNUtLUEdaaXp4QlNFUGZKSFd1QloweFU1THdKalFMT0VZbDJKc09pX3h6Yg?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 05:17:10 GMT",
+      "discoveredAt": "2026-10-01T19:14:06.549Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1602334355",
+      "title": "Lamu residents protest impending eviction over unresolved refinery compensation - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rb1VZRDk3OXFzcVl5QnliajdfY1pnNVc4WlQtaGZ5eDJ6dnl2bkFQWG5GSHRpeDh0RE82WkdjeTB0UUwwX01xQmw0WTVOWkZaaEVZRm1n?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 13:19:53 GMT",
+      "discoveredAt": "2026-10-01T19:14:25.708Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1093526523",
       "title": "Ogiek calls on NLC to scrutinize land compensation register - KBC Digital",
