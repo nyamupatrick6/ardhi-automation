@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-10-02T08:52:02.598Z",
+  "generatedAt": "2026-10-02T15:01:32.677Z",
   "candidates": [
+    {
+      "id": "t_1301615205",
+      "title": "No compensation: Ruto addresses questions on land Lamu refinery will be buit on - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnQzVk81OXVrNDhuakc3aElsSXd0OTBWUU5VQlU1SzFKYlpPU1NqdnE4OTdmNk8yUjNjcWx4RXA5dkN6WTJaUVZuTlpwZzh2TkNZb0VsOWdiUGhrcE1yanFPTHRxa3NCUGExcE13amlaQXR0WWNaWWdzNDVxM1V6WWQ1ZjVkb29lcmNjNnllR1o0a2txYzV0YjNZaVFzTmMzTnpHOVZwZlc5UQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 08:45:52 GMT",
+      "discoveredAt": "2026-10-02T15:00:16.451Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_676520527",
+      "title": "President William Ruto says there is no compensation for the Lamu refinery land because the land belongs to the government - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WG14RlNzRWhLQnREVlJGZDkyMVJtUGxqRDkwbnZwdVMtMUtXUUFpZ3dZVEx6cjhyaDF2VDhHdG1qVVZyMnJDamdhTDZBaXhtNU5Tdm1ETWVxNl9palppZ3JnaE1zdw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 05:29:43 GMT",
+      "discoveredAt": "2026-10-02T15:00:29.406Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1712839953",
+      "title": "Ruto warns absentee landlords over Coast land disputes - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00eDB0SWJGcXBEc0hKWm5CYWtTN09PRWRRbkdwUmRmYlI5cUlnSVVVR2NKVVdKODJaNnFuU1FvSGE2QkJyWHdfbWJwcHBhS1Q5QjlGM3Vn?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 14:13:14 GMT",
+      "discoveredAt": "2026-10-02T15:00:30.926Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1655801391",
+      "title": "President William Samoei Ruto presides over the official handing over of 5000 title deeds to Mombasa residents, Mombasa County. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbFk0LWl1d0k5MHE2bnVDczJudVpuVW91bFpwTUs1RlB4WFhxX1JrY3M4TEpuNS1wczlCRjlfbXkwMTFNRzQzbXRtWEJvTVVIbmc0RFdlaWgzcjFBbXV6YkdRRS01MjR3X05VSkNaRTExTEI1S2dydnliQ3RCMzhROEpoT2ZxYS0tVGFBM04tQTg4RnNMWDZTUFNRUXVmc1hjN29vWTRZY0pUbWNRUkRSRlIwWU5oQUFQcU9EUWRZVmtSS3ZfcmhZMHpwLVRUTzBiLTRscWRQYVVwbXlJaGc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 11:43:39 GMT",
+      "discoveredAt": "2026-10-02T15:00:42.878Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_328474365",
+      "title": "‘They raped our country’: documentary follows Kenyans’ fight for restitution over stolen land - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0ZWaUlMOU12Vlo1Rm81YWRDcDROdTA0aG1PMlZ1TEVzSkp3OGhYN05wbm5BSXRLeXAwN3NLRS1MWjB0TEo5Q3VNY2tZcl9CSkpmNHRQNmhIZTRvNGVvaUNiMU00T0Q3QVdXMGhEeWNZTTR6c3VBeFF0QUxScnFmRC1lLTdvQVliVXN1TTh0NURibzl0NWNEcTdNWkk4dEpXSE54VFFEQ1hoZWltb2FvMktB?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "discoveredAt": "2026-10-02T15:00:42.878Z",
+      "sourceName": "The Guardian",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_834312768",
+      "title": "Media Coverage | “Connected geospatial workflows” with GIM - Topcon Positioning",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQW9WazdFOVI3MXNZMm0yTUNLa0NjMHVjLUJDNDR6VmZIRnFERnpQVjNySmhuMGpIaDZEd0tTd1U3OXFXMURLdldzZS0xcmhxcjlMNVN4bGxIVEQxWnY1UnRfNDFwc1NpVGg1dGhvQmNwdEpZWUs5M01wU1JQQ1JfMGFYbjU0cUoybkx2Z2c5NlAtUkU2RVE3djJwLXl3dw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 01:13:20 GMT",
+      "discoveredAt": "2026-10-02T15:01:03.569Z",
+      "sourceName": "Topcon Positioning",
+      "discoveredVia": {
+        "query": "site:topconpositioning.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Topcon Positioning",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1303595537",
+      "title": "Stop parking it: meeting the Essential Eight with ArcGIS may be more achievable than you think - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmJhV2VMWG96aUtsRU56a1hUVmtYc2k1dVNVd3A3emhJcjhCMmNVV0QwaEtQR0VHeFBCeVA0RUEweWJhUFBMc3Jyc2V1bDRjRUlwOUF0emJlVWRvbHZMOFBEZjd3Ry1Fd2Yzd2V5NVJpZEtkblZIdlJpaFhMbmN1U2dHNjhwZTlCcnY4MHFmdDFCUC1yd1lsQm9FSExDVG9tNmdBSm00cmxkcmZUMFdrQzdYZ2xmSG96SEZXUE1heWxHQUs4NGc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 02:06:26 GMT",
+      "discoveredAt": "2026-10-02T15:01:17.392Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1413205542",
+      "title": "Land, projects at centre of Natembeya re-election bid - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTU0TWM3QVUxZl9vRmd0c1NqajdkZ1ZLdHViSGJhSDhLNUtWSkgxZU9DMkl6dU1NSGFnd2htdE9oQThrQXR3WGFZcGw0VF9DUzRxVzJfWV9IY1NGTkxZc1R0bVJ0LWdweEs5V3ZWVGdTZURrdzFzQjFJZUw5dVE1TWcyMVFveEhjLXRjTkJ0YUFDQkVkaXEzOE96SGkwcXpHQnptNWkzZ3kzNXRhd2Y2Vw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 04:50:00 GMT",
+      "discoveredAt": "2026-10-02T15:00:12.550Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1579837458",
+      "title": "There will be no billions for absentee landlords at Coast, Ruto says - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmpNYU4wclFSRld2cHYzcFZvMFZ4Sk1UR3hqb0ZPbzc0S3o4SldPSU5kbmlfcXlWVUlRcGVuQUlyM28zSkIxVlNMeEt5cGlHN2w1OWVUR2lMMnVVTVRwR05PWmdBWU9XSU9CanVFaERyVU1raFdMOC1OSjljUlJyUjFTLTJoYkw5S0lQaTFRTnNHQzdIenc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 13:45:00 GMT",
+      "discoveredAt": "2026-10-02T15:00:12.550Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_478762460",
+      "title": "[PHOTOS] Ruto issues 5,000 title deeds to Mombasa residents - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTF9COTRtUGRmNl91TFNLQXRVWjVJTG01U0ZGenI4MzU0ZVN4ZXhnOWRqd0R6MUp4dzJYSmoyVEpYQmUxUVQ1QW5sRl96Z1B1S21QcDRYWDViWms4TzI3b09UTENUekNHZ253cUx1aGl4OWY5dkV5YUlnYlpXYzFOdkhZemRZTlRKeUdqN3J4SXF1SE5JV1owS1JxcVNDZWQ5Zy1pcGx1WEVxZw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 11:00:00 GMT",
+      "discoveredAt": "2026-10-02T15:00:12.550Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1351826456",
       "title": "Delmonte Kenya Land - farmers.standardmedia.co.ke",
