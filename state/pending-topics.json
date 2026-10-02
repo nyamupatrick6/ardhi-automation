@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-01T23:15:51.223Z",
+  "generatedAt": "2026-10-02T02:19:59.281Z",
   "candidates": [
+    {
+      "id": "t_1351826456",
+      "title": "Delmonte Kenya Land - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yYk92QnlzczYtZ0Qwb2laRjNOX1dCb043aWItU2dFS1l0dzJVZ3I3VVFGZkFubHk2Y3c5V2Y3OThuUkw1UkJfVFlOc3F6N3RzbEZNU0xDemJCbERrdU1IM3QwTlJ1d2pUWFg5eDV3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 21:44:31 GMT",
+      "discoveredAt": "2026-10-02T02:18:37.757Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_360762998",
+      "title": "NLC seeks public views on proposed land reforms in Kilifi - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13Ry1taW56RW9OOXVWLUJsUXA5R2NiVWRKNjBYcEJiZHNuQmFobENiLWhtaHJjVUQtSlppbEQ0bHM2SlNVNGhERWpWTGI5cHZCeFIzZUlB?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:15:07 GMT",
+      "discoveredAt": "2026-10-02T02:18:57.407Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_860899184",
       "title": "GNSS study: The Earth is becoming rounder - Spatial Source",
