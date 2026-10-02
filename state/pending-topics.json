@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-02T15:01:32.677Z",
+  "generatedAt": "2026-10-02T19:53:07.654Z",
   "candidates": [
+    {
+      "id": "t_1238974483",
+      "title": "\"I am deeply grateful\": Woman elated as she gets title after 60-year land battle - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJpWkhueU5lT2VzQWxHZGhMdExhZnhmQ1dpU3RNcUg2b2NRWlc1Z09ZNzhXc2VYUjlvY2hwMEppcEppVlFmSVJwWDJfQ2lWcjd1dnNCajhRUUFOUHJZTmlMZC1wZ01RTjdsazZkbHlHUzB2YWRpckg5UVdrRlg0aDF0WU1hektIMHYweGtfTjhlb0tvVnlIY0JJeVVSRjBqSXk5VE1YWmRUWDhtWkJVZ1dkS0hqQnFt?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 18:23:46 GMT",
+      "discoveredAt": "2026-10-02T19:51:50.526Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_563827223",
+      "title": "Coast leaders back goverment efforts to address land squatter problem - kenyanews.go.ke",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50M2V6UTdvZDZHN3kyNXF0ckpLLXJhMkduR2ZBTERmWUNjS095VWVwZzNFaXQyVWJiSG5xUjBXcWhodlVpN2MxUUcyT1c5UQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 15:22:44 GMT",
+      "discoveredAt": "2026-10-02T19:51:53.918Z",
+      "sourceName": "kenyanews.go.ke",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1285699406",
+      "title": "𝐂𝐨𝐚𝐬𝐭 𝐥𝐞𝐚𝐝𝐞𝐫𝐬 𝐛𝐚𝐜𝐤 𝐠𝐨𝐯𝐞𝐫𝐦𝐞𝐧𝐭 𝐞𝐟𝐟𝐨𝐫𝐭𝐬 𝐭𝐨 𝐚𝐝𝐝𝐫𝐞𝐬𝐬 𝐥𝐚𝐧𝐝 𝐬𝐪𝐮𝐚𝐭𝐭𝐞𝐫 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 Mombasa politician Said Abdalla popularly known as ‘Saido’ has hailed the national government's aggressive new push to resolve historical land injustic - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMizghBVV95cUxQTXU4LTkyb2RoR2R1MEo2enZrS2doRm84eXB6cXQzVS1HdlhjWVFoLW5ueVNYQkYtUTIzVGpxeUNVa1V4WGVJbmZkR1d6WUFEWEFPOFBJRThWNGIxVkhINnNXOGdyLS1EWU1tLVg0ZHYwWlhDcmZmc0kxY3hobm96dFh6dkZqSnc2UWFvWGpmbzdfbnFVVUpWYms2WF9nU1hOcHRvOGVpcXMtM3hncTNtMnBRLVphZG1yZnVoaUVYd3BaWE9ianAydkN4MHBVRmNWa25uQ213T0xhQ0tuQm9xdjF2UWNpYWpyaENvSnh6WXQ5VFd5R1R4WnY5TVVfeWdSYVNqUEtrQkpaejNPeEV5OFVva29MS191MnlsM0VkaC1ILWFqaWVWc0Zxa2JwX1FuZlJXcEl5Ym1MaldrTUFFeGZ2NURMMnNvT1hBejdGYVNIa2l2Qk81UVBraC1oaEhoT0NZZWwwc2ZIX05HNG1QZGhVRGZaTXBmWF9POEQ1ZFVqYWRFZnFfbHA4ZkhaSmloN3Bfb1Juak9vakk2Q25GeXNqZnlYMG1PTFlodXoya0s2OVlSTlFzX0ozeDhwTkZOSW1OWmRTdzVvRWpvblFUams2TE4wck5HZHBqUVRJNEhZejBXZ0dGejFERlNVTUNKQkNEMm40MnN4ejNsX0dOTGt1R2ROYTJHc0JYcUhvX1lOVnZNNUJMSGpMSHRKRVR6bkRTT2stRF9WRWY3N0g4cV9WUEZFZFhvY0NuU19yaG1lel9RU2JydFpfLVlIeF82NkpYNGVIWFVOMFRkN0hWY25uWThBQXl1SVc5c1JJUjFoakdwNTk2WHpWWDNCVnNPNE11WXl4NjZQX1VySDd1NU9OT1FONzNsQXBDZFBvdk1aOTg4TGRCYUxvbmU2QUFrdUh1SGpKZEFqN0JxVUlybmJPeHVjOS1GVkRjS1VDZHVtbjQyLVdxRWhFSEE1WnpoN2MtX09RSVN5elVEY0tRTGZaUmhqeHpvZTNmN0dldlZZclZ0UE9sVDBrYW1DUUlzN1dCSXlTY0lxeV9ZU0Jwa3ZRa3ZHTGd6LUxDR25HOFdNQnZsbFhXTkZadzFucnFoQ2dPS3JfaXVZRy1QV3h5LU5KMlNtaVJ0T00tR3JEZWlEclBKV2NRTTV0bV9YdTQzTFJNajhXbUJOVnVVZUVhX1YwOUdod1cyX3FrTUZVX0I1elBvOFVacnRmS3dBYTdOM21HVjJMWVdHaFhMWEstQzAxMmgzS1FWQUdnRnV4YWVRblROSzYwMUw2TWpGVS1SN0hwSFpSSmMxdW02RVVBQU4xNWJOM3dXbXVhSDJCcmY5dWhxRmpFbWZyLWpGUTllR0xuNFdSVG5YR1I3VHg5RW5DMC1Ja0RzOGhvb3FLX1d0dDlLV29YeWZMYTdFWUFTSDlOalpEYTlmVmxvUVhueVUySzFDQnZkV3lnWlNn?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 15:12:53 GMT",
+      "discoveredAt": "2026-10-02T19:52:17.215Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1519259912",
+      "title": "Ruto is treating Kenya like a private enterprise whose decisions cannot be questioned. But this country belongs to its citizens, and we hold it in trust for future generations. We have every right to ask questions about decisions concerning our land and resources - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VbGtsOE9YZS1aTlNwcjhlUzFSOGlLOVpKeHZxSWNyb2g0eEstR3M0b1JsX01WSEtfbDhXeS1Ld2RtYWRxR2ZRcUI0TUVqa0FKZVFRUVE1cUZvcVBQMjJiY0dzbTZkQQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 07:08:46 GMT",
+      "discoveredAt": "2026-10-02T19:52:03.417Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_881771043",
+      "title": "MEET OUR PANEL SPONSOR! | MBOYA WANGONG’U & WAIYAKI ADVOCATES 20+ years of trailblazing. A conversation shaping Kenya’s next decade. We are proud to welcome Mboya Wangong'u & Waiyaki Advocates as the exclusive Panel Sponsor for T - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFlraWxKeU9BeUpWSjhoVEdESWtCVTVybHhvVURzbU5UVGlZRHBxMVM1Vm9wUU00ZU1nSTlBMUtQd3p5ZEI0MTBsa0twQVZvenZpRE9INFVOeFRjTmUzQ2RMRzdpNmVHLTJHemw5ZTdNMVh2MU03VkhtVUZHbUR4UFpEOVJYZUF6SVFBV0E5WXNkbEY4bUV4UldKSFRyS0EzYm96QVdsQnhvc2txMU1VTklzck85RF9xRFVrZHYyNjRYSHZzREE3NDBoUFpsTjhmbkdteU5FV0lld2tldjR3ZzVDbw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 12:42:18 GMT",
+      "discoveredAt": "2026-10-02T19:52:07.173Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1301615205",
       "title": "No compensation: Ruto addresses questions on land Lamu refinery will be buit on - Tuko News",
