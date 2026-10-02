@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-02T19:53:07.654Z",
+  "generatedAt": "2026-10-02T23:33:01.228Z",
   "candidates": [
+    {
+      "id": "t_1080600807",
+      "title": "Faith rewarded: Kisumu Catholic church wins ownership of land occupied since 1986 - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXhqU3NjX2E1V1hCdTI1V2FJTkhPc1hqTzdlVU1jdlFZZTZSa0Nhbk1GVi1OQWdKMmJETFNvWG50cm55UlFyVVo3SURPZ3psOTNvVjh0eFdsd2ZObEozMzY4Yi1kMnRjQTlWRDk0N2c1QVhTRkppTWtzM21Vb0tiSGFPYVNsQlhkMlJqbnVYRDBqTXRNUWdGbUppSDRHa1BEV2ZIUlYtdEZiSGVhTmdLR3QxR2NmQzJENzNoYldWRWFPT252Qy1NY1hVNUY?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:01:28 GMT",
+      "discoveredAt": "2026-10-02T23:31:38.620Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_425975109",
+      "title": "Dangote Lamu Refinery Groundbreaking Proceeded Despite Land Dispute – Court Case Explained - Vellum Kenya",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGdScDkwQ0dYV2JiamlWemNiSUktVV82WWtfcHJIS0JtdV9LeHR2Y0VBaXkwTHV4dEdvdDdyR3oxQzNDLUg4Q3daQTVaWkJCeDF1Tnhmd0VQX3hMU29Ud2lLUm8yY2x2eWFGcFpmY01RSjIzV1J2ODlpSHhJNmQwREM1cFZkWmlfNkM4NWtvYzNIbGNjOUwyNllpSmktai1sOUlyMDlNU3FvZV9wNUlz?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 21:09:06 GMT",
+      "discoveredAt": "2026-10-02T23:32:09.502Z",
+      "sourceName": "Vellum Kenya",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2071260103",
+      "title": "Who Pays for Progress? Infrastructure, Land Rights, and the Hidden Costs of Kenya’s Mega-Projects - Vellum Kenya",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYS1FSmZ1NWd1WUZpMWlfZGRtZExJblJVeTR2X2FVajJkUkUtdnNIN3dnOTFGbjh4WnBGYXN3UmRhYTc5TDdKaG83ZTZ6UmVoY1VtaWpuY3B5aWtiWlUzd0l2cXRyMnpjbVFKYlVfbE5HT1BxMEZXVGVVMG02M0NNZDR5QnJscWZhNExlMzBCakdMS3o1ZnhzUFJncmhEc05LMVhTREVqcFlwbFdvX2lKMGNPU0RtUQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 21:49:15 GMT",
+      "discoveredAt": "2026-10-02T23:32:14.242Z",
+      "sourceName": "Vellum Kenya",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_31207710",
+      "title": "CJ Emeritus. You need to stop making a fool of yourself. 1. The market value of land in Lamu mainland is ~Sh1m. Sh50b translates to 50,000 acres. Ridiculous. 2. The land was acquired by the government more than a decade ago for SEZ under LAPPSET proj - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nczM5aTQwX3pWOWRvUlhod2RQay1hVkV6aVdEa1dDNEx6aHZYUDE5WWNuR3NINS14SUNoUmR5ZjhCMW01WTA4Q3Z4RkNpcC03UHNMM2htOFZLQndEOHlB?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 06:35:57 GMT",
+      "discoveredAt": "2026-10-02T23:31:57.608Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1238974483",
       "title": "\"I am deeply grateful\": Woman elated as she gets title after 60-year land battle - Tuko News",
