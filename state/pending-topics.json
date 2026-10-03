@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-03T13:30:14.790Z",
+  "generatedAt": "2026-10-03T17:36:40.033Z",
   "candidates": [
+    {
+      "id": "t_635003138",
+      "title": "President William Samoei Ruto (2nd left) interacts with some of the 20,189 beneficiaries who received title deeds in Mokowe, Lamu County. Looking on (left) is Lands Cabinet Secretary Alice Wahome. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2dQb1gtR19QYWtJZm05OXdhaHR0LWZrVi03NFcwclVBcm9lUEkyVDlrRXE4RERSc19lQTY5STB2endzRUVvRTJpMEVkSDNHVDhwdnZvbVpubzBORExNbGFCOXFEVFhtVjNaU0FJVTZhM25aZXlxOFgydWN6WlFUWWJqZ0NGS1VGNVhub1ZWUzUyNy1NLTNsQndHdkdDTENQRV9fTzlfcndjM2JDMjBsVk4xcEV5MlJGVVlZUjRSc2xtdElGNGFYZ19VeGxGOUEwQ1V5dWZSUFdyMWRWVXc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 16:22:38 GMT",
+      "discoveredAt": "2026-10-03T17:35:51.173Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_687171375",
+      "title": "Blue Marble Moves Toward an End-to-End Geospatial Workflow - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiTVdwdmNab1hITUpHOG5iU3Rfc0RFbV9pa21hMTZuZ0plOVV2QS1wWFN2dWNwUUxHTjYwNWI0WWhkR1RGRmFwQW1QMGNqbVRMRFNDb2QxODBYMGRtLUxSdllnWnE5TGw2bkl6RkxsOTlmdXd3MklV?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 15:36:44 GMT",
+      "discoveredAt": "2026-10-03T17:36:32.803Z",
+      "sourceName": "Dronelife",
+      "discoveredVia": {
+        "query": "UAV mapping technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_429531015",
+      "title": "How land restoration is becoming new investment sector - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVZpWDFKUHk3VTk1bUNaNkRaV1dvQ3JLOVQ0QTAyeTNGY0tUYWlOWmlVenBONlY2aEhNT05OVWpZNWhYblZGc2JSUjBvdzF5NDlqNVl3UUtwMHNfQmhWa2xhNUs5eTBCU1BQeXBKdER3WjI2ckZZaTkweV9VSUZrdmxaYw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 21:54:51 GMT",
+      "discoveredAt": "2026-10-03T17:35:27.934Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1337501853",
+      "title": "Lamu’s land grievances to be addressed under proposed NLC regulations - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3QtVjNGY3dtdWxzWHZPQzdLQnpmUC1sbmdNSElEbk9oUnlFb3h4NzM3YTRrS1BMVFYxd0pMX01ySEJpSjk0U3VXV1ZpYldMSWdjeHQ2ZmZuRXpqY0MtY2t0Qlk2Q1Z1VGRpM2ZnZjZURVhDZ0xFZ2hHMk1VajBMRlU5YThpQU5SODA3bDVFeUNXTmlQZEx6ZWFqQ3pWZw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 17:15:17 GMT",
+      "discoveredAt": "2026-10-03T17:35:29.549Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_963920175",
       "title": "Lamu Land Dispute - farmers.standardmedia.co.ke",
