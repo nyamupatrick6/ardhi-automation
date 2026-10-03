@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-03T02:19:09.869Z",
+  "generatedAt": "2026-10-03T08:17:42.402Z",
   "candidates": [
+    {
+      "id": "t_710676517",
+      "title": "The Sh2trn Dangote refinery and the 12,000-acre land question - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3ZjRHdFTUxwYVZXYTJkMERwZmlrZHoxYVNPMjNXYjd3RHBBekpPTWE0R1MtQXhHRTRFTW1tZmJhRk5rRXU1QnItdktGUWM4Z2pRMi1tRUlBRTUzT1RWTVhabkNjYnN4MVk4WUtzYzRGZkczTjhTblYtTWRfRWxSTlpsZnBYZ1p3TEdiWHpqMlRuUk1OQTZDejJQbVZtbHh4WUdvVw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 03:00:00 GMT",
+      "discoveredAt": "2026-10-03T08:16:25.496Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_168568015",
+      "title": "New US envoy set to land in Nairobi, finds packed in-tray as 2027 campaigns heat up - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM1EyU3pfanVtU0VYVENkR29PWGlLV2pEc1hGc3FVc0ZkWnZ0a2tud2VzYUc0aHU1OTdlZ3pUUTIyODRaSGt4ak9JbnhTY0Q3X3N1WG0xSURjOVpwSlZtMHU0MHdYVzJBSk5BS29TVnF0MWNPS2ZjdDctOWQ0a1lNR1YtcmdFRTQyblFzOVkxWmdnQjZVWnlCSDRWRGpDSHhUQXJaOF8ydUQyN3dZa3VLUUxjQjBkZVBSR0xSQlhrMDdsSHZCMi04OTZiTUxxcmtEaGN0MEE0SzAxZw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 03:00:00 GMT",
+      "discoveredAt": "2026-10-03T08:16:26.454Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1832422116",
+      "title": "Inside Kenya’s bogus title deeds crisis: How a fake paper can wipe out your investment - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkxsN3dMN200bWtKak03ZWdwMGViR1Q2R0YzZzE2U01ja254aEE0cGNrNllWb21LY01DR0xYeWdWZkVRdUFEaEVCV0FTVjVhLVUwTjYzYzBiYTRJbGJ2Z1ItaEEyMGFweU9ZZ250R0VhbmZkd3k4ejMydG1hdTg0OEU5NHpGLUVQd21UeXJiNi14LUk2cmVLclFnRnkteF93Tl9Rb1dhdE5KRHZfWmtLWFg4VUU?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 08:00:00 GMT",
+      "discoveredAt": "2026-10-03T08:16:48.501Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "title deed fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1080600807",
       "title": "Faith rewarded: Kisumu Catholic church wins ownership of land occupied since 1986 - Daily Nation",
