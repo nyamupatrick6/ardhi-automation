@@ -1,6 +1,159 @@
 {
-  "generatedAt": "2026-10-03T08:17:42.402Z",
+  "generatedAt": "2026-10-03T13:30:14.790Z",
   "candidates": [
+    {
+      "id": "t_963920175",
+      "title": "Lamu Land Dispute - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fNmZIckFwYy1kNFdWRzI5RkE1TFBZRUhicXhtdG5KeGxWRWZpNHZFUFRDUTAyRXotay1qNnl0eWZ2Q1Vqbm1wZ2hFaERKTUpXOXE0b0RhaXpYUG5iVEs4N1pJR2txeERSRnE4?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 04:50:40 GMT",
+      "discoveredAt": "2026-10-03T13:28:55.390Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2020677952",
+      "title": "Coast leaders back government efforts to address land squatter problem - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDdsTnVidTNHcXVWZ0RYa0twS3U1c0hTSDhJX1BOZ2NSQnpsS29jSEQwakdxUER3Y09kbGltcEZZTHNKZEwzUEhNZ2ptZzRYQnNkSWJ3TXByLWM3MnVoWmkxVncwMVhJd2tkQ25fRGFDYy0zTzVtald2bjNRQVFRNVlXU1lLUVJiRUg1NUJ4enB0RWRWazhEbQ?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 08:30:12 GMT",
+      "discoveredAt": "2026-10-03T13:29:01.793Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1181886042",
+      "title": "Registrar of the Environment and Land Court Rose Wakungu reads a speech on behalf of Chief Registrar of the Judiciary Winfridah B. Mokaya during a public participation forum on the proposed Judiciary and Judicial Service Commission budget for the 2027/ - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX3F1elZWdjR1WEVZT3dNS0hHZmpEM2VBdHQxbGpYYTlaUjZVbzFqTXFBVFB3c1drcWt2TG1OX1NoVFo5djBKQW1JRmpUNDhzMWpmOHkzSVM4R2NGeC1OaUNWLWZtdUt6Z2NiaXVtbzZtcEFkczU2Nmt2dC01cV9oMjN3djVJWk92b1B2MHZKYTVNZGgzb21SQTFzLW56WXI0U213MkducExkM0NMNHpvT1NkOGVrUlJCeEZydk5NaldNRTFDOTExbU9GM0s1cHp5QWJFWC1XYW1lSXh3TGc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:27:02 GMT",
+      "discoveredAt": "2026-10-03T13:29:11.754Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "Kenya Judiciary Kenya",
+        "origin": "Kenya Judiciary",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 5,
+          "seriesPartTitle": "Forged titles and court outcomes",
+          "matchedKeywords": [
+            "Environment and Land Court"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1913135545",
+      "title": "(Left to Right) Lamu Lands Chief Officer Ahmed Loo flanked by National Lands Commissioner Mohammed Abbas during the draft National Land Commission (Historical Land Injustices) Regulations, 2026 public participation exercise held in Lamu Polytechnic - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM25oZVhTQzh4NmR2d3JCWEpONG1sN0ZBNmI4VmgtNXh0eldib1FIbWc1SlVTb3VPYVFRR0V0MHp6cjF0elFhUEhxVWFCakg2cTg1TVpVMEFFbkpfY0NiWmdtejRHZThTVlhZUkxyZXBNMEdkbVExY25HbHJscGF5WGxvXzBmUTZSZ0ZSMWxIaTNpZ05QSlNqUF9oelNvOUM2ajc0ZEJkZGg0WElBdnE0WXBralBlUTBQSmp1ZDlTRzFabFJGV1ZvMmRsYnBsOFlJY3hzRFVrUGpfZlVUc1E?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:00:16 GMT",
+      "discoveredAt": "2026-10-03T13:28:49.781Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_5665100",
+      "title": "We will not give in to demands by absentee landlords, Ruto says - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS29LTldqLUdjNUl5eDJwWGFyb2l3YlZ2MzhmMnZ5cWVmLWZEQmxqQkN5WGdnMm9yN0w1YUt1bTBfZVRjMXlCQXpqbWRoMlJrTGU2aGlxeThlb0c4T01jNVR6Z1R5Wi1lNGl5LVhXcExPRmF4cnBrZWlaYkVROGZfNE04cWxzRUZIbGlISkVQZm9STWVyc0JXeWdKTm1JZnR0NFAzaERyTnJJNk9O?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 08:17:20 GMT",
+      "discoveredAt": "2026-10-03T13:28:54.471Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1640796912",
+      "title": "[PHOTOS] 20,189 Lamu residents get title deeds as Ruto wraps Coast tour - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkM5U3ZZYjBNeFU4NHdZMlFqMVQ5RFMtMXJ0SUNDdFRtOGd0Z3FvT1QtNlBmZm80UTJpaFV6ZUkzZlgyMEJuNDdxTUJHT3cwOE5kUXVUUklnMzd6aktsb2YwV0hORG5TWHRmVmUwM3NGdUFKbmozS3d3ZGRNdnZjb1htTGFEaXhTcHJmUTlMUzBrVWM3?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 12:02:00 GMT",
+      "discoveredAt": "2026-10-03T13:28:56.411Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_151500637",
+      "title": "Rural women push for land rights, leadership and economic empowerment - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEllRE1BQ0lSaVN4WXBVUnNSN3kyQk9IaFh5LXlCM093SWUwdWZxR0loSnFmSDFJd0ZWR0ZtWEpjRWhRU2o1MlJoRjlyTGR0SG1JZWJhejhiSU5xa3Vpb0ltSDkxdzdaaUJoWWFPSDZ6VW8wZ3BKM0ZITmdybFBCdmxoVDg2QVlFQzJWQjFJNTVnbU5LblE?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 13:13:36 GMT",
+      "discoveredAt": "2026-10-03T13:29:01.793Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_330028712",
+      "title": "Issuance of title deeds to residents of Mombasa County at Mama Ngina Drive grounds. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDNDbDNhRjI2OVZ6UUJLekhjUE03dFpvMXRZRlJVY014Q3doUWZEcDRIR00tclhrTHl3Sm9GOTZKcG1BRVo5WnlPZHphaHFpdlpQazVWVUg1ZlE5R2M2MWxQWlc5THN5dXQzbjIxaDZOR29mVHd0MS1GSzlfWHVKTFJPRy10TnhOSDlVZGFNY19MMkN6ZG10NDlMMjlYLXpqV0dkY3hNR1U3aUx0Qmo5V3RfN1dnSmVGWmNsa3R6al91bkgyY2lPTUREcVpsREF4TkpfQ0ZyYU5QRjZFTVE?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:53:17 GMT",
+      "discoveredAt": "2026-10-03T13:29:04.536Z",
+      "sourceName": "facebook.com",
+      "discoveredVia": {
+        "query": "Ministry of Lands, Public Works, Housing and Urban Development Kenya",
+        "origin": "Ministry of Lands, Public Works, Housing and Urban Development",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_710676517",
       "title": "The Sh2trn Dangote refinery and the 12,000-acre land question - Daily Nation",
