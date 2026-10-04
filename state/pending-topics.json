@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-04T14:50:56.493Z",
+  "generatedAt": "2026-10-04T18:32:01.986Z",
   "candidates": [
+    {
+      "id": "t_380929833",
+      "title": "Tana River communities demand freeze on disputed land transactions during NLC probes - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjBVelVFNENjOENmejFNd0dLdXVOQkNQM2tUTjB6WGhBZkM5a2EyNmtSRXhfeHhGanpiYlhwS3BkeC1ZTmwtOXVDRDNpUy0waTlDUzVMcVVva2xJbE8wajlJRTNsT0gwUHRRUDMzejVrc2JURjJFZHE1aWZYYUNwVjBOb09NRnQ3Rm9ab1BkRng4Y3BlQXFPQ18zVmJHa0FOeTM4eEk3d1BGcmxsZzQzR3lSVkZJVS1qV0Z4bnlJNkFXY2Zu?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 14:38:46 GMT",
+      "discoveredAt": "2026-10-04T18:30:52.968Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_565271284",
+      "title": "Yemen ramping up campaign to reclaim land from Iran-backed Houthis - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ21wNk9GQTFOMFVqX1ozVGllYnhyUUIyRllzenBlVlVzT1JKbVZqTDI0SGpMRlh4dE9pVjR2NFBpcnJQOWxSd3pldDlOWFVMUVlTNG1ISGRDZ1VWcFVLbFZvY0tBazB6RzlvMzNuWXhaeG9BQVhZV3NJQkZVNWh0UnBJeDY3YURZZzNzNURsVDJMM1pPWlpUMTlpM1VJZF9r?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 15:05:00 GMT",
+      "discoveredAt": "2026-10-04T18:30:41.055Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_890260545",
+      "title": "Sifuna: Raila may not have reached promised land, but we will - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnZYMmVzNHhoNlZlSGVpVWVEVnpFaDh4alRBV1k1eTZ1TEFHMFBXU0ZpZ3pyWEgyeWpTMVdON3dHWEg5Qm5VeTFMMy1wRzJPLTNnLXM1RDF1RnRYS2F1Uk9tbmJyMXowYWtTY3laZENneXQxWlN0NW9wanJJeTNLbUFVM3FRY0dOVDllSkx0ZUNmVFppYXI2TXFNWQ?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 16:20:00 GMT",
+      "discoveredAt": "2026-10-04T18:30:41.056Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_727586668",
       "title": "State probing allegations of fake titles on Lamu refinery land — Owino - the-star.co.ke",
