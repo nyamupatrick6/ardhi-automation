@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-04T18:32:01.986Z",
+  "generatedAt": "2026-10-04T21:54:55.706Z",
   "candidates": [
+    {
+      "id": "t_1013731975",
+      "title": "Land Eviction Kilifi - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBweHZ2ZlBvYTQ1ZW52UzZ5OERSZ200bWZoRjlvSnBRdDBVQ0hyaERsYzhWQkZ1c3JtYVhCNnVqU2lmcEJETEIya2lYc0FLTVh0dWxPSWlCaFVWbG9JT1VtbUZ3WEl3dzNnUFdYUWdQWQ?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 10:06:23 GMT",
+      "discoveredAt": "2026-10-04T21:53:35.200Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1661846017",
+      "title": "Lamu East MP Captain Ruweida Obo confers with a Lamu East landowner who received a title deed during a land titling ceremony in Mokowe, Lamu County, which was officiated by President William William Samoei Ruto as part of the National Land Titling Pr - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT1MyOVBnWHA0V3dDd3NYYmlXYnZtRjg1Vy10MXlJYnF2dkh3Y2VfREZpM0lNU2JWQ3ZhV3JUTXNDYTl1RGo4MkRLenI1OEZTLU1XQWFKQTdILUxoVEd5eXBfMWhoVHpWYnJsVjRXcEozZkluTHh4SlZrdi1EZkpQenR3OEV1Z0ZFdFZMM2o0MFY3V0k0a3puZVZyMEpNZF9JQUQ0dFB3eU1sLXdqUDVWUVdPYzV0enhyZ3hqNTdiMmFsYURQNkdBV0RTci1LeGdRTWJvc2JFVC1yWHBfM0E?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 18:20:16 GMT",
+      "discoveredAt": "2026-10-04T21:54:05.751Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_380929833",
       "title": "Tana River communities demand freeze on disputed land transactions during NLC probes - The Eastleigh Voice",
