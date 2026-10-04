@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-04T02:44:31.605Z",
+  "generatedAt": "2026-10-04T09:18:13.407Z",
   "candidates": [
+    {
+      "id": "t_745036413",
+      "title": "State probing allegations of fake titles on Lamu refinery land - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1JEMmFSU3pSNGg3NDY2Y0lvVHNhWlN2TEZDX3RUdW5nV0pVZHFlVm1IVnBDWG5DUjVfVEJmOG1OMl9OX3lKZkpmYVFqeHdZNlZrRXlLMXRnZklKcFdWM2tUMEdKRDZXczRkSGwtZHZlbndMYUFFRG5OUFVHcjBJV0ZvbFFhRS1BNE1EbW5qQXI5RWRIanc?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 08:19:14 GMT",
+      "discoveredAt": "2026-10-04T09:17:04.684Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 1,
+          "seriesPartTitle": "Fake title deed prevalence",
+          "matchedKeywords": [
+            "fake title"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_970145102",
+      "title": "Gideon Moi Reports Lost Land Document as 60-Day Notice Issued - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXF0VUt3M3pIb1JrMnFFLWJTczFYNnhJREMwY3o1ZTBCRms5dE45VWhUTzJFQnh6Mm9DV0FkTU4tOVZ2NHhxN3lMcVhjUmNyVjZnQ0xQVG1KbExrWmVpaUQ2c0YzZTM0RVljNG1pdXZaMUkzLS1kYTcwT3hxZWNKM3NtSktoV3Zsb1U3NGptbkFWM05kWHJTd0g4ZElab3NUNG12YXF2aUZucmRCckdfSnFB?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 07:19:18 GMT",
+      "discoveredAt": "2026-10-04T09:17:00.606Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_920762841",
       "title": "Ruto wraps up eight-day Coast tour with title deeds, warning to absentee landlords - Daily Nation",
