@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-10-04T09:18:13.407Z",
+  "generatedAt": "2026-10-04T14:50:56.493Z",
   "candidates": [
+    {
+      "id": "t_727586668",
+      "title": "State probing allegations of fake titles on Lamu refinery land — Owino - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnBUTExjeS13ajZ1OENFc2lvbmhxQW1GR3dzT1NHYmwwSDFiREVwX1Z3QjFzWlhhVXJlX2NpTTg1T0M5aU9CYkJCeXd3Ry1YSlBoa2lZWTM0cUFydzdZTVJGdGVQRG1hMFNlZ2ZHQncySVhZeVcybmlLSDRMaUh1bzhLZEthZklULXhETlFOYTJzaEdWbDFCMTE4dDVOQQ?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 13:33:38 GMT",
+      "discoveredAt": "2026-10-04T14:49:37.348Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 1,
+          "seriesPartTitle": "Fake title deed prevalence",
+          "matchedKeywords": [
+            "fake title"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_479927331",
+      "title": "Bought, titled, evicted: How Mavoko land buyers lost their properties in fraudulent deal - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRHFPa19XNF9uTjBYRnVCalRPQmNHVzYxVTlqTWNWODk3a3Z6dzdrR2JiVGs4UDIxRFIyN1pwbEc2Q0JuUkI3WkFGMEl2X0tEb2FSUzRwRTVNbWg3S3MzQWNFNW9DeFRJLXpMRkZleW9weDFadFFod2RZbXM5X19HNFRWaGhGU0JBdExkSjlRNGIwTE9hXzU0dVdDMTRwV2dpOW1HNDhJbE9mMGJta3QwRk53dw?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 08:00:00 GMT",
+      "discoveredAt": "2026-10-04T14:49:35.338Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_577425871",
+      "title": "British adventurer Dave Bell lands in Kilifi after 28,000km solo ocean row - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDFIZDVpOGhVeEpQMk01TmZHOEwxOHdvelBmdnpNX3hIaFlxZ3dDbWkwSGhpLTNMWWdlbHlzMVNCaDlaVnBjTkwzdWhYdXJ6LWJCR1FGR2JSb0xlRkozN0lmUkh6WGRWM3V2d1dmNWIycFd6OFhvR0M3Q3lsbHF2cGlDaHhDS3lpeUZOMno1cmFJT3g1NDdxdXpPeXgwaUxTOGtWNUlxY25ob0RyX2NZbkx0Zw?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 13:41:15 GMT",
+      "discoveredAt": "2026-10-04T14:49:38.365Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_100657873",
+      "title": "300,000 Title deeds issued - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wUnF6Vk5oYjg2QlEydjFMY2NYNERyN3ZObTgwQ0hzZmdlZGk1YW9iZlZsMXVCcnBrNHB3SWhuT0syVF9fSHZCNk9FNWI2aWZrbTJBS0RKR0UyZkowOXkwc19mMA?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 16:41:59 GMT",
+      "discoveredAt": "2026-10-04T14:49:53.835Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_745036413",
       "title": "State probing allegations of fake titles on Lamu refinery land - Kenya News Agency",
