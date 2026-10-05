@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-05T14:51:30.896Z",
+  "generatedAt": "2026-10-05T21:49:06.397Z",
   "candidates": [
+    {
+      "id": "t_2018900604",
+      "title": "\"Put up portions for sale\": Man arrested over KSh 45m land fraud scheme - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGJvdG1sU1c1blM0SU5sTi1TbVZJemVCOHBVVk01NTFaR2xIRDFvMUxPU3RjVDNqT0RLcFBSMnJLTkFReV9MUTR6TjVLdGt1U1hGdU45TzlUM21wbU5JSldYLXZWVl9PcnIxT3lqWUtTNUFsT3FxS1doakF6M01vbUFlUW01WGV1SXh6RFFnMUFBVWo3eldaUjlCQ2lyR0VNRHpQa2VSNmpRWWl2T0cxa2U4MzI?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 14:52:19 GMT",
+      "discoveredAt": "2026-10-05T21:47:51.031Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_566924910",
+      "title": "Lamu refinery: CS Wahome warns against illegal land invasions - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHhyRWxKTHVRUzhLZjZWUlY0RHpHMWw3MUJiUTZSUTE5MUpmQ1JXY0otcWUxTjlPaE5iTHBkMXBWRnozUXc3RTFDcUhKbzJ3akNwQWZ1M0w3NFozTTJuT2wyeGZjRkFHdmEzMkZDQlJIbFg2UUROVUhZbDRpbDBHWHVoN0tUdkNNYUxN?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 10:07:27 GMT",
+      "discoveredAt": "2026-10-05T21:47:52.651Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1398713626",
+      "title": "When GPS Cannot Be Trusted: High Lander and BOND RF Bring GNSS Interference Intelligence Into Airspace Management - suasnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdThEVGN4MXRtV0xPQ0paTGMwOVh3Mmk4SE1IUlJIdE9xS19RN3hMSUlBMVU5dkZPMXd5cFF2czFTTkhNVWlNVVJTSEVwenVDa2Qwbi00QWx2ZFpzS2ZtSEZhVWRDYW8tT1JVUmJpN2ZJTHp3SEhWT2RCc1daeWNVeWwzNzJvY0EyQmFqazFDdm9LOGZnOW9sRmNpcklKc0lJTkdWMExPVF94d3RQUS1sd293MlZ0OC11TF9UbElHWGFIUWZ0QWVLcU1IUzlYelZMeVB6Z2R5aUg5ZmFWNmJJ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 10:24:30 GMT",
+      "discoveredAt": "2026-10-05T21:48:49.569Z",
+      "sourceName": "suasnews.com",
+      "discoveredVia": {
+        "query": "sUAS News",
+        "origin": "sUAS News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_812049677",
+      "title": "Land. - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xQVFYUWViYmE4T3ljLUJQLXV6SEQzMmhyenNBd2pYNEtwNUd6T1hHVmQ0c3dSOFZNalo1SXJMR0NyVVQyQmxFbXJBRlR3bm5DMVdMZnlZaVpjNm5PYVEtSjBCeEU?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 15:56:33 GMT",
+      "discoveredAt": "2026-10-05T21:48:03.805Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_577418144",
       "title": "Wahome: Lamu refinery project is on state land, squatters in court ‘planted by enemies’ won’t stop it - the-star.co.ke",
