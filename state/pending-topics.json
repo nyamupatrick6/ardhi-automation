@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-10-05T06:11:46.593Z",
+  "generatedAt": "2026-10-05T14:51:30.896Z",
   "candidates": [
+    {
+      "id": "t_577418144",
+      "title": "Wahome: Lamu refinery project is on state land, squatters in court ‘planted by enemies’ won’t stop it - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1JoS0FOYXNUb3JCeWt6ZU5WWFBjT1ZJalJUOUFwQ1Y5elZUOC0yaTU0NzU4OGpxaHdPb3FfZnVESVJFdW91Ym56VVNTLXZJb2x5STNqbGNScGJJdzNGenI2dkhKdGY3YXBwU29mQ3FHYUVFbEpIZXFHZ2ZmZEhPbHNFR1ROdGhWTERoMDUwUmRndw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 09:39:00 GMT",
+      "discoveredAt": "2026-10-05T14:50:09.370Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1605890516",
+      "title": "Lands CS Gives Way Forward on Dangote Refinery Land Compensation - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOelVoZUFGUndJaVc2dWxRLXpMbjhEeEUzUFNhUlFMc2gweFNFaGZ5VGg2S1ZSYnJRMmtFN2hkTWFDV3dhU0VQeU5ySkx1QnlMMjFXSjhYdlU3cUE2S0xFQU0zNXhLWW5sMjJCd2lLa0lzeEFYb2l6Q2dhWFIzVTZyaXNsSWgyUnFhTWtjTDFUa19RbVIy?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 09:30:25 GMT",
+      "discoveredAt": "2026-10-05T14:50:12.374Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1344120187",
+      "title": "Court Explains How to Prove Your Land Was Fraudulently Transferred - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1VZMjhXeUZ6Z1BNZ3RlVUJUZl9aQjdqa3JINTFZWnJEQ1QxNXVMTmxab01iWThieHE3X3ZaVWk0SXIxeVpVZmxMT2lUYmgwNld5V1hmeVo4VzQ0SVN3ZGtNQnJCVElQdDcxaXpqaXFrdjByRGRHdVZJYkdLOGxMTDVlNF8wSXdsaVR3aGltemxUUHBaZWNIT2xrZw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 06:26:40 GMT",
+      "discoveredAt": "2026-10-05T14:50:12.374Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1231440628",
+      "title": "𝗟𝗔𝗡𝗗 𝗙𝗥𝗔𝗨𝗗 𝗦𝗨𝗦𝗣𝗘𝗖𝗧 𝗧𝗔𝗞𝗘𝗦 𝗣𝗟𝗘𝗔 𝗢𝗩𝗘𝗥 𝗦𝗛𝟰𝟱𝗠 𝗗𝗜𝗔𝗡𝗜 𝗣𝗥𝗢𝗣𝗘𝗥𝗧𝗬 A land fraud investigation involving a prime property in Diani, Kwale County, valued at approximately Sh45 million, has culminated in the arrest and arraignment of a suspect. D - x.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LVko5dlRrR0xzN25rcmRfR1FwVkg4NTJuWlR0aGRiYjBNU3c0ZEVMTmNMYXE4cVVJN0dTcjVNMWR6Y0ptUlJ5ckxza3d1TXM5YmNIRHNTOWVfdjdycktFNUtqZkRNWGhKanc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 13:50:00 GMT",
+      "discoveredAt": "2026-10-05T14:50:26.479Z",
+      "sourceName": "x.com",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_331018479",
+      "title": "Interview on Gaussian Splats for Photogrammetry - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM3RET2RVMHA2dENVUDlOZ1QtSHpEYmV0aWo5bFFpNElHS0pWMml3SjlwRzlfY2MxZGtPNHV1enJHZjRDY19hZ2NZZlMxTUplS3pPaHdEa2hoY2FwZnU1ZVZxY3JaZkp1LW9nRE9vQkNaOHVkdDRubC1lNFVxZXY2VEVpZmpVdGdjZm1nNkxSYjNDM1hMSXZ3cWpmSFB2MEswR2xhUG1sOVFrMFduM0Jsb3VZOWVmaWhSclN2Sk92NWQyczdaajBLSGVYek4xVjlKWDI1VQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 23:53:17 GMT",
+      "discoveredAt": "2026-10-05T14:51:15.849Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1260170209",
+      "title": "From power to court: Davis Chelogoi's battle for the Sh1.35 billion Lower Kabete land - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWDE1X2EwTWdRTUN3NmQyX2F0SG45V1VFN1ZTSUVSZzl0YnQ0N0Z3dTBMb2gyaE53bXpzU2Uwc3NsYW5nY1h3ajRsd1BONGlBek1BR1owVnYyd2p0QURzTmotNEw4TG5RNmpJWHp5N0tSNld5RGc5UzhhcnZlR1lYZjA2bjFlaTc2WFlDY0tvX2hzdnVpVDJuS2JVTnBSMHAtUkx2dXE5U2JROTA5YTB4ZklYSjdDcWg0RjdGMkRlLTlSNXNjc2NuVTZQbXhRU01V?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 08:30:00 GMT",
+      "discoveredAt": "2026-10-05T14:50:08.409Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_527355741",
       "title": "Exclusive: Bea Wangondu opens up about making ‘Kikuyu Land’ ahead of Kenyan premiere - KBC Digital",
