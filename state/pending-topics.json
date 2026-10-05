@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-05T00:25:37.851Z",
+  "generatedAt": "2026-10-05T06:11:46.593Z",
   "candidates": [
+    {
+      "id": "t_527355741",
+      "title": "Exclusive: Bea Wangondu opens up about making ‘Kikuyu Land’ ahead of Kenyan premiere - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXFiYXg5WmJ4anpCTmRfSEdpTUo0S2w1RzgxMmNwYkxVcy0zYVlDcDFWUUlaLThqMUlOeHV6VnppN0FLdzRQTlJjUGx3OUFrYkZEWGpydW0tMWlzQmpWeUw2UlM1NXVWN2JBSWpJM08tbG14WWZUTnNnUFlsa2JMQkludHFpQ1dtNENYbDdGcnllbEZ4TUZWajZucWx3WGxKS2JlTnltdw?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 21:48:03 GMT",
+      "discoveredAt": "2026-10-05T06:10:35.757Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1013731975",
       "title": "Land Eviction Kilifi - farmers.standardmedia.co.ke",
