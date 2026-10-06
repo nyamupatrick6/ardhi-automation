@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-06T02:03:23.390Z",
+  "generatedAt": "2026-10-06T09:04:59.967Z",
   "candidates": [
+    {
+      "id": "t_1227611429",
+      "title": "Global Real-Time RTK Corrections for UAVs & Autonomous Systems - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzNHZ1JMc0lFcG1ZQ0FoUHF4T0pVZ2VLUWpLd3FlaVphQngySUdxelpIVk92cE1rN2dSbVdSdzYwMVlydFk5Uk5pMVZ4OVFLU3dlVzV5ZnYzMHJGREphTTAxS096ZHFOdkoxNXlGLVpmQWdNOVl3UndPaFhGWE1KUHZVRW91SEUzZ2xTM1pBQ3ZKeFhuSWp6ZmNlblpzLVFyM0p2UTktZ0xNTmZzRE5QNQ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 04:18:59 GMT",
+      "discoveredAt": "2026-10-06T09:04:47.331Z",
+      "sourceName": "Unmanned Systems Technology",
+      "discoveredVia": {
+        "query": "RTK GPS surveying equipment",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_225778739",
+      "title": "Exclusive: Bea Wangondu opens about making ‘Kikuyu Land’ ahead of Kenyan premiere - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWhWOWdHMnJfSUhtYWpKQ2xZbEdnUXpNWEdwbm9JLUZwanVkMWQyeEZ0ejkwRy1Zd2dKVFV1VUIxeU4yVkgxRVV5N2w2OUR6SmJpVDBMb2hfX0lxM0hpYlZOWk56NmV0Y2YxamdYanRDT3lVd0pvejV5R1FkejN0RFlxa3pLM2dia0NtbTQtT1RfdXMtaDNsVlAzdkMyTl9QVW1j?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 21:48:03 GMT",
+      "discoveredAt": "2026-10-06T09:03:48.403Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1806467598",
       "title": "Septentrio expands mosaic-G5 GNSS ecosystem for drone and autonomous navigation - GPS World",
