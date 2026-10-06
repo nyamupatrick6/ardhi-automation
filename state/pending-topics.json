@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-06T09:04:59.967Z",
+  "generatedAt": "2026-10-06T16:01:09.352Z",
   "candidates": [
+    {
+      "id": "t_2097450290",
+      "title": "Court Gives New Direction on Evictions in Land Disputes - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaVFSZVpiUDJpTHpZWmhJX3ZBeFVaeUgta3RfZG5Yei1qSl8tMHJKSEN4UEJhU1RmY0JJaThQcnJtOG1yQ1ZCazRsWVhLXzFLQ2RmT1BvdjdReXpZakM2MUphLW9SZTZ3ZXRZbTU5UjZvcmRrMWZQRjdTb2c1bmhldTdmekpxTDFrY3U2RDA2bWtZYm9yMmRqdjJuSQ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:21:36 GMT",
+      "discoveredAt": "2026-10-06T15:59:50.956Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1175311045",
+      "title": "SKYLANDX Introduces MetaCam Air 3 for Survey-Grade Reality Capture - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDZPVmduanhLRE42LXNfbVFqRWZCZlM5aGx6bHJMUGF0OGdjNUpuQnE3MTU4Z2N0MERJV1VzcWRoWHF3Qzd0TlgyWDI4N0JHUHFKOFlhWHJlYUhfMzFmelE5cV9xVG5kNjhZQVRlTzFpdzRPS2hhOGx5RnQ4Z1l1eVpxUllXb2lZQlhJTHB1OXdHRG1TYndwc2F3bW1UQ29wVnFZRW9pczV5WUMxUU5ZbElyZm9pQVhX?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 05:48:13 GMT",
+      "discoveredAt": "2026-10-06T16:01:05.592Z",
+      "sourceName": "Unmanned Systems Technology",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_79222328",
+      "title": "Kwale Residents Reject Title Deeds Issued by President Ruto - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYl9mcFBVaFc2OW52bWVBdkN5eXI3M3JORC1GVjg4UHhRbTdPT0pyUGkweGpWbUFuQnpBLS1IM1VRYkZ6T3Q3TlRUUkIxTlhXbEFxOGJJQ0RZSjhsbDkzRGJTQ09rVUV5MmJOUnZqWjJ5dHBrdmVmYk9oTkluekxjUE5vUkNrcF9aNTVOM3VHZVFwcEtWQmZHTHZJbGE2SkxGVElMclBjbkE?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 13:31:34 GMT",
+      "discoveredAt": "2026-10-06T15:59:50.956Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1227611429",
       "title": "Global Real-Time RTK Corrections for UAVs & Autonomous Systems - Unmanned Systems Technology",
