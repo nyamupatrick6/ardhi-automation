@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-10-06T16:01:09.352Z",
+  "generatedAt": "2026-10-06T20:55:25.705Z",
   "candidates": [
+    {
+      "id": "t_1087500407",
+      "title": "Kwale residents reject title deeds, claim they got smaller portions than their ancestral land sizes - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeld1MlZEMWpkNTNUdXl1OHlKSXRUNmxqVzJrZHVqb2Q4T09Fbll2bEhqMWhuLTFOVkpCSmNsTlBKOGNzTjM4R3NoMnNRTHNVMTh6ekIyTFdUVVFxWTBLVXB1ZHBub2YyNWViMXVJUnFCMlk1LTVLQ053SkRFOUdYbklpa1BYZjNyS3VIZkFWUy1oYkdZNUZHNUVTUG1MYTl5WFpYWER0UXRod3NXOVFta2hXSGs0RW8?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 12:54:02 GMT",
+      "discoveredAt": "2026-10-06T20:54:02.532Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1093567560",
+      "title": "\"Vanished without a trace\": Suspect linked to KSh 1.08m land scam arrested - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDdaVkRPNWtaeUxrSlZxZnByNkZxeFhKMXJYbTlkSDUtU21xbzQtVktyZlA0U1gtRXU2UWh1MlZMNDEtaXAySjItckdGY0doVk9XTzJVYm1udG5uOGVkdWtiQ1JEUjRkeGU0NVVNMV9PdkJfaTllSXBwdTg4T2VDTkMwQ1NjTWlsQk1fMHl5QTNuRXphdlpTSEVqbVFHZDJfd2xWMXdWT1Bnc1BGVmotWlN4M0k1TUZacWQw?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 16:26:06 GMT",
+      "discoveredAt": "2026-10-06T20:54:07.797Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 8,
+          "seriesPartTitle": "Pre-purchase verification checklist",
+          "matchedKeywords": [
+            "land scam"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_2097450290",
       "title": "Court Gives New Direction on Evictions in Land Disputes - Kenyans.co.ke",
