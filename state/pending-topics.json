@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-06T20:55:25.705Z",
+  "generatedAt": "2026-10-07T00:21:33.627Z",
   "candidates": [
+    {
+      "id": "t_224259923",
+      "title": "PlanetiQ awarded $3.3M for GNSS-PRO and ionospheric TEC data - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVIzUlFHMTZ3WVE4emY2S0dFX1hIZ00wZzRxNTc5N3JmVDMyXzNtQlV1TWhodEstQXZvdUl4dDdIcjFRRk1rMlRUb1BXSVF3NzJ6c1Q4OV9SaThXenA0TWU0SDVhUjV5Tlp4d2JZaTJONkt0eEt0Q3VISUNfWWtpVUVucWJOSE5DWEtrRnJB?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 22:27:34 GMT",
+      "discoveredAt": "2026-10-07T00:21:16.475Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1592355889",
+      "title": "UK’s TSA is now the Geospatial Survey Association - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONXJDYThzNDdfaTI5N2Y4d3Z1SEcwWEtWeWRKQ1hEOVZuVVdGUGw0UG5CSWR3WVNnQVRYRWQ1LWJUMmNBX1UzaWtPcmVnUFlCUHd6V0dvZkdjU0g5NWEyYU9uZHY3SzBlQzN6Y0ZicnhFeU9wNS02VlU2VUh2dG1Ed3ZTV1hHR3BNN2c?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 23:17:30 GMT",
+      "discoveredAt": "2026-10-07T00:21:19.428Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_778856804",
+      "title": "Lamu locals turn NLC forum into Dangote refinery land rights arena - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ3hjeXpzbnJZdVZ5c3ltdDh4WlNlRkxXUGx5Mk1keXFTZ2sxcFNObE5qazVrM0tzbF9URWFVYnBTQlVGU3M1eGtpaWx1d3BsUGF6QjNQdFFrOW01b3pzRllLTG40ajhJblVWZC1mQ0FxYURmOFRwYjdqYUw4cTZmeXhBMnRGaHVuLXE5VG9XSnpnOE1DSzBqcERlT0NQVzdKaWcxUlpLQlAzbkg3RmxqNnlqWDUtR1E?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:53:40 GMT",
+      "discoveredAt": "2026-10-07T00:20:38.911Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "National Land Commission investigation Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1087500407",
       "title": "Kwale residents reject title deeds, claim they got smaller portions than their ancestral land sizes - The Standard",
