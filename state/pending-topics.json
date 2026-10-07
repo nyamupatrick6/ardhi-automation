@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-10-07T19:31:33.987Z",
+  "generatedAt": "2026-10-07T23:48:04.145Z",
   "candidates": [
+    {
+      "id": "t_575989553",
+      "title": "Disputed Land - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mT0dUWnd5R0RJbWVYTTdWeERQM0VudTNGbHNSYWVQZXU4b0FkNEl2RzVpeFhXU2dIQWRucTVCX2JvLWR3MGRocHVMRERqbEh1bFJrTi11dTd5cTZBZHQ1Y19tS3NVUQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 14:05:31 GMT",
+      "discoveredAt": "2026-10-07T23:46:43.813Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_498183668",
+      "title": "Court Gives New Direction on Evictions in Land Disputes - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWZXRnkyR1VUamoxX0EwaElfZncxaWwwUHRqNTBGNVN1NG1GYVFXT3R1Ny1pYkNqQnBOOTNGZ1lhZlRLZ2I2TEw2dHFudHNsSHFkMG1wTE56b3RxRGtNVEVOeTg2ZkN2Uk1KLUpEYms4cUtlN0NSVVRNVGEyRkp3SHBJM2Uwams5VXd4RVlNY21kRzJLc2FaVVFVV0JUTkJCbzE1OQ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:21:36 GMT",
+      "discoveredAt": "2026-10-07T23:46:47.539Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1345658188",
+      "title": "Kenya Railways and National Land Commission hold community meeting on Land acquisition in Narok - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMThBMVEtcHU3NEwwbXc0Y3dZcGlkbW1sQmU1OVk1WUR2ZUlIREpSMjd5N0Y0VUpPWlJGTUVudENuZExmaGdydmFtYkdwR05hdzFGVkN3aXJxTndQNWc0RFRaNVRiRHZOVzg1MTVYRll0LVNuVFlSdG8zWGlFSDRoaXFaMjhBaUNuRzR2eUNhbEZJQ2J2UnBMM0tBSE1yWkNjeUZqb25QQ1dKSmhGQmtqOEdtTXZwalJxM3NDOXVXU0ozWWcxZ2gyd1k3ZE1pZw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:01:14 GMT",
+      "discoveredAt": "2026-10-07T23:46:56.153Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_160726302",
+      "title": "TBC Vector Colors RTK VS Static - Trimble",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YS0dtMk5ObmdYM0tHS1hMa1E2VUJyNEktVm96bkI2RVFTTlBleUF4cURDQUNMVjRNdmVXanhGU2VhOGt2NmJxZVR2WDRXaVRxVUJqRU9KbnRuOHpaSi0xR01MeVFVandIdDJkb3llVEFSQjRMVVJQWXlEekI?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 15:24:33 GMT",
+      "discoveredAt": "2026-10-07T23:47:31.971Z",
+      "sourceName": "Trimble",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_445550796",
+      "title": "How a colonial boundary rule has stranded 66 Garissa schools, blocked river access - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMU1nQy1jNEphUXAwSHlRdVBLTzJXUmhtbkdITDFnZjZyaHZqSjdFU2p4aFo3S2JMSUJNbElvU1lyaTU3cVZEd2Y4dDdNNUZ1UGpRSWNPX2N6amhjWW5fT3haNjdjclJuTG93LWxmbGR4bnFDZUl6ZjJScnhDQjZjSVJvcmJqX3JLbXhfU2VjS014YWUtYkFsTmU3YmFLbG5INEE1cUVkMllDWVU5WlNSNXdaTFQwNEdfMzg0LXNMN2ZLdnFic0tYNU11VXNoTkluenVMLUFpM0hxSHlSdGxRWGF1VkphREFqVmFvZ2pvUmJncGZqT045ajdpUU5MNEpt?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 11:45:31 GMT",
+      "discoveredAt": "2026-10-07T23:46:56.153Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1506180518",
+      "title": "𝐄𝐚𝐬𝐭𝐥𝐞𝐢𝐠𝐡 𝐕𝐨𝐢𝐜𝐞 𝐚𝐭 𝐍𝐢𝐧𝐞 - Garissa residents want NLC to investigate historical land injustices - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CX0RNUVMzU0htZkt5Nk9waUlQVzhEMjNUVzFFaTk1TUlaT2Y3MXY3XzlobmtlUGhNNXRkUlBOaVZYaXJzbW5EYmt0SmNCTUs0TkpQQ2hqVXhhY3hva0NocWNBVkxFcnlyZWZjcVg3MURLeUJHb2V4NzAyMkktVUE?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 18:36:34 GMT",
+      "discoveredAt": "2026-10-07T23:47:08.071Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission investigation Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_570882027",
       "title": "NLC pledges to prioritize historical injustices, public land grabbing - Kenya News Agency",
