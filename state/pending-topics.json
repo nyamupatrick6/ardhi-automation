@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-10-07T00:21:33.627Z",
+  "generatedAt": "2026-10-07T06:12:55.707Z",
   "candidates": [
+    {
+      "id": "t_1276207016",
+      "title": "Man arrested over alleged Ksh.1.08M land scam in Trans Nzoia - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHhGWlJwUG9Dd1E0YXRZQmFzZng1dEhTXzVCZWdNdEpjWjhxVV9nZk9kNmw1Y0RGdWVHcnZxX1prdmF4Skt2MVFTNC05ajBkakpiMU9xMi1EV0hOUWsxY2RibXhCRm5oREthcktRTDNRb2ZsVjhKWXBEdE5WNXdEWXVrcTdtVXliZkF1el83RGNhVk5HNGJaSzEyTGplenM?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 16:37:52 GMT",
+      "discoveredAt": "2026-10-07T06:11:39.442Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 8,
+          "seriesPartTitle": "Pre-purchase verification checklist",
+          "matchedKeywords": [
+            "land scam"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_549569848",
+      "title": "Detectives Arrest Man in Ksh1 Million Fake Land-Leasing Deal - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0Q3TGRhRGUzRjdNMkI1V3FLNVF2V2w2bGR5Z3FSOTRwZmtPMjdPTzJqT3hCYXkxWWlNWHVJNkwwc080V0g0WllDS183ZGZ5X0hMdGxUU0NXSFowQjdIMUxOeVl1RUlhcjV0RWlCQWo2b1RQWTNRLTdoV092RDY1bXZEaVhsMzVhTFlrRVJUT1dnY2pxcXZOTHFQWDllNm5qMTloSEh3ZW9DQQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 05:15:35 GMT",
+      "discoveredAt": "2026-10-07T06:11:41.374Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1313579737",
+      "title": "From power to court: Davis Chelogoi's battle for the Sh1.35 billion Lower Kabete land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaF96aTNMdjVSWkVuZjdNWld2MG9Bc0Q0OEJsVUprSmdEeE1JY1BzSU5XZXZ6bXNRVVFwU0I1azh1amdZMVlWUklSUzdHSHZ5d0ZPZnVoQjF4OC03eWo2N0N5aFZGQXhjV2lRNEJjQlI1UTA4ZDNwSmlqUXhLcnc0eVBWV2V5alhra0pqVndpU2dNZVNQU1hCUWQtWmdNZF9fQ1ZfQlUxTlVXTVRXbjg4OXU4NVR2LTlORVRvSHNlZ21MSC1FZWRpd25ETXd0S0xPc0FpbVQtVmVvT0dSbTdzSHc2a045QQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 08:30:00 GMT",
+      "discoveredAt": "2026-10-07T06:11:37.475Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1071961202",
+      "title": "see how they are stepping on their land freely and confidently. i hope i could say the same of you - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Qb3lpbDRfTXVLSnZiczB6MjhUdlI3SjZGTThLY1drQWJTOFA5emwzWFIxRGtGczJBSmFGQk5JVnB3clZIUW05S19vUlZyU1hmTWwwZXVrcWlUZVAwcnc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 08:52:19 GMT",
+      "discoveredAt": "2026-10-07T06:11:54.593Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_224259923",
       "title": "PlanetiQ awarded $3.3M for GNSS-PRO and ionospheric TEC data - GPS World",
