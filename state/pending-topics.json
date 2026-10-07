@@ -1,6 +1,124 @@
 {
-  "generatedAt": "2026-10-07T06:12:55.707Z",
+  "generatedAt": "2026-10-07T13:33:26.349Z",
   "candidates": [
+    {
+      "id": "t_1419320922",
+      "title": "Colonial three-mile rule, land grabbing dominates Garissa's NLC public forum - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ0Mxc01tLWVJeTdKWDBsWjBRSjBlRGlTdklwMS16OUlTUF93Si0wdVJRNWlhNmR3djA2eUhxQWVSLUpaYTF4YkJ2dl9HZk5qZVJjMHlZM1lIb0RQNEdqdGZNNGM5aFFBZkdtRWxpaWQ1a2h0VjdnUVBoQ04yRFVTZnpfaHI2OEJEeXBFbDA4ODhEZEVTOXh1TlhsR3JMWHdnX2h0TGYtYXF1TG5TbDZzM29aMm1FeU1ES0FuOHVUb0wwXzJmeDM5cXJUYWN1RUNDZXhrbHFn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 11:45:31 GMT",
+      "discoveredAt": "2026-10-07T13:32:01.537Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 3
+    },
+    {
+      "id": "t_319832495",
+      "title": "Creating urban digital twins in GNSS-denied environments - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2dkVFdodnFWWlZjcTE5dS1aSUk1cThHM21oUm5NZE9vbXRVRW42MFBYM3FMV0VGWGlGaXpDTU1mQThzMGRkTXB4bzNYRnc1RTZKZm52NUtaUFVwZVE5aFU2QkhJRzdzdlJHODZBY2t5QVFnRW5NZl9jeVltZGxXZnJqY1NEanlkSmJYdnJGX3llOWZFUG1qRU1zTjV1ZnM?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 09:36:25 GMT",
+      "discoveredAt": "2026-10-07T13:33:04.434Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_338253438",
+      "title": "Kwale residents reject title deeds over disputed land sizes - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZWlORjhIT1hNbGF4WlNqNl9ydVVRbm1IVEx0QWZWWmlLS20zX2F3eGsxY0RsT1ZlUS1MMW0wenI5U0JmRS16eklZSWtCbWViZ3l5U0pjWGY0TUMwdGo3d1lRbTVYRE5TZWZ2ZHhzZm1RQTN4UWVVQUxINFhoV3lUNkl0WHVzcWhndGJqOUItd0J3bzlaMzN0TnhadU9maEZLX1hJdkN6STBHeEh6OVprYmRnaVdmU2hHNF9VdVBUSk1KNWlzak1JamY3V3ZYQdIBzgFBVV95cUxOZWlORjhIT1hNbGF4WlNqNl9ydVVRbm1IVEx0QWZWWmlLS20zX2F3eGsxY0RsT1ZlUS1MMW0wenI5U0JmRS16eklZSWtCbWViZ3l5U0pjWGY0TUMwdGo3d1lRbTVYRE5TZWZ2ZHhzZm1RQTN4UWVVQUxINFhoV3lUNkl0WHVzcWhndGJqOUItd0J3bzlaMzN0TnhadU9maEZLX1hJdkN6STBHeEh6OVprYmRnaVdmU2hHNF9VdVBUSk1KNWlzak1JamY3V3ZYQQ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 12:54:02 GMT",
+      "discoveredAt": "2026-10-07T13:32:01.538Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1228338107",
+      "title": "Lands CS Wahome commends staff for sustained excellence in service delivery - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFBmYXUxbFlPUzZPU3dFazF2ZHJXam8wS3owNUZHQ0pXZDBKTjlGaVN3NS1sd0dZaThrSlcwa2FNdVFfUWJjaEY1SWxxTmhVNnA5YjdXRjI4enJRR191Uy1EQXpveXFDeF9hY0V2NWJBWFFMUVNuQ1BWd1ByNmllRUZrV2ljNDdnMmFET1hQU1pIZ0ZKMjhqR1BUdHlCejExQUlodFNSWQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 09:15:54 GMT",
+      "discoveredAt": "2026-10-07T13:32:10.275Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1945860785",
+      "title": "National Land Commission holds public participation forum in Garissa - Sifa FM Kenya",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFMzTnhzRlozdEJSNGRFczVrQ191VVJ2RXBUYzRYcFluYzBrb3E5NjZzNkFoNEV1Y21wTWY4RVlWbUUzMHdNdUJFYXpsVHBoZnZSM0VuY0tLanI0UVZZQkQ5N3V2NjdEMEtsOTJkNHd1UnJIMUxQSFVKbGZkeVBISWNvWWRpQ2JQZlNCOGRBSG9VTjNZ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 10:42:05 GMT",
+      "discoveredAt": "2026-10-07T13:32:14.971Z",
+      "sourceName": "Sifa FM Kenya",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_202432134",
+      "title": "How a colonial boundary rule has stranded 66 Garissa schools, blocked river access - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNkF0a1hxQ2gtY2RJTHpKUTVEcjRpQkxOa1IzY0ViQm9wdGJ6YWRtQ1BFaUw2RjVfQ3BQeUcxcTdlWmVLakh3T3IxTWpad2dIdXhFaExsUjZNUkFoQUdjeWprd1lRVmN5RXZTMkNlTDA5aERZR05RUXQxdzhwdW9qbUlDU1NSX2hzT1ZBa0pfcTFqaVN0OXUtMGtYTG85Q3dlY2VFZEEyLXB3UHVDMWZ1OGp5dzItSmpzYlI3dHVFdUdCSDV1N0paeURnOXNIT21KcXZFekliS3ZzVlRONkFZ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 11:45:31 GMT",
+      "discoveredAt": "2026-10-07T13:32:14.971Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1276207016",
       "title": "Man arrested over alleged Ksh.1.08M land scam in Trans Nzoia - Citizen Digital",
