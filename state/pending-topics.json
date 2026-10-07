@@ -1,6 +1,125 @@
 {
-  "generatedAt": "2026-10-07T13:33:26.349Z",
+  "generatedAt": "2026-10-07T19:31:33.987Z",
   "candidates": [
+    {
+      "id": "t_570882027",
+      "title": "NLC pledges to prioritize historical injustices, public land grabbing - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEpEUXJHbmdlTENzVzc4dklCMUNSUU5xUlRBMmtCWGkwYU80dTRiTC1pUk14T1N2aVVMclJGU094ZmF4cTNLNWpDeWt1X3VfSE1ldzZHRmZlUmROYTVfZzgzTVBTUW1NVGRaMEs1VzRjUFZtZUlwaDRxSEhrLXgzVkpxeHhrWUxudWVLMkRwWG9OVElrd2pGQ2IwampyZw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 14:25:16 GMT",
+      "discoveredAt": "2026-10-07T19:30:18.193Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "public land grabbing",
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 3
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 4
+    },
+    {
+      "id": "t_1060942112",
+      "title": "Kwale residents reject title deeds over disputed land sizes - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbVc5SEJ1cXVyOTVnSG1iRjdGU0kzMUY3QW02SmFacHBiLXRlN1IzWUIyRU1BcEN2NUxVNmFVaXJWdkpubnRwbmtxYXEzdkVMT192Yi1Fd0dPM29KRkkxUUZBLTFqSmRmSjNuV3RCb3Myd01UYngxQllpWjdxUWtpdVNwcVVLb1NCejVUSUhDOUNNaDVLb2xGZ1lqR3ZJdnlkb0x5NGlETHExZjkzZlliTVlpUUprZnZ3RWJ3alJzM09ESDjSAcMBQVVfeXFMT21XOUhCdXF1cjk1Z0htYkY3RlNJMzFGN0FtNkphWnBwYi10ZTdSM1lCMkVNQXBDdjVMVTZhVWlyVnZKbm50cG5rcWFxM3ZFTE9fdmItRXdHTzNvSkZJMVFGQS0xakpkZkozbld0Qm9zMndNVGJ4MUJZaVo3cVFraXVTcHFVS29TQno1VElIQzlDTWg1S29sRmdZakd2SXZ5ZG9MeTRpRExxMWY5M2ZZYk1ZaVFKa2Z2d0Vid2pSczNPREg4?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 12:54:02 GMT",
+      "discoveredAt": "2026-10-07T19:30:08.538Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2032887027",
+      "title": "Kwale Land Disputes - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FeVJKMjd6Z1ZYOEJwMHJrQUs3R1N6azc0cjBJVDZPa1luWGhlbjZ0SE1jVEg4ckxIMURmSzZwVmhuZmtHd3EyQlYwNHFHNUdUUmlyaWdIMm14LXlRcG5tMS1ZekdpV0trOFpCX1R3?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 13:12:40 GMT",
+      "discoveredAt": "2026-10-07T19:30:08.538Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1887767810",
+      "title": "ArcGIS Pro 3.7 Patch 2 (3.7.2) Recalled - Esri",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZk56QVp6b3dTSms5enhxWTZwcThDT0ZZd1dPMUxVUUFZdUQ0MDRnaTlWbUtUUGM4TzlYSjVEU3ptUUNxeS1wdTV6ajczNzZRTXBmNVl6T0NXbUd5c2trSDFZcjI2NldCQXIxTUtTUmFmdmdPb3h6LUI0VnZlb3ZFSXI1WDRYb05saExtamlqODNVLU5mckN5LQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "discoveredAt": "2026-10-07T19:31:09.687Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1857129757",
+      "title": "Land and housing dominate sacco lending - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnktZ3FKUmtGeDRyUkF2eWRuZThBUXRtbkRvOW1wbzlmd2o5Z05qQ3FtM1k2eWxFQkF6S2w2a0Q0U1ktMHh0Y243NzAyZFU5RzlVV3RBTmhLbDM0YmphNkhHOVRKSzV6T2JlcEpTU001b0o5Ny0tbUlqNWllbFRwU0Fya28wMk5VUkJDY0c5NlRxTkU0R3dXdmJB?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:00:00 GMT",
+      "discoveredAt": "2026-10-07T19:30:12.644Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_949807805",
+      "title": "Cytonn suffers fresh setback in battle for property titles - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnJHOWZWT0c5ZG1xQy1FbVE1cHBGRG9oZXBvQWh1SG5RQlhDb19fM3d3THFsdWt5a0lhLWtyYjEyUkJMNFhoUldjVTM1WGZTVGVOZDhTVm9uVHRCd29Wck8xNG00ZFFrQ1ZfeEZqU0lfdEFPYW1DRkM5ZjFXNlhpbzZ0cHdGSXJURThNajdqRkh3ejQ5RXR2RWFMYlVxT3hSOURZZlZnQngzVm81TmhOVTE1MkdRNnRKTS10T1p5ZUFESkk?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:30:00 GMT",
+      "discoveredAt": "2026-10-07T19:30:12.644Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1419320922",
       "title": "Colonial three-mile rule, land grabbing dominates Garissa's NLC public forum - The Standard",
