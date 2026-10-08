@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-08T04:17:14.866Z",
+  "generatedAt": "2026-10-08T11:27:16.222Z",
   "candidates": [
+    {
+      "id": "t_662913678",
+      "title": "A valid title, witnesses and how a missing map sank family’s land case - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0tBUW10THNuVVNsMmVibDNZWlNpY0hDWFIzR1RHVGZnRGFTVnFRTnVSNy15NXNET1JfSjFmWUVuQjV3NlZieTFZSnlCekFZWnJobUtHYXJ5N1ZpR0gxWWdaekFOU1RXT0RZUWJCb2l3MUxvS0hYb0JOaGNqamNIN08zSXdxeGJhMl83MHFQUDRJT1BMWU5RdXNKRnlLSld0VHBXYks1QWxGQkFYYkNqa1JEZ2RoejZDZHVtbQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 07:36:39 GMT",
+      "discoveredAt": "2026-10-08T11:25:53.866Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1401098688",
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90 - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUld6VHJGZno0Q2dXRk5MaERHTXY3dU9abkZtaU9vSGtQamo2Rjc0MW1WUUFELUFOdzJibXFkWXd3aFA0U3Z1T09hWWxfSFpXOXdZdHM4MHVRSExkYXBmZm41THhMU3ByZlFLNXd3YU5wUjljMDk1c1BGdWUwNE5jNzloekhQY3NSdFVJZ2lnekJZR0xVeWlLdDUxdDk1M3p6dGhkTWYxNGYwQkhjbnlhVWJVckdMS3ZvdVZ6R214U3BqNHA0?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 06:56:00 GMT",
+      "discoveredAt": "2026-10-08T11:25:55.928Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_799635674",
+      "title": "An Introduction to Python in Excel with ArcGIS for Excel - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQkdiWFQtOWdIUndjdm9XYU5sSFF5MVBCc3FOdGczU1oxRDFJakRQVS1BNXlLV0l5aGxXVVBaR25XamM5RU91UWd5VXlWT1U3V0JLMzVpQmhNaHptUmJhRnhKWTJMdmVSa3Nsa251eDBmZlFZclF5SXpDOENVZm9FS0VoSTVXcUpFVUFKek0xdVJSVUJGM2lnc3Rab1lpRS1UUnoxQ1lxTVhWNVZYM2FqVXZhM1VRdXZKbDUyVlNQbDQ5ZVNlajFYbg?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 02:02:38 GMT",
+      "discoveredAt": "2026-10-08T11:26:53.833Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2139490414",
+      "title": "PwC and Esri to harness geospatial AI together - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemNOdFpsV1RuWE9nU3FVTGRKUG1BYUc1TVdkTXF4YWtVZHc1ZWFKR3hxbS1xZHp5OFNTNmd0LS1MS2ZrZWZHanYzcXlfdFU0VVN4cVdrX3dXTjVvMU5PQzduWDNyZ3lWYXdnTkJ1ZFViZ0M2ZGJoSGc3dmR1cEd2SVZVa1pHSVFfSWlNeFdn?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 07:59:42 GMT",
+      "discoveredAt": "2026-10-08T11:26:55.712Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_573317258",
+      "title": "UAVOS Adds Real-Time Visualization to NAVAI Navigation for GNSS-Degraded Operations - sUAS News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1lZQU5NbjhKQzAyYzJoV0tNa1dhaGp5UXp1bzNuNE1HZnhja2NObU4xN2tLRmVpejNQc0UzRmNNZmFCd0dZMm9KMndHMDlIbWJVTjJhYjh4X3Zzbm9FT3B1VG9VZHRBY0c4MEpBMUFEMkhrRzFuQ0JYN0k3S0RxZlRFOHFmc2dnWjZYelViRkRGLW5QRU9RRDRsWWZzY0FnUW1nanRUd2kyZ1RpZTZkM3JQWVI0YlBy?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 05:56:41 GMT",
+      "discoveredAt": "2026-10-08T11:26:59.424Z",
+      "sourceName": "sUAS News",
+      "discoveredVia": {
+        "query": "sUAS News",
+        "origin": "sUAS News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1481554307",
+      "title": "Kenya News Agency - KNA. . 𝗘𝗦𝗧𝗛𝗘𝗥 𝗠𝗨𝗥𝗨𝗚𝗜 – 𝗖𝗢𝗠𝗠𝗜𝗦𝗦𝗜𝗢𝗡𝗘𝗥, 𝗡𝗟𝗖, during a public participation forum in Garissa on the National Land Commission (Historical Land Injustices) Regulations, 2026, where residents called on the commission to expedi - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxPTEtkSTZhQ3hBa1IyLXJqYnE5ejBFUTdoTGNDeHFvUk1LQXFJU1RQa0s4OURSbjloU1VMNWJPQ2RkUnF2cHRoWGIxeEp6em5OYnBnWTNTLVlWTU8waHctNW44eWRaSGpmeW9YUTBhOTY3WkdUblhqN1ZSWGxSeEFjQ0h2VmVxd1RkdzRlWHNDQ05TZ1VaVWdvSW9nOEY3RHlaemxHZW1weGJsdXVIMmdpRzNTZUpQeUlGdTRYMENYalVBelA5ZWVnNVl5d0ZLWEFERjhiVlJUTWRDSnlWcjR0Y1ZBRzlfV3RwYWZTOWNBUzI1MktCcU9sYXJfbkw4N2ZKenAycFIyMmU4WENkZy1FUDZxNEd3WUEtRGxtZVBPa0FXUUs2QWhEdmZmMTFvREpFcjhJVGZuTzRNVl95LWt3SFVEb1g3OWh6UUY0aGwyMGJLX0Ewa0Z2ajZ5NFJ2RnEtZGNfY2RpbzBPcGYxOU02NWtUSVpIYWVXN1JlcllhTjdpTUdzMi1yVzhLWWJjLUJiMFhEU1hZTlRXVjZtenRnMFF1SnBlQ2VKQnZwXzM5SkpKaFN5Z0dKWmVBRW5QSVhkTmxVajh6c0ZINk1YN0ZiTkxIT0RUbC13cEZpRl9PMmtpUlJDMEMzWUtFR29lSnRvVV9LTnJCRXBoOEZWa05xSHBiQXc0QkZyOTRGR0czbUM5WlVoWmFuUWhqSjIzc1gwbmlqdEhpbC1YcHp2TWpLTG1sVThsT1Y2X1pIVEpkQjcxckJiZnBIZndKTHZsYURMcmRkN25TZHhrN080TVBoUVVKRWxIQVdHQmdr?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 06:38:40 GMT",
+      "discoveredAt": "2026-10-08T11:25:49.332Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1189093446",
+      "title": "Push to scrap colonial three-mile land rule - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFBaY1BXR1FVNGQ0WEVjN2pNZ3EyQWk3VnR3eEhsTHJZbklTSFdqTWRoRTg1TGVCdUhTV3dmdzlPZnZrOXpsWDBKeXRzQzJ6YUJVblNQWmE0STZ0YVFUU1lqdk84YzRobnJCRUVBQjBISmxBenZQLWk4bmVfWk1FTkFEQk9pUmpIc3Q3THRPYlFvRXE1eTFQMDY3cUJKem5uVTlXQ1pwWQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 05:30:00 GMT",
+      "discoveredAt": "2026-10-08T11:25:55.928Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1868211563",
       "title": "Agency not fully complying with Geospatial Data Act - Spatial Source",
