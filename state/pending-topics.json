@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-07T23:48:04.145Z",
+  "generatedAt": "2026-10-08T04:17:14.866Z",
   "candidates": [
+    {
+      "id": "t_1868211563",
+      "title": "Agency not fully complying with Geospatial Data Act - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1dJQk9kc0sxU2RXb19EeXF5WEpTUXB4bUFGUnVZU2ctR3BybWp3RmQ3TlEzRmxKTGZJNjdKVFRqRTk0eEcwZksxTlRaelRfNkdRaTNPcTJlQmxnUWNTSmdUbjVaLWR0cXpjRGEyWjRIQWF3THpCMjY0eVlwSWJaUTFpMUozTEw4YkttdVBR?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 02:56:08 GMT",
+      "discoveredAt": "2026-10-08T04:17:00.296Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1067283374",
+      "title": "Gaol risk for unauthorised geospatial data downloads - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeURpTFRGekxhSkk1b2ViSnRRMzhtRThTNmN6NUhOQXExM09Ud1puUEE0OHFIWmlHVmp6TEc4eThBQWpoUTZNcEVhRnV4UXVobkw1YUVXbDdyeXpERnlhWHZBR04tSHloNUV1NVBva25nY1R1azl5OWlyd3JySzlGZ2o0NjBhWE5VWmhmTkxRZw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 02:36:06 GMT",
+      "discoveredAt": "2026-10-08T04:17:00.296Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_48293013",
+      "title": "𝐄𝐚𝐬𝐭𝐥𝐞𝐢𝐠𝐡 𝐕𝐨𝐢𝐜𝐞 𝐚𝐭 𝐍𝐢𝐧𝐞 - Garissa residents want NLC to investigate historical land injustices - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3ZsVHZmTWJQM01tMHZoXzk4VG1haDBQLThEbmd4TWZmQzJqbnRBM1JFVUQzNTlQdlhLTXQzeHVxWVJ2TV85STdLRWt5LTJzRWVEMkl5cXgtckkyZ3Z3alpkakh5ZmU5dTFJakZUNjV4ZDMwWGx6cFRWZGpETVJxdk5ZSkYtLTJnZklRX1prNm9yN1A1b1gzbnRpSWdycjFLX3BZeXUwQ2xvN2dhMURBaw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 18:36:34 GMT",
+      "discoveredAt": "2026-10-08T04:16:19.057Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission investigation Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_575989553",
       "title": "Disputed Land - farmers.standardmedia.co.ke",
