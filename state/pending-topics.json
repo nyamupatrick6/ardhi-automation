@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-10-08T11:27:16.222Z",
+  "generatedAt": "2026-10-08T18:00:09.084Z",
   "candidates": [
+    {
+      "id": "t_812842440",
+      "title": "EACC Recovers Grabbed Multimillion Airport Land - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGJ5STl0Zk5aNmJaUEFraUlWU2lCbEpCbVhBMDZCVW9IM1FCS0JqTENjSUdiZXdRc3lXZi01S1lGaUwtMkZaTjFnSmNhSzBFcmpUMVF0ZlQ3Rk5fMkFLcjE2ZVFIalRTMGZnaWJFa2lWSmNHYmdjellVelFtTXR1TDVDaWF4Y1lueU92RTg1aVlCUlJWLTdtenFpTG93cDMwcjh3UkJCaw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 13:11:52 GMT",
+      "discoveredAt": "2026-10-08T17:58:50.200Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_564207232",
+      "title": "EACC recovers KSh51 million Aviation Land in Mombasa after 17-year legal battle - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDBmZUJRMURjMnVyZnI4WWRFazhzcVFndWUxdVpQWHpXTTVwWEZTUEphNlhVSWdUb0JyNmJDcWIxUEYtc1pFQVJUSHZWR205NTc3SkZyVWpFSHMxMzVJS0xOenBGSm9meTlGeVdURDBCaGlpRGp0d2ZaUmRkXzc0eTEyUWhFTDNBVmo0VkF6czU2UHdaTGtMQUt0eTA0YVhVZzJvQ21xYVdzY0JITjdpMmVMZGtsRW40SU5WaHRrYWwzZw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 15:36:50 GMT",
+      "discoveredAt": "2026-10-08T17:59:16.519Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1962979460",
+      "title": "From Data Deluge to Decision: Dr Abhay Swarup Mittal on Building Sovereign Intelligence at Aetosky - Geospatial World",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ21aTG9mcDFuSThTdlVGUnpuaDREUHBoZWRzejNCWHZKLXZZUE8zQld0VU5jNzF4MXhiOFRzN0VucVBaUWV3R2EzTTJIYWF5b0RtbU9Zby1idnBZb09WVE9ub1B1cTU3SGpUWHEzUzVxX19mXzE3cnhSd1ljb2c0TGkyX1hwZVVOXzdzb3dXdUpwX3pMZ3htYkR2MFl4WEMyNUROSWZjeTRTMXVIbjlCcTdHbncwTUpRTEtvMUlXSDd3NVZvTXFjVkN2eTQ5a0U4NVoxN0hPZFdoVzdOQl80aW44RVJjajEzVUplbS10NmxQdUU?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 08:47:49 GMT",
+      "discoveredAt": "2026-10-08T17:59:49.176Z",
+      "sourceName": "Geospatial World",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_315987571",
+      "title": "EACC recovers Sh51m KCAA land in Mombasa - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDNjMW5SV0JVeG5Mc1VsQzl0cVh2ZFlRVV9tY1F5aHdIc0pNWXRSb3N5bFZHY1dJcWlmNzB4SnNBM214Rk0zSVZjbkJpelBtb0N5cDRmQl9pVDZBNWNfb1ZZeHRyTG41dDE1M0JxeEkySjAxNE5hWG9WQUVCdFpueDU3TTFYNXVvQXhR?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 13:24:59 GMT",
+      "discoveredAt": "2026-10-08T17:58:47.186Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1929432456",
+      "title": "EACC recovers Sh51m KCAA land in Mombasa after settlement - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSmN0blNWaE5fVjRhU29uZ0Q4NmZvYWIxYU9mdmxSRy01WWU1S0V1X3hjNnJyY2xMUGxmcDROTXRzbXZaLVRzazlRUWRYbDEyTU5UMmRMRklMaVNRQ2xxaTBkQkVnajZ6VjRpR2s4TlNlajdIdkN0bkR3S09IZ25PWF82Y3FuRjk1N3gtbmNCbUpYMElfT1UyOURnMHJMb2REbnc?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 12:50:00 GMT",
+      "discoveredAt": "2026-10-08T17:58:47.187Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_411920044",
+      "title": "Address land claims in Lamu refinery project - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWFEbUFxaThsOWFFVzBUbjZETFdrRlFUN2l1ZnQwbnFnUllTZnE3N005LVVqTDBRTkZsd3VLWkc4UklybnNCRE9zVHFkOWxZUU9vNnlBWnREVUNxLV9jVWtsMEpkdHRqUDVwZG5pdHlQaXJMdXFxNUFuUExpWERreWxEcmtQZ0NlN2pJN2NDcm1URTdQSHhWMldrcTJqeTJmT2hyQ2hOdHFDbnJjd01PTExIN1NNaVE?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 13:45:00 GMT",
+      "discoveredAt": "2026-10-08T17:58:49.215Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1617333396",
+      "title": "\"Reason has prevailed\": EACC reclaims KSh 51m KCAA land after 17-year battle - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGZSbVJBX1VxMnFic0FkQzRHdk03b3luSS1aVW54TFlJeXpVdlBpWkdmT0xxZ19LMGY1UlFFdFR4ZXJ5cGlXeXpLeWlQWmVNdlF5UjQyVE52S3JkNEFIeHBGdHBNaF85aEJXN1RYazNEYUxyS0p6NnoxZThtc3haM2dCbXVLVDFVMHh4eGpLa0g0X0tqOEF1MDN6SzI4RmNzcHd0QkRVQy1Md0RaVThRVk53UQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 13:39:00 GMT",
+      "discoveredAt": "2026-10-08T17:58:51.258Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_550628097",
+      "title": "EACC recovers Ksh51M KCAA land in Mombasa - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qLXBEOVlubDBfQUVJejZxRjhWckoyeTRwSDBBWUUtc0cxNU03MmdFWGl1V2QxRmhYS2pYR0FFdFh6cUVzNHVQZXZRNGVyMm9veVU5c1pnYkFzdm1iX3dvM3Z4TzJ1MjQ5YkVQUWVXeF93NjlDcnIwVE4zMA?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 12:43:10 GMT",
+      "discoveredAt": "2026-10-08T17:58:52.995Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_662913678",
       "title": "A valid title, witnesses and how a missing map sank family’s land case - Daily Nation",
