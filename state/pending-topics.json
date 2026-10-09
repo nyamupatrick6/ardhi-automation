@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-10-09T10:13:15.903Z",
+  "generatedAt": "2026-10-09T17:02:41.340Z",
   "candidates": [
+    {
+      "id": "t_561437533",
+      "title": "The land without papers: Inside Trans Nzoia's title deed crisis - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1FXNHBQNEdOdkpxV2NZU0JCMHJhR1Z5RUdKdUQ4Qm9QcFQzc0JmZkNQM2YyenktX2FrZzlXNGxQLWd2cl8wQTdRcVdBZHZUN3RsQjlYZXdpdXUzRy16aEk2UV9FWjF5MVprMVJ1MThxa09xWUJic2NsTDVUSGpDRWFTYlF1RVpWb2Q4MUdHTUpNSUoyWDc5LVhiZG1IVGVZOXE3RFN0Y2pQTGFEbVREeTZ2Z1phcEgwaktZ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 09:27:01 GMT",
+      "discoveredAt": "2026-10-09T17:01:18.038Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1929752114",
+      "title": "State sets aside Sh25 billion for Narok-Kisumu-Malaba SGR land compensation - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnhmWGFVcHNlZXU5RWNnMURlRjlPNXVFbVAxaTdBZDBxM2t0VF8yMWg4eUdjV0lmNk5YNzl2ZFFEbU5jRDBFYXFoaUdOc1RFWjRUR1E4VktvUnMzeG9pQjVyRGhQanJVV0owM2Z1aFFwTllEcVhXMHRpRDN4aHZzbXlVeHllbU9jWVhrdzR4c3BEQ1BEbk1CSWdYR1Q3ZjFscEZ0UVROM08tTHphSkQzdEZRQnU3UXpWY01yNnFpWF9Xak0zaDAwYQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "discoveredAt": "2026-10-09T17:01:20.173Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2037200375",
+      "title": "SGR push to Kisumu: Sh25bn set aside for land compensation - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzRwNU1DNVBoSnpxaURsSnI5SVJIS3JZYmc0eW5oX2NMaWtGQklGTXBuNlVHemdYLVZNS2NBa2pDTUI0YjhRd3FidXk2V29DWjhMOXlYSURMQWpSLVBHcjA5bUtXNHFUQ014Qm1vaHdZWERGY3VLa0hPVDFXUXgybWZyREp0bmh2UjA5NTln?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 12:57:00 GMT",
+      "discoveredAt": "2026-10-09T17:01:20.173Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_806907497",
+      "title": "Kwale residents raise fresh land concerns, despite issuance of title deeds - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkdlOWZzVU1IMkFiY0hzUzFaU29wcVhfZ2h0cnMtck8tYWd0M19rM0hWWUlDekVHeEVMMlV0ZnkyZ25qZFpOT3p1ekZMNTd2VGtoZ1NQNHN6VjNlMjR1Z016TFE1SUdJeG84WHIxUWFKckllcDU5NnFXeEYyQU1VUXBBeVN3UmZ2Yl85TjNEVDhnYWJMZElsYXFTZDdSQUJnWGVNUg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:20:44 GMT",
+      "discoveredAt": "2026-10-09T17:01:27.500Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_367270475",
+      "title": "Busia residents call for sensitisation on land acquisition - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcVF0MnRabjhhU2xlQWdPcFV5RjlsYS1YLTN3WHBFZnNlTjlOR3dJQWtCV21mS3NJbWN3ejlxaGRodU5oaFM1VEdKNE9xRmNuM1FxbUNOck9BS0hsYlRNSFFxenlfcVVSbmEyUUhRX3NOb09rd1VNcU9GZ1M0WUluTkpXbXd6dkM1bEhpbEZ3T2k?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:36:21 GMT",
+      "discoveredAt": "2026-10-09T17:01:27.500Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1602649425",
+      "title": "Government sets aside Sh25 billion for SGR land compensation - Nairobi Law Monthly",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajh3RklYTlFndG5tV0tmc1p0djY2WTdVWEdPaTVXLWpnMi1aUnA4dWNHbWo4VEdibDJWdnlsc3o0WGdsaW1VLVVMc0R3U0o2RG9rWXdOR3FaX0ZXQWg1cmxmMkRpUFlfRlY0d3psSDVQbWwtWjI4T3QzOTVRS25CVU9EN1c5R1g0TU5nTkVneS1zUk4xd2c?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:39:44 GMT",
+      "discoveredAt": "2026-10-09T17:01:53.949Z",
+      "sourceName": "Nairobi Law Monthly",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1459921202",
+      "title": "Nairobi County Proposes Rules For Tracking All Land Transactions - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmVNV1VsakpwQkROQjh6NkN6TmVtMmQteDdNUDRnTnBGaG00MDhTZUlNTUdXeFJNMnhXbHU4MW1BbmVyNFAwcjgxT3pBXzlQYVk2anNsbk1oZVFieThTQ1cyaXNrazhweFRoN0hTTFVVM2JsYWwzT1dGYWJyVlVlT1pUNTlaUlBPR3RmSDNsZmsxdU1Tck1mSmFtMkpkX1VzY2c?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 14:28:18 GMT",
+      "discoveredAt": "2026-10-09T17:01:16.958Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1604752545",
+      "title": "Cabinet Approves Bill Proposing Ksh2 Million Fine for Fake Architects, Surveyors - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGo4aXVVcmNkYzkwYjN2cEszZUFnU2JLOGxaWjkwS3BXTEtCNGo5OE5Yb01mUjVzRXBhOF9VRVkxU1BLeHcwLUJxM0I0WDNNQVIwMURZVWZfend6d3pQMkpUV3czNUkwZUI2elZJeW5UZEtRRzFHRWp2bUFhTlZucmxaVDlLOEpHN1F0MXNnanplelpLMjZSaXlrZUJORGdOMXlpaGZNbDYxVHJMb2o0?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 15:05:04 GMT",
+      "discoveredAt": "2026-10-09T17:01:23.114Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1458995683",
       "title": "NLC raises alarm over high rate of public land grabbing in Busia - www.standardmedia.co.ke",
