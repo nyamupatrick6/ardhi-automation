@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-10-09T17:02:41.340Z",
+  "generatedAt": "2026-10-09T21:45:08.824Z",
   "candidates": [
+    {
+      "id": "t_158003118",
+      "title": "NLC raises alarm over high rate of public land grabbing in Busia - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekppYlEwb0tiSHNmRG5qZF8zVFAzdzlHR3h5WEtCVThJQmtsLW9SMU1WdWtHTkhqWjhhUTNCRmd5WFlQeHRIWUFGbWVKeTdyckVwSnFHYzlJeWx2NlVlaHNUUnM2WXA4MnZHRmkwN3FqMl9OY0VFVWpwZFFOREx4d3NrdmFEQVFFY3pTU2JvWHFXRG91YjJHdS16Y2pQWWdMWVNXUWhJNUs1Rjh1OHhvVEJEY0NnV2xYRFZCYzFRY2s?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 05:44:31 GMT",
+      "discoveredAt": "2026-10-09T21:43:37.455Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "public land grabbing",
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 3
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 4
+    },
+    {
+      "id": "t_882712228",
+      "title": "NLC raises alarm over high rate of public land grabbing in Busia - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX202ZW5BVlh2R2x3S1JaZlNlRlNrWVVTVWdQYjFrdzZteUNXUDJQV0J1LU51akpMWHhORGg5eDRFSHNvMko3akkyZkVLeHJLNjctbkh5bW9LZ2dlWG5vYndERVBtdnkxUnlDM3hQSTJLbzFKVEhBZ3RTenV1MjFfanNqY2pCeTBoR0ludzQ2LWpQblREMGh0Szd5dEZtY2l2bkhENUdWNWFrQnFvU2dsUlNtWkZnczhrT3Rr?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 05:44:31 GMT",
+      "discoveredAt": "2026-10-09T21:43:43.298Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "public land grabbing",
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 3
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 4
+    },
+    {
+      "id": "t_113014726",
+      "title": "Reprieve for ex-PC Davis Chelogoi as court stops judgment in Sh1.35 billion land case - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnJzaGY3ZDhoMjZDMWtyakE5bzVUNDFlN0FfRXFJYnFhRl9RMEpodDE1eEh6czE5MGZPd2xHYVczQmVXZTB5ckZkQlFWZ1dwY0FiTjdQMzlwOUhZS1J1WEdZR3hYSTVBcmE1cXliSFctQ0dTNmRCV2RwZ0JyMlMwcDl6Z0lhRTNDeElzaklBT2ttbll4TG9Da2dIbWZTdFFnaEhNaUliT25HdnhlWjlCWFpFYjRUMzlfTmxIdUtMeGJDeF96U2dXOHVSWWh6azVsNWdGTlJxZEtqcHZUU3BBeUdMNkhUU1J1?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:16:52 GMT",
+      "discoveredAt": "2026-10-09T21:43:43.299Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1795693951",
+      "title": "State moves to regularise land under affordable housing projects - test.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNlMwbDVMeks5M2tYeUp0WWM3alRSbnF1eDdjY0p3d0R6Q3IzUGFZYWdEdnBlb3dlZ0ExYTloTDRJMjZ5cDZoejlfRlNaZnVYTWQyZm1OVEJKSjQ1UmtuVU9ESldwS1ByVER2TVZxQUw1TnRpRXY3Yzd0LWJuODlkOS1VSlMwd0NiblNreWpQLUNVUDEtMk1hdU9UaGFndG1CdjR3UEZmbDNUYndqaTRscllDTkRERFZtaFlIbThaOEZET1RKeFdPajlldzZXSjJjOGdB?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 01:02:45 GMT",
+      "discoveredAt": "2026-10-09T21:43:43.299Z",
+      "sourceName": "test.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_255886618",
+      "title": "NLC pledges to resolve historical land injustice claims - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14eTFWNENYLXllU0FFaWdyT0xYRTJtNEZYbGdzeGtxSzRnZW1FSUZTaHg4STZGQUtHdXVza281OUZZM3U3VGYwNVpocEVmMkcwUEhJbFhR?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:36:50 GMT",
+      "discoveredAt": "2026-10-09T21:44:02.720Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_561437533",
       "title": "The land without papers: Inside Trans Nzoia's title deed crisis - Daily Nation",
