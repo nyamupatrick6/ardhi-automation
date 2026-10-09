@@ -1,6 +1,136 @@
 {
-  "generatedAt": "2026-10-09T02:58:49.031Z",
+  "generatedAt": "2026-10-09T10:13:15.903Z",
   "candidates": [
+    {
+      "id": "t_1458995683",
+      "title": "NLC raises alarm over high rate of public land grabbing in Busia - www.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1kzbGo5Um5BdW5JRmUzMXdaNmJDLUhLZm5rTXJoUGg1SmFWdHlHaTN0SG8ySTFSZVM5NFhFcFl1V3BxV20wOE95Yk1vOUI2N3RnQ21kOEhuOVY3ZUhCaHFMWWVZVndOX3ZkaHVEUzU5SlBOVjlfUDFSNFZaSVFUVlF0MUJRNzV0Ykpka0wzMEVNSHRhSHdpbWpYSzJ6V1B0TnhaNFppdEV6dHIwaG5zd0xPMXFRbGJaejRnX2xmRkppaUFBVVE?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 05:44:31 GMT",
+      "discoveredAt": "2026-10-09T10:11:51.667Z",
+      "sourceName": "www.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "public land grabbing",
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 3
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 4
+    },
+    {
+      "id": "t_876362530",
+      "title": "NLC raises alarm over high rate of public land grabbing in Busia - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1JrRlZydHFXRkFDQjN3Wng3dUlaU05wbnUyV2dxTDJhdVdWalZXNnpkdjVkNXN5MXF2Vlc5SlNOdTR1dy1mNXhIZ21nN2ZXblJSWk80dnNtOWNRZDNkcDJmWTlBZUlqa3JrVEVLNGpINm1lRWJHQnMzcTNndGJJdkt0UmNuTzFFLTN6c2wzai1QSTk3Z0hUUzJsM0RRU28zbmUxbURVRFY0eUZsdkpOTm5sLXFKYWJabU1Bc3ZxTTk?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 05:44:31 GMT",
+      "discoveredAt": "2026-10-09T10:11:57.446Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "public land grabbing",
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 3
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 4
+    },
+    {
+      "id": "t_425041958",
+      "title": "State sets aside Sh25 billion for Narok-Kisumu-Malaba SGR land compensation - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOREpXQnBXMW5XRzlIVnd4Wlh5VmlyNmh0TjFVUzNsWDNoZ25DQ3luTVMtc09pejVqNUU3TXkyMUlPTS1Scm9uMUltd2J4NXM0bjFBSl81NF9GbTBZUUFzOFJrSGVNUXJ4TXNiS194S3B2QnE3Sm05czRzRno3VzJXZ2cweGFpQ1o1c2puaW1YYWNBaE4tXzBqZGRPNm9TTGdmWTNfbVJ6TjNoRmRwOHVuQTBFN2t4OGQ3V3h4V1I3Um5qUTFLVV9IN1pBSQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "discoveredAt": "2026-10-09T10:11:58.380Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_405643233",
+      "title": "Tension in Rumuruti as villagers resist eviction from disputed land - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHNadTZnTUZiV0YzejlTZ0dVTk94cXV6eFZNTXBJUW9OOHFIREIwWTNzcHlIUURxN3dnSEgxWl81NVg1Wm5TQkdxOXNlSVJBS0pzMTFiX2FIX3lOd3RYR2xHQ0JzWXZ2ZGVtZGd1VGItWkFMZmJVdWtIMUVrTkRMNmhKQmZuU09lZzRYLVVzVXFESDBaWHRhbmk0YlV1ZThBR0FWNzhMTVZ3NHl3MFl1ZF82MW1jLWFDWHhaRGZhbw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 05:50:00 GMT",
+      "discoveredAt": "2026-10-09T10:11:58.380Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1747391884",
+      "title": "Govt Announces KSh25 Billion Compensation Fund For SGR-Affected Landowners - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjZCNG01Q2lXV2o0SnR3RTlULURmbVFUTkRDUVZONHEtSGhRdFQzeWtVWV94eGo2ZHpPODAyNEtEcGE0VWdOWjAtdktmbjFBMnI2LXItVWF0UWRsZlFLX2g1TjNUOUZSaXZTMEdmTmlDaTlNNHFpR0p2RHc5UlFwTmd6ZlNJdkhDWTlHc2NiMlRBWGltVXJJazZIM3JBNXFXeC1tRkZvOWx0NHg3aHhF?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 09:10:57 GMT",
+      "discoveredAt": "2026-10-09T10:12:09.893Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1298289694",
+      "title": "NLC Seeks Public Input on New Historical Land Injustices Regulations - Capital FM Africa",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW5WcW9LeHZoa0I3eHRKanpjLWZmR2J1QVRMLVQ2enRaTm5DZnhTZGJmMW9JQzMzdTNLeGJUSEdvVVRfeW56aWN1UU5JZU9TMVdjU2lYdUNvb2pCQk1MU2VKYWtuSm54QUpUc2oyUzVXV1o4NkdxMFJaakIwVHlHVDQwY0Vibmc2amdCZjNWbUlqVzNhcWdWQU9R?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 05:12:04 GMT",
+      "discoveredAt": "2026-10-09T10:11:51.666Z",
+      "sourceName": "Capital FM Africa",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2049278401",
       "title": "ArcGIS Online November 2026 Update Material Changes, Deprecations, and Retirements - Esri",
