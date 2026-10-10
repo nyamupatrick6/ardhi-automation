@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-10T14:12:12.258Z",
+  "generatedAt": "2026-10-10T18:41:47.964Z",
   "candidates": [
+    {
+      "id": "t_1642862418",
+      "title": "Govt Reveals Landowners Set To Lose Property In Fresh SGR Acquisition - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONk1UakNHZ2ZKc2NvVVg0UVpxQ0hMby1UNjZIWDBKenhZYXQ3RF9TaWRWaU1ndkJqUnpCUXFPNkFUbk9XcWF6VWZXQm90NkV3OGhIVEg1alRDb1NRLTFWV2FiMVJERFVteVlZVHIzWVREazZpYm9ReDctTUc5a1p4VktZdVZDTjBFUG1RWWczaEt1UjRtWVlJek9rcTdxREZXQ2U3aW9hT0hSaHpQa0hoNUZiTU9wSnFsSTVmLQ?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 14:32:17 GMT",
+      "discoveredAt": "2026-10-10T18:40:39.421Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_209630254",
+      "title": "Migori miners challenged to plant trees to help restore degraded land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWFVdUFod2M1S2x1SnBQSG80aThXQ0l2VjRVdDNrT0pqOFlNbnhsUU9nX09hWU5SM3RQTXVGeTFhbVBDejBjdFp1MjJIRS0ydlNPanZYVHdKMWI0RGtaNHNVbEJrYktkMXdRN29VNU1wb0NVRTdrN0RsdEVMS1dvcXNZUVpINmVFYWRQOC01SGEzVmZDWUE1ejZzLU91d0l3VVBDWXZNZG1uZ1Q1NUR3YUdkSEs2dHVCTEQwTG5FTWNfdWhZUEE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 05:53:26 GMT",
+      "discoveredAt": "2026-10-10T18:40:26.690Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_823727630",
+      "title": "Meru County: The Land of Opportunity, Enterprise and Natural Beauty - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12djhEUmNhQUpyRzdON2xkZzBWRWVmeXhzd3pRXy16ekpJdVNVSkVuRlNnUDk4dlZKbV8yaTRPWUJPdkl2Tk1wWGx0VkpZalg0WkRWVzR3?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 20:29:47 GMT",
+      "discoveredAt": "2026-10-10T18:40:46.573Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1990654103",
       "title": "Kenya Railways and NLC proceed with land acquisition for Naivasha-Malaba SGR - Mjengo Hub",
