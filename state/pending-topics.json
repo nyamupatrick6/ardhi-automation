@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-09T21:45:08.824Z",
+  "generatedAt": "2026-10-10T01:29:34.703Z",
   "candidates": [
+    {
+      "id": "t_1034420657",
+      "title": "Kenya Railways and the National Land Commission (NLC) are continuing with the land acquisition exercise as part of the preparatory activities for the construction of the Naivasha–Kisumu–Malaba Standard Gauge Railway (SGR). Following the site inspection - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcldTd2lOSnZVZ1NpVjBnSkRfUmRZRDVETUhrTE5vRXB0TS1xbThOVWdDRzFiczM5RFU4Z2hYZFVSRTB5bUZMNzA4aEs2cU1wSGdkbW5mMkhxLXZBTE9KU0JtYkVxXzhpaXBvVjVwUFdhbGZ4OFM3ZzBKVERTYVlmbzhDbkd4aU92eDY0M3J4U3hnSDdjT0RJR0ZiYzRFcGltS01Pak02cWtfRFFMakJrMmlMS2o0cVhSbERaek9Ua19ZbWpaakE?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 16:03:24 GMT",
+      "discoveredAt": "2026-10-10T01:28:36.463Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1581954536",
+      "title": "Laikipia squatters vow to stay put on disputed land - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTBuVHpMYUVCQ3ZHZDV6aFMycDlWOEZkZjNRY2tzSTJNd1FBNERISEVMd3hUbXNMbDlzQjV4UUpNbmZ2OWphUVV4RGlGTEN2S09pZ0lpNkRaRHZITWJLUjVrN3htbFNQS3lMMnVyWkhRWWRJbXRMbVo2UXVUTEVMWFNpRTd3Z3M?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 17:30:51 GMT",
+      "discoveredAt": "2026-10-10T01:28:50.676Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "squatters Kenya land",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_158003118",
       "title": "NLC raises alarm over high rate of public land grabbing in Busia - standardmedia.co.ke",
