@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-10T18:41:47.964Z",
+  "generatedAt": "2026-10-10T22:12:52.478Z",
   "candidates": [
+    {
+      "id": "t_1801630910",
+      "title": "Aerial Power Line Inspection with LiDAR - Chcnav",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVNZYnZpVWFhdkxILVhCaVM0cVFBX2lDaUE5SzdRM1ZESUFJekVlWHNVQU5VNmRZQkNDdTJRRjMxSjRybng2blYtczFjN3NqZ1dON21JWVB5SWpNLXh2NlJpV2NyQjJ5QU5jV0h6YnJwZ1A3SEpFRm5mazNGREdNT2FSVm9mYk5fMHc4S3RpVWVweERDNDZIcV85NHZLNDJJRE0wXzZVUQ?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 07:05:27 GMT",
+      "discoveredAt": "2026-10-10T22:12:28.930Z",
+      "sourceName": "Chcnav",
+      "discoveredVia": {
+        "query": "site:chcnav.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "CHCNav",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1705533403",
+      "title": "🔥 WHO SAID YOU NEED A BIG PLOT TO BUILD A MANSION? - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hWF9qNjZzdTZFeG9uU05XUHhwVzM4SnJpQnZiUUdXQ3h1TE90dHhVanBqSjNOMlV3MGxPSzRlYUNpRXphQmRXOWdtNXFJVTkzbDVyRndB?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 12:00:17 GMT",
+      "discoveredAt": "2026-10-10T22:11:52.657Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1642862418",
       "title": "Govt Reveals Landowners Set To Lose Property In Fresh SGR Acquisition - The Kenya Times",
