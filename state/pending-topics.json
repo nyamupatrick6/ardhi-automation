@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-10T07:44:20.333Z",
+  "generatedAt": "2026-10-10T14:12:12.258Z",
   "candidates": [
+    {
+      "id": "t_1990654103",
+      "title": "Kenya Railways and NLC proceed with land acquisition for Naivasha-Malaba SGR - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTRzcjFEdkFqOWNZRGpza2o3ZmlEcTNYRWJWdUw1Y0pGQlRxR3RYU190ZUhSSndvUjl1b3Z1RFJEOTU3R3BJdVkzR21tVHZ5RTlna09GNUx4SmxMTi1kSUoxM0wzb2o0RjJ0RklhZE1pYlg4OTY2U0JwV2V6ZXRUSW14VktTaDlYQlhXdXJFaU5QWEg5WmNFeWZIbkVlLUppWkNfTnRxY2NYNnpFYXZzUklrR0FuSkVIaVNJWlhkZ0R0Zw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 05:31:46 GMT",
+      "discoveredAt": "2026-10-10T14:10:47.351Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_299427341",
+      "title": "Agro firm wins fight for 550 acres of Nandi estate land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVdZTkxTbXRsWlZleFJMSDVRSDVJM1RTaW1xbGdsUVZ5VnpTLXFPeWVZbnVwQllqajNvZDJnUGdrbktFTWZFYURhaHR0RjJadVVKWndkdHlVV0JkbDQtc2cwbU8tbnZ4MDdibV9EWk5JT09vbjVxNEhRdmhvWEtrcXQwQ0hhOU1ycVZzV2l0TDBFNTY0QkpxYU5MaXJtaUttNURN?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 08:00:00 GMT",
+      "discoveredAt": "2026-10-10T14:10:52.117Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_101724325",
+      "title": "Court nullifies Affordable Housing project in Bungoma, orders restoration of public land - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVERJRlRzLWlIM2VVdzJ1MU90R0dmZlBtWTN0UFBRYXZzYVJkaTNYc3VEVmU4aW9Zb3pNX2REMFJ2bmhicWxPRWtGMWhfR0pubENOSlZaanluenJPaWFQVnM5OTlHeVBlX0pJTjBtNVVoQTVSalRVZVpJOEpjUFFUWFdPSElrai1vWmFTa0s2dWRqRmtiNHI2TnVkOUluX2QyaUtoVWFYSXVTUWtiZHc2bW5XdThPbk5mSk4tUk8wNmtrbWNKQUE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 10:02:01 GMT",
+      "discoveredAt": "2026-10-10T14:10:55.085Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_194146522",
+      "title": "KMPDU Deputy SG Miskellah lands State appointment - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDZTT1FvSF9VckhvdHZfcDBmdHkzSzl2N21BRExjNVMyWTBZc0lCSGdPYlc2d1F2QkVYS3RYQVlIZDRJS1E0aEhSdGMwREU5ckh0UjNrUmxaOTlrdEJHT1JTWThETml2Ty0yTHZrSV96QVE4SXFJNnplbVRNQWtLcjFnNW0yaktwYzBSaGlZRDJDdDJKd2g5NEh6TQ?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 10:37:29 GMT",
+      "discoveredAt": "2026-10-10T14:10:55.085Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1034420657",
       "title": "Kenya Railways and the National Land Commission (NLC) are continuing with the land acquisition exercise as part of the preparatory activities for the construction of the Naivasha–Kisumu–Malaba Standard Gauge Railway (SGR). Following the site inspection - LinkedIn",
