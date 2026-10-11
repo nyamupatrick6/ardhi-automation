@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-11T07:17:34.959Z",
+  "generatedAt": "2026-10-11T14:09:21.822Z",
   "candidates": [
+    {
+      "id": "t_1848426926",
+      "title": "Why Appeals Court nullified Sh2.4bn Ruaraka land compensation deal - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVnFkV2RBRUZtN0t4d29YZGVJTUpJODZMYmdhaHRKQ29Ha0U2UzFYUEh6VUxZZUhxR2VvdVZJdF9JQ3hzV1RMTVBuWUJ0LWZEMExDRHFJcFRYWGp0SEtlTjVnMk5EVGxrOGxxcENqWHJERDMzWnIzdDhrUTBQYnM4SjZ6cVZVZFFleGUzRmVxc21ObkcyMEdLdzM2eXBQWmZSRUFZRER4Q29NVVpBZFdJUWtVNjhIU08yWjdTNllaaHd0cC1jVXQ5eEZfZjk1MGRGRVE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 12:35:44 GMT",
+      "discoveredAt": "2026-10-11T14:07:59.343Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_530293625",
+      "title": "NLC holds public participation forum in Kiambu - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3o0ZGEwOTc1ekk3bk5KZzRUb3I0SWJLQk5GU3dUTVg1MHZodERKM3FFNC1CS0liSjZsbW5WVzEwMFNYc2hKWVdjMVRpWU1CRy14eVFnTlZlUURLOExaaW5PODRldEJHbC1jcFNheHN4SFBBZUI4c1U1RlcwUXdyWQ?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 10:34:59 GMT",
+      "discoveredAt": "2026-10-11T14:07:53.578Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_520752178",
+      "title": "Ruto Proposes Changes Affecting Thousands of Landowners - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVVfSEpkV0EzT1JyZXJFeGpZcGtBeW9ldmVJU0xxbXV4dmpDazJwd3pGZ2FjZFpKZ2VyZldxTHBhZWs4ekxaQkFTZE5Tc2ZmbHRFSGRLNUx0LTFFSG5tQjNzV0xQN0xva3kyNk53QmF1YlFsaWVScGVDYy1NaFNKN2NzekRQcGpYenZvM3Vobk1XeTdnbmdOQkhPMDc?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 12:10:33 GMT",
+      "discoveredAt": "2026-10-11T14:08:03.479Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1019210795",
       "title": "GNSS heading attitude record - Trimble",
