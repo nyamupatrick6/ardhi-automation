@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-10T22:12:52.478Z",
+  "generatedAt": "2026-10-11T01:03:23.278Z",
   "candidates": [
+    {
+      "id": "t_85342238",
+      "title": "Ruaraka Land Saga - farmers.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hQzRHVjV3T2g1bFhUeHNaZzBaVi1YZWRLTXFHS0JpWW9fSGhXcHlVZ2xRVVBjUzNnZVFISXhZVEI0N2h0SHNuanlydmUxU0JDNFkxZkJqODRsYlRnSS1OTGNQTFB6M3hleE1F?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 13:16:50 GMT",
+      "discoveredAt": "2026-10-11T01:02:02.877Z",
+      "sourceName": "farmers.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1801630910",
       "title": "Aerial Power Line Inspection with LiDAR - Chcnav",
