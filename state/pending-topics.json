@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-10-11T14:09:21.822Z",
+  "generatedAt": "2026-10-11T18:59:31.592Z",
   "candidates": [
+    {
+      "id": "t_1474163294",
+      "title": "NLC targets public land grabbing and historical injustices - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWVtc1FqdDB3cFllMTBIamo0Zkotb0c0TzhDRXRic1NUczh6R1UwM29mY0ZYTVJYWklINkJsYWIzMlhBWENFa3ZabW5qR1JRZ1Z2SnM2MWhNeTk0VWF1LWNpSE9jbzAzYThOWEdOZGF2eXBUUlVyU2RyMU5EbnNyMlYzTE1CYU85cVN4anNMdWQ?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 11:35:38 GMT",
+      "discoveredAt": "2026-10-11T18:58:06.736Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "public land grabbing",
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 3
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 4
+    },
+    {
+      "id": "t_930950400",
+      "title": "Sensor Fusion in Geospatial Workflows | CHCNAV - Chcnav",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNW1DTEliQ3BDRzlyQ1Q3dFZYdEFRNm9uV1h6OWlPNkNkNmpNWENVcXJET0Zxbm9naHVucElpNEZTWl9OY2NkOWFVQS00TW9XRkVtM2dHQ0wyenpxNGtWdnFTV1dCVVF1ZHFUNlA1SlZuelgzZ2RJOFNnT0dYT3NKeDJ6ZTJNQ09VTkhQb0N0SDZVUGFydU04ZXd6b29RT09mNXNQZ3hYSWRGYVRBMUtYNmtxbmcxNldhVDhyVGNPYlRXNkJwTnpkRXFYOXc3clJEYkxtU2YyWHNKZDU3?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 04:57:46 GMT",
+      "discoveredAt": "2026-10-11T18:59:07.521Z",
+      "sourceName": "Chcnav",
+      "discoveredVia": {
+        "query": "site:chcnav.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "CHCNav",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1848426926",
       "title": "Why Appeals Court nullified Sh2.4bn Ruaraka land compensation deal - farmers.standardmedia.co.ke",
