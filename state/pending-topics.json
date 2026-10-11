@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-11T18:59:31.592Z",
+  "generatedAt": "2026-10-11T22:45:12.784Z",
   "candidates": [
+    {
+      "id": "t_1577443438",
+      "title": "| Land & Property Diary | 11TH Oct 2026 | - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZ1VLZHZRcmdhQWtlbmkybUo0Mi1DVFB4NmYtUkJnYzNSd19keE1uZkVxNnVDdEg3bGc3Sk5fYWNSdjB3emhGNUF5a2lQTE5xMC1DUjd3?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 16:08:42 GMT",
+      "discoveredAt": "2026-10-11T22:44:12.658Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1474163294",
       "title": "NLC targets public land grabbing and historical injustices - Kenya News Agency",
