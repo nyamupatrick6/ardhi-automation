@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-12T09:21:28.516Z",
+  "generatedAt": "2026-10-12T19:10:29.914Z",
   "candidates": [
+    {
+      "id": "t_1125186966",
+      "title": "EACC Reveals How NLC Director Received Ksh 7M in Land Compensation Scandal - Talk Africa",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdzRVNUJVY2NYU3dIVEp1bDVmYnZpUE81SEZFNGV1SnVSeTZyS0tnbU5JN0Z3VDVEdEp5UG1pSUFFZnpiWlB2X3ZOX21PZGN5RUM2ODJUelFRQ2JnY2ZBSjRaSWd4RTg4S1BjdWVsV3M1MVFHVlQ3cXZibHVNUXpkM0ktSlRTTUdoS3hOWEF6M3RDTDJHVFFkbmp5bUVoZEVVcFpDbjdwVQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 05:42:52 GMT",
+      "discoveredAt": "2026-10-12T19:09:04.615Z",
+      "sourceName": "Talk Africa",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_80030040",
+      "title": "EACC admits receiving Sh7 million in deal with NLC finance boss - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmgwVW4yYnU5S0ZxRWROTDJRY3d0aUtiRXdqOGNSUnZVTnRDVjkwbmpCYnNiSnN4NG9sRjJGQ0NPT1Y2dVFWSGJLTUNnZG5SQUxLLW9ZS1VfVzNwdU9aeU5UTUVlRTBWNWZVZW1vUEl4ZkhoZ0I4R3pRNHNoLWZ3b3ZMYjhpVzV6WWFUbjRIMk9sMmZlTTNvTXRXRWh1cjNROWQ4REtXNXFIbkw0Z21IMkZ5ZmhCLVF6aE9XcUpLZGxWV3otV1hwVDl3Vno?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:36:25 GMT",
+      "discoveredAt": "2026-10-12T19:09:10.367Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_111478403",
       "title": "Environmentalists decry encroachment of riparian land at Tudor Creek - The Star, Kenya",
