@@ -1,6 +1,123 @@
 {
-  "generatedAt": "2026-10-13T01:25:14.537Z",
+  "generatedAt": "2026-10-13T08:25:04.213Z",
   "candidates": [
+    {
+      "id": "t_320150906",
+      "title": "NLC warns land grabbers as 7,000 historical land cases await justice - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd21aZ1d3Q3dzOGRFX0N2MHAzcnMxMUNTUEtxQjk1d0xVS1FwcFJDWlNVMm4wUlZMd1hNcFpvT1NXOEVpOEdYV3lZX09uZmdtcjM4RzhURUx5WkF5TGRLU1lCWU5paHpMdzRMNUZFNmFGVmM0S0lBNVlCVGdVMHBUcEVTc1ZnQmlwMjF3QWJQUm5Kdy1tQ1ZMaEZJbHY1RTloSnc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 07:51:17 GMT",
+      "discoveredAt": "2026-10-13T08:23:39.975Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_300559746",
+      "title": "The government has proposed land consolidation measures to discourage the subdivision of family farms into smaller plots, citing population growth and increasing pressure on agricultural land. Under the proposal, families could build homes in organised sett - X",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaG9NVWM0c1FjQ3ItNk9yTzR4X0I0VVlkQVZkN0g1TVpMeW1OVmFIdGdxSmdXSWdIVDVQclJOcXFZOW41dEt0RkVYY1RmZndCR1FmQmxiR0ZHZE56SlVKUw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 20:31:23 GMT",
+      "discoveredAt": "2026-10-13T08:24:03.019Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_831724125",
+      "title": "Dangote Refinery Land Row: Govt dismisses compensation claims over Lamu land Spokesperson Owino says no genuine claimants remain Residents seek compensation for land linked to refinery #CitizenMondayReport - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RWEhhdEJGNUlxOE5td1Q1OXh2TEI4Mlg2cjhtdkdwSVQ1d1EwTTA4SzZpX3JZWXRYRjRZUWo5THNQRmhyV2hTLUZTbWp1N08wREg0YkdiV2V0aUZEM1M2elBFSGlIdw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 19:24:51 GMT",
+      "discoveredAt": "2026-10-13T08:24:03.019Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1616710623",
+      "title": "The National Land Commission has issued a gazette notice listing 59 land parcels in North Mugirango Constituency, Nyamira County, for compulsory acquisition to facilitate construction of the Naivasha-Kisumu-Malaba Standard Gauge Railway Phase 2B and - X",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NTTNEUUo0N2o0ZUxNX2VUX1k5aUFlaC1jZUdhS3pfZTBMeVQzV2J6NkFhNmZUWGZPQ1RPdkd3dlBxRHVjZXNuZEQyaVN3WjgyZlVCQ1VOYVg4cjFVRDRKRA?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 20:48:45 GMT",
+      "discoveredAt": "2026-10-13T08:24:03.019Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1517457979",
+      "title": "PCEA Women’s Guild loses Sh60m public school playground land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUd6cnQyaDBzNlpua29MU2dkbDFBZmdOV3F1dy1jZGZyNTF5MDFKQkJSVGxYVW04U3B2WG90MXJBNWtlRGpZZTROLVBKZEhJWWxUdkx3NjZtV0hxVHJFOWZRU2NoR2g2UVR2ejRMM1BSN0VkRmpXdkNHdV9DRmFjSWRpbk1lMFdNbVdiREJnMnF3OXI0dUo1MGRLRHUtd1dFRjdhTA?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:35:03 GMT",
+      "discoveredAt": "2026-10-13T08:23:44.655Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_130820933",
+      "title": "\"Woooi!\"—Reason Ruto Went To Kalenjin Land to Insult Uhuru Kenyatta - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1keHlyZFFzd05wTWVPaUltUVpnNEVZT3ZzVHpxUkp3MGxid3ZsejNoTDg3SmVGX2t5SUhiaERleURnaHdYNDV5Rjh3dXYtNlg1eTZXYTln?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 19:39:15 GMT",
+      "discoveredAt": "2026-10-13T08:24:04.560Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_357464972",
       "title": "NLC faces scrutiny over Sh1.4 billion Lamu land compensation as Owino calls for DCI probe - YouTube",
