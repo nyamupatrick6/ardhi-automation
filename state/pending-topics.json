@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-13T16:25:24.512Z",
+  "generatedAt": "2026-10-13T21:32:17.673Z",
   "candidates": [
+    {
+      "id": "t_219299016",
+      "title": "Kiambu landowners demand compensation, over 70 representatives present land grievances - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ObXM0Y0VDbUppWklmQWxiSzYwTlZ0aFN5REdwbFhsRzlIV3hRaXFoeWNIY2psNWdJcjNXbEJqYi1VRm9CRS1ZeW9lb09MbFViallqOFpn?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 11:01:03 GMT",
+      "discoveredAt": "2026-10-13T21:31:15.604Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_776805716",
+      "title": "Government Spokesperson Charles Owino showing the map of Lamu land at Harambee Annex on Monday 12th October, 2026 dismissing disputes arising from Lamu refinery land. Owino disclosed that the land belonged to Kenya Port’s Authority which releas - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXVjWmFiVW5NOWJxQldSdG0tdHpETnc1V3ZWT3poWHdSV2J1NlNnRWNWekxsZERFRzlhWG8wdHJfbEpWVWcyby0waEhVWm05bmlfVmE0VkdNYXQ2cWFYS3lhRXR5U0o4eTl4Zm9CSW0yNG1Ba0s2T1UwUDRsOXc3UXNrVUNhRmQzd01HRjE2S1NEekRsNXYwa2JrRlAyNlZJZUF1Ym5PTWpsMWR4eVlaYi1Wbmt3TEZ4VnBzT21BMUNadlVSeTJvYWpOR3dtSFFONGhvRFJMYzNOdmZsM2c?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 08:33:26 GMT",
+      "discoveredAt": "2026-10-13T21:31:21.282Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "National Land Commission investigation Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_714473289",
+      "title": "ideaForge Secures Orders from Survey of India for Q6 V2 UAVs to Support Mapping and Geospatial Applications - sUAS News",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSU5UVDJ1Q1BReXN3bVZWNFdRS3IzVmd3WGwxZFR3Ym1sVXpxdjZmYnlHcGFRSENPWUxYdXZ2THdrUjMtRW10S2dfQ3RvY1o4RllXTTE1UDlRMS0yMWtSUmt0NW1oQ0prcHNKTEQtUU5GTE53aFZaZUd3bVYzeEhxeGNId0thazNWMERMTXRPa0MtOXA2NDA2VkQ3cE1temQ1X3IydWhxeHBpdm5RVElaeWR0Z21oSmFCdG53azRReGVvVjRvX2lEMHBpRFRZeW1YcmhxZ3RqVnY?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 17:34:37 GMT",
+      "discoveredAt": "2026-10-13T21:32:00.872Z",
+      "sourceName": "sUAS News",
+      "discoveredVia": {
+        "query": "sUAS News",
+        "origin": "sUAS News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_578655458",
+      "title": "Sakaja Administration Approves Fresh Land Rates Exemption Application Rules - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1dHWWNMdHIwWl9YTW1vaVBpM1diTXJyRU1qSFRmODdjRlhkSGNzWGp3TWRYYjItSklScWhoQWZ3VEh4b2NQbl8zR1NRNTkwYnVWX0ZjZ2pLU1dsclUzREFzeFVveDJLWWotMGFSOExSZklxX2NyNlRtMjc1dWxKWE5VOWppWktfOWp2NXRMdTRXeGFFa1pQVVZMNlVTeE5GOGdrOHpnLWR6ZXpHOG1nQ01CREFXS2lNd1o3TC1R?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 17:05:33 GMT",
+      "discoveredAt": "2026-10-13T21:31:01.240Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_477348870",
       "title": "Earth Check: Restoring Green Spaces & Protecting Public Land at Githurai People's Park - YouTube",
