@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-13T08:25:04.213Z",
+  "generatedAt": "2026-10-13T16:25:24.512Z",
   "candidates": [
+    {
+      "id": "t_477348870",
+      "title": "Earth Check: Restoring Green Spaces & Protecting Public Land at Githurai People's Park - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TVm05S0RwN1ZvSVM1bGtwVWN0Ui1TczNtWWxjdnpZOVFrUC1YbzAwcDFEQkhkU1ViQXFxMklNLVNfMms1RWpTeDVoZUdkVFBSck9pdG9n?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 14:03:14 GMT",
+      "discoveredAt": "2026-10-13T16:24:20.957Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_320150906",
       "title": "NLC warns land grabbers as 7,000 historical land cases await justice - People Daily",
