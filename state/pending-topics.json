@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-12T19:10:29.914Z",
+  "generatedAt": "2026-10-13T01:25:14.537Z",
   "candidates": [
+    {
+      "id": "t_357464972",
+      "title": "NLC faces scrutiny over Sh1.4 billion Lamu land compensation as Owino calls for DCI probe - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeHJSejJqYjdSNUtmU0Z4djVVUkZMVDFIb3FXaEFYNWhjNHVCTExrQmVEb0gwUEd2TFlqSkZydzZVM2pudlhTaWJvWjlINzBSUmtVVUZB?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 19:46:03 GMT",
+      "discoveredAt": "2026-10-13T01:24:13.209Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1764412105",
+      "title": "Media Coverage | “Evolution of Reality Capture” in GeoConnexion - Topcon Positioning",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHZNM3owc3hzWF9UZjJqRXpwSktUX1Vya3B6NENkQTJTSEJmSklIRHdIbWp6dUw3LWVER040Y1A5cUpaTGN2eV9KRDRlY04zWTJucHdfeHMwYUJnUEU0Y21JNzQtcDNacjB5dHNxYWdEZnpwZmthZHBxdW5kTkR5V2JRRVJhZVFrSlVEekx6QmFRTk9HUEpLSVdTekhqTDU1a05PM0FvZHV6VGJ5?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 02:27:33 GMT",
+      "discoveredAt": "2026-10-13T01:24:45.494Z",
+      "sourceName": "Topcon Positioning",
+      "discoveredVia": {
+        "query": "site:topconpositioning.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Topcon Positioning",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1668811264",
+      "title": "Commissioned Ziwa 2 Earth Dam Irrigation Project in Soy Constituency, Uasin Gishu County. The KSh147 million project will put 500 acres of land under irrigation, benefiting 1,000 farmers by enabling year-round agricultural activity, increasing agricultural pro - X",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nd2xMTUNDbVU3NGZDNEdyQkFVNlZCM2xaX2tvSDNRdzhhdmpJWUl6d0tOQTVkd1RuNjVTZlplQWU3LUdPRV80SzRWaUpGdm9oRlFmN2QwQ2h4MTh2eFI3aXRYWQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 17:13:38 GMT",
+      "discoveredAt": "2026-10-13T01:24:11.276Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1125186966",
       "title": "EACC Reveals How NLC Director Received Ksh 7M in Land Compensation Scandal - Talk Africa",
