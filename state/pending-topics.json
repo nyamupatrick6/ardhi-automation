@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-14T00:36:33.698Z",
+  "generatedAt": "2026-10-14T05:21:09.634Z",
   "candidates": [
+    {
+      "id": "t_1833646057",
+      "title": "Photo: Sharp reactions as Sudi hangs onto Ruto's presidential Land Crusier - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzR6YkdhUEVaWmIzM1VRaGRPa29Oa3o4azZEUFRnTmpDLXpWbnUzNVhsQm1tR1UzeXNVdWNTMy1HSl9yWU0zNUZGMUlYRFNwRzliSDY4V1MycWd3WUljWDhYMjJabnpHLTdPcWJ0bGlLRElicS1wRTF2clVRWVpxZnk3M19VUHNtYU1Ka0VVR0NqSjVldlRWQkZIeEhuZ2tvTUlmT0JtTjFpZVl3U0E?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 03:03:55 GMT",
+      "discoveredAt": "2026-10-14T05:19:54.565Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1536059249",
+      "title": "BEYOND THE ACTIVITY @FCDCKenya Strengthens Community Land Governance as 10 CLMCs Receive Registration Certificates The milestone under FCDC’s #LSS and #RANGE programmes provides a foundation for stronger community institutions and i - X",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VWUJpd3lQVFdUaWhBbGNXMlQ0OTdGcTdwTERTVUV4WHU3TWptNDYwaEdlM1EyODJvRGpzS1AwNTBZR0dscW9TVTF0a3lSdkQtTDliY0I1cGhHTTJMeTRHVkxpM3Fld2JFVEE?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:44:57 GMT",
+      "discoveredAt": "2026-10-14T05:20:07.277Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1386065830",
       "title": "EACC admits receiving Sh7 million in deal with NLC finance boss - standardmedia.co.ke",
