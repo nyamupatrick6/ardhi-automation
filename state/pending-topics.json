@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-13T21:32:17.673Z",
+  "generatedAt": "2026-10-14T00:36:33.698Z",
   "candidates": [
+    {
+      "id": "t_1386065830",
+      "title": "EACC admits receiving Sh7 million in deal with NLC finance boss - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWjFvTVN5WjRtenZsTWxlNHk4R0d3bkpnM1NZWVQwcjRFdXh1VmU4SDB3TDRhVFdqZHBTRGFYWWNLY01McTh3eHA4VE43Z1VDaTFXeFJSRG1IVERmbVpha2dnNG5RVTFHd0xSM2Yxd2xUZVRaZ3ZOZzAyMkZwY3hUbWxKb2JaZkVkdFcxdzZ3YkRZekZRZE1wLXVtbzFZSnhVbEpSNGozOHRwMUVkVXhTRWI0N3NlSUpQQU52d1FIVmlneWROTnRFeWxKYmpnYk9QTl9uOTJpbmZyR2tGS0FuMW5NM1p4WDZfZVhSTjV3?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:36:25 GMT",
+      "discoveredAt": "2026-10-14T00:35:10.173Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1721666324",
+      "title": "BEYOND THE ACTIVITY @FCDCKenya Strengthens Community Land Governance as 10 CLMCs Receive Registration Certificates The milestone under FCDC’s #LSS and #RANGE programmes provides a foundation for stronger community institutions and i - X",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lVTIxT2hjVlJqMkhKU25pbkR0aGlWV2xnd1g4RC1TcXRvWVFfSTNGRjBUclRvSDJQemZqdjh4eGhaZWQ3dHU3UkVyRWpON3IwV0ZiYWQ3NlFGX1plVk9QOVozNUR3TXF4U1E?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:44:57 GMT",
+      "discoveredAt": "2026-10-14T00:35:28.596Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_219299016",
       "title": "Kiambu landowners demand compensation, over 70 representatives present land grievances - YouTube",
