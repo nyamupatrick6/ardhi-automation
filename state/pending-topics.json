@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-14T05:21:09.634Z",
+  "generatedAt": "2026-10-14T10:21:52.946Z",
   "candidates": [
+    {
+      "id": "t_1954096580",
+      "title": "Zum Zum ownership feud erupts as state eyes land for squatters - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcFo2UWJ2bzNuTjA4ZE9oYXlkd1JPZ2R1cEgxTTZkTUpaTHE5cG9ZYURLOGZLekJsMnd6OUl5UkpjeGZ1X3RjeWQ4T0o0ai1jLVdwUF9zbGxHRVJreV9XQ0pNZ2RxaV9Zb2t2STFnRHNESk9VWE52NjJMYTB1ZHpXRndCV0wtRk9SQW0taW44cFdSeEVxeC1QRFpXNE8yT2RYV25ucUlrMTVPNjBVQkxna2VhbjVDcGtWajhhakFzNi1zcjdheUdhbk1sQQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 06:01:47 GMT",
+      "discoveredAt": "2026-10-14T10:20:33.985Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_218227495",
+      "title": "RIICO to conduct drone survey of industrial areas - ET Government",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRk96QmJ1eHEzdVNya1dfbE9qWU11T21scUF6V0tYcmVWTE1hejhoTVBOSUlrLXFYbVBlaDRyMk90XzRkUmsxRDd6RWl1Z2wwemRONjVGSnVGVWJhWE1SMk1IbWYwVmI1TVE5ME5HWGMzaGZMazNTTjlOUjk5OU1hWkxxYTFwTXNQb3JyOHAzQmxFdnF1WUdaTDBzMHBiaGNIQk9XcG1SNldsU0I4SUJpQjE1THJKNlpWUFd3T3hFSUbSAcYBQVVfeXFMT2lHRzdIbk5ZSHh1RjltWUpoNG1EaEdaRHRlVDU3OU5adWNReXA1YVhnbnBmTld1Y2hHVXZycDZrUkJCRG1RTGQ2MnhPaE5uc18xMEZrcXVUUVpRV1NKZEhhc1Y2RklYemhFbktCN3AxazBnOUN4bnNpOHBLd1R2bmRoamNKVVN4cnBNeVNINnM2bmVYTlk1dnNuUGJpdC1kMVEyM081cWNCd09ITHdQblVPRkZzeElKd2xpYU9ONlZNQkFOV2x3?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 07:48:45 GMT",
+      "discoveredAt": "2026-10-14T10:21:40.975Z",
+      "sourceName": "ET Government",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1661379690",
+      "title": "National Land Commission moves to acquire 59 plots in Nyamira for extended SGR corridor - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdkVWMlZpTHBqZnJrUl9PTjRwSzdFR2JHamJ2SmVNSjdnWHVQSGp6QlFWMWFYMER5MUJxOWNtNnBHTTh1SWYyYkYyaVVVSklOMW1IOHR3ZG9GeUhVaU10bkROLVFESWR6anRlMU9wQTBiOW41V0FLRnA4cDdTcGZWdlRWY29qcnBmU2RqTXh0anBxbTJYUXlnRFg4NWVPUkV3TFdHVC1pb0dCYjUteUo0cHAxdjVDaDhUTFNlX2hyQjc2M214TVFRakJzMHVRNEdP?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 06:47:35 GMT",
+      "discoveredAt": "2026-10-14T10:20:28.279Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1833646057",
       "title": "Photo: Sharp reactions as Sudi hangs onto Ruto's presidential Land Crusier - Tuko News",
