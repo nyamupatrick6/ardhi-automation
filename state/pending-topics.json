@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-14T19:41:11.040Z",
+  "generatedAt": "2026-10-14T22:38:56.172Z",
   "candidates": [
+    {
+      "id": "t_1069578771",
+      "title": "Deg Deg RW Xamse Oo Mucardka La Saftay, Abiy Oo Xuduudka Eritreeya U Guuray, Imaraadka Oo S/land.. - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSjVBLXVCRGNGYW1qR0dwWXBGSk5aYUJRYTlSc1Fnb09RSnBDdVJUUjhHeFNLZVFTS2NSUkV3NUZtVTFMMGlTU0xrZmNvaGd5eTJRNzhn?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 13:10:37 GMT",
+      "discoveredAt": "2026-10-14T22:37:52.797Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1847442538",
       "title": "Naivasha Deputy County Commissioner found guilty of contempt in prime land case - Citizen Digital",
