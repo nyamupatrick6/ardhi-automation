@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-14T15:27:50.200Z",
+  "generatedAt": "2026-10-14T19:41:11.040Z",
   "candidates": [
+    {
+      "id": "t_1847442538",
+      "title": "Naivasha Deputy County Commissioner found guilty of contempt in prime land case - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUVxTlFlbW82bURsczFYTUxRTHJHSXdjc2tNcmZTYlZ5NGhCZWt6YWVwMlBQUXp3ZjVjejE1V25ad2FyMjFHZWdWT3hBeXp4aGtOOVlBTWtNOERoNDRJNDhsODBWSThxck1rZVpUajY0VlBObnJFQTZZdXVSTzJLU0x4cVV1ZWZHRWs0ZU1xa1V2OVpoaDBEY1JMYm40ZUZQWUZGcThrXzlNMXNLTEFTX0R1UlY2SUhjcjFJ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 08:56:08 GMT",
+      "discoveredAt": "2026-10-14T19:39:48.199Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_490892012",
+      "title": "Land market activity posts first fall in five years - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGpMS1RxcjJ1ZXRDdm0xVkJNeEE2YU5maGxHbVpkeXljV1Qza2w5X0dtWXhid3o1eDBUMnZjU2xCVzBKR0ZnMWt3a05GQVhsTG54QkthMnJacVFEenRIUWNBaEp5RlBNbzZXLTZPbTRqVjBvTGo3dEJHd0plWi1sRFNzTDYzQjhycERzLUZ3T0hmU1FHemNJNmY3MjZURUxGODBaQnpsX2lBSExrd3NVQ2dfU1NSS2JKT3c?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:21:48 GMT",
+      "discoveredAt": "2026-10-14T19:39:49.224Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_250130598",
       "title": "ViLi i100 RTK: 7 Questions Answered - Chcnav",
