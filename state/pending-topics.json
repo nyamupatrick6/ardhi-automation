@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-15T19:14:12.704Z",
+  "generatedAt": "2026-10-15T22:25:39.319Z",
   "candidates": [
+    {
+      "id": "t_1995478628",
+      "title": "TrustPoint and Calian deliver mass-market-ready C-band GNSS antenna - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWU9iYWhoaW9lbGREUGVxYnRFRVRaSzR5QlJnRzRhR19FYkZDNXhKTnlzU1Y4QnQyR0FpNVoyV2dpVDdQUDVUM0VLaFpwM2xPXzVhQmN5YzRhZmJBb3Q4ZTN5cUxVSFFGaXE5SFZpVkZLRDk5dzNTb1ZrZjBnX1RtMzNJTDV4bGpZSkxlQ0dHc2x0ZDlpQTdLUQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:58:44 GMT",
+      "discoveredAt": "2026-10-15T22:25:20.924Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_12048577",
+      "title": "PlanetiQ launches GNOMES-10, expanding high-precision GNSS-RO constellation - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRW9IZzdpRzFYMVpEcW51ZEg2aTJLVS00VFdBeXJaZEtLdmVSY2R1V3ZLV1dyUjlYVjQ1dGRfcUZwR1h2V3p5ZW92TVN5b0lrZFNraHhUS1l1NHdBZHBuc21YdjAxS2daNlVNYjFTWHdWZXp4THRrYzdHZmlxOHhkUEx3YnhTRThtc19XNEt0cHpudFBMZ0FhUDNidXk4RUNjdXc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 22:12:48 GMT",
+      "discoveredAt": "2026-10-15T22:25:20.924Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_983884623",
       "title": "Court orders Nakuru County out of War Memorial hospital land - The Standard",
