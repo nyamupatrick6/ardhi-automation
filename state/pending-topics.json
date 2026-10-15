@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-15T10:17:40.970Z",
+  "generatedAt": "2026-10-15T15:07:36.433Z",
   "candidates": [
+    {
+      "id": "t_983884623",
+      "title": "Court orders Nakuru County out of War Memorial hospital land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ3ItZ053azllSGVCNEhhSFRYVHZTbS1MU2dqVUZrTmJjaXZfZlRhS1dxTThDM3llMEc4eTN3OHk0bU12RGRKVmtXZF96S0NPeVlxT21WTFJoZWlFZWVEYTBtQUQwNWRHeW5xX3lFSHMzUFdSNU1QM1dyTENuVDB4T0haekhlbUYtdEx2YkhET2NDWW16Z3NEZ3pRUk5yc2ZHRTAwTHBqWWVOaVdMcUUtbU4yV2pvbk1ucUdMcWdFSjY?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:51:40 GMT",
+      "discoveredAt": "2026-10-15T15:06:12.984Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2045706767",
+      "title": "Nakuru County Ordered to Vacate War Memorial Hospital Land - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMVhMTzdyaWRrUHV2RzZENzI2SWVlMFBlNmJzT0RYYUlwLWdEQ1Bnd1lUTVJLSFJ6NjJvVGxEbEpIVWZtV1BXRkNFMEExYkZpOGdqSkNTb29kcWUzNE1NcXBfb2J3X20tbU85YzA1dVRka1Q2WnU3dWlrZTZIMlJCYlNTOThGX3NFdjBxV2ttQlhJWFdRN3ZvNDBuLTJhSDJVSUpMbzRmTGY?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:54:19 GMT",
+      "discoveredAt": "2026-10-15T15:06:17.136Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1865568697",
+      "title": "Trimble BD1092 - Trimble Geospatial",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOekhFRmZXS3VmMHUzNXpvVnBLUW10SUREQWRLcmhGM0ZGaGdVMDJmdEN2cTllQ2p3OUpaYS00WWhld0FFT0w3dC1ZdXRKSGp4Vm41eWNPLTNtSUQ2U2R5dTNIZ1VNNmZUSzNLc2Q5NWk2d0tQeC1pMzBhU0Fud0FLWHVfSTIyVERPOFNfMEdYNEw?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 04:41:00 GMT",
+      "discoveredAt": "2026-10-15T15:07:03.345Z",
+      "sourceName": "Trimble Geospatial",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_787095284",
+      "title": "City Hall targets Freemasons’ hall, private schools in land rates overhaul - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFc5TWVLcFFOcW1hOWVkTjRiZklKb0tkRGFhMllCakZXTV9XWndYU2dJREFZbkc0QVJqV0R0SlFJb0w4TEVkT1pIc082OEJxakZ5VHlmV0JhcEc4SDdTU21CR3M4SUlweTNsclByQ2tsOVZDMEJMVzZTNFM4YXlvVzdZOHpkd2RYT1Z0MTJmckxyUW04c0VJdUV5RG1HOUZ2ei1nbllFMkNpVU5PVHdHY1JLMDFVTDBLelVmQjkwaVZwbmM?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 11:47:34 GMT",
+      "discoveredAt": "2026-10-15T15:06:11.894Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1891364839",
       "title": "Vegetable dispute, family row and grazing land leave three men dead - The Star, Kenya",
