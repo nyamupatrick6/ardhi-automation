@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-15T05:32:22.571Z",
+  "generatedAt": "2026-10-15T10:17:40.970Z",
   "candidates": [
+    {
+      "id": "t_1891364839",
+      "title": "Vegetable dispute, family row and grazing land leave three men dead - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2x4RnM1OWFaWmVZbVJrZjlyM3NUcm14aFdmTG0yb0FvRG84SmM2M1h2NUZmcURGMEo4RFdMS0N0clJEZUZqNU9JSHpYVG5meXJMU0t4MEVmdjd6QVA3R1pYVmxySWgzMTZsR3ZodTJBb3czVTZlckw5VUN6SC1SaHFWTncxU2JHcGhhS0lmTGdkN01GLUFJemlBRDdWdVo4NnV0alhiSUVaTTJOMHk3ZU9PQ3dMbnhhU2NINg?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 06:29:00 GMT",
+      "discoveredAt": "2026-10-15T10:16:21.176Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1249674203",
+      "title": "Government to build Ksh.300 million lands registry in Murang’a South - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdjU5QWVQMGcxZ1hZZVJHSXlOc2I2bDh0RXpHTFlhTHpJZ0ZyS3dDOVlGWGUtTU56LXFqQnc4Y1JFOXZGWG5NdzJsUjhxTnVLV0dHU2J1UXR0bUdrME9JN0duNVpIckFrMjdSNVVJaW54OEQ4N0NVcnpGZTFTdHNaeGxRcmcwY1lmX28yVkE2UmwyT0hhWVdHMzhObTkwY2djSFVfUGZMdWRZdw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 20:21:40 GMT",
+      "discoveredAt": "2026-10-15T10:16:22.123Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_120296886",
       "title": "🌍 **KENYA LAND ACQUISITION & AGRICULTURAL INVESTMENT OPPORTUNITIES** **Eurasia Afro Chamber of Commerce (EACC)** is facilitating preliminary discussions concerning multiple proposed land acquisition opportunities in Kenya, supporting re - LinkedIn",
