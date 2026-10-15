@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-14T22:38:56.172Z",
+  "generatedAt": "2026-10-15T00:51:35.217Z",
   "candidates": [
+    {
+      "id": "t_576852981",
+      "title": "Portcoast Vietnam | Digitizing River Bank | With Trimble MX50 Mobile Mapping System - Trimble Geospatial",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUpsZ3BxaGQ2dVdVbVNFN1RyM05PcnlmNFZkU3EzdzhoQWM5V29Dank2d1FmamdJY3h3MTMwbGF3VVVLRU11ajloMGZBNU9lWjRnLVRNMHN4S0p6MThfblNjLVJ3dXpJYUcwZHA1dFFiZDc3cFI4X3B1Q1R4ODJEczl3?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 06:41:09 GMT",
+      "discoveredAt": "2026-10-15T00:51:02.708Z",
+      "sourceName": "Trimble Geospatial",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1593487724",
+      "title": "Elsight launches precise positioning solution for GNSS-denied environments - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWNUNVpTZlk2N1ZCVmNlU3hYVkJWV0JCSGxseWtrY3YyNXFNR3RCcWxFSjZVQVVoeWRwLTA3bFZDTGNzQ1N1NmhjWV9zbld0ZFpoN1pGaTRsUC1hOUF6NFIxZnhiR3YtbFVQdHd1TF9DZnA1Q1NZMWR1Y2drdFJLT3dRdTlha0RXbDVFVWlsai0tSTE0djdaWmQtODBMZ2I0dEE?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 23:17:26 GMT",
+      "discoveredAt": "2026-10-15T00:51:16.923Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1069578771",
       "title": "Deg Deg RW Xamse Oo Mucardka La Saftay, Abiy Oo Xuduudka Eritreeya U Guuray, Imaraadka Oo S/land.. - YouTube",
