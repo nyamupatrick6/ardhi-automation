@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-16T05:24:20.706Z",
+  "generatedAt": "2026-10-16T10:05:57.368Z",
   "candidates": [
+    {
+      "id": "t_30111834",
+      "title": "Ex-Nairobi PC Chelogoi found guilty in Sh1.3bn land fraud case - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNam94QnhDRUJvOGRBc1k1eXp3UmpNWF9aaFY1OFZwSEcxNzZVclJtbTNZaThNaE5XNnoxYy1qZ0JQaWpjeU0wY0RBSXctdWNWUnZueWRWeHh5RzVsZ2VYcnNpN1hQUzl3WmMtbjVOSFdMOHJUZXd1N2V1R2YzWDBPeWExQXV4dzVSLXE4d2phc1FYSDlORmR6Mm1zSQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 08:39:00 GMT",
+      "discoveredAt": "2026-10-16T10:04:41.458Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2128117489",
+      "title": "Murang’a South to get Sh300 million land registry - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmQwLWxsbDFQRVJOeURudlp6ZFZzaWVoTnFTQ2JHZGJFYjF3c1RtcmVGREl2V3Q5MnVXVW80N3dKSlBfVXNYYy1NSzNBbmFiV1BsbjN6czJnOEs1OW5jdEZKa0xvTzJ4Z3M2bUxhMHFYTXMydEFhMC0tQW5Jb05FVFdwdTNMaUlNZV9yZVBYYjd4cmg2OGtRNm1hYUFCeTNpRnpMRzZn?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 05:45:00 GMT",
+      "discoveredAt": "2026-10-16T10:04:41.459Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1336123046",
       "title": "Why decision on land consent in polygamous set-ups is important - The Standard",
