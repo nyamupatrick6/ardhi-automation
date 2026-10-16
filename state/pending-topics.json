@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-16T14:55:29.772Z",
+  "generatedAt": "2026-10-16T18:36:39.460Z",
   "candidates": [
+    {
+      "id": "t_1792586118",
+      "title": "Ex-Nairobi PC Chelogoi convicted in Sh1.35bn Lower Kabete land fraud - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcnBzRlJjYnN3TUJabDRPRHdVZWs3SFlsOFJfbF9ZSzgyTzQ0OTZHSHFWVk53dV9Hck9aZURLd2ZYM1FsMlBEZ3NCVU1jTG5KNFFIaWJOZkZlUTRDV0Q2MjYyNWd3RHNOSFRyT0FWNEJVQ08xOXpQQWUyakpjMzg3UnlOazdGaHk5VUxWenBVZW1yMWJ0cXQ4S2JZM2lwdktTY1RXVS1BQjNsRHRidUE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:58:19 GMT",
+      "discoveredAt": "2026-10-16T18:35:38.897Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_517637492",
+      "title": "Former Nairobi commissioner Chelogoi found guilty of land fraud — Nation Kenya - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUE1CWnBSQkcteXBXQ08xMjJZc0xZTGd6Q3I1Qk1uMmVBRXZaVnlGRlgzQWtFcG1wSlVmWmVtVmFQV3A1dlpobG0xUmhsMkhvMVdZd2s5blZzbnhCcmFqajNKU0xYX2E4WTdrVUx6bFlPcGF4bUxKZUJaTklHOUhqYU1jLW9ERGtkOEFkaW9UM0pXOUJ5SlNiNWJYUGFXOU9kZFBZYUxHNFR4M3c?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:52:21 GMT",
+      "discoveredAt": "2026-10-16T18:35:38.897Z",
+      "sourceName": "UA.NEWS",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_523785183",
+      "title": "Govt to put 1.5 million acres of land under irrigation - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmtRMF90LU5xSHFuZjdmM1BNVzhCR1pwRmRobzdUbXB5ZUNaYll0Q2V1Yk1UNGtPT2JFM3h3MnMxVVlrZVl0Z0dFdS1SQUM0cnZ0NkQ1NjFvYjNGWXEwOWxrLWZ6TFZtLTVUSjZPVkxlTGxPVUhYYXVYYXVyZDR3QWtkVGN6RzNYcUg4?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:26:27 GMT",
+      "discoveredAt": "2026-10-16T18:35:25.622Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1043008544",
       "title": "Court rejects Athi River residents’ bid to reopen KMC land dispute - Daily Nation",
