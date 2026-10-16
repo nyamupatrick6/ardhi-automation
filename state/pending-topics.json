@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-10-16T10:05:57.368Z",
+  "generatedAt": "2026-10-16T14:55:29.772Z",
   "candidates": [
+    {
+      "id": "t_1043008544",
+      "title": "Court rejects Athi River residents’ bid to reopen KMC land dispute - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFZOWGlIX3c1ck1lRVA4NjFJZWxXamtCZnJOQ1NPU1NFYXpiRHF5bm43WExJNFdDdEY3bW91VnlVTG5fd19hQlMzYm8tenVoamFFQ2JLRWtzRjhreHVsdWlvRTVNaUVZVV9WMmZfNGJvZWRudEYwcF9qZWFBakhuZWx0QXhsdU0yb2s3R3lhS18yNFJ0WWVwb0dQQ0VWMElvWUhxMVJfSkNoZw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 11:46:31 GMT",
+      "discoveredAt": "2026-10-16T14:54:06.307Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_750016851",
+      "title": "Ex-PC Davis Chelogoi convicted of defrauding businessman Ashok Shah of Sh1.35 billion land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZm5wckpDOVhvNzFsUXNuU2FTQ1hrWVBKUTdTdEhRNkl6a2h1cklZTXo4V2xrc3IzZW01Rnd2SnRvNzdpcEI3N1BQdElxbHZ3MURkcnJSX2FwOHNWR1VySWczTFRyT2ZyY0dnRW5ucDBuVllwRWlsSDJPMUJSTzBlODBBMXU3ZGNwWnFMT0Zjc2QzR0hmZnNkYzhwQUpxalJqclRzNUdUR05VTmJCcllvRXJVdU5vT095bFlwSmJlU3pReUJ0UGJseUV5cC1Mdw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 10:39:54 GMT",
+      "discoveredAt": "2026-10-16T14:54:06.307Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_655157123",
+      "title": "Nathan Chelogoi Land Dispute - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FbExSb01XYXg1Nk9BM1BJZkxfRjBfNFlSU2tsR2k5dEgzU2dxbnl3b0RWSzV4cnNnRGZnYlhQZVlXOFhxWmhrWVJUX3VsZkRwRXhsY05McTA2MVg4VXc0Z1U4NVdPYzR5eDF3Yko1SlljbUhE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 08:55:13 GMT",
+      "discoveredAt": "2026-10-16T14:54:07.392Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1114292346",
+      "title": "Guilty as charged: Ex-PC Chelogoi convicted in Sh1.35 billion land fraud case - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSTRvOTd6LTR5OXVSWWkyU1Zhel8yUnNhVnZwRGs5NTZtWS12eHBneG1sX0I5aVh4LUVEYWdvTkI3aklQdlVaNllSWFVqM1FFZlZaVnViRDlUdGRSd3ZndWs1c0tHNm1LdFpqMHRwS0lqa3NpeHIxMEkzNU1pQWFyemVVLU5XcUhIek40V0cwSHlpZ2ZuVkMxTGRaTWZvV3NOU0NwS2paSHlfRl9pNzhYb0JvVVBQRDlGYlRKSzNqckUzZU1rei02WG1jYTI2SVVtYWVYTGJ1VE9WZ2lV?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 08:08:50 GMT",
+      "discoveredAt": "2026-10-16T14:54:07.392Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_314689068",
+      "title": "Former Nairobi PC found guilty in Ksh.1.3 billion land fraud case - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUG5lcGFjbGVaM2RoUV85Z01WLXdYeHA4M1dkU21kWWVKYnFzRjVISTFrb2lZSUt1S05uZC13ODd0Q29CMDVYRl95bVdhOXkzeE43ZjdBbnUtNjJqZ0xDRm11cjVPYnNaZHZUWnE4V1dvNVdfX3N0U1RnMUtRd280RF9nTkdNLXZoSzdJR1k5OW1SWkFzZ2FRY3FPUWdtWkw4X0xPbjh3?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 10:59:30 GMT",
+      "discoveredAt": "2026-10-16T14:54:09.405Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1665241718",
+      "title": "Former Nairobi Official Found Guilty in Ksh1.35 Billion Land Fraud Case - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjNDa2dlTnZjcmU3a1Z4bTU0LW5lUkJORFFOWEhlMFFkLUJvbWg1WVcwc2lWdlUtT05rSWlxVFVsY0xZRTFJbG1nWEN2ZEhaeWdzdHNDeENOb1NDWEI2MWpMWVRNUDJIRVpzNHhCZnNSQ1hveEE3d2tZcnFrdlRCQjMyNmtEQTBnb0stTmhzMlFVQ3JLY0l5OVFOUXF1RlQxeTY4LXU0ZUJqaXlHYXBIdWhLUkxfMVk2?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 10:20:23 GMT",
+      "discoveredAt": "2026-10-16T14:54:11.494Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_402522398",
+      "title": "Ex-Nairobi provincial commissioner Chelogoi found guilty in KSh 1.3b land fraud - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmhPdTRud2QxTUlwTmpSbTB0S3NHaGN5YmwxMnc4MFR0LTgyTmQySU9HbUxSb0J4dWdHLVV6T0VJOEV0Qld0dC1uU0JDZlJuNW1ZLTBvOGNyazR0bTVCTno3ak9LdGt0OFh2S25RNEQ0czVqMDAxRnlWYV9QQ19pZ0ZnQWU4MTlQNXhpOWlha081RDBDR3FzQVFJcnN4X2Jxcy1sdVBMeVdoSlg0ZUVNV1NzcFBkVkwxVXJ4cTJNeFJFTGc?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 10:01:20 GMT",
+      "discoveredAt": "2026-10-16T14:54:12.587Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1700461743",
+      "title": "RIICO to conduct drone survey of industrial areas - ET Government",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRk96QmJ1eHEzdVNya1dfbE9qWU11T21scUF6V0tYcmVWTE1hejhoTVBOSUlrLXFYbVBlaDRyMk90XzRkUmsxRDd6RWl1Z2wwemRONjVGSnVGVWJhWE1SMk1IbWYwVmI1TVE5ME5HWGMzaGZMazNTTjlOUjk5OU1hWkxxYTFwTXNQb3JyOHAzQmxFdnF1WUdaTDBzMHBiaGNIQk9XcG1SNldsU0I4SUJpQjE1THJKNlpWUFd3T3hFSUbSAcQBQVVfeXFMUG1RVF9sbFo1Y0VZVncxcWFEVGVnVy1sSG85ZnJ5WHkzOHBGdzhZNWFRU1pNQUl0OGNGQ1FpSDV1dV9rQnNtZzVQV1l0M3JvdlJOUFh2WWZ0b1V3WmhleFM3bFFFVHRfUDJQeVdYR0hQakNfek5HbkhIYmZkSkZSOUM4SXdiR1ZySTBGS0tiWEgzRHFlRG56ZHhIYUV3WTR2T0Fhb1Q3cTNDQ0tEU0E5ajhDczNUc2xtMTQzcEZHYjcwMzJIMQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "discoveredAt": "2026-10-16T14:55:17.737Z",
+      "sourceName": "ET Government",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1253604446",
+      "title": "Nairobi boy, 10, who dreams of owning airline lands big aviation role - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjIzZmk2bkdjVlpCb0xwRzJOMFRDSUVtazZwQWkxd0JqQUN2MVFyaEJEUWZXYk9RNkc5ZnhMZzRJa185ZzJxai1GSmdLLTl6UThFY2QxZkdzV3FGYi1RbXFRVnNkdUkzaU5VTHJpeFJDZGlUakdhZ2lhbHdGOFdmSEZBQmJNbm0yR0FVcUJpQ1E0SW9JZHNjZ0RXV3luZ3kzTThDNkl6MmVXMnhxZjdV?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 10:08:34 GMT",
+      "discoveredAt": "2026-10-16T14:54:12.587Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_30111834",
       "title": "Ex-Nairobi PC Chelogoi found guilty in Sh1.3bn land fraud case - The Star, Kenya",
