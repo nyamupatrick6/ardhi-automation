@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-16T18:36:39.460Z",
+  "generatedAt": "2026-10-16T21:41:09.937Z",
   "candidates": [
+    {
+      "id": "t_307838550",
+      "title": "GeoCue expands standard lidar portfolio with TrueView 550 - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHhfSUhYYU5Ea0F0Z2FLem1aZVNVbXB5ZnRfV1dBUGhZMmVDdVkxRUlsdE1acnN3d3dnWVQyMXJleTRqSlVpYm9KQjN2dDdBN3lFeC1vV2ZUeWpYaWdCeVdITGRJQ0cwMmJhUDFzdWJBLWdtTGo2YTVHeWhxODQ5NnVRMmZieTV3NmM1WjBfNUNJbmduQy1Z?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:41:00 GMT",
+      "discoveredAt": "2026-10-16T21:40:51.794Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_635546458",
+      "title": "Deg Deg Itobiya Oo Dhulka Ku Jiiday S/land, Mucaradka Oo Go'aan Cusub Gaaray - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fOWJkMTZvNmJVYll5dzJ6WmJwRnFlWF9nVUdobV8wZUFWaXd2ZUtYbEI1SU9QcE9icUI3WW0tRkxmVkV5MXZJRVN1dE9lc19YTFZMcGFB?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:06:12 GMT",
+      "discoveredAt": "2026-10-16T21:40:07.770Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1792586118",
       "title": "Ex-Nairobi PC Chelogoi convicted in Sh1.35bn Lower Kabete land fraud - Daily Nation",
