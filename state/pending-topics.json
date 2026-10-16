@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-16T00:43:53.417Z",
+  "generatedAt": "2026-10-16T05:24:20.706Z",
   "candidates": [
+    {
+      "id": "t_1336123046",
+      "title": "Why decision on land consent in polygamous set-ups is important - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlFIQUxEY1c3WEQ0Z0EyZUlxOEJiNjMwRkdGNlUySmk4NTk5MjVubzJZa1JTd2laWUJUWUQwQmNqb1hmQ0hsXzBtN3pybW5VZXRUN014Q2hLSC1oWC1wV0dWVldzVTZDVjRvclNnVkc1WWRfa0JzYzVXZk5YMjIzaUNrZWRGOXV4dXRjd05ua0FzQm1BRWtzU1NFTURkaWtvQlNUeG5lVWRiS3F4dm5FaElxdnRKTUp5Q1RncVFocw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 03:30:00 GMT",
+      "discoveredAt": "2026-10-16T05:23:03.608Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1120453046",
       "title": "GeoCue releases TrueView 550 aerial LiDAR mapper - Spatial Source",
