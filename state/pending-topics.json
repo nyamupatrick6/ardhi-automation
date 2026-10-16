@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-15T22:25:39.319Z",
+  "generatedAt": "2026-10-16T00:43:53.417Z",
   "candidates": [
+    {
+      "id": "t_1120453046",
+      "title": "GeoCue releases TrueView 550 aerial LiDAR mapper - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkY4QTBHRTMtMjRkODJnaGtGOEFFbm9zLUdyVjNWMENWX0lleDh6Yk5YbHQwbUxvRG9zOXFrUVgxUXVhTzFiLWJPV0Q1UjRhVDRWdXd1OV9CV1BOVXpjWG5NNzJPMDRlVGNZSXdjUUVuMEptNWxvNWFGNG9KTEdad243MDhISTFSa1E?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 23:11:43 GMT",
+      "discoveredAt": "2026-10-16T00:43:38.176Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1995478628",
       "title": "TrustPoint and Calian deliver mass-market-ready C-band GNSS antenna - GPS World",
