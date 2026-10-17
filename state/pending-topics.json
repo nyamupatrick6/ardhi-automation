@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-17T02:49:19.062Z",
+  "generatedAt": "2026-10-17T07:30:15.698Z",
   "candidates": [
+    {
+      "id": "t_216693837",
+      "title": "RIT student creates club to connect students with growing geospatial field - Rochester Institute of Technology",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUVFRmhtWHdyWkczWEFaeEx5NEhKbVFSMjZ5UDgzcWF2UFZMZTk5YnZEYXJreFpTU3RpdWc1cmJEZHNGX0poZ1VEbUJmeFl3dHZOZE9hbllBV0tJTWl3dVBWVTlaMU1xaXNGdGxpbWZnQXFCelNkX2RGNVNaY1hJV2ZpTXJzbjBCUS1NWnJqRkRobjVhT0E?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 15:39:48 GMT",
+      "discoveredAt": "2026-10-17T07:29:56.456Z",
+      "sourceName": "Rochester Institute of Technology",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_307838550",
       "title": "GeoCue expands standard lidar portfolio with TrueView 550 - GPS World",
