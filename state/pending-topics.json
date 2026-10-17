@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-17T20:03:04.118Z",
+  "generatedAt": "2026-10-17T22:25:31.494Z",
   "candidates": [
+    {
+      "id": "t_1987419191",
+      "title": "Competing titles, disputed plots: Inside Syokimau’s land ownership wars - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1VkRnBDbm9wdmttanZzNU9XZVUtZWJwbWo0YzZwdy1IOUdlSFdwQWNQRG5WaDNTV050Q1E4X0JyUlJJUWVMVXF6aWw2Z2x5OHdzNjV2cHB4T2xfanhxNmJJdkdDM0MtNFVYNl83NURRdFJEbmtrYW4zRldjcVB1TjV3ME5uQkh2RUtTZU15aDJtc0JIWnFZQmpjZzJzMTJWcG5fREpTX1h1aTRkV2RmdVlsd3ZfUm9HeDNtRHNFNko?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 13:00:00 GMT",
+      "discoveredAt": "2026-10-17T22:24:11.636Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2022935751",
+      "title": "GSU officers forcefully occupy Moi land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVBfbU92OW5MT3AzZzc0QkttMTc1U181MDE3SVBfUDY2MG5nQ0xjUkVseUwxdVR5d0YxQTlKNWNjRXRtTEc3LWRxbC12bGo0bWxhVmdfUEVDcjQxR3FaREpvVUtJeV9UNE01OVpFMDZYNGoyMjBaN1l6N1VFaVVNdWx6dGh1WE5kcFlod0xrX3JMV3llOFQ5c2QwcEVPNldHbjZDdQ?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 17:19:04 GMT",
+      "discoveredAt": "2026-10-17T22:24:12.637Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_368130618",
+      "title": "A fleet of high-end Toyota Land Cruisers, fitted with powerful sound systems, paraded through the streets on Friday as the broad-based faction went into full campaign mode, decibels on high and the ground locked ahead of Saturday's Kenya Kwanza mega ral - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40M1dabEZWaHlFdE9rTTI0QnppTl95SjZjSTBWc3NmbWYwZTczU2d6cGk2Y1hQZDhub0ZiZU1oWGhycTZjcjlLSGRwTWFlOVNzWGZmYzM4bHdNU2FvSzJXeFdFY1M3aktHRU40?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:07:53 GMT",
+      "discoveredAt": "2026-10-17T22:24:32.106Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1500419682",
       "title": "GSU officers forcefully occupy Moi land - www.standardmedia.co.ke",
