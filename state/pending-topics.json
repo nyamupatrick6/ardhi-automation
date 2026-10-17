@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-17T07:30:15.698Z",
+  "generatedAt": "2026-10-17T11:45:25.690Z",
   "candidates": [
+    {
+      "id": "t_1858814152",
+      "title": "NOBODY WILL CHASE HER OUT OF THIS LAND SHE IS MY CHILD AND SHE BELONG HERE - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84SjV0NVhwOXZRYXVHVjZhU3FIbk5Ib2o0VmhwT291ampUc0wwZVRLLUlPUE5Hd2hkbVNyS2NFVDUxanhnUUJaMDMySm1SUnd6aFdHcTRB?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 04:07:59 GMT",
+      "discoveredAt": "2026-10-17T11:44:28.445Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_216693837",
       "title": "RIT student creates club to connect students with growing geospatial field - Rochester Institute of Technology",
