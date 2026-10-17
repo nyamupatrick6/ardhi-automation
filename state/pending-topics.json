@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-17T17:45:13.804Z",
+  "generatedAt": "2026-10-17T20:03:04.118Z",
   "candidates": [
+    {
+      "id": "t_1500419682",
+      "title": "GSU officers forcefully occupy Moi land - www.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbF9iU1cyVFY3SFI0b3FsSjVNa1BnODd2bS1oZWMxZDdySUJDZ1RvTFRuTDhzOTRpOUlYdTc2Y1BEUVlLUWp4WFpHUjYxbmVxTldBankxcTB3M2t5UlhaamxmbWVLRnRLbHpzNWpLNHR3UjluTTlEWEU2SWlSUEZtc3BXUTdkaVByYUluWW1qeUQxZ3hGWjJyX1RpelVFcGJJRWtBOWNaSHVqTDg5eEN1b1ZUZHoydw?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 17:19:04 GMT",
+      "discoveredAt": "2026-10-17T20:01:45.160Z",
+      "sourceName": "www.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_689794012",
+      "title": "Bahati's wedding invitation is only Ksh. 1M, many company CEO's are buying that invitation. It will be pure networking. Kama hauna kazi sell your father's land shika one invitation, you will present yourself before many CEO's. Apo utapata alot of connection. - X",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SVV9UMTBPdHdBaXVwN3FiQlE0Rl9xb2U1am9CVXpUeTkwRFYxUFRNdkxmYkdEZ21pbTFJdlo2amNrVjJ5bGJUQlpjbVpuWXVGZEZ2NDZYYk92cjlKb1QxWlhR?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 06:48:08 GMT",
+      "discoveredAt": "2026-10-17T20:02:02.909Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1123424303",
       "title": "Chelogoi Convicted In Sh1.3b Land Fraud Ex-Nairobi provincial commissioner convicted over Sh1.3b Loresho land Magistrate says Chelogoi intimidated her during proceedings Chelogoi remanded pending mitigation and sentencing. #NTVWeekendEdition - X",
