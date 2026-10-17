@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-17T14:53:57.115Z",
+  "generatedAt": "2026-10-17T17:45:13.804Z",
   "candidates": [
+    {
+      "id": "t_1123424303",
+      "title": "Chelogoi Convicted In Sh1.3b Land Fraud Ex-Nairobi provincial commissioner convicted over Sh1.3b Loresho land Magistrate says Chelogoi intimidated her during proceedings Chelogoi remanded pending mitigation and sentencing. #NTVWeekendEdition - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mT2FUd2JnaGJ2NUdYaDlsSHhPMFBTNWlpUG1vR2l5eTZWZTBuZ1l0T21GWG9FaERpR0o0SDZCbGxSMWUzNXZlM0c4ZHIyak5JRGNyZ1YwQ1o2bnlCVVE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 18:53:01 GMT",
+      "discoveredAt": "2026-10-17T17:44:11.392Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1708497208",
+      "title": "Tags: gnss-antennas-and-receivers | Trimble Resource Center - positioningservices.trimble.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2M0SWNRZy05X2tYQzY4TncwOGRtSFJ1MUQzcld0clBZYjI5T3dodlA1LWhpVzViWHVZMWlnWEFReGJwUWhlYVM1VXZCWGN5TGRjS3lNRE5VU3lEdXVqbFlkanFZOEZVVnU2RTJZSnd4b1ZXZEZ6WkRNMmZFdlh6Unk1elZ6UzIzcDRwRzJsRzJrRXhyUURF?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 13:23:24 GMT",
+      "discoveredAt": "2026-10-17T17:44:42.653Z",
+      "sourceName": "positioningservices.trimble.com",
+      "discoveredVia": {
+        "query": "site:trimble.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Trimble",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1440100525",
       "title": "DCI recovers UK-stolen luxury Land Rover in nationwide crackdown in Kenya - People Daily",
