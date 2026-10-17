@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-17T11:45:25.690Z",
+  "generatedAt": "2026-10-17T14:53:57.115Z",
   "candidates": [
+    {
+      "id": "t_1440100525",
+      "title": "DCI recovers UK-stolen luxury Land Rover in nationwide crackdown in Kenya - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0x3andJUmZ6VHVaX2FDeHZEUmFZUm0tdzFHZWVFQ2VMNXZsa053WllyT3ExLVFUOS1lU0R5ZEtMYm45MnFLWWJnd1FVV3Z2bGxZNUs1MjBVQjRqeFhMejNMV08xYlNfdm5pY2hvTUdrV2xlVUtWR3k5VF90WUxyd1ZuX3lKams5VTc4eHBVOWdfeXlvSHdad0xOdFR0bVg2Q05RNlMzYVRaUQ?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 13:02:59 GMT",
+      "discoveredAt": "2026-10-17T14:52:53.759Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "Directorate of Criminal Investigations Kenya Kenya",
+        "origin": "Directorate of Criminal Investigations Kenya",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1858814152",
       "title": "NOBODY WILL CHASE HER OUT OF THIS LAND SHE IS MY CHILD AND SHE BELONG HERE - YouTube",
