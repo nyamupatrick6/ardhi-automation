@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-18T13:23:30.486Z",
+  "generatedAt": "2026-10-18T16:52:43.983Z",
   "candidates": [
+    {
+      "id": "t_1713520477",
+      "title": "Ex-Nairobi PC Davis Chelogoi Convicted in Sh1.35 Billion Land Fraud - Kenya Insights",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFpwYzNzXy1SRmg5YXJCZUFoaDUyYlNLajUyQXk5aWJocXo0aVZFVmozN0FGQ3I1bEw5THIxeml5SU9JSUw4U0J6Y2NkMjlRZ1BSTTNMTGtFM281NDBodFpia2I5MWluZHlfYWlrM3dQYl85TVVQekpsXzc5ajduMDRtTjBHM2htTi1fbXBQa09RUWRyZzVN?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 19:47:55 GMT",
+      "discoveredAt": "2026-10-18T16:51:44.827Z",
+      "sourceName": "Kenya Insights",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1394182044",
       "title": "iM-60 Series Total Station - Sokkia",
