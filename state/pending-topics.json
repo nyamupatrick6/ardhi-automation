@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-18T09:19:35.273Z",
+  "generatedAt": "2026-10-18T13:23:30.486Z",
   "candidates": [
+    {
+      "id": "t_1394182044",
+      "title": "iM-60 Series Total Station - Sokkia",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0dURhSTBnRHVObHFXQ25rbEVFVVEzTGpBR2drVklpcEhuRXhzcHB5V0Jzb25aMzcwUk11ZTBLSVdtU3dPNUdaWTVkbDk0eEN2TGNGMU9mbGhNbUVObENVM1BDZ2hidlNlendRLUd3eU12UHZLclJFUg?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 01:54:01 GMT",
+      "discoveredAt": "2026-10-18T13:23:05.210Z",
+      "sourceName": "Sokkia",
+      "discoveredVia": {
+        "query": "site:sokkia.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "SOKKIA",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1708945821",
       "title": "Eye on Governor Kihika, CS Murkomen as War Memorial land dispute deepens - The Standard",
