@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-18T00:16:24.555Z",
+  "generatedAt": "2026-10-18T04:42:22.964Z",
   "candidates": [
+    {
+      "id": "t_1708945821",
+      "title": "Eye on Governor Kihika, CS Murkomen as War Memorial land dispute deepens - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdUJ1YTY1QkdVVGZnckdrNlEwbDY5YmgwSW5nNEpfRjY3OFNPMFh1OHlWa0JlcXVDQjBFLWpIV0hMaE15QThqSHEtYWptRDZpOVNKSDBvTmpid3oxM3cwUUhrMGRfeDJJczJpZVlYcVNjVUsxVnhJdzFGQXJROWEtM3ZvTWNTTFJQNVhKTGo1VjNhc1hnOHMxN1FFbm52cHNpLXo3ZnlGNEFYd2NHX292eWduUTI4YXNQTDBGenJlbnJRdWJSQ2czZGdBbDRBTk5EcGc?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 03:00:13 GMT",
+      "discoveredAt": "2026-10-18T04:41:05.698Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_445515637",
+      "title": "Real-time GNSS products lag post-processed solutions as accuracy demands tighten - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2FKTUxJcExKZFlHYm5QTko5TElJN3dhMEwwRW9zMXZqUVZHdkt1a21XZ2RhSnZQSzlLbUNiY3JvaU9rNU9XNnI3MlB5bEhIbkprZTlRNnFIOGRxcXhuT3RnQXdCOVNBa2ZJVzV4eGZzdE84UXM0X1oyOGpJMGhQOG1jcFZqUlBURW5LVWRfUnlzcUM1dEFKUWVYcWdtaU5DNnZuV1VlMHRTZw?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 00:41:54 GMT",
+      "discoveredAt": "2026-10-18T04:42:05.741Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_578685236",
+      "title": "Drone positioning board spots GNSS spoofing in less than 1 second - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDZQSGIwdjQycTktNlZqQ3lMUzZOb1h5T1RmbUVRbENiMDNmVGFROHptR3dadTN1c2o1VEZ6ZWVnOUZjaEJwbGRjaExXOVp6U0RjeVFKUGd1YzVqOE1vUi1mMlFaNXR3VHdZUjdZNHUwR3RocDhoRzk0UkFMcDVHV3JDZEU5OUxSdVhvR3ZXb0N1QmkwOHc?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 00:31:05 GMT",
+      "discoveredAt": "2026-10-18T04:42:05.741Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2042861895",
+      "title": "DCI recovers UK-stolen Land Rover, Mercedes Benz in nationwide vehicle crackdown - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGw3eUZNT2VCVzRYYl91czVrclNrMXhITjFvMks2RWZha19IYkxrRUZjNktsLUxHR2V4bGlMSjVzTC0wemcyYm9kQVlxYjI1NFRDM0ZINjgzNTZQWlJUcVJuc2ZiTFhORU96WUxaRXdJVkNva2l5dU40VDRyQktTSmtBSVNyOFUxN25qUV9WV0xaSHkzVWszMFJqeVdlNDFZbzBsWUlSZnRZeXRpd1FIMnNMU2M0aV9SbUI4?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 00:52:29 GMT",
+      "discoveredAt": "2026-10-18T04:41:07.527Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_446434614",
+      "title": "Professionals want Architectural and Quantity Surveyors' Practitioners Bill paused - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXJqRUwzeDFIVlhaTE5xcndqRkUyV2F0ZnBIYTQ0LUo1WnU0M1Q3NzQ3aEpTenVoVVBmSzd4MnM4VHhJZU9RR1ZhTFM4YUQ3ZC1pVjZyaDdsYnhwRm4xQjd0OG9hcXoxWm5uaXViYUNMMzZJeW9qZDR5NVBHSzJjTHpSTXRNdUJIOWJZbnR5NUd0S0FyQUlkdnc0MzNwNURSS25VLWxqWTBWY2I0X20zS2pEbGZ6dEdRQlpBMWdB?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 23:10:32 GMT",
+      "discoveredAt": "2026-10-18T04:41:18.488Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "The Institution of Surveyors of Kenya Kenya",
+        "origin": "The Institution of Surveyors of Kenya",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1987419191",
       "title": "Competing titles, disputed plots: Inside Syokimau’s land ownership wars - Daily Nation",
