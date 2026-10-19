@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-19T06:49:28.749Z",
+  "generatedAt": "2026-10-19T14:19:09.028Z",
   "candidates": [
+    {
+      "id": "t_585147938",
+      "title": "NLC Announces Compulsory Land Acquisition In Two Counties For Major Road Projects - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aMDhuRmt0cWdDQmlJSVRhdktXTVpEbWZzVzRJRXlFVkFvcDhqZ1U2aGpqWGtVOTNfcTk3b2k1Q1Vmd2VzWkRJR1Y4UVppUHhLTFpZdjNMLVpBal9SZURrSkstN25EQTFvei1KZDh5WmVubHZCQjRtN0drTFpPUQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 07:34:23 GMT",
+      "discoveredAt": "2026-10-19T14:17:40.054Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_111888090",
+      "title": "State's invasion of Moi land is unacceptable - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFB0Q1dQNzNXQlA3TnZSM2YwR2NXV19qVjI0VUdlaUdrVWowNHZIS2VUMFNyNFZjLXJRYTY0N2QyUmlaZDBXWldTNGlOdXVpRndpM0ZfdEt1U2lIU3Ruc0VmLXJra1pxSFphcDV0V2xoRDVsZnNWSEtQT2FUVzYwbEluRUlhbzRIUFhvMlVtMWx4aG1FX3NEUkk0cjI4OVB1MEV0MS1nUQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 03:00:00 GMT",
+      "discoveredAt": "2026-10-19T14:17:45.786Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1113174039",
+      "title": "Kiwayu residents demand titles, parliamentary committee probes land grievances - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYnZ1bWJRaFl2bUwyaUNydG1XenhRXzUyQ2hUYjU1bjQzdElfcTNzaE81eEVKVFJfMmtBYzhmRkhWT3J4ZWRXUXpvanYyYm83ZXcxaGFrdVI3empUUFNqaHl2MUpoamlMaG5HemU5Y21yNTM2Q0gwMnpjUDVfT2lPTU43NFdwNlBXQWdseGs4eThPbXZIMmQtaVp5UU5mSE8zdzJnOE5rQUFCdw?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 13:13:14 GMT",
+      "discoveredAt": "2026-10-19T14:17:54.295Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1527581945",
+      "title": "Land ownership, secured! 🏡 During his North Rift tour, President Ruto scheduled 17,793 title deeds for issuance: 6,300 in Elgeyo Marakwet and 11,493 in West Pokot, giving families a path to secure land ownership. 🇰🇪 #GOKThisWeek Forging Onwards ✔️ - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wMFR0X2xOVEVZTFUyM2RsdG5yV1BfVENlRFZvaE92T1hzd21sd3U2OElZZjhtc3BJZEJ1UmlFemFWWDR2ZTBXd1NYNzVkaG02eUVTUzRWRjFpUFEwTEpDWnpZMDJjUQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 10:10:54 GMT",
+      "discoveredAt": "2026-10-19T14:18:03.573Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_754042471",
+      "title": "Simulation, Mapping, and Processing Tools Expected to Contribute More Than $0.7 Billion to the Lidar Software Market - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT1NuSGFrR0tyNVloUHIzT3Vqc0dWdXcxV3NYSWthYmh0SWZDaHpxS0FxeDZTSHhCQ0hTQnRYSlBDVWlIREhKQmpzX016b3gySVhLMWNJLW1CNTFZMjV1NjdLdFg0SmdfTFNwWDA5bXNhUzdTaHR3VWFKQjVVLWJSUkRKTUZpbERXNTRrZmdzWGVsOWdxMFRrZEpvaVZGVXN3dGt2Z0ZMOFlKTDdGNVFSQXVnQ29YeUN3TS0zOTllc0RVc0s1cTk2UHgtMlY5dEhicTRTT2pfeDY5d242VEhhdV9RaURDSXVuaW1z?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 12:56:00 GMT",
+      "discoveredAt": "2026-10-19T14:19:05.770Z",
+      "sourceName": "EIN News",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_491120172",
+      "title": "Landlords Put on Notice as Govt Moves to Acquire Land for 124km Road - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dYQ2o4aXhrTDd1bTNHaGxVbEMtTlA0SVlRYTVVTVktUzJub05QWlB5eG44S2NhYWRuSVlNdjZxaWpoRUd1M2M2Qjh4aEgzbUg5VldidjJ1TVBFNk1YVk1UcjNkTFJnXzBEX2ctVE8ySkM0dVEzVk5icm9hWGlYeEJYeTV1YkNDVDJYTDFHUldFZl93T1ZzOU9EcGdWeGE1TkRGckRoOWJqcXZuNjFPMFdTNA?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 10:04:48 GMT",
+      "discoveredAt": "2026-10-19T14:17:40.055Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1251771052",
+      "title": "GSU officers occupy Moi family's prime Eldoret land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjhJa0dIX3lpcV9XNS1SMjVwTlZNc3lKdDBKeWh1cXBZLWRYai1WQjBTSWJVYnRwaE9BR0Y2ZVA4N0p2WHo5VWpDTEJvUHlibGkzRUcwejZySF9oUFFLZWdOb3lFOHVCN0VxYl85MHNkaHFtTTZxY2dQLUwwVm5TX3FWNDFIOFYtNjllU2dLbm1UUlBvZFBhRG9CbTFmUEg1dllkZlBHSWFwTFNKb044NFltOA?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 05:02:57 GMT",
+      "discoveredAt": "2026-10-19T14:17:45.786Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1713520477",
       "title": "Ex-Nairobi PC Davis Chelogoi Convicted in Sh1.35 Billion Land Fraud - Kenya Insights",
