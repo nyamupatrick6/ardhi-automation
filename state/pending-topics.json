@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-10-19T20:12:05.229Z",
+  "generatedAt": "2026-10-19T23:32:29.999Z",
   "candidates": [
+    {
+      "id": "t_1671133187",
+      "title": "Kalonzo condemns the invasion of Moi family land in Eldoret by the State - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXJsMEwwQ0pFaHlyNGE4NjM5VXZJdjZ5YTc1UlFwVERCaDNfZGpvZW1GLWlQbGhnNW9iOF81VXVaTHpqWXhfM3J3V2t6SjNoS3M3a3JTQWttSmNaMHh2UGxlWXRMdV90eTMzWmtJaEEzSVplTUJRcE9Odkd5YUZld1YzY3Rwcmp3ZjZtUW1vdWg5bWQ0OEVPTTNrVGo4UWV2b2N2TFdjRTFzZ1JZenU2ZmUtbFc5UQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 15:06:13 GMT",
+      "discoveredAt": "2026-10-19T23:31:11.820Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1143943281",
+      "title": "Moi Family Land Row: Kalonzo Points Finger at Ruto Over GSU Occupation - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UbVliREVUN085emxIRGdlc1RGcWZOUl9Ba2pzWnBOT2JxSlFJSDhDeXU0ZDItTmhqMWFCWEVpaHZRN1FVT2t0RWh2VEdob2c2cWw4dVln?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 18:26:49 GMT",
+      "discoveredAt": "2026-10-19T23:31:29.642Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1236154312",
+      "title": "A land verification and validation exercise has begun in four sub-counties in Nakuru to authenticate land ownership and facilitate the issuance of title deeds. The exercise that will run from October 19 to October 29, 2026, is part of the tenure regularisation proc - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYzFRa0pfb0VtdEtyN293TEY2cGYyY2Z6QWx2czNFRU5zYWN4Q2J0a2JuZFN0LVJGY19yWmF4ZXpDaTJoNDROeng3eUEwVi12V1AtQV9weUZYSnFyVWQ3bmo4X2stY2cxeWxJdFNmU2tfZmpfNVZacnhYdUdzRkFENndCT2dpb004UkdEbVREODhwUFpOTXJRZ2dob3RGazBIUVoxcERuS20xQmhDYkNLT1JZeHR2MmVWVVZUdUVYaGhsZ3JqaUJfREp4Qll5QmJibjEwZnlMU0gzamNrSG8w?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 19:57:42 GMT",
+      "discoveredAt": "2026-10-19T23:31:41.148Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1798118918",
+      "title": "Kenya Uses Affordable Housing to Protect Farmland - Uchumi360",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0J2ODlGNGlacW04X0ZOWmgtU2VyeS1DUlktYjZXMlIwUlo5X2MxWUNndkt4Uk5tcW5KWGhHUXMzR0RtYmhDYjBYb2p0eWJEMFpDOV9CRVV6Vk5zSDJCbFpUbmx3RnBwMzdrTmJWcDNFbEx6eEVPY2lEMVVLZldlNWc4MA?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 15:51:44 GMT",
+      "discoveredAt": "2026-10-19T23:31:47.410Z",
+      "sourceName": "Uchumi360",
+      "discoveredVia": {
+        "query": "land subdivision Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_232002197",
+      "title": "RIT club connects students with growing geospatial field - Rochester Institute of Technology",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemRpMERJTmhQbzlabUtfdk1KWmFKWTEzeVBUQXdLa09jRjBXd05zWC1aaGxjOGN2VkpKRi1vT0NGd05mQlRza0h1ajFhQm9zVGFtMjNRemJqTGxsUG5nVlUyZ1ZNYkV1dGNXTUVtaXR5Y0VVMmxlWG8yN3RYMjFjNlZn?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 15:39:48 GMT",
+      "discoveredAt": "2026-10-19T23:32:10.880Z",
+      "sourceName": "Rochester Institute of Technology",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_391804734",
+      "title": "Ruto's 'land of glory' promise remains a pipe dream as Kenyans grope in uncertainty - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX0NKYV9NSmRQWEZJX3BmRTFtZUc0Mmd5UTQwd2ZOenVLcFhZZGhoYTVwa0p2SmxUUVp1dGVhY0NXUnF0WjJuck9ybVZrVWFCWTd1cm9xSzBJVzhKTVA3UmhKRlpNYWJzUE9KWTZ4LU1YQktOTkJ0LTAzd3Jmd3BvNnExblF1ajUxZWIxMFJoczB0RWpqNlFEMmZ3bUtnUTcxWmluRklpeTg0NW1wUW9XNXVsOFVodHJFcGh0OTJhcVNmakQxZC00S0lNU2g2aU0xVmw4NTdEb2VEMTQ5ZVdMaHdLelBtTG9oYVE?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 21:00:00 GMT",
+      "discoveredAt": "2026-10-19T23:31:11.819Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_807072458",
+      "title": "Land verification, validation underway in Nakuru County - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFkwS2ZTUmU5WHNVX3VRa1hpakNOcVZadG0xY1NYRWowTjFtRHJ4a19XT0VfRGQ3SXZzRXMwZHlLNmVWV2Iya3J0dS1FYkFjV1ZtWUpEQk4zY2YxMlcyS25vaVp4WDFBX0RlNUN0NV9tVkdXMDlScUdEMXROaEtvNUp4R2o4SFVMWnpn?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 19:21:12 GMT",
+      "discoveredAt": "2026-10-19T23:31:19.739Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1687445489",
+      "title": "A powerful documentary is bringing Kenya’s unresolved land struggles to audiences in the UK and US. In Kikuyu Land, co-director Bea Wangondu, protagonist Mr Mungai and producer Joseph Njenga confront the legacy of colonial land dispossession, the rea - X",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aZFBNLU9kclkwQkNENnVUNXRZazRqcHVTNVBiWEhzQlZsWG1lU29VZ2NzWDBPQUJ0dHNydFh3ampzcHU5cm1OdW5RbGNod20wOW5EekR0VjRsdGZZY2xzTWNCcUo?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 18:16:36 GMT",
+      "discoveredAt": "2026-10-19T23:31:28.658Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1646004802",
+      "title": "Deg Deg DF Oo Itobiya Xariga U Xariga U Jaraysa, Kacdoon Dani Ka Dhan Ah Oo P/Land Ka Bilowday - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BSHZlUkF0M0Fsc2RwWVFxdHh6MUFLM3NISmVhUm9rbEkzb1ZYVXoyYVlyMzBMcGluVWk0ckYtVDQ0d1dOVGpYN2V6aUp3TVFUeThyWUt3?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 13:16:50 GMT",
+      "discoveredAt": "2026-10-19T23:31:29.642Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_585147938",
       "title": "NLC Announces Compulsory Land Acquisition In Two Counties For Major Road Projects - The Kenya Times",
