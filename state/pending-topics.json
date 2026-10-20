@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-20T21:12:34.255Z",
+  "generatedAt": "2026-10-20T23:57:38.651Z",
   "candidates": [
+    {
+      "id": "t_1304215168",
+      "title": "RIICO to conduct drone survey of industrial areas - ET Government",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRnNXdG5YWlZMUndWU1pJcVpTeDA3NlZ0UlRKdktCSGIwSGFCb2Y4cDl5NEJLMTc3emthVnJMclpleVNBamM5UVFLOEJMNXBQbm9MMUNqMURRTDExUFNENnF1RmlEdURmc0FMNEtsYUppdnlkeUJPV2c3dDhEUkJsX3BBbVBYZURMZUVXR0dKTVQxLVFjajF6UXNKZ0VDX0tIZEFDVkxqUEgwd240Qy1BYV9qWXpDZUpXX0tEVFkzZ9IBxAFBVV95cUxQbVFUX2xsWjVjRVlWdzFxYURUZWdXLWxIbzlmcnlYeTM4cEZ3OFk1YVFTWk1BSXQ4Y0ZDUWlINXV1X2tCc21nNVBXWXQzcm92Uk5QWHZZZnRvVXdaaGV4UzdsUUVUdF9QMlB5V1hHSFBqQ196TkduSEhiZmRKRlI5QzhJd2JHVnJJMEZLS2JYSDNEcWVEbnpkeEhhRXdZNHZPQWFvVDdxM0NDS0RTQTlqOENzM1RzbG0xNDNwRkdiNzAzMkgx?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 08:13:54 GMT",
+      "discoveredAt": "2026-10-20T23:57:26.549Z",
+      "sourceName": "ET Government",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1685828910",
+      "title": "My land is Kenya by Roger Whittaker - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDa2VaRU5tQ3pFYXdnd1p5WFR5dVlDYjhabkJxMUZDRElnMmJyaHdRZXk0V3hHN3VNaGloUkZIMmg2dU9NODlHVF9Xb2hyaVFmaUQ3Uw?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 04:00:14 GMT",
+      "discoveredAt": "2026-10-20T23:56:37.009Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2104398996",
+      "title": "President William Ruto has announced plans to exempt land transactions valued at Ksh1 million or less from stamp duty, in a move aimed at reducing the cost of acquiring and transferring property. The National Treasury has developed the proposals, which al - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWl0RFhPZWVXMC1zWmpUbE9SZ1JpZE0zb1otU1hESmlxR3F4ODM0ZUJMOWtBSTJFbTh3TEo3S2luUHpfNXdHc1llQlIzZ0tXMVpHdGp4eGtUOXltRWFvaHBuRTJxNlhqeU9QZzYwSm1SNFVBT0x3eUxWd0FqX3R4aE9MS0JQSy1kYTh5T2RnQXU5dmUwdzFfV2NMbVBxRjVXbU0yOEdmYk96Yk5IQVdweEJzOGtqZndySkE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 18:26:36 GMT",
+      "discoveredAt": "2026-10-20T23:56:39.053Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1967359971",
       "title": "Is Babu Owino Entering a DANGEROUS Territory: Kirima's 1,000 Acre Land? - YouTube",
