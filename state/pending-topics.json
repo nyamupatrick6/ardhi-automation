@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-20T17:53:24.626Z",
+  "generatedAt": "2026-10-20T21:12:34.255Z",
   "candidates": [
+    {
+      "id": "t_1967359971",
+      "title": "Is Babu Owino Entering a DANGEROUS Territory: Kirima's 1,000 Acre Land? - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ndGtxMzNZeDRYSE1SMTRIWk9wWnc2LWR3aTNnWHFKcWZVT195bEVIQjdaV3BoTlNIQ3g2bFB1OXprUEZQTnZPY0haUEZVR2dhenJfWjFR?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 08:00:37 GMT",
+      "discoveredAt": "2026-10-20T21:11:31.926Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1682400168",
       "title": "No land, no future: Why women’s rights are key to land restoration efforts - The Star, Kenya",
