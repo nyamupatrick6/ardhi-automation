@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-19T23:32:29.999Z",
+  "generatedAt": "2026-10-20T02:04:05.330Z",
   "candidates": [
+    {
+      "id": "t_572751426",
+      "title": "We want to know how Kirima acquired 1,000 acres of land in Nairobi. Kenyans deserve answers and full transparency on this matter. We will not allow our people to be intimidated or frustrated by those seeking to take away their land. We will stand with the affe - X",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNGR1aXdoX1Q1NHRTSURxb05xcFFlTXdsTlM1ZW8zaFBtWnF0QW1NeGFvT2gyZWdnc3c2YVl1aXBUbzRtS2YxQXpxNUE4bU9rX1UwR3loYmU1R183bEptWk93?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 14:53:55 GMT",
+      "discoveredAt": "2026-10-20T02:03:01.887Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1671133187",
       "title": "Kalonzo condemns the invasion of Moi family land in Eldoret by the State - The Standard",
