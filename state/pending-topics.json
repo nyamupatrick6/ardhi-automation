@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-20T13:00:13.431Z",
+  "generatedAt": "2026-10-20T17:53:24.626Z",
   "candidates": [
+    {
+      "id": "t_1682400168",
+      "title": "No land, no future: Why women’s rights are key to land restoration efforts - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNE8xaEIyQzVXc0VqR21Yc0NPcVZfWkt6ZUw5WTRDRFRsOG5Fd1lGYlBRVm9pT3dDWGhFQmZQNy1EOWpqamctamlmd1djMC1UVWdIWWc1V08wMEswRHAySWtCakhHNmFUX0hEeEVldmtiUkhEWTBaNF8tTmZRSUpKOGU5VlFnMmE4ZlgxUlhfR1BKWW45cUpPeWYza2Fubl9UZjU1LWM5VVNIWmJiRDl5X1pYZDMzN1lMQ2x6TlNmQU5Ga2l4?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:54:00 GMT",
+      "discoveredAt": "2026-10-20T17:51:59.389Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_878866978",
+      "title": "Ruto signals tax cuts for workers, land buyers and phone users - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0JISUliWDJQOVhKbXhTSk95bV93d1BSX01hcngxcGVoSmVMbXd6TXhlajd3QkFKYlNnZFBaUjRTUjJpcEhCWVI0U0dTQmFCWE02RUZ1UzZsZURtQmtjYkx6ZjhYWGZCMTh0akh6ZnlaTVEzUm9aQUhkNDY1VmlYbGZjNFBlWk5fYk9qajF0R0RxQ0ZmT0UxVWgxVVR4bUFIVnJzNmRFekpLd0N0eUxrOXRWN1pMSDdsM0lWU0E5a3djNVJCSFZJ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 15:30:00 GMT",
+      "discoveredAt": "2026-10-20T17:52:01.304Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1475758151",
+      "title": "President William Ruto has announced proposals to exempt land transactions valued at Sh1 million or less from stamp duty, in a move aimed at reducing the cost of acquiring and transferring property in Kenya. Ruto said the National Treasury had developed t - X",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14MjEyNl9tSEQtTEdLQktnQXJPa3hPckRmdm84NDI3NDg0bkpkV2pkemM2TVJnQ0VOR01xa1JJc0tYWmItcXMySzh0S3JWNFNES2p5UHNlejZwUFVuS3I0T1RFNTI5aTY5eGFtLXl3?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 10:33:14 GMT",
+      "discoveredAt": "2026-10-20T17:52:16.114Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1474356561",
+      "title": "Land, Gold & Power: Corporate Interests and A Community's Fight For Home - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kczNCM1puM2RlSlhRZXBYOUdOeml5MUl2WkxYNVRRVHFGQnNYeTcwclppVUZ0NHBpS1h0TEFxdkVpMzFXV0tvemxKMmYxYmVGYjhhR0xR?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 19:01:07 GMT",
+      "discoveredAt": "2026-10-20T17:52:17.735Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_359726221",
+      "title": "Dis Kenyan preacher Paul Mackenzie fit land for jail. Court find am guilty of murder of 191 pipo afta accuse say e starve followers to death Na 190 of di victims be children. Dem say all di murders happun for Shakahola forest di preacher dey convince im follow - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sREtHeUdTMVM1M1B1TWxSVHQtVTNxWlc3RUVxNjlwMmNSWFRyNy1WRmtnZWNIVllCR2YxbndVWExSenhISVhwRHpPblJaVDhzSUNtc0d6VHY4RzVjRU1MX2c2cVIxOUUxdU1feTByREI?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 15:00:59 GMT",
+      "discoveredAt": "2026-10-20T17:52:18.819Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_257449789",
       "title": "Babu Owino to represent Kirima land victims amid alleged intimidation and demolitions - YouTube",
