@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-10-21T03:26:16.656Z",
+  "generatedAt": "2026-10-21T08:52:51.283Z",
   "candidates": [
+    {
+      "id": "t_2114076150",
+      "title": "RTK GNSS Receivers for Research & Education - Emlid",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10NGRFaVJjUl9qUFlOb1EzTnVqWGZhWU4wZEhaT0hDZkhoQ2wwbjd2eXc2d0tNeUdJWkMxQU03SFE3NGsxak1VUVIzYTFlZw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 01:01:14 GMT",
+      "discoveredAt": "2026-10-21T08:52:24.798Z",
+      "sourceName": "Emlid",
+      "discoveredVia": {
+        "query": "site:emlid.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Emlid",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_1616688379",
+      "title": "Court blocks NLC bid to delay Ndakaini Dam land compensation - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHpDajZkSTZaOHYwb0c5SGExc3Ric1FqTnhuWGg0X3VHWVIzWnFwT1g4M1liU2tJZmZDVUNpaUMzcElYMDRnMmt6Zk9pek5NdFpVZ3NTY3FoRS1JZ2R4SXItR0Y3Z0ZrUWRMaFlnWDdXa2pBSnlPMmR3eEZuLXlTWTRYYkhiYk02YndhYjU1bHptaFNEdlhrbGRjb1k5ZmNVQ2gwUi0xbw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 08:00:00 GMT",
+      "discoveredAt": "2026-10-21T08:51:28.429Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1144607825",
+      "title": "Precision Lidar joins the search for resilient beech forests - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFh1TTllS0Q2UW5Yelp4Yk04NFNPak1nWk82cnkxU2swMnoyc1VjazAzLXFNdkp4WWpBVFBybm1USngxdWstYVNtUkVOUGw3WklhcFpXdEc4Q3pTRUI3NkJ6Rk8xREoxdUNHMHpJTzFZNjYtdFVVTUZ1WGlnTnpVeHdaRHN6MzIydFlWMFV4M2stNTRLbklNeXN5VW9tRjhl?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 06:31:25 GMT",
+      "discoveredAt": "2026-10-21T08:52:30.826Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_140462284",
+      "title": "Prepare your data for the National Spatial Reference System modernization of 2022 in the U.S. (ArcGIS Blog) - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUd2UWt3dVpzQ0Z3RzhsdkNETWoxT1NLWU9aQ0ZWelZFR1IwZkM5anQ0aWRFTVpDQ1pxNmlTQUw0NUotelJ2ZWh6R2hBcEQ3Tk4yaGJiU3FoWUJKOGdTOWN2SUZYWGNlNGItN0xzVUZnYTc2S1c1c0lvVjA3bndKREFaZE9pYXRhbjhUSnM0Y04xNGc3X1dvNnNzZFJKUnEyaEpzTGxzMA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 00:16:45 GMT",
+      "discoveredAt": "2026-10-21T08:52:42.910Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2020833700",
+      "title": "Kenyans to save up to KSh 40k: Ruto announces tax relief for small land buyers - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVlERTg2Z2Nrb0RTcGlIaDlTRWQyN0wySUtxWmUzWDB4LV9sdF9RdEYweHltRWNiS2xyclBWMkNzSnduS2tCVUstMlVuWHZuVkRvS0ZMWEFvSHZTRUJVdVVCc3NRd0NQeW03VFpOWkotUS1KeElEbC1ZSWN6OFFkMG9vTUlYSE5zQmFfbFhjREdmdzY2dllvMmQyRzNjTWd6bkJGcWdNWUpIajg4LW9qMmJuY0FtR3Zx?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 04:58:07 GMT",
+      "discoveredAt": "2026-10-21T08:51:38.506Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2125068748",
       "title": "A land verification and validation exercise has begun in four sub-counties in Nakuru to authenticate land ownership and facilitate the issuance of title deeds. The exercise that will run from October 19 to October 29, 2026, is part of the tenure regularisation proc - Facebook",
