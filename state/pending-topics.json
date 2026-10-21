@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-10-21T08:52:51.283Z",
+  "generatedAt": "2026-10-21T14:20:41.944Z",
   "candidates": [
+    {
+      "id": "t_1436362004",
+      "title": "Court blocks NLC bid to delay Ndakaini Dam land compensation - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZzdtSmtULTBCaXNVMVhjYUhOd2h3cXRNcll4WFFKRGo4YThxRzAzWWhKTGpCc3hzb2VDNXdCODZWbk5mcm05SEp0N0tqR3VRODhtZkExY0lybUJfMkVpTTBLQ040Q3J0c3hHRTVkWDZvWWhsemsyZXJFeWhldjhRblA2S0ppcHU0RjVEdjZMNnZRc0t2SWc0YUxjOGNEWEJNMmhj?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 08:00:00 GMT",
+      "discoveredAt": "2026-10-21T14:19:12.913Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_162140240",
+      "title": "Kirima widow warns buyers against purchasing Njiru land - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUhicF8wS2JlQUhKdWNadEpGcEZEa0Y4WThhMEp6S3BZS0VfTkh2N1haaFFWVjdJOWF1eXh5dFVoWk4xQUpaaGV6dGFoQlJ0SnJGak4tQk5JcWpNQXZObm5EajdKQ0VvSUxFQmdGTVRYbDR4MGprazEzRGRYVE1oM3Q4X0FvenlQZXpobEg3cEs?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 13:52:00 GMT",
+      "discoveredAt": "2026-10-21T14:19:19.613Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_436643887",
+      "title": "Ruto Announces PAYE Tax Relief, Cheaper Land Transfers and 50,000 Internships in 2026 Mashujaa Day Address - Bizna Kenya",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ub0xpbW1iM1ROVFNEVVNTRFFibEVPVG9pOUNmdl85RW5MYWxRNG1qeFJUODJ5RDFhM0ZUYzMxT3VJTnlTRDZRc21ueVppSGZpTVZmMERnNU84Q1RnbWlPRXM0cW50blFUTHduanlBV3k0SDA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 06:17:50 GMT",
+      "discoveredAt": "2026-10-21T14:19:50.311Z",
+      "sourceName": "Bizna Kenya",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1950911593",
+      "title": "Kenya Plans Stamp Duty Exemption for Land Transactions Below KSh1mn - The Kenyan Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXdMbl9INXB1aVkydTA0b2xuc0JDN3lkWGd2NkFJeWdYOEhJdTFBSTJ5RGw4ZVk4ZHp6bkV2TmdmQnZJblQ0WUt6ejFfcWxJa3JSZXQ2NDBBdWlGQ2NfX19Oc3h2VXpWR0J0SThsMUVQeHBCX3VNUWhBRV85R0xRTk9JZjlySTJfcng3TEc1WDBWakFQWW1XOXBkTHR3QQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 10:10:49 GMT",
+      "discoveredAt": "2026-10-21T14:20:00.045Z",
+      "sourceName": "The Kenyan Wall Street",
+      "discoveredVia": {
+        "query": "land rates Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_862742949",
+      "title": "SPH Drone Camp puts complete drone survey workflows under the spotlight - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0J5d3l2WTZYem5mbWI3XzdkSk5zME9TcXRLVEhTazJlcVo3cDk3NXQ1Zm1wQWlsbUNaV1ZyOXROWU16cDZwYzd3cG96a28zWlVfLTFNWV80c0c5VUxOMk1oTVgxWkNvRlB0WTNiaGRVRXlmbS1hRlNIOVZwZXNhM1hVU2laVFJ5RXBjZzRpUHZWOEp6TWtJSHB5ZlR1TmFYUEw3cjVfUTRDSHNyTGhB?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 11:47:37 GMT",
+      "discoveredAt": "2026-10-21T14:20:19.585Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1623369643",
+      "title": "Relief for working mothers as Parliament passes landmark Breastfeeding Bill - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVERZYnZ3Q19QZ1FXYXVvTmNTb1pIVWhPMG9UZXdxUk5JRVhEMklQX3dhUjRNY2YxaEpKSkhRcUoxYTcwdVlGc09tc1ZsT2RnY2huSUpRRzhKeE5iRXp2UG5fU01hRnpucE9BY1NqMnRhYXlPT0JhYkU2TDJKRU1RNmJUeVhsbmMzaGdhLUxUejNZVl91OGFrc1NyOGRLVXBRUXZ0QVk0T25US2g5cENTZUZ2RmFOaVNHc1lSR3NjbXo?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 03:00:00 GMT",
+      "discoveredAt": "2026-10-21T14:19:14.785Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "Kenya Law Kenya",
+        "origin": "Kenya Law",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1549566160",
+      "title": "Houses, plots and cash: Ex-Trans Nzoia county accountant loses Sh207m to State - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS2RPWHlyR0JNb1R4d29pckFjSFhhenNaTW9uNlBGcmpkNkx2dHRYUGxNREVuYm9QbU1tNFVJVjJZeGZxa2JRbnY4OFJuS1E1NTNhdnpPUnQ1NzlUV2Zfc0hEcmNtTVlVbGlyTDcwNmMzOEg4c2IyVEt1VW9rSzhlbGd1bGhzdkdweTRIU2VIdk4zRTNtQjVnRUtpVW5hZWpRZzhoRk91TEFQRTBvbm5kMDNDLUFTbWNzZnZaaW9kbmVJRGh2R0Vld1NwNlR5Zw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 11:01:16 GMT",
+      "discoveredAt": "2026-10-21T14:19:17.572Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_667877706",
+      "title": "Former MoH accountant loses land, houses as EACC recovers Sh207m in unexplained wealth - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZGp2UDY0b3BjNHZ4cWhYSXBSMFpWdklnMmdRVVJXQWMtRkYxdS1HcHlRbEVvV045ZW43Vk40bktaUmEzT2lZOHBWZ1NuQVp2NTBXVkVjdVFzeFFQUTRhVUxfQUpMMm9RbDlZdEFrTk10VHdndTIyaS10emItWlZ1SFV1U1JaS0x3TktUQXJBZk4ySkhzRDdleGZaMnl1ZFVTSkNqYUloMmhxMzFVZnNsVkx3QVp1T1NORk1KUW9FUmZhbWZhcHZvMnpMUGJxMHYxZ2M2NnpIV3hzQXMyTXk2ODJLNGI1dWpMOVE?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 09:00:00 GMT",
+      "discoveredAt": "2026-10-21T14:19:18.578Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_984930486",
+      "title": "Ne-Yo lands in Kenya ahead of Mega Mashujaa Day Concert - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFhJZkpjTmwwdFVKMXhMX1pkUXhYSzhETTFWRldyTUo5bXB5RWNnd010aEVGU2RJcUt3SERJbXVmNVJPSXRKUjdqNVc1dmRWMVFlcXhkYW1iQVlyQVVlTWdaRTVxYVZpUU1JQ1BpSzNSc2ZNX1I0R3ZHNEFYZTBFd2NXYWJfN1k5TFdBZ2l3?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 16:54:00 GMT",
+      "discoveredAt": "2026-10-21T14:19:19.613Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_250415978",
+      "title": "How to start a Farm with NO LAND - I Did it - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMlp5ZG9ZSEtpcjJNdlRtdEVKV1VZRXh4cE9XQXRROUY5azZpVjh1X0hsMVZ2djRYNWp4R0tDZHZHblcwVmxEQkt6RTlYU3JHTmhCOWJB?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 09:00:22 GMT",
+      "discoveredAt": "2026-10-21T14:19:38.032Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2114076150",
       "title": "RTK GNSS Receivers for Research & Education - Emlid",
