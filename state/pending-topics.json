@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-20T23:57:38.651Z",
+  "generatedAt": "2026-10-21T03:26:16.656Z",
   "candidates": [
+    {
+      "id": "t_2125068748",
+      "title": "A land verification and validation exercise has begun in four sub-counties in Nakuru to authenticate land ownership and facilitate the issuance of title deeds. The exercise that will run from October 19 to October 29, 2026, is part of the tenure regularisation proc - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelN4N3BMVU1PWkJLYlk5ZnJGNDFiNjRVdURKdi1kdU9LUFV1bXB2eTV5dHhfMnBkV1dPWmhTTUlqQlFzVDRQdXczUnRmWlVrbjNEU0htLWVkclZXcW5jUE0xYk80cWJoTjN1dUtFZXNBX2t6OGhEZVp2a3ZvSEMyY2habms4S09JcnZ4dVZWMnU4LUwwS2pKdTNwWjJnNzdOYmxzV3RiRkVlTHhfcnFOcnJ3ZkMwNmxIY0phM005RUJ0dDF3Q00tdzhTT0FoSm5pdXBWeHJlM3hWWW41Q0E?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 19:57:44 GMT",
+      "discoveredAt": "2026-10-21T03:25:29.047Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1573884396",
+      "title": "Meet the Expert Panel for the Global Top 100 Geospatial Companies 2027 - Geoawesome",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFZtVG9UMmtBWURMYUN5R2N4STk3cFNVRmpPXzlEWm4tMTRYTjFweFJQTDFaZVR4NDNjbXd2ZGZKTlplc0dLZjVTS1JhUmxNaG04aGFZcUhaWTNiUEpjZlc1T0lMUlVPQ3pxMnZQTWhJZl9jSkpOVl9pS3k0WVdJY3AybXZFRjFmNW1JNTY4ZzZ0YVVEZ2xZbFlB?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 21:58:28 GMT",
+      "discoveredAt": "2026-10-21T03:25:58.362Z",
+      "sourceName": "Geoawesome",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1483943475",
+      "title": "Ruto’s 2027 pitch to hustlers: More pay, cheaper land and jobs - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWN0cklKM0dzcDdteEhnRHg2LVNwWm1NOUtxekhFQ19zaXgzLS1KTVpSMndzdkhmRU51SWVuNDlZYWtaQnJ3dklrZ3VzSVVIby0wN1Ztb3FGb0JFSXAxNUtmUWpxNFJSXy1mUlRzMzctZVB5cnNEWDhTTGp3VnJUbmtVTHp4VDdJLUQyYm8yMDduZjFfb0VBdERZTVdHeVpYNkg0WA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 02:00:00 GMT",
+      "discoveredAt": "2026-10-21T03:25:00.556Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1304215168",
       "title": "RIICO to conduct drone survey of industrial areas - ET Government",
