@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-21T14:20:41.944Z",
+  "generatedAt": "2026-10-21T18:46:39.557Z",
   "candidates": [
+    {
+      "id": "t_1449306957",
+      "title": "Video: Gerishon Kirima's widow warns buyers over 1,000-acre Njiru land sale - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcHA3RmtoZlhfT1ZFOU9JM3RSdWdpNzFIcERXcUdQRXI3SG1VMmJBMXZHbFlzbEJoVm90SkFjeWtHcGFwTTBsbS1PamhUODdEeENQYmpFYW5lVUl5NjdwcWhFa2hfNGF1X282bEMwZzJtLVRBVmZQRW41YWM4WGJEaG84ZUllRnE2S1A1RVJBcG93bVEzS1lZUVM5cEpac25yemV6dGVuMDdoOHJsYk5WWmRTejBvNTlUS1g1aQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 15:47:55 GMT",
+      "discoveredAt": "2026-10-21T18:45:20.184Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_295305154",
+      "title": "The Living Digital Twin Behind Vietnam's Port Expansion - Esri",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNREJvRDRWMWsyZGNwS01GVTgtSVFfakNaakRPbmlHcy1ncG80RDhLeGcya1lCVFJTZk5VX0Z1clJVSXJiWUV1QWp1SmRyTTdvb3JjdHNJSEctd0NhMUhGdHFuYnU3eGVsVV9jRldmUHpnYXlxaXRDOXd6TExIRmtuT3dtVElZNkU1N1laUFlHM0Q0T2IyUDJIcUo2aGlpMVk?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 03:47:50 GMT",
+      "discoveredAt": "2026-10-21T18:46:14.495Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_936083731",
+      "title": "Going digital: Why MPs want land succession done digitally through E-Citizen - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWw1WWIzaU1CanlKYlk2X1dtaHQzSVdkWGhDUWowSWR6aEFkYTljTEtWNGxlMTRBYk11bFhfTnU4bUlGSE1CeFRYQTdvTlFwQ0JjQmVKR3hlT0h6Wk9PdnUtcEJBQWZIYUZ0bWRkSFlnT1REaFlZcElmZVR3OHBqbS02aTFMZXFvMTNITmw0TFB0VzhuYmZ3WURNZ081TnVfZlZYeW5wOHlyT0hBdjJhQUxlTEpaTEU?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 13:22:06 GMT",
+      "discoveredAt": "2026-10-21T18:45:14.091Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_612115641",
+      "title": "UN biodiversity summit: Kenya scientists call for modern farming tools to save land, species - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFdjeWd0XzVKMkEtcVp0TEw4ZHZLZnMzczF4SF9aNFowYlBPeFdrMWlLcDVqRlNQTTRIRklUeUxzYnJvSU5weElQaUZOUl9JV19zN0pjRWJOdl9DMUh3ZmJ4WGl2dW9qWlFfcXZIV255eVkxMm9SSWNCQUlFakJ5aWxvQlRlZFduWWJXREJ1dVhmY1liRTgwVnBvaWtyaVFETHdWUXR0VXV5MjlheFlnMmlVV1B5SkJHS3dEcDFYX1NqanRWUW54TEZCMFlSTjA?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 03:15:00 GMT",
+      "discoveredAt": "2026-10-21T18:45:14.091Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1436362004",
       "title": "Court blocks NLC bid to delay Ndakaini Dam land compensation - Daily Nation",
