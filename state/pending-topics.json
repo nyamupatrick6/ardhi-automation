@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-21T18:46:39.557Z",
+  "generatedAt": "2026-10-21T22:05:10.487Z",
   "candidates": [
+    {
+      "id": "t_1199495323",
+      "title": "Ruto walks fiscal tightrope with Land Tax break as revenue gaps widen - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFh5b3VIalNPZlZGcS1NUXpady1kY3JGZHQwTngxUlVMSUhNVzZlcmliQkNBOTZfN2NuUmVKWFpINFE0TjZ4aEdLSDgtUGRSNGVtOU9Ub2xwWnB0VlJhbFY5R2lKdTFsdEdqWmNobXVROHcwUlNSNGNqUEZtWjVZY25URDNwVmlFMG5sdHUzbHV2NHFMQ3pCVC1HMHdwZkdfWU0tdFltenF4dDFDd1BNVU1xcDF1Zw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "discoveredAt": "2026-10-21T22:03:48.679Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1449306957",
       "title": "Video: Gerishon Kirima's widow warns buyers over 1,000-acre Njiru land sale - Tuko News",
