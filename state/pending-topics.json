@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-22T19:44:06.734Z",
+  "generatedAt": "2026-10-22T22:57:47.641Z",
   "candidates": [
+    {
+      "id": "t_1420448446",
+      "title": "Intermediate Station at DK 166+500. The visit focused on reviewing progress on the ground and assessing ongoing land acquisition activities in support of the project. The NLC delegation was led by Mr. Muruithi Muriungi, Chairman of the Land Valuation Com - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93cTR0UTRDeGV5bXRUVlB2al81T21nUU1JT2VqRmZMM3JiWGFtVGVtSzkwYV9jNWVRMFc2cWFjVUJLNEZ5N29xVThndW9RUWpKSUxpbWdzYUFqQWRSbndid2xNaE53Zw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 15:28:09 GMT",
+      "discoveredAt": "2026-10-22T22:56:43.370Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1009560943",
+      "title": "Kesses residents commend Governor Bii for highlighting title deed plight - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmF6UXRobnlYYUVfZWFnRGd0ZXM2UG01aUJQUFV0Zml5S0NQNDdYc2M5TkhYUmh3UDhISHA2X1dwMnhmdlN6Ry1CUFlpTGl5VVRQMjMzbHZBb0FuaG16TWtrN29BWjhUc1U3S1VoZ2JQUDlDSTJwVWRxM2NENDZ0ZDVKRUJyOFFmZGNyTU9SenZtYzBtR2llRmR6NTBEbnBEeVJz?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 20:08:47 GMT",
+      "discoveredAt": "2026-10-22T22:56:34.200Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1049795587",
       "title": "Nairobi land battle: Why self-help group faces eviction despite building homes - Daily Nation",
