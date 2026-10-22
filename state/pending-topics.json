@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-10-22T11:05:38.699Z",
+  "generatedAt": "2026-10-22T15:55:41.225Z",
   "candidates": [
+    {
+      "id": "t_1049795587",
+      "title": "Nairobi land battle: Why self-help group faces eviction despite building homes - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSlpROG9zTmo2QlNmaERWMkZncWRSMFZHaXlaQTNuVDlxQkprVlpuZ212VHNjMjRkZjdPZ2hUTEJrZ1RkR1kyOEV6S2xjbV9CQUNVTGlJMXRLdkgyNkxZSkF5Qjc0MkpYMUFJTXhlMG4yV1l5MURTVkJianpJTEhHZDhYMThubGR4YVEybjNHZFZBMVJCdVFTcnc4ZUhWTVc4S1VhRkpPSGNTQWdqTkV6MXN3aXBaMHVhblE0SVVZdktZcWJyZXA3SDlR?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 10:40:38 GMT",
+      "discoveredAt": "2026-10-22T15:54:19.247Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1303090132",
+      "title": "How a three-year deadline sank family’s bid to recover disputed Athi River land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeXVWTENBNlo5UlVBQm9XaDk0bW85QS15Z1U2YmtPU0tfYnNmZ3BQekQxT216OE9sR21yMno1ejVRQVRWZ2pIVzJJdVlFU2JVdFB4eXlZYXIyYUEwWkZwSGxORlU4MEsxYlJHZTFRTU5wNUJTU3lhRDd2VGcyMTFQb211SGVPOVFBVmRPeUNSSXFPdlVsZFBOQ1lDQzNGYUxaQ3RUSFBWdHF5M2U1VmlFbW5XNXBDNl9xUTg5OVQzaGEtdll1eUt5UFNobDdHZw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 11:56:02 GMT",
+      "discoveredAt": "2026-10-22T15:54:19.248Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1285353853",
+      "title": "Woman charged over Ksh.100M land fraud in Mombasa - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2dUSnRfd2k1eFFJNjNKY3N0RDBmcEo5Nkp3emh3QjF3NWFxRVNaOHRsTlZkeEM0NnFLd25XanpRLW5aR0VpaFVxdUJhSFNzbWtvV05rRFgwanZqNGRZcF9YSk43bWRZOHFuc3hVODlsd21MMkJUcEo4SVpqdFZtNGlwVjNjbkF6dHA0Zm9yMy1kZw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 08:07:14 GMT",
+      "discoveredAt": "2026-10-22T15:54:22.322Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_756045192",
+      "title": "Drone AI Georef - QGIS Plugins",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzMURCSWQtZVU2Wkp5ZGdXb0dFcXZiU2ptTm9OSUZWUzZzWDRkdUJBWHV3NGtXOGJ4eHZBUExtaVladlZ0VmhqR3BzUHd1dEgxX0E0NVVQSFp5dk85b2c?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 03:35:00 GMT",
+      "discoveredAt": "2026-10-22T15:55:19.458Z",
+      "sourceName": "QGIS Plugins",
+      "discoveredVia": {
+        "query": "site:qgis.org (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "QGIS",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_443593238",
+      "title": "ZenaTech Unveils AI Software Suite to Accelerate DaaS Land Survey Processing with ZenaDrone LiDAR Integration - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYXh0dlRWMy1rRnVFUFk4TFNnWnRpTzdXckltUHoyZWQ1WDMwNzl2Y2JSS2EyWWdMcG1KYVdYTVYwbnV3SkotckNteW1nNkNwM0VKcndweXF3TDk4ZTdqMVd4bmdNS1BmWHBhcTdSc1ZMdV9XdUZ6bFNZZkJxczYwblRvMk1sVDFUWEs1MkhMeWpoakdfMXVYOUhLaWl6TWMwZmxpOTJSYUJEYTU4aGt3aWhadVJmODV1WUtxeFVwVHJ5em4yeEd6cHEwUThlU3h5NXgyTk14ajVCZw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 11:50:00 GMT",
+      "discoveredAt": "2026-10-22T15:55:37.826Z",
+      "sourceName": "Quiver Quantitative",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1802266730",
+      "title": "Deg Deg S/Land Oo Mamulka Hawada Ka Tanasushay, Weerarka L/Gareen - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Lb05vaU5xT3N4Xy01Y0ttRENtSlN3cVlDUFRiUFgyUDM1ZzlYaEZsZ2ZiVldzd1pabmE3TmNUYVNXQ2FoT3JZVHpRVElucXQ5LS1EY3lB?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 17:21:25 GMT",
+      "discoveredAt": "2026-10-22T15:54:39.162Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2131298741",
       "title": "Woman charged with alleged Sh10mM Mombasa land fraud - The Star, Kenya",
