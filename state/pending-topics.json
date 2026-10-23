@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-23T01:15:20.176Z",
+  "generatedAt": "2026-10-23T06:05:51.761Z",
   "candidates": [
+    {
+      "id": "t_1158775162",
+      "title": "Shell's V-Power, Six Oil Tankers Among 51 Ships to Land in Kenya to Ease Fuel Supply Fears - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmdJeG5DaWVMNzkxZjdSSFlWUmN3NnRWUXRPY1R0X3JrV3B3Q2FXMnFVaHpzcGFOX1o4dUNNYWUzdXUySUxDaUJ3bFpBbkdJOU9QSXprWWZjYmtJX3ExT1ZvQjRqRXJUbXJaNHhzV0sxZ0JiVm4yc2lPTUlfd1Bkc3JwZUNhQzlSR3VEU21zTmc1VnV0X0NfaGtoSFlRMDhzcHUyNUt0eFQtUjgzN1pSQzloaUVTLVIwdkY4?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 03:42:27 GMT",
+      "discoveredAt": "2026-10-23T06:04:39.127Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_450550144",
       "title": "Drone LiDAR Topographic Survey in Mountainous Terrain - Chcnav",
