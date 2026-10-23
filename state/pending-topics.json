@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-23T11:47:31.223Z",
+  "generatedAt": "2026-10-23T16:23:53.580Z",
   "candidates": [
+    {
+      "id": "t_1001639118",
+      "title": "Kenya Railways and the National Land Commission (NLC) continued joint site inspections under the Naivasha–Kisumu–Malaba Standard Gauge Railway (SGR) project, focusing on the Kisumu Passenger Terminus in Kibos and Chiga, the proposed site for th - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGVWRTNTRXSFhBM000MWpxaEhZSEdKYmxhblo2cEtqdWd0M0dlcGZmNHBGY3ViZ25pUmtKazhMNk1xUmJvc0VPU1c3ejNPMFhaaHpxckhjT3ZOR3FnSjJPODd2OFZaUQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 15:48:03 GMT",
+      "discoveredAt": "2026-10-23T16:22:50.714Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1423604962",
       "title": "Kisumu land row: Families thrown out as church, school razed - Daily Nation",
