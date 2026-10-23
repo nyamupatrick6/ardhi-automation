@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-23T16:23:53.580Z",
+  "generatedAt": "2026-10-23T20:05:20.986Z",
   "candidates": [
+    {
+      "id": "t_1159800593",
+      "title": "Moi-Eldoret State Lodge land row: Records raise questions over State claim to prime plot - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0ZIbFExSXE5dmhUanI0dThLSVBPVDQzcG1KSU1qMnQzS0dITUlDcGxqWUF3N0lxWEdLdERBYkVfVzRwWFpNOEo3RGNHZlFnSFJhZ1hibWx2UTlSbHBDdnQ0MGtTUmVhTllxRVVSbHoyUDIzWTZ2TmxNTzRTR2pHRzZHUmVtck9nS1FpSTRyTmZuNlZCTHhBbW16WFNoVzNubGc?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 15:29:28 GMT",
+      "discoveredAt": "2026-10-23T20:03:58.353Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_689577551",
+      "title": "Mbadi dismisses claims of Ruto-Dangote plot to take over KPC - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XcGhoaFBCMUNMX2NvYkhRb2lhUlZvOWJEdWk5T0FyTXNLTkYxejFfRVdRNnVsRF9lSkl2V2ljbkN0UUVfZXA2S0dUZnAyQlJmdnRFcDB3?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 18:40:40 GMT",
+      "discoveredAt": "2026-10-23T20:04:19.454Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1001639118",
       "title": "Kenya Railways and the National Land Commission (NLC) continued joint site inspections under the Naivasha–Kisumu–Malaba Standard Gauge Railway (SGR) project, focusing on the Kisumu Passenger Terminus in Kibos and Chiga, the proposed site for th - X",
