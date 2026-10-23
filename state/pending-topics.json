@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-10-23T06:05:51.761Z",
+  "generatedAt": "2026-10-23T11:47:31.223Z",
   "candidates": [
+    {
+      "id": "t_1423604962",
+      "title": "Kisumu land row: Families thrown out as church, school razed - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzZwTThMbmJiM2kyUXFsZFBDZzBscGItbXFDcTJpcTdQWVh1eFR2TE9SZ05wUnRpbjRwVk9tSk1EaXN1Y2JFQ2dDNUxtdldEM1dKdXU3Y1E5bEhtaW92WEJlbGJyM2huNU9IWXR5Sm5ldVR0WE5RaGg1Y2dFZnJVc0Y3c1RLRVlUQU14VHFXaXYwYTUtakl4cnJocUxGbE9abUxHTWM0NmI3dGh0NHlF?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 09:27:23 GMT",
+      "discoveredAt": "2026-10-23T11:46:04.778Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1873542310",
+      "title": "Selfless love: Couple sell land, borrow money to fund son's medical studies - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamZ0ODVUazlOM3BSMGtKNWJvRDUyZEJIMzVNQ3paNFhfeXNTTk53M0xsTTJzSnFpcGNFRWZ0c0xIbUNGRkRxUEkya01LLXo2amEyS3haZ2M5eDc3dnpQUHl3cGRsWnEyTnNPVVlTZ2hKSWtJSURPNjZ2YWxoVWNyb0tXLWV5cE80ZURreEFlUTc5QWhWVGMxNFVYWUlUbFR6b282RlpUbTkwemZuZEhFV2l6NGkydERWV3Rkd3ltcw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 09:55:07 GMT",
+      "discoveredAt": "2026-10-23T11:46:11.092Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1582161117",
+      "title": "Joint site inspections advance Land acquisition for Kisumu SGR Terminus and freight yard - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcWdUMG8xSnlCelFWeWpETk5RZVRQc0tQVUt2Z3JzSEM0eFpyOWpEZ3RYLUdKdXg4cWFLdzlWUlhteTNUYlNSWWZvMTIwc005alBVRTRuUXRlSHpVNnUycG9MSGYyRVVzOVZ5ZkRZZFNHREJGd0thejJQSWdrS3VfUHYxNTE0TkRtU0g0Q1BQV3UtblR4S0ZMVUM3QlVuN1hrUEdLOGt1MnhySlkxS3J0b3BrUnhFXzgzeHk0VFBtdmxwQ0VlMVlsRzRoUV9DQzZlS2c?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 02:47:23 GMT",
+      "discoveredAt": "2026-10-23T11:46:41.156Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1178048581",
+      "title": "How to accurately delineate a watershed using LiDAR DEM when artificial drainage network data are unavailable? - Esri Community",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOenhrMVZQaVQ2WlJTeDA5M18tMGU2Yi10allLSGJ3WGxOQ2JCV1JxQ0VLTjZ1ZG5uRmVaWmlZei1ON0Q0bk14c2pxVi1VQnB4RlJmQmRTRFVlUXdvQ193N0VIRlJteWFFSW1KYlUyM2tXSGU1Y0E0SXI4bzM5Q05RQVVZaVVEdjI2Y18ycndQYUdIZ1NPTG5aYXV5RlhJb1pkUG1SOHRLUHRpd1REWjR3ZTAweGZHMUNhdGwxNkhCeW5fUUdQTFdxUUh6S2YtVUJheUNTSGNXa1dUa2FUclZDR0FhMU5iXzFZMVNmZVhvTQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:39:52 GMT",
+      "discoveredAt": "2026-10-23T11:47:05.796Z",
+      "sourceName": "Esri Community",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1011358474",
+      "title": "Kenya Railways and NLC inspect Naivasha-Kisumu-Malaba SGR route - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkluVUU0bFFucU5jUFFmeUZDbDZyN2h4bENPQzQ3Qm5SRFZISVlEcFFYWVhvZ3ZlVmhWNU5mZDNMVmxBTm5XQ2JaeFZVaktUVWFrY2UzVnNVVlUwYnJ1QzJCZzBWdGR0R0RoRjNHay1kSG05bTM4cXUwYTZGZ2thMVpsS25aRVREMFVkSUdVX19rdk1rX1FjTXBTLWd5aGtKaHp0dDE0WUZMQ0w2d2ZWSg?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 06:51:48 GMT",
+      "discoveredAt": "2026-10-23T11:46:00.172Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_119580378",
+      "title": "DCI, US Homeland Security Investigations discuss closer cooperation in crime investigations - The Kenyan Diaspora Media",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNVMtU25ETGlyOHVJRkxFOXM3MjRNeGNob1c3OEtsUE5GbXRUNTgzOUJJWEJneFc1UGdQNklPemJTcjIzRlBSQ3Y2OW1LbjlhMUwyZGwydGE1RUU3SmF2c25jNDI3NjI4R3dOaGY0dm1laUY0ak5XM2VwU21XTFBuZTdKT2tvWmRjb0VkSE5yLWpvVTd1d0Z1WDVBMXBQUHRTSTh1VENSRHVIVFhvYjJUQ1JBSi0xX0Z2NGgzREZsSFZ5UFlNekxXWlZVdWM4UQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 09:55:01 GMT",
+      "discoveredAt": "2026-10-23T11:46:20.778Z",
+      "sourceName": "The Kenyan Diaspora Media",
+      "discoveredVia": {
+        "query": "Directorate of Criminal Investigations Kenya Kenya",
+        "origin": "Directorate of Criminal Investigations Kenya",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1176429529",
+      "title": "Jepchirchir Angel, UDA Youth League Captain, on Boniface, the mask seller who was shot by police: We don't know what happened before the shot clip that was captured. You don't know why he was trailed. If you're keen with that video, we all saw the Land R - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UbTFXY2xGZllGOU9JamlRZ1Z0cFNDUGp1VU9LTl9FSjI3S0huS09KcUxFamtaMnpFOVlHWEZPSjl1RmdiRHZVSXJrVXlRQUlyQ0U5aHFaMnNoYmkyQzl1aENaaGtLZw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 05:00:28 GMT",
+      "discoveredAt": "2026-10-23T11:46:23.725Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_486162537",
+      "title": "Team from Kenya, Masai Land praising the Lord #masai - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdEROR0FTakhESHVrLVhyck85c3lsWEVoZDh5bXk1akxJc21mZkpKLVlEYVI0X2kwMllzOElFYjBpOTUzalNoM3lyUmFDYTZNaGhFZFNrQksteVJxSkJXaHd4QUlPclZPcFFxTFhR?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 22:20:27 GMT",
+      "discoveredAt": "2026-10-23T11:46:25.985Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1158775162",
       "title": "Shell's V-Power, Six Oil Tankers Among 51 Ships to Land in Kenya to Ease Fuel Supply Fears - Tuko News",
