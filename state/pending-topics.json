@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-24T06:28:38.093Z",
+  "generatedAt": "2026-10-24T11:35:36.343Z",
   "candidates": [
+    {
+      "id": "t_432416356",
+      "title": "SA130 Pro Airborne LiDAR Brochure-EN (V.20261021) - South Instrument",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44UVR0TFBCLWJEbEZsczh6YmNrTUU0d1F2T1VkakVraUtUVzJmbW53Wk5kXzh2WURweVVIcFZROXZNRUhyX1RMNkRJblZEMkhxYWk0UDZGSDRFZVVZcEU0WGJTRjFESmU0d1MzejlCUHpnM1FLcUVVT2VkOUdlUQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "discoveredAt": "2026-10-24T11:35:14.049Z",
+      "sourceName": "South Instrument",
+      "discoveredVia": {
+        "query": "site:southinstrument.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "South Surveying and Mapping Technology",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_289547148",
+      "title": "Kakuzi dealt new blow in fight over Makuyu golf course land - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaF9peU9rbXhHbGNGVUgwUWFZSzR0RncxejBwdGJ0WFFDTm8ySndHU2xIemcydndvdV9VMnY4TDNmV2E5N0ZGdWxkUEpLSjhqaHF2cUNYcmZpQ3FXS0J6NHUzRjNJSHhXSEFUU2xQRUtCVDI1SkpBbFVsUWlJX0FwQUtzS3dFTmlwR042RldQOU05b3pZQlYwSXAxUTE4eFFkLWRvbnhwdDRYQlhFTXBua29rUzVJUU54WXJqZEtiemJqek9Ia0E?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "discoveredAt": "2026-10-24T11:34:23.585Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1743648958",
       "title": "Decades-old row on Sh8b Karen land headed to Supreme Court - The Standard",
