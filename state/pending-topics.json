@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-24T01:40:12.019Z",
+  "generatedAt": "2026-10-24T06:28:38.093Z",
   "candidates": [
+    {
+      "id": "t_1743648958",
+      "title": "Decades-old row on Sh8b Karen land headed to Supreme Court - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbzNVMnUxZThzNGozWGdicU5DUU9vSWpmNUY2QUFXdVlOVzNHMjFKMmFXeG0yb2M5TDBIOVVtajg3YjZKYVhuVUVkbFFYOVdIMVpTdEZjT3h4eHZtVTBIVENTa3VFZFc5cDhaTHZzNEk1dXpkdmdCOUgxMUs1ZWh6NFFoUVhrQmhZMWZMTEJ3R1RqSnd5SWhKM0pnZnFNeXJhRV9MNDREMGt5LXRNQlZqc2t3U3J6ZkM4ZW9uTm1FbFJxUXBmbl9vbjREYmI?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 19:21:48 GMT",
+      "discoveredAt": "2026-10-24T06:27:18.912Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_94125910",
+      "title": "Court told how Lands official awarded wife's firms Sh244m tenders - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHIzdWpNUU54Y0x4ZTdNQ1BVdFlDdWJHbUFBbjZVZ3k1Wjk3UVZKRkRMYS1sS0lkZG1pQUJtWmFxNzZrdUlHdGlTbGdhVjJPbHVKb3h6YTkwd2lVT0VyODFrMzB3RmN4V2Z4a1YwQmpmdUttdElLUjVBRUM3QkVQb3JOV19jdFcwVXJUeGtINmZlUXE2LXNOeXl0TEpxUUlqdlhQclBXeU9QVjV2ZkViRC1IUkVZcVNYMmVNLUNHQl9SYVRYakRNRFppWTNXQQ?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 03:00:00 GMT",
+      "discoveredAt": "2026-10-24T06:27:18.912Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_253962027",
+      "title": "Workers evicted from plot linked to Moi family in Eldoret — Nation Kenya - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSGY5UHd3cGNsMGtLU0dtUzJhaWxyT0FDT0RSSTZSbGZ3VUpsSXVrNTJjQk5waExPNmFWVF9BTjJzY0pRdlFncl9QUk9uX1FlRTR5U3I1dkJodGVjMkI4TGFEVTZrTnN4MDhZZ0hOU2YtVWNyQjExVVV5UHNobndfTmRWdWtBX3RSZU96a2xUQ2R0U2hrY28wenExT1NvLTZyQTdBMGd5RXBQY25ZXy1UazJxRkZVTXZf?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 01:02:03 GMT",
+      "discoveredAt": "2026-10-24T06:27:51.045Z",
+      "sourceName": "UA.NEWS",
+      "discoveredVia": {
+        "query": "eviction Kenya land",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1715647611",
       "title": "Pipeline Survey from the Ground with RTK - Chcnav",
