@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-24T14:52:18.266Z",
+  "generatedAt": "2026-10-24T17:48:47.150Z",
   "candidates": [
+    {
+      "id": "t_1650999687",
+      "title": "President William Samoei Ruto issues title deeds to residents for Ilima, Kaiti, Makueni County. - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdDE3TlJfMGN3XzJWU0hfWUQxUl9BYVhiRVQ4QTdVMEZ4VEJMZHUzcHQzRWRoOUd4OUhOQUpvN2xkNVJaZU5ZN2M4TXNiMU9PaUlWRnZNSm5NZW1Lai0zaDJ6RWt2UEt4bUFicUdQNmpIZkFIS1YwVHlVbjhCNm8tcmFxT2ZrYXlKUWQycndkdzhSSzQ5S19pWnY5dG5XWjlzVllsUGE5WnVVeXZvcmJFZWhyN2x2aENfN3VxTHpxOG1rc0NhUDVHeHE4RVo3bUZ4cmlCWjd5R2lnbmN6aEE?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 16:40:25 GMT",
+      "discoveredAt": "2026-10-24T17:47:32.898Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "Ministry of Lands, Public Works, Housing and Urban Development Kenya",
+        "origin": "Ministry of Lands, Public Works, Housing and Urban Development",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_432416356",
       "title": "SA130 Pro Airborne LiDAR Brochure-EN (V.20261021) - South Instrument",
