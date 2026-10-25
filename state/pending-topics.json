@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-25T14:05:45.776Z",
+  "generatedAt": "2026-10-25T17:41:54.305Z",
   "candidates": [
+    {
+      "id": "t_1753137687",
+      "title": "Court halts Kenya Railways works on Wamatangi-linked land - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0QwbndlYl9vUlVuZHV0eTRxT0dWck9YR0I5dWRmYUFSWGRJdmlYN1NmTWw0SUdtQUlsc3JTN0ExTU9KZmh4SHNtMXdlckVLdEVnTHZPRmt6S2FPR1JtalZuV2xFMVlYZm5nMFVOWVpUWE4zSmdnNlJMVXZKTDNEQ3VUZm1xeEIxaUNBbzllSmxmbkVjNHM3UXlnVHpEVGFsZG9hTUFBamVfVmo1VXd6dVRwZXRBSVAwb2J5elRJUHVqdw?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 15:15:00 GMT",
+      "discoveredAt": "2026-10-25T17:40:38.923Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_182129093",
       "title": "\"DEVELOPMENT\" NOWADAYS 😂😂😂😂😂😂 In Kenya people are calling for urgent action to protect our forests, including an end to destructive projects, illegal logging and land grabbing. Join them and spread the word!@Greenpeace Africa - TikTok",
