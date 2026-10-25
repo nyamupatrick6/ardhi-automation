@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-10-25T05:16:02.170Z",
+  "generatedAt": "2026-10-25T09:53:38.192Z",
   "candidates": [
+    {
+      "id": "t_98748511",
+      "title": "NLC Issues Update on Land Compensation for Govt’s Multibillion-Shilling Project - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSktDaG82c3Z0Ykswa3pDUGpHWGhKZy1pWHQwa1lLUm5XclpuZ29hN25hbE93cFJyOXpiNnNGeTU3dTZVY1dGVGE5bzlSV0YyMWZzSFJLOEFSYlc0VW8yUWpmcGtmTnc5S3B3UWJWTHlMckE4SkRpZWxTZ1B2TjJ2TzhhLTlOaWlzYnhIRmZZRmQxWTExbHlhRzREMjZKLTZmdl90UHZsQ1ZsTlNodmd6ZDN3?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 05:21:39 GMT",
+      "discoveredAt": "2026-10-25T09:52:12.495Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1304551969",
+      "title": "Ancestral claims, disputed titles and the land question behind Dangote’s Sh2trn refinery - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlUxaXMxcHlwSng3NC1yR0pHM0tBUFIyZVp1ZnBXSVhYQVRRcEtHVTNrdDFRemo1NGhUdmgyMTVveFpEVUJsamhhNk9UNWhvY2JXLWVPb0F5REJjTXVGdmtDQ0xpQnJEekNoMUF3UG9oVHVGZ3ZibUpGR2lrNkNHYkZjc2hQdl85aGw3RzkxdmxkWmx3RWhSWE16Y1lDYVF1blVqcjM2bG1NcVZpZUVKaU0xOHllR2hGR0lrN1J1c0xDbGpYVmlaQkNSU0poWDlaTTRz?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 03:00:00 GMT",
+      "discoveredAt": "2026-10-25T09:52:17.087Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_954929836",
+      "title": "Court upholds Nubian Community’s rights in Kisumu land eviction battle - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeV9fR2RWSEJmVFlVRWVpMHlQOVBWN0Y4MUoyR0Fmb2l4NWdQRWpPLVZ0R080Q1hYUGExNzN0eGxMbElLNlFfNm1YX3FNWGZXMWY1Y01iQXBLVFJfSU0xaFhlNDE5QXBEMjFobXlSVzNYZ1Y5N2tGZ2ZvQzB3MHI5M3FEVjl2djU5NEJXaWR6ODIzaXNBemVZQ3MzeGFIckxyV2t5QlVONWdjN1VwV3dROQ?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 08:03:33 GMT",
+      "discoveredAt": "2026-10-25T09:52:50.495Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "eviction Kenya land",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1819706459",
+      "title": "Fresh phone-theft probe lands Kitui MCA Cyrus Musyoka in custody - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHBmMVhmczI2VXpxejhkdDRHaGFLMjNGV0psQ2tlUkhGNDRKX01sb0pCOHJQc0pPNzNXeHIycWR1TXAtdEZmYUpCVnE4ak5lb0Nlc0tUZE5NbERfeUxBTkJ2M3NHOGFfbmI0b3NYLTdOWlZUZVRNSi1uUVBPYlprc213SUFOQ3lCc3dJa2FZRkE0TEI0dkp3S3Q0V3RGZDZ6dWtNRQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:14:21 GMT",
+      "discoveredAt": "2026-10-25T09:52:17.087Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1192142701",
+      "title": "EACC freezes Ksh.245M assets linked to Lands ministry officer - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTRKYkw4UFdTRGhIZU5UUVpWdUpsRzRXUm52WUU1anZvaTlkV2VRWWh5NlNtbmdGVlU5N0lUdXV2VmRKS3ZFUVJaRDAtY2dud3FvZ2lGRzNTSjNLOTU3Y1I1aEcxaWVrNHZaTDlpVjV6c19sSUJmcFVDRHMtQlZGSzl4cEszX2pQMVZjTUxLaDhNM0FuaEo2cVliWHZJSzNsMXc?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 20:25:55 GMT",
+      "discoveredAt": "2026-10-25T09:52:20.282Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2030935408",
+      "title": "Atwoli Lands New Job as Ruto & CSs Make Appointments to Govt - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1VoaFo2enVmdmU2Nmd1VEhZeUpaM2N4Ym51b2tua2FUSWszYmhOeGFzY2lJRVhxNGpMS2E0Rm1fRkNuaTk3Xzd3OERUVnZwcWZaMmVRcUo1a3lwY2RWeDJCZ09LVnRDejlvdElBRFY5dGpDUFpkRWxoTTZLNndISFpISU5aN2dUVkxYMWFmcUJraUdn?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 12:25:03 GMT",
+      "discoveredAt": "2026-10-25T09:52:22.078Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1097684681",
       "title": "The fatal legal blind spot that cost Kakuzi prime Makuyu golf land - The Standard",
