@@ -1,6 +1,88 @@
 {
-  "generatedAt": "2026-10-25T09:53:38.192Z",
+  "generatedAt": "2026-10-25T14:05:45.776Z",
   "candidates": [
+    {
+      "id": "t_182129093",
+      "title": "\"DEVELOPMENT\" NOWADAYS 😂😂😂😂😂😂 In Kenya people are calling for urgent action to protect our forests, including an end to destructive projects, illegal logging and land grabbing. Join them and spread the word!@Greenpeace Africa - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvZFRmUWdQNDNWUElRdlZxVmxEX005cUpOYWUxMEZ5ME9GUG9NeVZaUWw2NjhCcnFBb2x2VDQxY3JJSEdjc2FMX1JYX1pEalRjaWZveVFuU1pNMjhEWXhYcUxsRUhXRExpbGZpTFNtRQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 15:11:19 GMT",
+      "discoveredAt": "2026-10-25T14:04:41.563Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab",
+            "land grabbing"
+          ],
+          "weight": 2
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 3
+    },
+    {
+      "id": "t_2108985834",
+      "title": "Kenya railways advances land acquisition for Kisumu SGR terminus - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWE1nSWliWjl6ZGhBX1FLSVg0a2NUOVlyMTlnU1BaNmNWYkFlci1QOFIxQkdlNkJobHc5RGN3TXhxR1lfa1lUby0wNUVVNXNzeXNEWEZWTFdSb1lVMWEtdXVjUTRTbWZfV0I4SFhpOXQwNkVkbGphWEtiMWlhYXBZcnRjZVhrN3RFdzVmNEJjd2gzSWJTR3VHQQ?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 11:55:22 GMT",
+      "discoveredAt": "2026-10-25T14:04:30.332Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1075335045",
+      "title": "Responsible AI for better decisions: Why geospatial context matters - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjNMQjdGemlKamloZExMMC05VlJaU0ppYXB2Y25ta2dNLWIwWFlmZEJpZml0Y056Tm10TWdqV1JVMDR5TDhKc3JwWXdvUDFWVllVOVZYelU3M01mQjVxMFJINHZ1d0pmeGdFRmlsMUVweWw2MGR6X29iN3pWSmZ2UXAtVk5FelRudFNDdnZUMkx4dGttbmIycm1oblpFT3VEQ2c?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 13:02:52 GMT",
+      "discoveredAt": "2026-10-25T14:05:30.246Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1679860252",
+      "title": "Pay me KSh 950k:Man demands cash after ex sells house he built on her mum’s land - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXB5ZWNNcy1sczV1bmVPWTN6M2VuSzRzNDFYdFViRUxpZkNHdWNzUE85X1hrZlhjc2JwQzRySXctUVZoN0F0UEhkZWFjZzJjQXRfMDdQeDdUVjU0dkNmUlFiaThlNzhzMjQtNnVZbHJ0MU80cVhrdFFCdjN0OXVMLTlVUV9vN29PQzVMQjd6YzVqMXF4WVhpVzNvQ1hTUUUtWjEwTkY2Q2JTS2tpVk9TTA?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 12:01:12 GMT",
+      "discoveredAt": "2026-10-25T14:04:26.976Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_98748511",
       "title": "NLC Issues Update on Land Compensation for Govt’s Multibillion-Shilling Project - Kenyans.co.ke",
