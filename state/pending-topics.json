@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-25T00:31:25.363Z",
+  "generatedAt": "2026-10-25T05:16:02.170Z",
   "candidates": [
+    {
+      "id": "t_1097684681",
+      "title": "The fatal legal blind spot that cost Kakuzi prime Makuyu golf land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbXZkRG81ZGh0bXl0TnFFQm5HazRXVGJfUloyWV9WZnppcy0zYjZfVkh6bHZKWjEzSXhHN1htODF6VUpheHZrQmNKRlBjOGZRX3J3azJwMkRKd3JXUkZ6MVNneDh0aXB0Sm9oMnpQNGVQYmRFMEp5bHV2UXNib3JHVms4RXNIcnNoMU9CUnNxRWRFNXpLYmdHbHpMemo1OUREaWdXYUZ3SU9QMkJMbGdtNUpXdklkVGpfQ0c1M0F3ZTVPblFWN0RrOEVOS2ZBLWZT?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 05:00:00 GMT",
+      "discoveredAt": "2026-10-25T05:14:40.840Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1559322615",
+      "title": "Oburu empire cracks as bitter inheritance fight over Jaramogi's wealth lands in court - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZzFYbUM2YVNkVWI3NmZMWHI2VlNlQl85U2ROUWZsZ3N0N21vdVJ1QXI5Y09HLUMtRlNvbDhxUXhwVmlOMml1WVdqdVAyMFpCMTcxRGZxUWkxQUJRLXhhaXF0OVNsdFQzLWtBYmRjWVVINjNqaEVRSUZ2clhLTXFNN1VuWDR5Zkw4QlhILWRLSXFQVm83UFZUcXRMcVJIZllvREFDRVJFMVprVnJLekFkXzl1RGpzRzRRSWxHUnJ4X2dvcGF6MndvaXhLRmh4eXlNbGI4MkJPNlhLa3NLSHZaMHg4SmVNTkJV?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 05:03:26 GMT",
+      "discoveredAt": "2026-10-25T05:14:40.840Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1650999687",
       "title": "President William Samoei Ruto issues title deeds to residents for Ilima, Kaiti, Makueni County. - Facebook",
