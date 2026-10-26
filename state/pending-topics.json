@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-26T00:44:31.174Z",
+  "generatedAt": "2026-10-26T05:45:21.826Z",
   "candidates": [
+    {
+      "id": "t_1411261924",
+      "title": "Agriculture digital twin to combine data, EO and AI - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlMyZy1hRFhTOWxFcWVtbDl4N0RXLWhvN3kwcHlYVzhxcUJMdUQ4aXJLVFphSGtEUWR2U0JXRmtCdnBXOExtVVJiRkdQN1JwNFBLeEszQ0h5QURWUjhhVmd6bWlYZXZOUjQwaUYzSmJfbkdtQXNaWG1JZnVENjBzd3NzbEp5eDRReFZFRg?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 04:33:17 GMT",
+      "discoveredAt": "2026-10-26T05:45:07.262Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1735306004",
       "title": "Kenya railways advances land acquisition for Kisumu SGR terminus. https://t.co/AjKpf73g0C @SpokespersonGoK - X",
