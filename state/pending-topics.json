@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-26T05:45:21.826Z",
+  "generatedAt": "2026-10-26T12:11:34.969Z",
   "candidates": [
+    {
+      "id": "t_1495766574",
+      "title": "EACC recovers school land fraudulently allocated to church - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUdvVXZ3Z1V3allRMnFtTU5Qbi02UnNQeFJEcjRDalVrS04yUnRzbUF4T0hOSzRkZjFUV0w0NnJoMkVWOFN0X3NtTHNxNG03SWR0dWxZMFBVUXBXbXRDeDBZMGFKTWZHT2VWV1k2YUtvNnVhQ1E3dVliT0h6QmJpeGJ3amNIZlRCdmcwb2VZNTJna0Y3QXJHS1dqNEdHWGRmT3diQ29hVTZhZmhBVkR3UkFCR0RqRE9KVjUtVWdwbjU?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 10:39:51 GMT",
+      "discoveredAt": "2026-10-26T12:10:22.106Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_121179372",
+      "title": "Kenyan court protects Nubians’ rights in eviction case — Nation Kenya - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEU4VW1wanc0dmt5RjRLUVR6STlBQ0JfWGxDOXdUMlN3U0ZGS3FEaDRzNlR1YXNVMUhrRHFzak14aXh5RHQxd0JxaHZ2Ni1qQnROMWJRVURXdXBYOVEzb1I4N0lkTjF4c0o3eUFmNlJRcV9oTldaUThRVDRnUTZNcDhzN2ZUblVkSEtwRkpKU1FpT2lCdE5ZLUJrWHB2SUdrSFdjd1RIT1VmUQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 05:57:47 GMT",
+      "discoveredAt": "2026-10-26T12:10:42.592Z",
+      "sourceName": "UA.NEWS",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1411261924",
       "title": "Agriculture digital twin to combine data, EO and AI - Spatial Source",
