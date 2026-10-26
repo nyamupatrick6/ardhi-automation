@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-25T22:41:23.935Z",
+  "generatedAt": "2026-10-26T00:44:31.174Z",
   "candidates": [
+    {
+      "id": "t_1735306004",
+      "title": "Kenya railways advances land acquisition for Kisumu SGR terminus. https://t.co/AjKpf73g0C @SpokespersonGoK - X",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YV3pNb1lXVEJvTjR1ZDRXcGU2RUF6V25yM2lQNDRpaGZJTU1HSVpvZGpHblJ0MVM4THYtWExjU042Y2JMTU9FeFNSN3F4b0J3ZmJ3V2xwTmxjeThDNG94RzhIZE5nU0E?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 12:14:33 GMT",
+      "discoveredAt": "2026-10-26T00:43:29.499Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_902805742",
       "title": "Finding Sasquatch with ArcGIS Pro - Esri Community",
