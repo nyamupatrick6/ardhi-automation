@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-26T18:43:56.443Z",
+  "generatedAt": "2026-10-26T23:01:32.053Z",
   "candidates": [
+    {
+      "id": "t_1215011070",
+      "title": "Kikuyu PCEA church loses 2.7-acre illegally acquired land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2xQYnlxSFVIY2RlV1R5WUZVa29oUFhCLU85RTZ1RzlVX2FmWUNNeGlGS1EtbF9MMzlxcnVxQlJ2eVhHT29fcjdNbElXRHNleHd4VUV5UEcxbzZYYy1SRnZsT1I3LTMzRl9iUC11OUcybWFxdVVqSjF1TjcwMFN5X3pVX0xlTHNsNExZdG5ONmlwSS1tcGc4b3RFbkRXYWhKOXpTend6N3d0eFE5?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 13:31:43 GMT",
+      "discoveredAt": "2026-10-26T23:00:15.029Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_435628216",
+      "title": "Kenya: Nubian Community Wins Kibos Land Dispute Against Kenya Railways - allAfrica.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzdlBJTVRVQXp4OXBVRUQ4Z0hUNVdXTDVpZU8tN1JCSjZULWVOYzZtdjhObURreFBGalo3bnJGOFJfbUFFNVNFdTFVT2pNOHJOcDh5Slc2NEh1WHM?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 13:33:39 GMT",
+      "discoveredAt": "2026-10-26T23:00:59.561Z",
+      "sourceName": "allAfrica.com",
+      "discoveredVia": {
+        "query": "community land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_615654467",
+      "title": "Responsible AI for better decisions: Why geospatial context matters - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1NThsWUVBZEdOS3lVa2lteVdnWnc4ejgxTThCN1gwSktOR1pyd2I2T3kwU2xfUndKTlNkY1dPdWV4eDZ0X0xDZ0licXlfX0hBTTl3?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 13:04:56 GMT",
+      "discoveredAt": "2026-10-26T23:01:17.756Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_667627143",
       "title": "Kikuyu PCEA church loses 2.7-acre illegally acquired land - The Standard",
