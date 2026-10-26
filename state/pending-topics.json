@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-26T12:11:34.969Z",
+  "generatedAt": "2026-10-26T18:43:56.443Z",
   "candidates": [
+    {
+      "id": "t_667627143",
+      "title": "Kikuyu PCEA church loses 2.7-acre illegally acquired land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeUM2T2dzaUVjOGkyejRwZ2lUclJPeWZ4NkVaMGFUOVR2cDI3azhSQmtDdEFBU0l6SW1ydDhaTTF5dUtRMk1GOHJscU5DT2wyektBM1JocHFLekkzajg1VXZZODY3UGxMNlBlUnZULTlKal9KUlRuc24xaDctNUNfR3Q3RUlGbjIwbWVPd3FlSHo0V1dXU016ejhSZ1Y2UUZ4eExua1RvYUcyWl9LYkpaaFE0S1QweGc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 13:31:43 GMT",
+      "discoveredAt": "2026-10-26T18:42:39.449Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_215507326",
+      "title": "Nubian community wins Kibos land dispute against Kenya Railways - Capital FM Africa",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcS0zS09lTksxclY4NEpVNUk0VnBYMFhfS0syR3phQWpjOXhjYUdmcTBZc1hhZTBrZXNnbEtqdU5DMnFYakRwRkpsZXo0czU5U0IxSnIxS0d2YWVlaWVmTElaN2ZFX29HbWg2dnFuQVhkdERPb2VHaDBSekdKMlMyc2JjeC0tVU5jOEwxQmpKRGN1YWc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 12:34:58 GMT",
+      "discoveredAt": "2026-10-26T18:43:04.871Z",
+      "sourceName": "Capital FM Africa",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1800773165",
+      "title": "Contracts with Coordinates: Getting Geospatial Data Requirements Right - Esri Community",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkh3LS1raWgwRXFoMWRZUm5lNG1uZnlBb1Fsc0JPWEJBVzBUOVJWenJHLU1lTnVRWVAtcUdaV2RPWFZwUGNLOVRYYzJpUXI3ZkhCWEJ4NmdvUEtWMFdBajVySzdUbjN3R1dpY09hR1htLXloZ245WUpCdC1mYVZuRTYxMlloMmJTdnl4MElOTV9qWEIydm5GckpnLTF1Z0J0UFk2dW51dlpybHRxczZlTHpzem5pV3VrRXc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 16:41:48 GMT",
+      "discoveredAt": "2026-10-26T18:43:34.563Z",
+      "sourceName": "Esri Community",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1538311417",
+      "title": "Court cancels PCEA Guild’s title to 2.7-acre Kikuyu school playground - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0tVUFYzclZfaUFwVld5aGtuWlUzd2VLTTNGRjdLSjItREpLQVFuQ0J6MnItMTBSN2J6SFhpMW10dTcyVjA4dVA4RGUyOTR1cDBIeUhTNnBXYlBHUVJ0YU9kTnJxZ2RTQnBqVnBlMlFFUnoySmFZUG51bGhPWl9icVJpcm4wMHliLTQ0LUZyUmlUMVZsQmlYWl92LV9yeldDS0tWVGRsVUZ3MjZwTUdvSUtTakdXcDk1eEhTdnl2VQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 14:09:00 GMT",
+      "discoveredAt": "2026-10-26T18:42:40.435Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_30944393",
+      "title": "In Kaputei, land bets pay off as Kitengela brings more settlers - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEpCZkFiVnZYRzJIazlEWnZtNUxkMzE4MVl0R0g1aWJDRHBSMlFCYkZLcmJkM21SR05uWC1oeVVsY2hxOUpPdnZKcVVRTzVvNXVJX3VqYkh5UGxwTk5Ga1JnR29maXBBVlVRaGdTVXBNNVdXb1lJdjM4c2o3STNzSHJKRUdteHB5WW9iQnlGVXBhMHdDbWxBRUg5eElaRWt3RXVXQXZ0VUx1V2swMnFpTTVPNjNpSlRlNm9yeEhKZVhVNDZuR3hHaA?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 17:00:00 GMT",
+      "discoveredAt": "2026-10-26T18:42:42.370Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1570676994",
+      "title": "Twaha Mwaipaya, a Tanzanian national, was reportedly abducted at around 2pm today in Kamulu, Machakos County, by individuals travelling in three vehicles, including a Toyota Land Cruiser hardtop. He was travelling by taxi to visit friends. Anyone with infor - X",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91OVp5V0o3R1dXdmFWLWdCUlRNbmFYSFRBY3pVY0phOEpuaEpicGN3Y3RLUElscENvNVVIRHpSMVBtNWUtQUpaYWFodnd0blE1QWE4bHVMUm5tdXhzNWhYcWdSMA?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 13:28:15 GMT",
+      "discoveredAt": "2026-10-26T18:42:56.587Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1679863006",
+      "title": "Kakuzi Loses 70 Acres of Land to Makuyu Club in Supreme Court Ruling - The Kenyan Wallstreet",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zaTlXU3BYUlpDT2xxa1Z1OUZ0c0tQRlc2TG96Wk5JUmg4Z0lfWURpODF4ZkQzWkRNRzJ3V3VFclZONDl0cFRKcHJSOWZob1EwdzhlTU5CaF9ibE51cWpxV2FzYV81NzdFVW4yT3B0aUNGQ2Z3dG9sUHIwSU8wWnc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:04:03 GMT",
+      "discoveredAt": "2026-10-26T18:43:04.871Z",
+      "sourceName": "The Kenyan Wallstreet",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1495766574",
       "title": "EACC recovers school land fraudulently allocated to church - Tuko News",
