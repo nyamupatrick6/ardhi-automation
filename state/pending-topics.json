@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-10-27T13:33:28.923Z",
+  "generatedAt": "2026-10-27T18:57:06.843Z",
   "candidates": [
+    {
+      "id": "t_1765552080",
+      "title": "Kenyan billionaire John Kibunga Kimani wins Supreme Court ruling in Sh205 million land dispute - Billionaires.Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzNieU5OdS1CS2VRdlBEYnU2WFJmX2hhRkpqd0Ywc2s0eU1NdEo1VlVodi1HWF9OeGh2VEgwZC1lbi10dTlTT0V3RFZtTDZRZEY3aVBSTmJUb1FidFRyUEFGeWVXWGI5Sm10NFpEdk96d1YtemlaUnJLZUVXRW5fZmQ2MWg2SzVFV0Fra2x1a0htb0NVcWNmQi1ROXd3eUhoMWtHVS1INlBsaU1xRkpadFlYOUpLRm9XTjhaRmx4dnh0cF81bEZnY3hHQjFRcnpKckZtUA?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 17:07:26 GMT",
+      "discoveredAt": "2026-10-27T18:56:15.889Z",
+      "sourceName": "Billionaires.Africa",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_153744223",
+      "title": "Kenya Power issues 90-day ultimatum to 68 people to vacate its land in Mombasa - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWnEyeGJvY0llS0xMU0huWUxpSkRLdVRKRmhYNUgyaDhJYXBZZk1SZDF4VEUxTk9KaWtIV3M3ZmZSMlBCVkNUNXA2VFZ5dGdoZDJmOHpRV3FaQ3FaekFfZ0lXcWpRcWhSUEI3RlVnbVVPcy10dEx2SnpWbkpzMXBsTlNWYUo0NU93ZFF6VTlvMGFDdlBLOXlaU2h6blVfZ21KOHp2T29YMS1fUnZyMHp5UEVqZ0Z2elhaRlhIRDRPRGNrdw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 05:01:31 GMT",
+      "discoveredAt": "2026-10-27T18:56:22.103Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "eviction Kenya land",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1553123217",
+      "title": "Kenya Power issues 90-day ultimatum to 68 people to vacate its land in Mombasa - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1pTdXBMWk13T2xpZFZsRzE1Q0h3YWJwekRGcGN5Y190QnJhNkI2amMxX0ZfOUVGdFR0X1BfanBQNTJWM1k0MVVWaXRMNExzVUN2V1RIdWtxZkcyaEwzdWZqYi04WjU3VmpkWExXZ1hxMGl1UlJVWG4wMzZuUzJoREplZ2VoQmpCckNITXRXSzV5QnJxTlZEamRIQ2Z3UlFISkdEbG5lcUJzMnYtVDdxeVVVd0pBaHJNQVV1em44VEVPZkk?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 05:01:31 GMT",
+      "discoveredAt": "2026-10-27T18:56:22.103Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "eviction Kenya land",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2089620352",
+      "title": "Kagwe courts investors to unlock idle public land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGRnRjFQQmpJcktCYnpaWnhjUzBVaC1oenl1a3NreTdJUWNkUkhrWGhGTFR4aWdlNTB2aFczbGFNT2tIZFZwNkk3NXpTNWY3V1FuM2ktVkQ2WFprbktxczRfaUFjN2dXTzNmNnVqSHN2QVVCUEhyeHNBOEpMS2lnZ01Pd1Y3dlA5NUZSem9RMnJlWVVsdmxjQW9LR3dNa3VhUFp5MTktc1RDWlhKcmc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 12:40:11 GMT",
+      "discoveredAt": "2026-10-27T18:55:51.279Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1344670654",
+      "title": "Shakahola: How followers were deceived to buy land of death for Sh1,000 - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWTVUSHBDMnc3NU43ZUZKWGI3SjI4dmE1V0xUVXhKa05aQ3pUeUFmNWFKUGZLYWRMWGExeXZaaHJacVJ0ZGRFYWJfUS1IRnlGWThfdWU0VzVTbXpDS1F6SE53elc4Umtzeml4MVN0M1VwNFdsa19reUtQVlhHYm1oRTRlLVJkUDZ5MWJ2M2RTNmt2cW9ZUjVtR2tnX3FTekIxazlITmJQTUhVM0JTQVdkakVLMXdLTkFZOGU0aTJhUzgybmZtYUt6bzh3M2lCRVNGd3NyQg?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:31:51 GMT",
+      "discoveredAt": "2026-10-27T18:55:51.279Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1682346458",
+      "title": "Treasury stalls NLC plan to collect land sector taxes - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYU9DS1dxQ0xMLUUtZ0NJVW5JZy1KVFpEN2dUVUR0U0puZVZhNzU1TkFra1ctVWJYVFRvUy1KbF9QeHE4YS1DNlpvY1VZa1QxUFlhdlRyNFl3T0c4S0tpNkYtS0pNbGxseWVyN2Jxbk5XdGV0Q2dEYkFFZEpvcE5iQkVJSXcxcF9wbXAwUnBCZmdTemFvN1I0SnR0b2VkOGNXTUdYUXVILXJrazRJ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 16:00:00 GMT",
+      "discoveredAt": "2026-10-27T18:55:53.803Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_614166092",
       "title": "Kenya Railways advances land acquisition for Kisumu SGR project - Sacco Review",
