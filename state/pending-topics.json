@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-27T18:57:06.843Z",
+  "generatedAt": "2026-10-27T22:51:44.632Z",
   "candidates": [
+    {
+      "id": "t_584818647",
+      "title": "PANEL SPOTLIGHT! | THE ENABLING ENVIRONMENT 🏙️ What will it take to make Kenya’s development environment more efficient, predictable and conducive to sustainable growth? From land administration and development approvals to regulatory frame - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbDBFTEJoNUhGZ2FPQTdGRy1hWm5nUEJfZFIyeE9JSGZNMWRYQVNSb1ZBQjFsaTVSMFlHMzJOemNFSzk0TFM5cmZxRmlvVldyamZvS2s1YlZ6X0VRT3hVcjc0a0NiZ2k0cEJpZWh0UkpoblpZaUwwVHRIS0tFSl9oUEpmNjJmMWtrTHp1MDh5TW00ajVSd0RaQXY0eVJLN2VwWC1pLUlnYWRnX0lPYVFQQ1BjdGpVQ2NIQVFIbHFzOXBGV2Rab1VXLU5uMDg5OU9qOTFQeG5aWlBkT0lQVVRvbDlud3lSU3c?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 15:17:56 GMT",
+      "discoveredAt": "2026-10-27T22:50:47.071Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1519115978",
+      "title": "Indigenous and Pastoralist Economic Exclusion in Kenya’s Emerging Land-Based Economies - Human Rights Research Center | HRRC",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNW9HbVlnaWdjc25VSW9vdENMRDd1VVpQRnl1OEh0NzBGOTdkdmlQZWs5eGUzajkzUWt0YUtDcGRVSEpoaWZHYjR6LTdWZ2pScnVfeWZGWmRxRkc5aHJnaFU1Skg4S2xhUi1xNTMtVEFwd3hDNV9mSWV6cFB5NTFZby1DTkdZVFZrX1FNTDRyOVhFbVpNVWFjbU0zTGJFWEM3RFJtMkZDdzNvWFlHeFAxbEgwc3JOOHJPSmRIZkhwQWtGN2VRS2c?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 16:12:34 GMT",
+      "discoveredAt": "2026-10-27T22:51:00.167Z",
+      "sourceName": "Human Rights Research Center | HRRC",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_171757295",
+      "title": "Ruto-Natembeya showdown leaves traders stranded after 24-hr eviction notice - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamtDYlpMa3B3czhnZjRpX0ItZ3kwS2hSa2FnMHlTVmxfcDI4VDVXdDZXZmQ3QlZwX29QajdnZEpKWE9SNTBrVlltV0dsM2FuVWpmY0lDN3FpeTFOUTU1STh5ZE1FZFl0ZjlENHl0M3RWSWd2UUpFRmdNUFY5NVdmdUo4ak1lQUlxLUZpcnktcEhnQW1XZXctNDhQY1hIVXg0X01rSHJzMkJqZzBVN25Sc0I1WV90QQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:38:06 GMT",
+      "discoveredAt": "2026-10-27T22:50:28.969Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1786492969",
+      "title": "EACC reclaims Sh40 million public land near Kakamega State Lodge - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFZaYzJ1WGhEVHVHZ2V2cG9wWHBqNC1oMHBZdjM5ejBVQ1ZCZmNKNFoyRk1oMldlUWNQcF9tSDM2Q0MySG9lT3VDOGFJSnhuWEU1aGRXdnF0VWVSamotTGxZaGU4ZUFDTUlGN1BCTVdBakFxUm1RNldPTTB4U1RrdFZleGFtU0lrM1hnYUJlMFctYmF2TVNEQlRrR1dUWE1tV1F6Rms1SUlWQ3FSc1AycA?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 10:03:06 GMT",
+      "discoveredAt": "2026-10-27T22:50:42.288Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "Ethics and Anti-Corruption Commission Kenya Kenya",
+        "origin": "Ethics and Anti-Corruption Commission Kenya",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1423890414",
+      "title": "Safeguarding Public Land Through Partnerships, Digital Integration and Secure Tenure How can Kenya better protect its public land assets while unlocking their potential to drive investment and sustainable development? - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGaTN3dTdzNEJIZzFfYWEzdkpOTDhmTmpoVlFVd0wyWTZxR01mOFhST2pKMWJNbUlvRVJzeWhTQU1qMHpuMzJVdE1BUFpZZ3lKV0pMNFhmVUZUMU5pVVE?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:34:33 GMT",
+      "discoveredAt": "2026-10-27T22:50:44.234Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_997807473",
+      "title": "Safeguarding Public Land Through Partnerships, Digital Integration and Secure Tenure How can Kenya better protect its public land assets while unlocking their potential to drive investment and sustainable development? - X",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUTVYVzQwdE9YWUlDMVdMSDhOVllkUzNPLWJoZml0anpKcDVMNERzMmZES2RLY0hhUDAxZlJWbjVtREV0UTV1b0lScjlsWjFEaTNjREdRT1BqMm9hcHFnMGEwdzkwZkJP?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:34:33 GMT",
+      "discoveredAt": "2026-10-27T22:50:44.234Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1291341848",
+      "title": "How did she land the Wasafi gig as Radio and TV host....@djmamieofficial @gudah_man #TakeOffTuesday #TheHypeGrade #TheHypeGradeOnHot96 - X",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XaDFhamVNVjdCeEczb3BYZkRzYURRREg5M2dDU1kzZk0wUHhnVUFEcm5wbHBIN1ljTVJjNkxkVFlvdy15VmxLU3Y1OFBsQXdpRDltWDR3S1p0ZkZudnhSMjdR?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 19:31:14 GMT",
+      "discoveredAt": "2026-10-27T22:50:44.234Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1765552080",
       "title": "Kenyan billionaire John Kibunga Kimani wins Supreme Court ruling in Sh205 million land dispute - Billionaires.Africa",
