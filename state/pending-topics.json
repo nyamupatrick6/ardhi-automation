@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-10-27T07:33:46.483Z",
+  "generatedAt": "2026-10-27T13:33:28.923Z",
   "candidates": [
+    {
+      "id": "t_614166092",
+      "title": "Kenya Railways advances land acquisition for Kisumu SGR project - Sacco Review",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxsUGxkM1VuVHc4OVZZd0hXd0NyMUo0ZmVjZWxIdi1oV3hvdkdzRS13OGRyRlE2ZU5QMDlCcUl1X0dmVUNmMG92LVFBUXd3WUV6REVlMFdhZGlMODllTE1lWGEyQlYwTFJIU0xrQkpFa0U2cjFzLW81dHFpeTVwdHpzc3BvbTRkMkswelIwTFJKVUl5?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:05:56 GMT",
+      "discoveredAt": "2026-10-27T13:32:08.935Z",
+      "sourceName": "Sacco Review",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1069426997",
+      "title": "Man surrenders title to public land in Kakamega after EACC suit - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXB0NzhXZFJqRFVjREMxdloxVE1oSks2dzU0NzhZQ0JOV3ptb1p2U09TVlNZSHFHdWFRUG9PclhGUll1MGN1SXVzdi1HOVBtS2d0ZEFFdm1TclJBdUFWRUpEN1Raek1qUGZDVXk1VW5LYzUyQW1pQnBWMEh0MHJNRThlNXdvWkJPa0t1VGJlaFFWLXpKN2dTcjVwVjI1S2VGQXpBNlhWSzhiQQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 09:52:00 GMT",
+      "discoveredAt": "2026-10-27T13:32:15.188Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1161458839",
+      "title": "Supreme Court ends billionaire Kibunga Kimani’s Sh205m land sale row - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVNpcU1qUnhueVFTZ0RWektJSE5RRVB6YmFMb0NOdFhmREdSLUFVeVZDeHppbVNBQXRqOEJEZTN1ZTg4a0E4cjdZY2ZYa3BteUVmYUlSdXduQ2VNcFhaYTZ3OG1XSWRLZnA2MW03bVFQRlg0NThJdWFSUjJYaU5tZmtzMTRTenhQOEpCbVZ6VkVNdXNDVU1pZHZQVFhfRmVJTkRrSDdRRHEtMW52ck9kc09qa0N4dzJENFpfdjdkZmVJRVVmUFE?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 12:30:00 GMT",
+      "discoveredAt": "2026-10-27T13:32:16.932Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_945005512",
+      "title": "EACC Recovers Ksh40 Million Grabbed Public Land Adjacent to State Lodge - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVJFczBzM0JsN1FLZm5wYUhFYzNTU1VSQzIxLWF4U3RVRUtiRkRjM21JT05zV2tVZG1zYk1COFYyUkF5YmdMTDFwUmh5dFZYckpFQ183QlRwbTJvdTdjUUhMWnZ2aENIcC1GOG0zX0U2dEVHYnRlaU4zdlI2Y0JldlViaVNGVHVUU28xdzRWZWoxeW93VWtmcTJsNGRnMGpMVTVzN3VQSQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 09:20:20 GMT",
+      "discoveredAt": "2026-10-27T13:32:17.897Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_82628060",
+      "title": "Robotizing GNSS, automation and laser technology - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaG40a3pmcXZMQlZtaWp0bnpfYm9sc0l3QUI4aFpEZTJveE1kSkhqZWtJX1QwcUowOHFVak8wSWU2UG55VkpoQ2dZODlHSGR2WjY5eklfS3FMSGpQcnc4WTBxXzE4VjI1Z0t1NE9TaDZjcWRfWi15c090UnpBaXYxeTE3aElSU1FkYWk2bDBSRzFQZDA?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:05:02 GMT",
+      "discoveredAt": "2026-10-27T13:33:09.976Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_163365746",
+      "title": "Shakahola: How followers were deceived to buy land of death for Sh1,000 - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcFdZOU5hUGhldzE1ZlZRSEhJdkJsNHo3V0o3alZSTmFQb00yWEpGMzRtb0hfdkJHZk9JeDN6SWQyc1hLdHJhSDE4MlNqd2I3WEtQRV9FQXd6QTNmUVJhSHludGwwX2Y3N0h2S1o4UnpTUk5Bcmw1MGUxNVE2Ynl4ZzA5VXdiblhoOGljWmJVOU9iLXpyajMzSEcwUE1XWjdvbi1YdWJzc2hkUWQwTGcxUnlLRndqcm9ub2NfUjhhd1J3YjlteHJha2pHRlRONHFmRlBUS2xrV2Q3UmwtVmZoNDFtbVlITjV2WU1iQlhXUlZ3TTRQWFE?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:31:51 GMT",
+      "discoveredAt": "2026-10-27T13:32:14.303Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1626170790",
+      "title": "Ruto issues 6,000 title deeds in Makueni as Lower Eastern total hits 23,000 - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmZQdHU1QzlMY1FNOHNKSTFlMkxxQmRxMHp4dnFtQk5iaDd1OGVGUDRxS1BtdXhLWW0zYmVDd09NMkhqTi1FbnhJTXJtN2VrZlZncmR6OFZJNk45d3NpUTNjaUNJZk5USDRPSS1XWXg3ZDdjeVZHZ2xBdUd4Y0xEZTlpYVY5SDJHR1laS1ZlRHZBODdDRDRacnZ2UFpvR1JIMWhqdWRDT3dEQWNrYjhrTnc2cFVFQQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 17:08:52 GMT",
+      "discoveredAt": "2026-10-27T13:32:16.091Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2109546404",
+      "title": "Court Rules on When a Wife's Consent Is Required Before Land Is Auctioned - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanhWbWRIRjhsZ0VYVkZMZFNJREZSdjh4cVBxdzVrTmRIalBVa1NiNVJRSzF3eVpVc25wZzVnTDVtV1N1cUhBS2lUWVJrMUIyQTktQUtrZE5KR3YzaDNEYkNqeDV5S05YT0xDY2ltb0ZmYi1hWHFSVWxPemZZemZ5TURZV204NjJNM1dvX0JqeVJGZF9DcEs4?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 09:33:05 GMT",
+      "discoveredAt": "2026-10-27T13:32:17.897Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_383036248",
+      "title": "EACC Recovers KSh 40m Government Land, 3 Houses Near Kakamega State Lodge - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVQxMGV6NzhWQndSV21zODVTTXFmU2dzT2RnTDE1WEJTRDB4LW81VHFvMEdtalN4c21HdHo4U1AwREpvQjZEQzQtS2RiRE5uVTB2WFVtalVZNzY3WHhsZlVCOVBSQzNkWVZkVjdsdS1XMVVFYU14WWRyX3BKLURnZ2JhYjlnRWktT3lEdnNLZU5KbHRmT3BHTUxISlNYODZpVE1ub2g0VFkyRFdXWjB2enE2Zw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 10:20:57 GMT",
+      "discoveredAt": "2026-10-27T13:32:18.900Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_939684636",
+      "title": "Photos: Mofarm, Kiengei give Kaluma's family title deed for house - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWkRTbjB1cy1FUWlpRkdPY0VnemY0T2ZaSTRjdkNhbXkwcGtEeFRvTU0wODkwNkpMVW1yM09uem1kbVpTempqZTRTbXROQ2pyaTd5ZTZLaHQzcFdLcm05MjUwNWxTVTktUzRDUUptSG5Hb1VJcUxnbVJ3TXotRXpNZ1FaZkxrbnRZZFpqWHl5V2JmY0pfZERYQVoxNVZxcTBybjhZTFZadmpvUmZCYmNCeFkxbDNCaWJB?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:57:22 GMT",
+      "discoveredAt": "2026-10-27T13:32:18.900Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2123223169",
       "title": "Kenya Power Issues 90-Day Eviction Notice for Mombasa Land Occupants - Kenyans.co.ke",
