@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-27T01:59:32.450Z",
+  "generatedAt": "2026-10-27T07:33:46.483Z",
   "candidates": [
+    {
+      "id": "t_2123223169",
+      "title": "Kenya Power Issues 90-Day Eviction Notice for Mombasa Land Occupants - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnpmQ3Y0N2hwR0dES2J1bkxpR1ctVkFnb1pIbXJkQm1yQzFvZWxpd3llSGFka0w1TXFoVk5GVDRsNENLQmk1Smc4RzJwdjBGZ2NfQ05aOHpoZEZfMHZZdmVfSGVoZzNtWUtjalQ3anlBU3drRVRJRmZ1RHNvekpmSzgxOWgySmFMWmdLeWZsZWYydHJqNEUtOWFkY0k4Q2s1RV9lZQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 06:35:19 GMT",
+      "discoveredAt": "2026-10-27T07:32:37.275Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1913930108",
+      "title": "Kenya Power Orders Several Kenyans To Vacate Land Within 90 Days - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2RGNpSEh0SVB0V3ZLSjc3WldLUXdreG9pOTNzVHBQb0UzWGRpQzZ1bGc4Q1RUM2xWamtXTTE5WlpDaDFZY0t5Z0RLaUJ1RUc1VEF0cW9UNTFodkU0TjdzZk1xc3pQaE43Nng0VWJtMFVKbzU1NmtJQXJR?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 04:51:20 GMT",
+      "discoveredAt": "2026-10-27T07:33:01.152Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_150524923",
+      "title": "Kenya Power issues 90-day ultimatum to 68 people to vacate its land in Mombasa - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWRxT29aaTJyU0NWeU01Ujctd2d2c183dUtfNWVUTVd0akhqdG5JNExzbXZkQklRTi1fS1VVWFFnZmlUdDJaZWNpVUdPbTQ3TlpYcHpocW9YUm5nVUt0WHp2QS1penpxb1g0aElSLUpJOW1Cemh6eG9yS3ZTMmtHdV9Id2NFUm01U2RKdWtjb3hRQzRTTHBwbndKcVdULXZNUDEyY1RYSzZteThqWHN4dGxQRmE1bWpNYVUw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 05:01:31 GMT",
+      "discoveredAt": "2026-10-27T07:33:03.522Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "eviction Kenya land",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_179083288",
+      "title": "Tasmanian Surveying & Geospatial Conference 2026 (2026-10-30) - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTHdJR1RaMDFDbTlKblAybFRZbWV2UGxaQ1hfV2FzZENLNDJETFJlOWF3THFzaGtrbmRta2Y0Q2xaNlpXNVBmaEJ4dmxscTU3Q1k1NUhYbDRnOXh6Q3NwZzRkeVZJTHJ1MzctMG9kb3YzaVRWNTV1VWtSNnJ2Y19HanByRTNqMW1TbVo4dmFfSQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 04:09:26 GMT",
+      "discoveredAt": "2026-10-27T07:33:32.520Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_826627997",
+      "title": "Court admits error, reopens Githunguri estate land injunction case - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2RBdDRYM00zV2FTRno0ZnRzaTg5dXNkMFRENngtekZqNkVINXI3T2xyWHFLT0ZkbjVib1JuaVE4VGhtdXg1LVVFZm9jQWZzOFlMRkxSYUJlRjR5cy1SVld6X2h4LTJtZi1iRkNPVlR3Tms3VmVWdmJtclhWUkFtV1BUbFl1V0RwTXZ6eVV5bW1iVFo0R2FuLUJWQmpqa0U?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 01:55:00 GMT",
+      "discoveredAt": "2026-10-27T07:32:34.669Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_834091100",
+      "title": "KPLC Names 68 Kenyans on Its Land, Gives Them 90 Days to Vacate Property - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmhZSWUxMEg2SVhVQ0dCV0FZMk4zQmNPRXdtb20zRnlGRWdnR2sxdmt1bUZxd3UwNVNUVnMySkY0ZTZHZm5JNURHdTlDeWt6NHNwUXhEXzE4ajhrNWUxbGRSNy1OWDVQQkJRdFE4aWZKMmlqR1M5cUJDd21YdHR3M2NCRnZOWVI3VlNfZ2ZOd1Z1ZXdKUmdKa1VTQVhwQU0?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 06:12:14 GMT",
+      "discoveredAt": "2026-10-27T07:32:38.159Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1009757668",
+      "title": "CS KAGWE OPENS HISTORIC WORLD POTATO CONGRESS, TARGETS IMPORT SUBSTITUTION AND INVESTMENT IN IDLE PUBLIC LAND Kenya has taken centre stage in the global potato industry, with CS Sen. Mutahi Kagwe opening the 13th World Po - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12RjJPR2pTYm5xT28xRXNCR2FJREtReVk4NTRPQ25aWkhxQzJBSGIydVQwNjdEUVdjRmVzSDVTdHktQVhsZ0hrSHVtZWdKZThMQ3Vjc2h3Rmo4UVM3Umc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 05:54:02 GMT",
+      "discoveredAt": "2026-10-27T07:32:49.380Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1215011070",
       "title": "Kikuyu PCEA church loses 2.7-acre illegally acquired land - The Standard",
