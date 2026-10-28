@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-27T22:51:44.632Z",
+  "generatedAt": "2026-10-28T02:01:07.431Z",
   "candidates": [
+    {
+      "id": "t_2030681840",
+      "title": "SkyeBrowse Adds New Timelines Tools For Drone Surveys - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHVXTklHS3VOR3duS0FHOW1KVWJvTkFHWkdKekVfNjFjQmpLVHhjLUtzdFlFQ2NHV2szZHFOSFJZQU5qeTFSVU5VNUswUU1NR3RFcmpiMWNDbE0xVHNpelo0VFp4RjdnNzJTaElxY3RSOVVvV2FhUVFNYjhsd0M1bGhQRU9OX0tNZU8yVXd3SDA?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 14:46:20 GMT",
+      "discoveredAt": "2026-10-28T02:00:55.619Z",
+      "sourceName": "Dronelife",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_584818647",
       "title": "PANEL SPOTLIGHT! | THE ENABLING ENVIRONMENT 🏙️ What will it take to make Kenya’s development environment more efficient, predictable and conducive to sustainable growth? From land administration and development approvals to regulatory frame - LinkedIn",
