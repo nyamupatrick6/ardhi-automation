@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-28T08:17:36.767Z",
+  "generatedAt": "2026-10-28T15:12:15.311Z",
   "candidates": [
+    {
+      "id": "t_1403236081",
+      "title": "Kishushe squatters cry foul over land adjudication exercise, seek Mwadime's intervention - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUlWa0hrQ1dkYjVQaXBzaVNnV2hUaEhUTWE5cUZnRUIwRi1SVVJrWnBxRno4N1pOQWpyaFZvY0p3N2pRRm0xYmlCQ3hNZC1FX3lOdEdVbG0tOHd0aHBha2RHT1N5Zmx4QlFSVUtyU3FJd2NodXV4WHdSaFd4azZqNWZyRVhrUm15dHdFM09SR25QeVR4TFVock5vLVdtMUpaejhON2h0LXZIV2xCWTRBTEhkeTYzTnR1SnhWNFpMemgxOWZCVVp4cEVKbkFCT0tXdmp2YmxFSGNYUTQ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 12:36:59 GMT",
+      "discoveredAt": "2026-10-28T15:10:56.534Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_588989492",
+      "title": "Beyond the Title Deed: How Recent Jurisprudence Redefines Land Due Diligence in Kenya - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjJGUmJjeGF3T2t5SjJmaUJrNUFiOHhLaFhRdHducjBnQmk1SnFacFYzWFlFRzU4UmFORmJicFZnUjNMMWp1Y19ld095NkZfVV9ZLUNZcE56T1pUR25tbGM0cE40TVJ1OFBWTU9sYm44UTI1N3Zic200c3hjV2ZjUTQ0bS1ON001SUpOTlFjamFyVDZnVGZ2Sjhn?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 04:01:44 GMT",
+      "discoveredAt": "2026-10-28T15:11:17.523Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1961531475",
+      "title": "KUSCCO puts land parcels, houses and commercial buildings up for auction - Bizna Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9waVQwZFJhU3lkaVBkSnVlZTdWS3h2NF9vNEVKdDFMMnJna1hiZnVXSWMwTmh1cncxRDFHZzA4NWtGbDVXN19mSTBZY1V1dnB4RGNIX2h5S1BnMWlFcWdQanMzZ0M0NmZxYkJQR1BlaWF1MUJ6YUhsZEpR?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 07:50:57 GMT",
+      "discoveredAt": "2026-10-28T15:11:32.042Z",
+      "sourceName": "Bizna Kenya",
+      "discoveredVia": {
+        "query": "county land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_382697426",
+      "title": "LAND RIGHTS ARE CENTRAL TO CLIMATE JUSTICE - Across the vast northeastern Kenya, most of the land is community-owned. Yet costly registration processes and institutional barriers continue to undermine the pastoral community's land rights. But this is - X",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15SHNYYVVKbmFDaDh3dERQRTc0MlVxRXhCUFQzbTZIVzdzd1JaeC1NMTRmZ1hzZU0tTVkzU3VYcjVRZE8wRFFBRS1QcE9lT3g3elFwTGdIaFBwYXQ1dE40RFZ4RmFmSDg?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 13:18:03 GMT",
+      "discoveredAt": "2026-10-28T15:11:13.676Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1058208428",
       "title": "Hexagon rebuilds its Inspire software to make 3D scanning faster and easier to trust - 3d adept",
