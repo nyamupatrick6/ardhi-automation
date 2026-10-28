@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-28T15:12:15.311Z",
+  "generatedAt": "2026-10-28T20:21:11.054Z",
   "candidates": [
+    {
+      "id": "t_683320088",
+      "title": "Dangote plant: Lamu villagers confront land surveyors - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUVJMVhJNll0X3pIZjM0bkZxZkJZcGJqNmotbEZueC1fMThfNENmdlQxR2J1ZmZ2NnVpQkZTWXZHVTMwVHVqY3BoeFZ1Nl9CRkZmeXhqS0xuWkViYm42QWxxaUVic0tSU3hWSzNUSXd6NUFpRlhJMHVxSkpsUEZLWS11LWpiRHoyZl9Oc1VyYjJDLUQ3bHNlWERKRV8zdm43ZFktaXF3?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 11:16:22 GMT",
+      "discoveredAt": "2026-10-28T20:19:51.558Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_957296939",
+      "title": "Kakamega private developer loses Sh40 million land to State - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFg5M2lDVVRZUi1IVVNMeTBQNXBYOG9jSlkyOWFFX0gtbVFldzBpenRyLXF0Xzh4cG9YNmJpWWkzT0dmWU9oM25NY0VUOHNBWWF3aUZBZk5uZmp6V1VaRmp5WmhnR0xqODVvTzBsYVhxUEh3M0FEMTBuMld1RXRwZXRtZ09vbDNnY3pxRTBfaGhjSVRRdzFoRkFsdlhlbFhWbHp3TFBhd1dpZHJmdW9vS3Rid1lxaU9va2c?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 14:08:50 GMT",
+      "discoveredAt": "2026-10-28T20:19:52.552Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1403236081",
       "title": "Kishushe squatters cry foul over land adjudication exercise, seek Mwadime's intervention - The Standard",
