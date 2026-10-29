@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-29T00:06:20.134Z",
+  "generatedAt": "2026-10-29T05:56:16.785Z",
   "candidates": [
+    {
+      "id": "t_73453209",
+      "title": "Thika land dispute: Gachoka family alleges invasion amid pending court case - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16ZzQ2VEU3dEFNNTRNV0FPc1lDTHNRZXNKR2pOZWdnOWczcWgwSDRNTG5DVjd3T1ZBcEFGNjdZM2c0VVhXMEtBYkVXdjlRV0VRaUM3eFN3?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 18:24:22 GMT",
+      "discoveredAt": "2026-10-29T05:55:20.371Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_937588649",
+      "title": "Discussing Topcon GNSS Correction Services for Micromobility - Topcon Positioning Systems",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb01TVEtLVmVVUml1OFljSDgzMjMtYjAzd0FaNzVvVUd4dVYxc2l0SkV4T3ZGYjZBd0dGV3VGc1RFYkpXSWVFSWFLa2puTldsRHpybFF3emEySEZXTEREUVN0RHVvTG1nMTJhYnRFWFk4RGlxOHZhZVB2Rk5VcHRIZm9tMVFSaEU?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 03:22:17 GMT",
+      "discoveredAt": "2026-10-29T05:55:49.786Z",
+      "sourceName": "Topcon Positioning Systems",
+      "discoveredVia": {
+        "query": "site:topconpositioning.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Topcon Positioning",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_879742178",
+      "title": "Court Delivers Ruling On Validity Of Land Allotment Letters - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkIxX05UNlIzdEZBSE1CdkNrc0Fua1N1Sk1wMTdZbG1fbTAwaU9YbW1VMmw0eXRUY1o1STZXekJnd2NUdVQwYVVBRVFuM1NZNmhXTmJDaG96QTRmZDRpbmt1ektmd0llc2pMYlZteVVDYUczSTdpQmZSdi1ZZkF1WGUyTFZ6SXB2TFdJSkFsZEVqTWtjZkZwLXQ2Rk5NbHAwcGxESGNn?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 09:18:01 GMT",
+      "discoveredAt": "2026-10-29T05:55:27.355Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_683320088",
       "title": "Dangote plant: Lamu villagers confront land surveyors - Daily Nation",
