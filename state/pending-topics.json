@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-10-29T05:56:16.785Z",
+  "generatedAt": "2026-10-29T12:13:59.012Z",
   "candidates": [
+    {
+      "id": "t_1158124155",
+      "title": "Almer Farm residents seek Ruto's intervention in land dispute - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTm5VcUFxUDNuSmE5djVQczZXbHRWOE5LaC1wNnpiOHpfMGc1UmltYVNsOUxkX0VvcWs3SUdpQWhURmt0QXVUc2pZQ0V6QjRrckc1MTZ5QU5LTnNfSDk2RTF1ak9CWlJfUnhOQzJQbDZ0ZDhjcTJvSnZ6X3BBemF1dWd5cmZUWEJKX0hwV3psYzJ3QkxhS09LeHEzeXpnZGZRdWNhT0M0NFdOYWVTOUx1N0J5aUo4a2s0YS1R?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 08:55:48 GMT",
+      "discoveredAt": "2026-10-29T12:12:40.685Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_241496399",
+      "title": "Thika Land Row Turns Violent A bitter fight over land in Thika has taken an ugly turn. The family of the late businessman Joseph Muiruri Gachoka is locked in a dispute with a firm identified as Floriculture Limited. The family now says more than 200 men have - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VQndyc0RvWmd4MUxTRWNvVnNRdmMtYk1KRTRJRmNVVGRWQ2ZacHJzOHV3N3NCTFVWRjhhbGhWb2JWV3hXcWNmZlg5bzYzRkEyMHZZVFlhc3c1NXozTXc?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 18:24:19 GMT",
+      "discoveredAt": "2026-10-29T12:12:57.841Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_601470712",
+      "title": "Thika land dispute: Gachoka family alleges invasion amid pending court case https://t.co/ZXZt6dYHEv - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nRHV0Z3lIZmZkWlA0MlZraFBRaEpKeG1EcjdKa1E2cG1YU2JMNTJrOHEzSDlCc2MxYmJfb04wXzN5clQ5cWp6NmtnV2xubkpIdHNPYnprUXdsQmZOT0E?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 05:45:01 GMT",
+      "discoveredAt": "2026-10-29T12:12:57.841Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_152566199",
+      "title": "The National Land Commission has announced that 99.9 per cent of land compensation for Project Affected Persons under the Sh82 billion Thwake Dam project has been completed, with the remaining 0.1 per cent tied to pending court cases and other disput - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdFlDUThwdGsxMWVBSkZpcml4WFBXa1IzVEIxdDlETmFBWlhOaG1pV01vWi1sa1VsVWtUOVg3R3RlRW9kUTNqYWw1RWI1V0p3dU5NUVFPMjZfa3ZaTHVWdXo0S2NLVThPY2ZFODNQbnh3RTdPXzlsVENPSXdTcWgyazBMcWRhYk9SY29JLUtkS0NvczBJSmlqdXJ5eVpCMDU0Vl9qdnpOWmUwRGRFNU04ZUxuQmlEQWVyWFE?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:15:35 GMT",
+      "discoveredAt": "2026-10-29T12:13:00.600Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_808174114",
+      "title": "Results JammerTest 2026 – GNSS Under Attack: What the Data Reveals - sUAS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSW1pWDl0YXFPRlNTNEtQc0NPM3h4OUhYMlg0bFBnLUxlNXBTQnRGeGtZM3cyVUljLWFpUm92RXoyY2tUcUtLd180OGdWOEZXZDgwODNKTU1yOVBNQ3lOSnpiNFBmUzZTVUdNdHNKZ1MzdnFidDZoS1hkWXhsUXYzbFRPcjhfeWlIcDQ5bmVzVnVKc1RFd3g5eHEzWnFJQQ?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 10:03:59 GMT",
+      "discoveredAt": "2026-10-29T12:13:41.556Z",
+      "sourceName": "sUAS News",
+      "discoveredVia": {
+        "query": "sUAS News",
+        "origin": "sUAS News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2014227786",
+      "title": "Overnight Southern Bypass crackdown: Expired licences, broken headlights land 13 vehicles in NTSA custody - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXlzRmFfNG9aRjZsSmxORnpHanlIaXB5WnVXUE9kaGF4Rno1T2FaTlo2SWxrUGhlODZTSGUtX0pVTnJGa3ZBLTZmd29yZFBsZmFtczdJVkpITTU3SzNZWFJ4N3FsZElUSkgwQnJtOEl1cllRVVlnN2RxMFJ2NjVsR2k0c0hVemtVcXJpaks0WDVReGNjdWVvTWF6MEMzbUU?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 06:57:00 GMT",
+      "discoveredAt": "2026-10-29T12:12:41.697Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1806557920",
+      "title": "Ndau residents protest exclusion from Vipingoni title deed allocation - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVG85LUloZ1czNnNua3NEZmVDVzFZTVJvVjdkdE9xSVkxU1pyckg2VVVmaDBfLTN3bzhOc25reW5tcWhaSk4tY3lwa2p4S0VBWE84QnVJMU15WWdtbEl2U1JXZXZ0eldWNFpnSUxDYnVNdDYtMzVKT3FWeElVTklpTlB4RGFtUFJaamRMYk5WcV81NHlsVkpiVlpnSEtkTUE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 07:42:06 GMT",
+      "discoveredAt": "2026-10-29T12:12:48.648Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_73453209",
       "title": "Thika land dispute: Gachoka family alleges invasion amid pending court case - YouTube",
