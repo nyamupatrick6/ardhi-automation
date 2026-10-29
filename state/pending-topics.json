@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-29T12:13:59.012Z",
+  "generatedAt": "2026-10-29T18:32:09.940Z",
   "candidates": [
+    {
+      "id": "t_563886920",
+      "title": "Kakamega private developer loses Sh40 million land to State - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUE1IRzVqME8zTEIyeEx4TjhWcE9JZEN5QnlfTWFORFpSck82aHN5V2RCS3NrVDNhZEFKMVlFT2dWNGR5d005SGVweVNNT0tYb1Z6RmVlZlZMb3IxTWdORUZvMTNKLTZjajNGaFpvWFh2bVVVOElaVFVSZkZqOEJyUURkbDROLXh3cWZaNUF1Z3ZObU91YXBKOWVxdG5MUVVhRm9VT2xZbEpFcjdRU0twUldJaDlrS01TbHY2ZWF0Yy1aaUkxM2hDbVdXVU1BcTZQODZOMFJ2STNjcVU?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 14:08:50 GMT",
+      "discoveredAt": "2026-10-29T18:30:47.975Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1901356354",
+      "title": "EACC urges surveyors to uphold integrity to curb land graft - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkdIRDdhaEExN3I3cEEwbWgzTFhwU2ZPWmdHTktvTDRPU244bnN0QVZXSVd2TXNtSlJfdmV4X0YwNl9HS2RxaWVrYUNaMFpaWGhUc1I1OGNIRUU4QVZVX3NJcWNrOE0ya195ZEtNWkY3LUp3dFd2b3dxMnNEeEpJMGd3Q05SXzFSNWpESDN3Sy1PQWFMQ3VrRE9xZ051Y1FhOGI3Mg?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 16:43:00 GMT",
+      "discoveredAt": "2026-10-29T18:30:49.130Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_695390389",
+      "title": "Nairobi Traders Block Streets, Protest Evictions - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEV0R28zX2RndmVtZ0ZPNjhwaFhuXy1qemVpYVhfMGZUaE5IbUZzOWFEWmNhV3FNa3RseGptM3VxVVVDSUFyMVZoVXRMRWZhR01FYXhaVjAyT1l1MlNyOE5YMnZDYWF4UkFLcnBXYllYVW1EVXVuRkRxZF9DRGNMMGVxaEZXaGNYQkRFV09EMV9xVVhCYzBDOW5SVWpQdEJnN2pKSlpCYkJSN2xYTklCckZjMngtTUxBbkZ6eA?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 16:09:21 GMT",
+      "discoveredAt": "2026-10-29T18:30:52.131Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_661091996",
+      "title": "Subdividing Land in Kenya: A Surveyor and Planner Playbook - streamlinefeed.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPajgxWTN3M3Y1Tm5GVjZuRHIwa1hNSTV6X056Z0NoRHNmejg4eFZCV3NYbk9MUk1NdzVjM2JxajVDMXBpUGtRMWY0TDA5NWhxbllySVZGeTRMa3VGdzNwUzdWYWJ0MWEtOHZObWp3V1Z0bTQ3ek8yTVJpSEdPSTZsNm1QeGdQbjlDSEE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 18:17:42 GMT",
+      "discoveredAt": "2026-10-29T18:31:16.349Z",
+      "sourceName": "streamlinefeed.co.ke",
+      "discoveredVia": {
+        "query": "mutation form Ardhisasa Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1158124155",
       "title": "Almer Farm residents seek Ruto's intervention in land dispute - The Standard",
