@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-30T08:58:17.108Z",
+  "generatedAt": "2026-10-30T15:38:30.034Z",
   "candidates": [
+    {
+      "id": "t_2034374791",
+      "title": "\"Nimepitia mengi\": Taita mum, 5 kids forced to live in cave after land eviction - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2YtS2t3WWQ3MTRGTWU0UVJwbF8xUUI0MkRpbjVOa2p6YUQzOS1kay1CVWwzS2Y1REd5RXk0MGgtSk4tNGxjUnJxSmhuNi1PLWlnMkFkekdYUDU4X2ItMTBhOFBScGhVOVpncl9mUEgzXzBRYmc5R092SnE2YlhRRE1WOEVKSmhyWnZHYktKQ1dTc3hQM2wtTUpEUkFFdjZhYWtLdUhqUDc?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:37:35 GMT",
+      "discoveredAt": "2026-10-30T15:37:19.436Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_287053759",
+      "title": "Understanding the Subsurface in India’s Infrastructure Planning - Geospatial World",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEZFMnUyMWo2bjEzM3U0amZwM0t5UXlnc0Q0SXFzUjZUZ084WVBqOU1zNkR6d2MtY2VNY3BwYmREdmV1S3UzNEd1VDRxU2NUM3Vsa0RqY2NDOWVVbWJQdmdxTVF5bFBnTVVvd2pJaTdoWGtCeDUyQkVIMTdjSWs3YVZraU9ydzRBUzF4QVo0dGZrRzdTcXpkeDhVT0FzNkc4d0lfZEg3RjBHVVNP?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:57:05 GMT",
+      "discoveredAt": "2026-10-30T15:38:12.386Z",
+      "sourceName": "Geospatial World",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_2139811828",
       "title": "Environment and Land Court blocks Shanta Gold from undertaking mining related activities on private land in parts of Siaya County without the express consent of registered landowners - X",
