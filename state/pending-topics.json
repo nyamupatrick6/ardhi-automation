@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-29T22:58:28.875Z",
+  "generatedAt": "2026-10-30T02:27:11.179Z",
   "candidates": [
+    {
+      "id": "t_1057786700",
+      "title": "NLC reviews public land and historical injustices - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1lwY0F2OExub0xiZmcxZlloV0R2YjJ0UUU2V1RlYy1fZnJtbThNYTh6N0U4WFk5bXdsWjVQWmEtUC1sRVloSzlkNmtlMzlMTm9iOU1IbC1RM3BvRHhfTElyTjVHVDJZWGlucnZJU3AwdGZma1NpRjdjYWEwcVRidlRNZ2VJdUZDS0lrM29FenJXX2IwZVJn?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 01:54:00 GMT",
+      "discoveredAt": "2026-10-30T02:25:55.965Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_644687672",
       "title": "Journey towards land justice continues - Daily Nation",
