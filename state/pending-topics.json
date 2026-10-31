@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-31T19:42:01.255Z",
+  "generatedAt": "2026-10-31T23:01:32.276Z",
   "candidates": [
+    {
+      "id": "t_826410506",
+      "title": "Meru CDF official’s murder: How family land dispute led police to her brother, sister-in-law - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcklZOG1tT0o0a3E1REdUbHNQcTEzbTdBanFsaVBsNVZMb2Vxc1VDMnNHY3diQmZOaDZCNTdiLTZib0cxMWctdmpXZWVKSEgxNEJYMF9FVFpTM2pjWG5Xak5sYy04NTlYRDBvWnhGeW5hTGd5VnJYeVYyVVFhSUZqUU9BQnktdC12cjM5SndxN1VmSEdSSmpFenUtOHpvcGZPRzR6RHhCUlJ6VndUcmE3Z1MxVG9sYWJaeGhnUk8xNTF2U2NWLTNIUFhXa01KNWhyQ1Fud2I5cw?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 16:40:29 GMT",
+      "discoveredAt": "2026-10-31T23:00:16.262Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1058741556",
+      "title": "Meru CDF official’s murder: How family land dispute led police to her brother, sister-in-law https://t.co/FSokl0qLWi - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sd2lrR2FOTVlJbEY2SFNFTC1SbTlncG0xT2VDRlczay16LWh6aE9pYjFNRHBGMUJQNThoTnlqeDhGTzIwRng2dm5RQ1djOG0xdldDSXp2SjluVkRiakE?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 20:15:00 GMT",
+      "discoveredAt": "2026-10-31T23:00:33.259Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_955130694",
       "title": "Kenyans entitled to know all about Lamu refinery - and other things - The Star, Kenya",
