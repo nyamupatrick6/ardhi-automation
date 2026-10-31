@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-31T15:46:47.796Z",
+  "generatedAt": "2026-10-31T19:42:01.255Z",
   "candidates": [
+    {
+      "id": "t_955130694",
+      "title": "Kenyans entitled to know all about Lamu refinery - and other things - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbl9RUnFIZnhLS19yTnVmZlZkQlR2Z2J0VzVnVS1INHRmaHZtQUh5cGtVR3c2V1NpYXM1aG5IaFhXQ2FFRzVraGVvbjBDQ3puYm4zZEsxczJGWlJPczZhNE4zQTB4X0dob3pHZEtQc0lyR2ZiT1lPNnA1YW0waFdfQndtTVU4TUR5V0lRdEw3Z21kdFJfQVZUbUpNalJyU0tmY0ExTXJmZWhySm8yYkE?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 06:29:00 GMT",
+      "discoveredAt": "2026-10-31T19:40:46.405Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2101715089",
       "title": "CHCNAV ViLi i100: Combining GNSS RTK and LiDAR for Smarter Surveying - Spatial Source",
