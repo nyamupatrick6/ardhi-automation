@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-31T03:53:33.837Z",
+  "generatedAt": "2026-10-31T10:10:24.470Z",
   "candidates": [
+    {
+      "id": "t_1540299227",
+      "title": "TS16P 3″ R1000 Robotic Total Station with Power Search - Leica Geosystems CPEC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHRJcGgxblRTaElqOEdJeGQxMGtla3Y1OEl5amNiS0dLMW1CZXlkbmJvRVVwUlNYXzhxTEFXamtmNWhsZW5CSjlVQ3FNTXQzM2NiVjkxMmRkUnVmYWxDU3o5OVhmalZGRzFoOHFsdERZRDFyS2I2LTdncUVxaXBuVE41NWE5ZUdVbDUzQWxCTUh6aUZUbWhweFYwOE5yd0xoSjU0?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 07:37:39 GMT",
+      "discoveredAt": "2026-10-31T10:09:55.822Z",
+      "sourceName": "Leica Geosystems CPEC",
+      "discoveredVia": {
+        "query": "site:leica-geosystems.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Leica Geosystems",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_758048300",
+      "title": "KCB in land tussle with Athi River residents as goons demolish houses - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjl6NnBYblVpM3JEMUthY0hkVUo3U0VpRm9SWk9uWkZDd3V3aWtIRzRrTzdsV3J1bHRnelpwc1NVRFl5bDhxLWtSQ3lFT1A5dUU3OWVsT2pQRGtDb05lNUxuWmlodWQ4SGkzOVBuZ3dJTjg5cXp3eExOYlNFd2xaNWFLbDdKVEEyVXNPSmd2T0lCZl9aR1cxNW9rU1lsMk5IRlVwcDRfY3dJOGlJREpyOW1jLWUyR19qSVNMQ25DT1kyLVZOdnNaNnUtQ1c?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 06:49:00 GMT",
+      "discoveredAt": "2026-10-31T10:09:09.578Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_968015681",
+      "title": "Court faults government over road built on private land - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUG12a3RrcmE4b093UnpIM3dOaGIwZHNDTlBVMkp1c3VTQ2luSVEyT015ZW5CdGFFMVloUFFYMkNtc0hCM3RFQTUzRkQwUHJtcG5SczVXbHpCWGRCUWt2OVZsUGFQcVpEd3hvWURiY1VDQTdIbnY3VEV4MC1hN2NsOUppdC0tZ2hfM0h0SkZCNXoyUjN3VUtRQQ?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 04:00:00 GMT",
+      "discoveredAt": "2026-10-31T10:09:10.582Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2034374791",
       "title": "\"Nimepitia mengi\": Taita mum, 5 kids forced to live in cave after land eviction - Tuko News",
