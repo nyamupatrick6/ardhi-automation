@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-01T09:24:18.838Z",
+  "generatedAt": "2026-11-01T16:20:23.799Z",
   "candidates": [
+    {
+      "id": "t_776177628",
+      "title": "Nyong’o vows to fight land grab attempt at Baby Pendo Park - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2tQcjFRZkRnaDltWmxYdGUxSUllNFhqeTlSUVktOU0yOGQ1S0p4UkN4Uzdyd3VUMElRMllMUGozNDRLSWF3U3RSdlpBeFhnT2JoQlFyMloyeC1NTE1xMzRZRDhOMHRRN2NibktmSUdRd05NZi0xQVhBUWhWRHdEeVU5d0xfYmFpaTlfWFFKRGoyYlBvVnB0ZHdVaG5wR25LS2dwMg?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 13:20:00 GMT",
+      "discoveredAt": "2026-11-01T16:19:07.343Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_733945957",
+      "title": "Kisumu Grandma Cries for Help as Late Son's Body Is Returned to Mortuary Over Land Dispute - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkdLS1NqdmNXQnA2X055dm9qTGNGRkJNbUlrdjd1MFk0OHh3WXBqMWdQWVFhXzlUbVlUTkh1MmRlMlVsQnh3R1plam5OdVduWGFkeHhOaEQ3MFRJNElsanNUSklZNWFqel9tM3cwcUx2QWI4c1JFRnBwRF8tVlVlTTZEMXpqQTlxNENUVjFockJEWERGNHpUOEdZMllZR1Yxalo5VlZWeGtON0o1ekxVNQ?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 10:35:50 GMT",
+      "discoveredAt": "2026-11-01T16:19:10.768Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_602343440",
+      "title": "Government moves to acquire private land in Wajir for proposed air base - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0VqcnU4NkpYWTRyTXZqNmVRa0NmR2EwRU5wMHQzOVlFMmV6MHVDeUlxTzNUaHM2VVBuYmlBUVJ0d1FhZkNpalY3WXk3ZzZ3QjRYd1Fqam1rU3IxOG1KczhkVXMyOEo0cVBtbXN6Z1gwR3E3Qjk1bVI1WEhQeUx5UVJxbC1CU0xlY3B6RUMzU09sMU9DYVFuaFVGSy0ySFVaM09fR2R4ZHVJbDg5d0JXSHVR?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 10:00:17 GMT",
+      "discoveredAt": "2026-11-01T16:19:00.931Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1517347951",
       "title": "NLC Identifies Private Land for Acquisition for Proposed Military Air Base - Kenyans.co.ke",
