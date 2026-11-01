@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-01T20:38:19.602Z",
+  "generatedAt": "2026-11-01T23:54:19.593Z",
   "candidates": [
+    {
+      "id": "t_138998334",
+      "title": "Moi family land row deepens as State moves in, construction begins - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV3FRVjFXRXpReTJpb2E2SVFERTNoOVdPY3JRVE9mdllzWnhTMTJqZmRPQmEzbVFxNTlrN2dXWTVmWXN3VnhaWDJ5MGZveENhTUQ4Q2tyNzAtV0lNS3ptZ0pTbUZJbjRrRFNPejFLX256WlJBNFRycjVqTUZnOVRuVm9GXzB4YlFEWXppdVJtaTBjRWlfVERIRnBlR1phOGprX1ZseFpoa0otcGJXc3c?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 21:00:00 GMT",
+      "discoveredAt": "2026-11-01T23:53:06.086Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_298257002",
       "title": "National Land Commission Targets Private Land for Proposed Wajir Air Base - KDRTV",
