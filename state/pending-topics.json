@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-01T16:20:23.799Z",
+  "generatedAt": "2026-11-01T20:38:19.602Z",
   "candidates": [
+    {
+      "id": "t_298257002",
+      "title": "National Land Commission Targets Private Land for Proposed Wajir Air Base - KDRTV",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMERpUmpxR0hPZzZpazdwZGtMX0dhOEhoRldpM2d5R3hjdmkydkFjTzdCcnpkTUtPc01OOVZnMnBqTjN5WTBaN044UlJoU0pFMjVnSGFYaTNWZ28xbVlsb0d0SXBwa0JUdzd1azRSenJlZGJhUFl1MG5KV1hkYlEzb2pHZzBZb0VxenFMd2JWcnJaOUF2YUpyQXJVSExwc2M1ZVZkUkxlSEJUbDDSAasBQVVfeXFMUDBEaVJqcUdIT2c2aWs3cGRrTF9HYThIaEZXaTNneUd4Y3ZpMnZBY083QnJ6ZE1LT3NNTjlWZzJwak4zeVkwWjdOOFJSaFNKRTI1Z0hhWGkzVmdvMW1ZbG9HdElwcGtCVHc3dWs0UnpyZWRiYVBZdTBuSldYZGJRM29qR2cwWW9FcXpxTHdiVnJyWjlBdmFKckFyVUhMcHNjNWVWZFJMZUhCVGww?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 19:12:45 GMT",
+      "discoveredAt": "2026-11-01T20:37:12.750Z",
+      "sourceName": "KDRTV",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_589072675",
+      "title": "Government moves to acquire private land in Wajir for proposed air base - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkNNZjQtekRHbnBDUGNQc0FsSHo1SVZSVDlTeGFueUJpQnVPVlVpaS0zZm9uM3ItcERjNnVQV29jbmRzQi1kelpEZjg2NXNleTZvY0s0VEpua2hpLUNabGk3QnMzSWRkbEpPSUVndFBBNTRjc3Z5X3prT1ctY2VlX1Fwa2FJLXVWbHFDNTE2d1o2UmRncDhiQXdTOGVVUDF4Qm9yTFVfYTltQTdmeUM2MGtQNXA0OEI5cmc?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 10:00:17 GMT",
+      "discoveredAt": "2026-11-01T20:37:12.750Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_776177628",
       "title": "Nyong’o vows to fight land grab attempt at Baby Pendo Park - The Star, Kenya",
