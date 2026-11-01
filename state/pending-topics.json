@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-01T02:18:42.106Z",
+  "generatedAt": "2026-11-01T09:24:18.838Z",
   "candidates": [
+    {
+      "id": "t_1517347951",
+      "title": "NLC Identifies Private Land for Acquisition for Proposed Military Air Base - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdCUEY0Nms0UVFVWVdnWVVKYl9tTjF0VFdfX2d6YjRGSGhZYzBXSHNZU2wxd0RJZkNEbndjYTY5eFpqbFlmNG5JZVhjc3JUUUJTWVpHeWw5cDh3OVl1NFZiRzhucERha1VUU0hZeGw1QW9qTk9Ba0VkNTdxWExEMFlhSnhDN0hE?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 08:56:14 GMT",
+      "discoveredAt": "2026-11-01T09:22:59.064Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_531617410",
+      "title": "Private Land Targeted For Compulsory Acquisition In Govt's New Military Air Base Plans - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53X01vVlljV2JyaXJGdlNNUTRLdHgxbTZGSHdZQkJDaml2ZTNRalJzODg4Q3VHM0FzeW83d01JZm1Pdl95TVpxZWEwemxYM3h5ZGVQYk9KNU5mRXJiR3hZVzlLZzhQTnlMUzE4WWptNzE5Z2FxZnJNLWJoTWw3a3M?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 06:32:17 GMT",
+      "discoveredAt": "2026-11-01T09:22:59.064Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1252778374",
+      "title": "Kisumu County confirms plan to introduce new land and building rates - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGRVd2twUHJCNy05cUFfWmlQcXc3UWRVUGtFb1FYaTc2WkJzSERmVXAwSjhBTU5EUWFXRndBcDQ2d2JPa2o3RWFsbjU3LTRlcGc0NDlWTTd3MjdqQjBhbEsybFN6bTl5aUw3R2tfNW1FYkxfVUpUVDh1cnNlekV0WV9pXzhyXzJWVlFpOWdYUGl6dWtPZHJwTGRIckZFQS1yWC1R?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 05:07:10 GMT",
+      "discoveredAt": "2026-11-01T09:23:37.798Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "county land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_826410506",
       "title": "Meru CDF official’s murder: How family land dispute led police to her brother, sister-in-law - Daily Nation",
