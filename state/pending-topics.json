@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-01T23:54:19.593Z",
+  "generatedAt": "2026-11-02T04:09:14.542Z",
   "candidates": [
+    {
+      "id": "t_1294478256",
+      "title": "Shanta Gold Co. Barred from private land in Siaya - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EVE9LUU5GYmg5WmZsN2otbVpVeDExZXJQQ2F1NnAtQ3FaYWpDWHdIZFdIbl9XeEVjNUdGM1RTLWQ3MzRZd1MwRW9fNXFUaUlCMnpkQ2VB?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 10:41:09 GMT",
+      "discoveredAt": "2026-11-02T04:08:16.513Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_138998334",
       "title": "Moi family land row deepens as State moves in, construction begins - The Standard",
