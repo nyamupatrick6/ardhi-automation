@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-11-02T12:33:15.168Z",
+  "generatedAt": "2026-11-02T21:55:56.772Z",
   "candidates": [
+    {
+      "id": "t_1497162802",
+      "title": "Court orders GSU, police to vacate disputed Moi family land in Eldoret - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFlaLUpJUHZWR2tEM1ExZGk4SFByQ2loMVlfRFA1Nm1UOEV5Uy0yOFdEdmdyaHJkcUw4ZXJoQnUyclpaZWE4dENfNlhrWHptUkJ2cXZhVmJuUUtHbXJCRUJDNlNxaVJhMHFUYWhmVzQ5VVJPYU5CTFVKYWdrb1RnSExueUZwLWNxZUU2cE0xSFVJNWJJMlljTi1RREVkbWpQeDRoN003R0ZZRWNYYnNfZU1tQWpQYnJhTTFxdnAtMUlQRVJxc0pqSTRJNnVXdnZpNEpEZA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:35:15 GMT",
+      "discoveredAt": "2026-11-02T21:54:40.453Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1460571644",
+      "title": "Former PC to serve jail term over land fraud case - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWNwaWRrY2VBVll3TGRLd1lxai02bUVoMUZsOURXWHloMkJiWFNmWUsyMHNIU1c1b1Y5WE90OUFkTDhWVFc4UzhwLTBEOG9xQUJWNkItd1pXakI4eWpXUTBoVkgtUkNJakxmaUtwekV6Z0tqTzkydkkyakJVMU5uUWpFazA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 17:46:51 GMT",
+      "discoveredAt": "2026-11-02T21:54:48.489Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1700127719",
+      "title": "Court Orders GSU Officers to Vacate Disputed Moi Family Land Immediately - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kQUltYi14UGdRY0tSaGpWd1YwaE44YjZpc0NVQ1ZSOUFmZGJmTkVENDV6MXYyYjQ5ZnpFM0pKbXRDdFhHeHZxVGlqby1UakRUd0dCSnVB?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 18:29:27 GMT",
+      "discoveredAt": "2026-11-02T21:54:59.317Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1906013466",
+      "title": "From rising land prices and expensive construction materials to long-term mortgages and building safety concerns, owning a home in Kenya comes with growing financial and structural risks. So, what should Kenyans consider before investing their life savings - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UbldYWjRFOERKaXItSHdEd05GazctdzlHVldPenlWdU9MMmQyOVFyQnkzcWNjMWRPN0tVY1FGUUNTM3dNRFhUSzFWLUFNSDQ5T1labDh5VFJ2U0x0TWpHcnRLejFYX3NrVDlCaUIzdw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:41:57 GMT",
+      "discoveredAt": "2026-11-02T21:55:00.331Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1940609607",
+      "title": "GR10 Professional, GNSS Ref. Receiver - Leica Geosystems CPEC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLS14eXYxQl93N0k5RC1pSjZ3cTNTbS00bmhOd3A2cEdaaFpMLTItZ3RTYkM1QXhMUzhwYy1mODBrUnVrZGI4UTZyTWNjZVBfUlllRXBZSW1WRkMyVHZfZGgxZ3loRDZFQmx0dE16ZXdraGQxY1ZJNW5kZkhXUHEwdmZrdzJHdw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 19:53:06 GMT",
+      "discoveredAt": "2026-11-02T21:55:28.005Z",
+      "sourceName": "Leica Geosystems CPEC",
+      "discoveredVia": {
+        "query": "site:leica-geosystems.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Leica Geosystems",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1737202019",
+      "title": "Court restricts sale of Embu MCA’s land, six cars - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUExtb3FjNFM3SzRFM3MtMWhqV3Y4SWoxaFJ4azJRcHd3bzhCYnRkWjJrTHNxaFllbVBsazQteEs3YzgtTUlJUlhSSHNQMXNKRGpLM1QweVdfWWtZZE93VlJfT01BTmJWVWxSX0lTSmVGdEpOMnhYVkRSS1J4NG9xZlNib3NPQ1lsdnNGbkFKdmYxS2s?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:50:50 GMT",
+      "discoveredAt": "2026-11-02T21:54:39.539Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1994849965",
+      "title": "Sh26bn World Bank project targets 200,000 hectares of degraded land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSWxzbl9GUkNYd1BpTGVicnBiYnhibk9PVDc5VXRIYkw3TFpyMVg5eUVQRmdScGd0ekc5ckJ6cTVSWGNqaXRFZWZLWmhQcWtoaXM3M0FoaFByLUp3ZkR1OE1acnVxbTlTMF81X1U4eldlTUdVNVlpRW5uZ2lncThpOFk4eDZzV01mR3A3TF9HUUVTMzJ6MnZGNUFCMUgtZkhsZGF1ZWJ3OTFjZ3NrM3NWX3hhSTZwUnRKS3pUQlgwejNiN3Y2YUw1TUNWeDF4ZHpwckg0?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 11:54:22 GMT",
+      "discoveredAt": "2026-11-02T21:54:40.454Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1781587072",
+      "title": "Ireland Adds 6 Jobs to Critical Skills List for Foreign Workers Seeking Employment Permits - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0ZzaW1hZUxlREg2Q3dRTUpWMXNBZ1F4M0trUjAxVXl1bDlRdEFaVGxRVWd5Mnp2djN1UFE4S0MyODhYMWlSSDVvWDVXNVppRklibWhzdmVWY3NCOVRnTWh4Q29xQUItZFVNTHdnWHVCRGpJSndQUERtUWQ4SkJUaTJ5Yk9obDdlMUdhYWZtRWJCbU91Zmcxc0pYWFctc05Mak5KRXZkRGhOTmk4T2pTX0xhbE5QVEFReHlEMA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:51:22 GMT",
+      "discoveredAt": "2026-11-02T21:54:45.319Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_894529008",
       "title": "Ex-Nairobi PC Chelogoi jailed three years over Sh1.35bn land fraud - Daily Nation",
