@@ -1,6 +1,276 @@
 {
-  "generatedAt": "2026-11-02T04:09:14.542Z",
+  "generatedAt": "2026-11-02T12:33:15.168Z",
   "candidates": [
+    {
+      "id": "t_894529008",
+      "title": "Ex-Nairobi PC Chelogoi jailed three years over Sh1.35bn land fraud - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMi1CSVpROUJ1NVVoTnRYOTlEbGU5c0VHNndMc251TW92VkozaEpWNUF2aHdTYXpvMkprdWU1OXdaWGFnZi1KUjllRy0zM0cyQnp1RWRhaE5YaklpYklRUTdPS0RwUVBJQnpxaWo3MFhiOVVTU3dDYkZRTlZLNENWSnJKZVRBRWNJVXU4aVY4Mk9vTWdxaHFmUFVWMlVQTlhiUjc5ZDB0Q3Z3WTA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 10:51:50 GMT",
+      "discoveredAt": "2026-11-02T12:31:59.681Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1656252021",
+      "title": "Ex-PC Chelogoi sentenced to 14 years in prison over Sh1.35b land fraud - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTE9Cd3E2N2c4QjcyT053OTJMdmRIMmtzdlZ5MWRnWmliZzZCRElCN2hVeWJPUVZNRWlKNnpEeC1kcTA4LXprenAyNmFUSXdvWTF1NEhTLWxYcmVqQklHM0lJU01FZ19oWHJMSjJIT0pkYmFUNWNMU0k3N0J6c0lhMWYtZzBtQURsMUxEVWJkVno5aG1DbW1hY1NtU1V2ODY1NHJLamNTeWhCeG5LbXFtaEtGaHhNUmR3WlNzMnpGQnlNLTlyV2dlbkFGaHpYVTdZVG9uVA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 09:24:08 GMT",
+      "discoveredAt": "2026-11-02T12:32:00.737Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1906955930",
+      "title": "Ex- provincial commissioner jailed 3 years in Sh1.35bn land fraud case - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWJ3dVVWenBaUVgwclgtSV9kb3BUU1FhSVpDcklaeG9NcE5TMWFsNVRtVXlLYWhydUwyd24yeldHVUZsaTFORmhTaVRhMW1DSzE5NGprRkFzekhUQnl0N183aXpWano3M19vTU5CS3VKcU1IbWJUY3o4NF8zbFl0a05nVFotNXBCOFVBZjlOdnUwMTZS?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 08:40:46 GMT",
+      "discoveredAt": "2026-11-02T12:32:01.707Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_201212347",
+      "title": "Ex- provincial commissioner jailed for 3 years in Sh1.35bn land fraud case - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdWlhWGViWlR6aEx2Sk9Fd0FIYldrb3RfczdVRng0R2s1ci1kb05nMzdNeFJpUkdPTFlLb1ExaGJZNFVaRkFfLXhaRzlvM2pHaU5CbUlNVnphbVpVUEMwSGV4UG9mcVNSWHNJLW5YSFRhN1VHTWVwVi1KOUVYVVh3dmJGbTRZajJ1YnBFRVVCalVKVXNFVUVYMWY5NjhIVDJwSWJXblQyTFhWR0E5QW5pbmR0el9CUHkwTHhZZmI3RHdPUXVNNDVva2trYW5XaWZ2YnJwMzlib3BSOTh6cTNfUVhxbnJsX0ZqNmJRdzFMT0JJNTlKdmNaRENtNzMzUVhvbWMtSjNvaw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 08:43:27 GMT",
+      "discoveredAt": "2026-11-02T12:32:01.707Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_692615748",
+      "title": "Former Nairobi commissioner Davis Chelogoi jailed 3 years for Ksh.1.3B land fraud - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc29mUmwyX05BdkpQZjQ0NzNFci1ya0VUdmJheTBsR3BoYU54azR3Q0Zxb253aU94eC1WYmRJclFBZlpWNTVnUmZrOUI4YkJKa1lMc3RmYmNlNVM1YnQ5bEJOR1JZT0xMenVqc3dRb2dQaERhRmxPcG50MUlNNGJiVFU4R0hRWV9LdkZVQXhwWTJNbFR0UkFFdmUyRVczbnp2dHBmcXFzZHhQUVBMQkVmZVJFdjBoYllyLXFV?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 08:54:07 GMT",
+      "discoveredAt": "2026-11-02T12:32:02.580Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1248276850",
+      "title": "Forged land: Former govt officer jailed for 14 years in KSh 1.35b fraud case - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXJWelBIMVNOT09sWkc3RTBoeFJlb0RZS2RaMlI3OGRxM0t2cE5Tc2pkNzJiVFJna1dRb2psdmlFcmRodzh6dUxyeC1HVGp1Y2hHdUlRZ3YyaVFObmJKN0NiY2NGWG05YkpKLTBVRXE2WUxoaUExS1hGaGR3TFFoVjJLZzdaa1ctd3l5UDg2VVhkNmk3anozQW5xUHdNLWZ2WjFBc1NGV1pGaC1sQTJ5SHVHdlZnY3pYWDhOMF9SMU5wUQ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 11:50:03 GMT",
+      "discoveredAt": "2026-11-02T12:32:05.321Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1299575335",
+      "title": "Former Nairobi Provincial Commissioner Davis Chelogoi jailed three years over Sh1.35 billion land fraud - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSXVMendkMWNpTTVxUEs5WmJiT2diSVk4VTlUa1phVkFvZEY3eW9zRnk2U3VGVWlFQ0pvQXJkR1BGQlhHcTlZN1IwM0piRkpScWhsY2lTa3l5bHhWU0xzaHhsWm1GRmRFRDUwT09scEM3Szc5Ny1hVmlKdHpKclVvemZfQUluY2tpWTFRcjFJTF9CLXo0aGs1U3VOSHU2MjV1Zlg1TVJqNXlGa2VJbV8xNTZDbHAzRWxZTmEtN1JJNGV6ZEd1LVZQVGVlQ3JyMzRwTmt0czdYWTdFRzg?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 08:51:05 GMT",
+      "discoveredAt": "2026-11-02T12:32:21.236Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "land fraud Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_982723949",
+      "title": "ZenaAI Targets 80% Less LiDAR Post-Processing [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUWZpeVgzbFNra09GR3hGRGlWTnJHNWpZdWozVTZPMXczV2hUYkM2TDR0bG54QmxUcjFHMnZNbFJObmpTX0g3MENDa3VjOHNpUGZFZ08tdEMtZm9OVEV2clE3VUZMdGQ4TzFvYnhOU2Vlb0NuNms1NWt5WVVVNlZvVjRkdkNjdWZjY1diQkUyNU12MjFsUlpj?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 07:16:59 GMT",
+      "discoveredAt": "2026-11-02T12:33:11.822Z",
+      "sourceName": "shattered.io",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1348384642",
+      "title": "ZenaAI LiDAR Processing: 1B+ Points Handled [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFd3QlQ0NTM5YlYxQ0xxS3I0M3dWSW9xOEdoZk5EbEZTTkJmRnJBY0RGUFdtT29mZVExaDZianNzUElYTXRpS2ZTMzNZcU5RNXoxWHc0UTd0cDJieDBpeGpON04wcW0zWElGNzZEbE9ueHg4dzRpVkdUU1BKb3JnUlcyeVB1TWFNYWQ3VGxXZXIycm8?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 08:06:44 GMT",
+      "discoveredAt": "2026-11-02T12:33:11.822Z",
+      "sourceName": "https://tech-insider.org/",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_70551417",
+      "title": "ZenaTech Introduces AI-Powered LiDAR Processing for Drone as a Service Land Surveying - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlNfM3NFSUdjQk92NjBvcGp2TGVvd09CV2VmVTMxbmRSTERQaXR2N0dKRmVrUjM4VU1UZGFSQWN5U2gyUjRpcXJnOW5pb1M0bGJNaThkMWE5dk53RGhJeFFrRnJoR0pfMTdGb0JGenZ3blpNWjB0Rks2RTBXM1NzNF9wdzlZNFRERTQ2Vlc1emZJXzJOQTN6UURuQXRYbzZjT1Q0SHRJTmE5Wk1RTER5Zm1xbFBFUmhOakYwZmloVVNYdldOUkZqc0JxMGtZM1ZfMXc?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 06:37:23 GMT",
+      "discoveredAt": "2026-11-02T12:33:11.822Z",
+      "sourceName": "Unmanned Systems Technology",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1328673565",
+      "title": "Lawyer accused of inflating fees from Sh50k to Sh3m, demanding land - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGdoWGNQMVZXVUMzWDBueVNLdXFlZm96eFo0NGg1RmR5Q2xQNFhxZ2s4RFp4THRQVUtWNzd3VXhYbmZyS183NUVlaWNDbnFQbFlVVEFzcXZxWXR1R3RDb1kza0xBZ1Q3QlFsbk1lNVF0Y1ViWlJXU3Q5b05PcWJjS0hQOEJwcXE4YzAxOEt0OFM5Q1dGb3NwOWg5TzZGSXBTb2ZDOURIWUg4bWxiS1ZfUXBvekdlN04wY2NZTkxzR3NpWlBCZUJxTnUxa3hzLUJC?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 07:52:50 GMT",
+      "discoveredAt": "2026-11-02T12:32:00.737Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1250652348",
+      "title": "Eyes in the sky: Geospatial evidence to stem land degradation - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcC1yOVNlRFVDbkhpcFJLZVdBLXVTTGxQdWFOb0NKZ2M3eWtFM0lYV3BTWjJOc0M0UGRBYjRrWkI3dFdpSVEzM1o0Ml8xME9Oa1VOSTUzVzlDdEZLejFFVjhhalVTY29VbW1lNlBield0N3FnSXhUQ3BwQmNhLXFQamFKMFRFYlBlUUhF?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 05:18:41 GMT",
+      "discoveredAt": "2026-11-02T12:32:06.848Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_378926265",
+      "title": "Land degradation Archives - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MRXUxVVdJcF9jYVpJd2dHenk0cjlVaWJxelJnVmVyaFJuSFphbkVsRkY5Z3Nvak1ZVlJDcGNDUG4yQjVfNDJ5VHpjN1JDT1ZCSDFtOUp3?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 08:29:11 GMT",
+      "discoveredAt": "2026-11-02T12:32:06.848Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_411603649",
+      "title": "National Land Commission Targets Private Land for Proposed Wajir Air Base - KDRTV",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWllUXdFWFdKX1haVEdLVmRmRjVJYmN0aFFnVUZXXzRtc09sazZSazNnVjdBWDdBOHViTm1KRFFIalROTXNDaXd6Q3VaZVhBaXktYzVSSk1OdmJ3M2pqdUkxcXFlMHoyNkQ2b3FYcmE5cXRoM0ZzbTRVNFNyZjRZMXJ6b1FpVmw5WUNFNDdoU1czZlpCZ1Z5anItS2UwTURsRmdMaFlR0gGrAUFVX3lxTFAwRGlSanFHSE9nNmlrN3Bka0xfR2E4SGhGV2kzZ3lHeGN2aTJ2QWNPN0JyemRNS09zTU45VmcycGpOM3lZMFo3TjhSUmhTSkUyNWdIYVhpM1ZnbzFtWWxvR3RJcHBrQlR3N3VrNFJ6cmVkYmFQWXUwbkpXWGRiUTNvakdnMFlvRXF6cUx3YlZyclo5QXZhSnJBclVITHBzYzVlVmRSTGVIQlRsMA?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 19:12:35 GMT",
+      "discoveredAt": "2026-11-02T12:32:12.587Z",
+      "sourceName": "KDRTV",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_671119557",
+      "title": "The National Land Commission plans to acquire 0.8 hectares of privately owned land in Wajir County for the proposed Wajir Air Base The project will provide land for a new Kenya Defence Forces military air facility, although details of its planned operations ha - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2ZXE0V1JBeGRmYi1YLXZGWWpSMFZfbkhtdkhzMjdoM2dDcW1KMmdKNE5aWlJlZ1BBcl9YUDM5S0xQUDVfdzJqZHZHallwdFYzX0FDNG1aY3QyYVFQa1FPang4WXcxQQ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 06:00:46 GMT",
+      "discoveredAt": "2026-11-02T12:32:17.317Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1294478256",
       "title": "Shanta Gold Co. Barred from private land in Siaya - YouTube",
