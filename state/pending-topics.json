@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-02T21:55:56.772Z",
+  "generatedAt": "2026-11-03T03:17:22.576Z",
   "candidates": [
+    {
+      "id": "t_1042067114",
+      "title": "Seminar on Advances in GNSS RTK for Urban Navigation - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGNYVVRtRUFUS0lDYjIwWGNzYkM5cG5BTnpZZW9LWlNqZXRONVJSdkxCYW9WcnM5cWZMSmgtejRnQ2pIb0pMazN0ZGk2N2MxV3V1TnJqMXRhR1VBY252Z3kzd1dfc2g2YnoxejE2TGxuSS1fZFMzRmF2SnhlNHZRM3V5anE?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 02:29:57 GMT",
+      "discoveredAt": "2026-11-03T03:17:05.786Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_392780907",
+      "title": "Surveying Equipment - Global Strategic Business Report: Capture the US$3.9 Billion Revenue Shift by 2032 as Hexagon AB, Trimble Inc., FARO Technologies and CHC Navigation Drive Digital Surveying - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXFaMjJHV2pUakZncDF6SlU1NU1kZkttendYajZoc3BoRU94NE81QlVKcWdKZkI2YUNkNTR0VDFLY2lHX0tISGRkSENrcHdTeHFESGFGa1o0UmpKbVJmUUR2V2p1eENjQlJGR2V2YUtKNlJvMXV3THRpNHpjdmM5VUJCSW5BV3NQakhfSjhjZ0wyTU1Gb3RoR0VR?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 14:11:00 GMT",
+      "discoveredAt": "2026-11-03T03:17:20.954Z",
+      "sourceName": "Yahoo Finance UK",
+      "discoveredVia": {
+        "query": "satellite positioning survey technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_516583048",
+      "title": "𝐄𝐠𝐲𝐩𝐭 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐬 𝐃𝐨𝐥𝐥𝐚𝐫 𝐏𝐚𝐲𝐦𝐞𝐧𝐭𝐬 𝐟𝐨𝐫 𝐍𝐞𝐰 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐋𝐚𝐧𝐝 𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐢𝐨𝐧𝐬 Egypt is offering eligible local and foreign companies a new route to reserve investment land through an electronic portal, but applicants must commit to paying the - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxPZXpodHlJMUdIWV9sZFJ0V1ZGUVNmN3pLN2E2TEVJbDFQSkVKRURmWjV1ZkVlTUhYbWlVOFRiN0dPaDAxT0h1NVVnbVFQYVk0alZlbDJEMGx0YXVxbFZvX1VueGRtRms2eEdTcU1xRzIzNWxicmRFZFpVdlBQdk9Wc1ZmVF9Qc0o4aGxEZGUyQ3lIaV9BUlRUZHZ0RFY4M0xKOEJkQ2VSSkFjekxCNnZPVkRzVXR0eUgtT0s4UWNxM2JBbWNfR0tyQm1ORUdnejl0eXdCVU5Dc0k2OWdpWWhOdTZuWm5manFuRXkydkh3NlRjU2JQLUpYN2RLZF9VMkxaR3FmeW9RajBUaFhXbVhlRXFVT25jaS1JVXlQU1drWUt4RnNzOHY5Ri15ZWVYNGNSQjkyYXlSdUFWRzFZSDFPbFdUcHJhdDJXZDRWbTZkQW5nNmJGZ2w3OUFILUpKNjFFa0hqRlgxWU8wV3RmV0tJMFRzak03LTllWUNNdUV4S2ZHYWx5d1UyZ2cxd1paLW1tOUdZRmlfOXFtYmk1Z3NKX1ozNUg3M3QyUzlFZUhhQUx4M3lvQkozUTFFaGdnQXdOVEMyRTNaREVYckpp?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 05:31:38 GMT",
+      "discoveredAt": "2026-11-03T03:16:26.851Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1497162802",
       "title": "Court orders GSU, police to vacate disputed Moi family land in Eldoret - The Standard",
