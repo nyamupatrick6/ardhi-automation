@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-11-03T11:01:01.352Z",
+  "generatedAt": "2026-11-03T18:22:53.555Z",
   "candidates": [
+    {
+      "id": "t_505757521",
+      "title": "Former Nairobi PC Chelogoi jailed for three years in Sh1.3 billion land fraud - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pUV8yV3JoY2F2MTJBV3Bpa0F1WV9tRmlrUmJ0WmM1Mi1BakRoX1ZheUg1T1o1QWFlOUY1Mkczdk50RmpYLU1BRGduT3QxZFB5ZUIzUE5B?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:07:49 GMT",
+      "discoveredAt": "2026-11-03T18:21:56.030Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_150725239",
+      "title": "State launches Sh26bn project to restore degraded landscapes - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWtDQl9pVnJzV2Fwdy0yNHNEMWYyczRPanQwbjlWNkNPM0w1dWVucGcyZEhzZnhPZ2l6dGtOTWVQTXd1eVBYOG96SXd3dTl2RHlsNkdNSkFuUm1ncU9rb1ZRZTJ1cGgxb1ByR0htTGlsVlVSMU4yYmxxWVNxVmhseHF2T0l6VW1CUzlBRGtYa0FkWm1LdlJrRDdtSE9ITTF5RngzTjhWS09JdGJ3T0VIM2RpS0R5c0JTbjZr?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 12:07:00 GMT",
+      "discoveredAt": "2026-11-03T18:21:39.809Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1595000866",
+      "title": "Drama as Residents Return Title Deeds Issued by Ruto - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUng0MjBCZV8zRm1hdmoyWndETDV6NHl2MktYRDk5OVdrV2tuWllPd3lTdnR1Z1o0dHd4SFZjNXZlSFh5N2xVVS1oQ29SSTJLdmZpLUd5WkhCWFEtVXJJUFpRd1JMNUNFZ2RYY25DTmhkRktvVTl2YlRqb3hmWXEtcS1HZjhHdjVuRzRBQmVYZjBLUy1CWUlmY3JFemlRWXNpcGdqS3NvUnlKZlBIRU5XbDR3?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 11:38:31 GMT",
+      "discoveredAt": "2026-11-03T18:21:42.318Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1665345305",
+      "title": "Maize production gains 1M tons as croplands expand by 126% - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmhVeV9xYU1ORXFHYVhUNlE4VzNLcXVVRk5xSGxucEI3V1phRlRiM0l4XzgtTC1Da0Y3bFZVYjh3SzNnczNFSTRlTEx6VEdzNmhqRjRCdnhyX3ZCT3E5OF95c21yMFdtNmVFeHZFLUZqYkJiWXNlcFcxTURKOEJNV3UwUmdIdlU?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 10:13:03 GMT",
+      "discoveredAt": "2026-11-03T18:21:44.881Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_382369805",
+      "title": "Governors want County Land Restoration Programme funds released - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWhxTnlUSUJ6MU5Ld2RjOV9qeTJ3WkYyeDNGMTIzV3lrbE9Pb09NOEUxbUpMQjJNNHV1S3dfSTFnWFhTdmt1bm5aOFlndFhmQWdqdks4czhHWFBaeWw4dl91THMyYjNEc0dzaVQ4QXRNbUpvOWhRUzZvMklad2VjR3M3T2VYZmdFNUNLaWxINmxZWGVDTHV3?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 14:05:21 GMT",
+      "discoveredAt": "2026-11-03T18:21:46.437Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_55112127",
+      "title": "Court grants Bond to cereal farmer and businessman over prime land - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObElkQTZ4WkpxUGZza3dkU0hKdWh1ZDY0ZnpTS2JiV2hMQnVqVlRWMzUxODVlVXNpblRpNnUycldVanpsZm1iMk0wa1pKRzN3ZEhJUzZmVU05cVo1YW1iRVljY2FGazZyZmF6dEFDOWxESkZCVVZnNnRLbXZVMzdabmt6c3A4UkUxMkhrQVpySjBySk53dDhXTjJwZw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 13:52:07 GMT",
+      "discoveredAt": "2026-11-03T18:21:46.437Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_185176640",
+      "title": "The biggest mistake some old politicians are making is idolising Riggy G, an impeached former Deputy President. Even political novices like my good friend @DonaldBKipkorir are falling for the scandal. Let’s be honest: Riggy G has earned the title of Kenya’s - X",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BY1JFazV1OGtTd1JCcHFxQzh4R2x1Um00Snc3b1RHSDFDTDZTYU5hMlMtQUdicGI3ckNvV1dhd1lZa2VseUhSQXNrUll0UlNHam9RUFJzZEZLczhOQWF3Y2ZsWQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:39:30 GMT",
+      "discoveredAt": "2026-11-03T18:21:55.133Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_750581883",
+      "title": "The DCI appreciates the multi-agency collaboration and support extended by the Cabinet Secretary for Lands, Public Works, Housing and Urban Development; the Principal Secretary, State Department for Lands and Physical Planning; the Director of Surveys; - X",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xSkp4TmVBaUM2TTZJNENxek8tT3FibzBRV2NpTm0zY01TVVcyN1lqYUR0VWg0M1FOX0h1NVRzbGdGY0FINlBpbzRlX3E1VXdod0hFQjlEWXRhUTJJTjBB?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 15:43:43 GMT",
+      "discoveredAt": "2026-11-03T18:21:55.133Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2029965046",
+      "title": "Kisumu Governor warns against plot to grab Baby Pendo Park - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83MWpfOWNjOWNBaDdBaW9YdXJyak1MSEM5QTVjd0tJMWZjdzdWRG9QN2xWbGZsM04yMDc3TGh0SmVwbDRzZGlOYWNfalNyZGJadDZnVjJ3?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 10:44:18 GMT",
+      "discoveredAt": "2026-11-03T18:21:56.030Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_310866598",
       "title": "State House action could embolden land grabbers - The Standard",
