@@ -1,6 +1,159 @@
 {
-  "generatedAt": "2026-11-03T03:17:22.576Z",
+  "generatedAt": "2026-11-03T11:01:01.352Z",
   "candidates": [
+    {
+      "id": "t_310866598",
+      "title": "State House action could embolden land grabbers - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGdXcU9GWjBaVlRVT3M2SzFHWnlqMEJ5OWVsYWZMU21uS3pGSU9yU0N5cHF5ZXJLSjZtS2RPOUg3RFdYZEtlMmt2UUhlQ1dSWk5IcDNWUm9FTUFxOUhDVnFxcVNIQ2FRZWRmZEIxLTM0aVBuM2RZT3NBbFd3enZvRzMtaWdrS2FRRXdyVHdoRExiS3JZLVJmeVZad1JTWnJYWlJmb0hVUnV5Y1Bk?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-03T10:59:47.487Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 7,
+          "seriesPartTitle": "Public land grabs (riparian/road reserves)",
+          "matchedKeywords": [
+            "land grab"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_1321465909",
+      "title": "Court orders review of four cases in Sh100 billion Kiambu land dispute - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRUlmM2EzR3FvQ3NhSFhiLU1jaDFqMlQ0U0Ntem9DVmpJNWhDS1pUdzQtTDNpQWUyZ2FmUzNMLWs1TXZzWF9EOG93SDRNbkVKd1lHeTFLMUgyNEU4QklDVFVOWnNBVEdVZGFjUU04Wk1VSFRnNDlXS2poa2JiM0ZJWUVRS3R4eVdDOGVmbjRMMHVWR3BVWVFhMHNHRnpMQ3lkTHI3Q0lTN3BoajFRNmVndmVjaWI4ZHBwYkdYNm16OWFRNzlsdnRUMlkwa251R09IeTFCeHh3?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 03:30:00 GMT",
+      "discoveredAt": "2026-11-03T10:59:47.487Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_552798094",
+      "title": "Eldoret Land Dispute - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWVUFtYnFncnUtZWFIcEREeGlBYkRDcTlnSW43RHBPZzM5R2lzMlBWZUtXWU5hSWxPU3I4RkJDejdVbkhzWmpiXzNQS1dRTTFnUXM3N3NyZnB4SHFHQ0duakFXYVh5TjlDS3c?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:34:27 GMT",
+      "discoveredAt": "2026-11-03T10:59:47.487Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_54366898",
+      "title": "How geospatial data and AI are rewriting road maintenance - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3AxcjBsVHlSTjRYVFJYVVpQeXRjSTJJdFM2aXVidnVtWGhrZlN6ejJlTTNhRWl2QmFDQ29TSkR1YjRSRmNqdVl5dkFRRkpZN01ycWF4ZVNtYV9HQlJVOS02ZWY4WUVMUUFqRjVfTDZHQ0ZfUUVORVFGcVFvWFBxeDdHZUFJLVh4WmdUZFFXbVRzbWItVHNlbWlHTUJWbU40?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 09:55:35 GMT",
+      "discoveredAt": "2026-11-03T11:00:42.338Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_611917867",
+      "title": "Airborne Lidar puts 8.5 billion Finnish trees on the map one crown at a time - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1pJZ19Sa1YzbENxTTlZeWlCMmhnOHlCbG9ZZlNYbTNLMU85WEJVYnpqeGRnYlZJU1UyY3k2cXlSbzFjS1JiVldmdGVZenpOMTRkbERKTC1pZFhIWUR6TVEyLTdReFBXZV9qczEzTUFFa3Qzbk9iWjVUbTgySWV1WG00ZjhoeWMzczhmRmFFWFQ1MldtRVNGQ1VMV096QjdWVXRuZERkdUw3cTZiblpHczhra0o?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:23:56 GMT",
+      "discoveredAt": "2026-11-03T11:00:42.338Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_231972948",
+      "title": "NLC moves to acquire land in Wajir for proposed air base - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmMzODNfNHd4Z252SWVKNXZ1MTRYQnNFeGpFRm9wejJqMkQ1eTQyWE52R0V6RTloejJoZDNRYVpaTXpPZ013M25QS2k0WGZldzB6TFZBQ2N0Y1JVSXZ6azJuQjdrWE04YVJCOHk4VHZQVm5KN0NlVWZmVkh0MzV3dnhUMEl0WVNrVkl5TzdvOEtvV1NCRy1UcU14elAzaGxldHBRSVVwTlg3dw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 09:28:46 GMT",
+      "discoveredAt": "2026-11-03T10:59:42.361Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1336798876",
+      "title": "\"Dragged into Land Cruiser\": Nairobi lawyer vanishes in suspected abduction - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzF6SkRpcTUwSlY4ZTN5X3BFZWhlVDA4cDdRalNjcG10Q0c5U1ZsMVMxNHY5SkNxY3VLUFJZVm9lb0ROMDJiMnRibFVkcVp5eFA1SUNQYndLSzB6cFJsUzhUZVI0STBiYWMyeU1OdDdjU2pOX25wTHc0cVpkMUdNdDhRTk94ZG1XN09xUGlVUEY0UTQ3bnJsV0JnZXk5Ql81c3hUclhNdWxnNlI1ODZEaVppRS1BOVQ3VGFiQg?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 05:57:42 GMT",
+      "discoveredAt": "2026-11-03T10:59:51.867Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1303809763",
+      "title": "Forestry State Department unveils Ksh26B landscape restoration project - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUpPQlpBeWcxSGVaN0lDNUtiYkJGVzRSTFVtdVM2QXVWNmRwdGdPM3Z3OWpaQlF2VVNqRHRMVmJmZHJFSkF2X01PU0ZTcWsyd2RPYi1RaENpT0NZTzFXbVQ3NU1IWENJTnY1YzBlRzhnNFNpUFB1ZVozYmNoUnNDWldiSnFjeGpKdTdOLTNoeEJtMW1tMGxHQg?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 12:26:07 GMT",
+      "discoveredAt": "2026-11-03T10:59:53.366Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1042067114",
       "title": "Seminar on Advances in GNSS RTK for Urban Navigation - GPS World",
