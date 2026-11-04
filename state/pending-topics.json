@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-04T03:15:38.983Z",
+  "generatedAt": "2026-11-04T11:04:35.437Z",
   "candidates": [
+    {
+      "id": "t_906208632",
+      "title": "Section of Kwale residents surrender title deeds issued by govt, cite irregularities in document and land allocation - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDODVMQ0FwU3ZEZlZDcDBwQXdtNXVhXy1yRzIyTHNVVlBQUWFxZmk2eEVfTnBoSGd4ZlNRME1QU0lTdVNOdndGdTZyZjVVMjRPbHFxT3JNTWdJM3Q2Q1E?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 09:53:08 GMT",
+      "discoveredAt": "2026-11-04T11:03:38.071Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_670717623",
+      "title": "New Lidar-Derived Elevation Data in World Elevation Layers – October 2026 - Esri",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGZqXzNHbDZ1SzNZQzIxbnFTRG91akNrbFIyMGFkdEdqWlJ5OW0tSUlkMno1N1ZhNWhjYndRcDlweklEaFVGRmYxYlBsZVNvQ1YwaWVfemloT2Y1eU5ZUWFmVWdra01BbVNsOVJEMDRycGpQVkJmeHZSTWJHWFRZVDFnb1dPeWlQQkd2em5uNXFiV2FkdzhoUTBHUzNMYzIydnhXRkxnM2I1MzN5TE9BTEluYlkxRnRHcTBObDY3VURQNXdqNHN2ejVpc0tEN3IwZk8wdFpaV2ltMF9wazJiMw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 01:29:24 GMT",
+      "discoveredAt": "2026-11-04T11:04:14.983Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_775462664",
+      "title": "Why that 'lucky day' deposit could land you in jail - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWHZsTmJTMWNaTlBjSVQ4MWc0eGNkVUFNdGxFWHQ2dWZ2OExmbU0yejNRRjJjcVM0a3liY3NYSWZNMUEzcjRoSkFlNllTeHdxZkJHNjcteGxzNndEVU1jeEFYcmhISktSWEl1dy1pZGRtNkhXbzhIMlVZeE1adkcwLXNuU0dyTWsxZkN3NDhJTV9iczM3RkxMQWdn?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-04T11:03:21.071Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_863997087",
+      "title": "State moves to regularise land under affordable housing projects - farmkenya.standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcDZOVFp2SDRweUYwZTEtZWZ6YV83NU5vTUhuYjV6WHRZVjU0X041UlVOSTVoY0JIdVVHMU94dE96RF8wVEN3Nlk5Wm4tbWhobFVhbXotVU1hTXFMM2M3SlFvSDdPLVFldlBmcldSYVFKRnE2bmladkp3cWNIVnIycDRlUXJ5clhxZFlRdWZqbUxYRjVlYjZzOUcyT3NBaGFuMlJGOWlqMXgyRW5oaHVVTnVtNWh5eVJLZGxpYTNybGRTbHRmOGRCbzdoUklsYXc2clp0anRqWHd3QQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 14:43:49 GMT",
+      "discoveredAt": "2026-11-04T11:03:22.085Z",
+      "sourceName": "farmkenya.standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1380081983",
+      "title": "\"My mum won't suffer any longer\": Stivo buys farm for mum after eviction - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVHpKbnQyRTNVWDZOaXdlM1B5MjVaZU9zNjNXU0x0TU1vZURfRmRKb1dKemRUZXlicERuTHY4bk5udjJDMWlpbUtXaVJxaFdjcnBZUEVud3pXdGhzQzFTSUNRUUhIa2l0bmFlVHpLdmNITXlYUUYzM1FtZVM2M0NIR0RNanVBRHdXYk1qdFdnMTJ2eEJfV0hCdUExMmZwVEotT2NmdXBLRHNLck9Od0I0M1RLbnB0eWV0NGZOM0Q1ZnhITnBEUEE?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 07:34:21 GMT",
+      "discoveredAt": "2026-11-04T11:03:26.633Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1635111238",
+      "title": "The Rot At NLC Exposed: Why Junior Staff Are Suffocating Under Kabale and Bett - Kenya Insights",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM08wZTAxZWVMQVRXLUlBdjh1bFlEUWRQMU1SZG4wTjBZQmtpd0c0a25IODZwb0s4Wkh5SHdMQ0xqNWt1dmtyWVlybXJUN0lrVEhKMHlvTV9DY3NPbGxiYXludmczUElUMnRYQUY2bjBrNHFPa1FGdjN5TUlSZ2dFUWZtLW9ONkNxNEVVUlhWQ0ZWMVAzVzhWejBibnVIb3RKTkN2YjVn?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 08:05:45 GMT",
+      "discoveredAt": "2026-11-04T11:03:33.742Z",
+      "sourceName": "Kenya Insights",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_155337261",
       "title": "Ex-PC sentenced to 14 years in Ksh1.35B land fraud case - KBC Digital",
