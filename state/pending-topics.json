@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-11-04T11:04:35.437Z",
+  "generatedAt": "2026-11-04T18:41:18.949Z",
   "candidates": [
+    {
+      "id": "t_788631414",
+      "title": "Ruto's Coast land reform drive runs into allocation disputes - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVpOSEVTRnlWOE1jdzVFUU1RUFotQlJnNlNXajRCZmF6TXB2Rk5NN19IVkR5eFhzMmpSYkZIcDlwYUFSOGFvTzdLRndjTEVDODl5ems3U3pMdk5zNXo4bmFodGNhQTJadFJMZWRGUWFuMlhNblM0TW1GN3BEVFctd0o0Z3dqb1o0dE1nc0IwdmdMYm05cVctM18yUGE1SXFlMFlKYUt4eWxrUQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 08:49:27 GMT",
+      "discoveredAt": "2026-11-04T18:40:08.455Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_748321343",
+      "title": "Supreme Court Rules on Eviction of Kenyans Living on Public Land Without Title Deeds - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbktQTkJ3WndGTkg4VGlBSUFXMWZmbDhWdkVpaC14eFRsODNSaFZlNVR3UGU1aHo3ckhMdzl6RHRscExHQ3QwTzE4NTNhOW4zLW9xWmh0T3BxT3N5RzdrUHc4MWNSNXVVYXRxZ0tYLU8yNThUelQxakY5Wm5lSWFuSkFlRHZ3ZkcxV3NsT2Itc25JdHRVaDYyOXc5SXFlQnM1c1M3VlIyRDJoVkJQdlh6U2laMA?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 13:18:47 GMT",
+      "discoveredAt": "2026-11-04T18:40:12.630Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_2081084041",
+      "title": "EACC freezes land, six vehicles in Ksh111.5M Embu MCA recovery case - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblhxaURPR0dlRzdoeWwyZ3BVRzFscThVLXdNZk5tMjZ2eTk2WGZSUlVyRzdNMW9pQjYtdFhxemtkamRFdWhlZGtIYXpBMVBGcFFBa0R2cnZNME8xNjJhZ3k0SEdmejhlSFNldzI3VjZwMDJRRjhtRE90WnVZMHdvbjREVzRtaE5Sa2kyUWlYVzdpcHc?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 13:02:54 GMT",
+      "discoveredAt": "2026-11-04T18:40:14.990Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1958940162",
+      "title": "Ruto's Coast land reform drive runs into allocation disputes https://t.co/Z4L1XZXBGP - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYeldIQlNKMlpTbHBIY1ZDT2pfU2NQYzU5c0hoVTVnR1JHYUJJMGpmbDBxMk5wOVFkcjdpSjJLMHMxUzY4R0xwTy1MTTAtWkhQdjRPUm9Ob0gweGFvdEE?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 10:00:07 GMT",
+      "discoveredAt": "2026-11-04T18:40:24.493Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_842865890",
+      "title": "Kasemeni residents in Kwale threaten to return Ruto issued land title deeds over errors - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UNkRpU1AtUjdFbDNTSXVsYnpfc3NBOVdZT1I2cjlNZ3k4eGduY3lIdDhXN3VjeUU0X1V6ZXE2WmdXR2g0QWI3OG9WUWtlcm83RUpKWFBn?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 18:25:03 GMT",
+      "discoveredAt": "2026-11-04T18:40:25.430Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1227397362",
+      "title": "Court declines to lift freeze on Embu MCA's vehicles, land in Sh111.5m graft case - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXBCVHJxUmNPTU9vR1NzQks3ei1JYTk0MlRfZm1GR2hQSmlxN1RraHlZMlBhVFE2R0QzMkFVV3E1bkhrVklzWWV3SllST2pSeFRRZ0JNVzFlNTY5aFFUVFRtN1hvV2loYkhpSVhiWlJHZlRMSlhHeGQyTEh3dl9mcmRiRVhXZWt6ZHVac3UxNW9jejZKMkdMN0FOYWM3U19SMXZOaC1xLWR6aEZ6a0hWTkpueVVid2JFcHhtQTM5SzNMWjJ6cUJackZENEstVUI0R3ZpRGVnanlwRFRoU3dETw?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 13:56:06 GMT",
+      "discoveredAt": "2026-11-04T18:40:09.339Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1442516783",
+      "title": "UDA MCA's land, 6 cars frozen over KSh 111.5m graft - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkF1TkVUclhxQXJhM24zREoyTm9oQm8xdTlNWWRGSFlXY2pKZW1ra0ZMSDBBYWJZeC15V25sWmxWcHJZeDZOM3QwSXFwcldGMTFxQWF6Nl92MzJqaVlZY3BzNW1qYVJiS0hPLXZFUlA1VGtTenV4al9PV21EU3dQZFAwdVVycFZoTFUyNnY2MmNMRVUt?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 18:03:24 GMT",
+      "discoveredAt": "2026-11-04T18:40:13.456Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1835073287",
+      "title": "Co-operative Bank partnered with Fanaka Real Estate to expand access to property ownership financing in Kenya. Under the partnership, Fanaka Real Estate will provide land opportunities, while Co-op Bank will offer financing solutions, including the Kenya - X",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoNHNQazBvekV0VkJTb09GYWpvRndTR3pfenhneHB5UTAwWFFiRVF5ZkJCZ0ZMQ2thdnJEMTVEUURMcXFFSDdlbjdZSnZhenNLNGhpbmlwM1VHU3RxTmszUElwQnNXX2NCVmlB?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 16:18:55 GMT",
+      "discoveredAt": "2026-11-04T18:40:24.493Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_637833682",
+      "title": "Why that 'lucky day' deposit could land you in jail https://t.co/jGHqMBZWQW - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiWkkydThzejlIU3Z6Rm5UQVFFQW1faTQxbDJYN1I1eEd4aE9RemlLaXV2bEFsX2FNQm9xX21ReUNjUC1RSnNtWWQySlRTdUQycGVwREJxbmhTQnVZWlE?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 05:00:07 GMT",
+      "discoveredAt": "2026-11-04T18:40:24.493Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_906208632",
       "title": "Section of Kwale residents surrender title deeds issued by govt, cite irregularities in document and land allocation - X",
