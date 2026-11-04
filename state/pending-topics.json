@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-03T23:39:51.080Z",
+  "generatedAt": "2026-11-04T03:15:38.983Z",
   "candidates": [
+    {
+      "id": "t_155337261",
+      "title": "Ex-PC sentenced to 14 years in Ksh1.35B land fraud case - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSE5KVTZCQWRPMTQ1U0xFT1VfNUQ5QlJfeUlfcm11dDNka3lLSExadFhZQ0RfVXhQZlRBZnhSV1lab20tLTZub1JkUUZURno1OUpNU1VNRXJfU3IwWHFqMHFrc0xOOHB1NXB4SkU3Unljc1hJQWVLT0ctQ18zQVNjcFhodTY?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 10:57:59 GMT",
+      "discoveredAt": "2026-11-04T03:14:31.281Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1683787769",
       "title": "RTK GNSS for Construction QA/QC & Tolerance Checks - Emlid",
