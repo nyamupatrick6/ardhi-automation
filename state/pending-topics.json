@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-05T04:59:34.788Z",
+  "generatedAt": "2026-11-05T13:00:18.295Z",
   "candidates": [
+    {
+      "id": "t_2046743416",
+      "title": "Elderly woman is killed following land dispute in Naivasha - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1hqMlhBQkpTNldydFpiVmZWT05uSFNEMFh5OVpjR2xQdXcxcFRiMXRpSDNaTDlEYUg5Mkx5ZDJ4OG1tako4VmRwYTNHS2lZc2lWN0pVNFBTWDdfMTNPRTdGLVZDMWNFTHlEU3hPYnNyUnUzOWFiU0k3RDk3SUJSYzVZWVVsSmJxS3lyakFuZzVTM0tDS1ZBT1dTU21tWlZacXJVN0U1cVhROF8xRUtuMHkzbW9nQVpSQ0VyeDFTdjFDd0tOVWc?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 08:06:53 GMT",
+      "discoveredAt": "2026-11-05T12:59:06.471Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1814753638",
+      "title": "Procurement, land acquisition weaknesses inflated Kenya’s SGR costs by Sh116bn - Capital FM Africa",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVThLcmFRbnRaQXUxeERtZk1fT0gwQ1Ytal91X242STNxN2lUTlFZZWVPYTVrdy1mZGY1TWZTNkJySFRjanNHQzlrNlo0RjBQajlCUWU5UHlFa05Va3NVZVFSS3BoaWVKQTZVeWZ2a3d2Smk3dVktVHdFZlFJV1VHUjNDSS1RMGZnZWtMOGhOMVRwazlEX2dUSDRMcDhOXzZzQ19nYw?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 05:13:09 GMT",
+      "discoveredAt": "2026-11-05T12:59:36.794Z",
+      "sourceName": "Capital FM Africa",
+      "discoveredVia": {
+        "query": "land compensation Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1502051992",
+      "title": "Demand For Land In Nairobi Drops As Price Growth Hits Three-Year Low - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUdwVFVsMjl0eEgtdWR4dlg1NE5sZ09FNE16eFVGLUVVY2ZKeC11VWo1TEJRRXpTOWVaRkkzZll3dHY4MUxJRFpLNDJLTFRsY1pnazVXMVJjTWJOUE9DVXpLMkNXcWpaQUpUMm9mTFdicm14N2lKMWNKNW1CWHY5b3pmZ0FaWGNXQzRJMzByMDI3UlNVU0VWdlpsUGdtR205TkNlcDZFQ3V1a200a2JPNmhIeEtMQUhsU01lT3NIM3FzdGM?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 06:48:55 GMT",
+      "discoveredAt": "2026-11-05T12:59:41.658Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "land rates Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1815785878",
+      "title": "Porphyry Cu-Au Alteration Mapping in Sumbawa: Applying Linear Spectral Unmixing with ArcGIS Pro - Esri Community",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR3RDMGplN0J0c3VQRWlVOHgxaEoyVjZMcm5tRzBfMUlSUmhiLVFLTWFRUldOUElzTVpMMzJiazd2N2MzT2FIRGYwWGJGT2VxY3JDTjM1c2lJMlZwMTcwWGQ2bzJJUWMyaEphOFB1M1RiaDd4M095RDQ3OWVRX0YxbDlKWnJBRFpwS2dkYmlaT05GRmFHV3p2dWY3ekhBaUxxbV9LTWcxekdaZ2NCR1pKWDZzTFZkdTdDX2JuM1N3U1lXMy04akExUWpZZkdfQnhSMk8zVldpUUNUa28?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 09:55:10 GMT",
+      "discoveredAt": "2026-11-05T12:59:56.978Z",
+      "sourceName": "Esri Community",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_993540591",
+      "title": "Five Nairobi Estates Where Land Prices Have Dropped - Report - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDdCMXUwS0Y4RTdOY29BRW9saHhwUG1LeGJKN3U0QXNfUzBpS0ZTbDB3MThDZDdMYVRMWUUzSkM4amJhRGRIYkkwb04tTEJhd1NNTnZ5WXViTFJSZGlEb2xuZkMyTFhVMVlmYlkwTVlrR21YZFJqQWY5c1U0b2FqX3d5dWk5TElHZmpzVUNjaS03NFlIbWduLVV1cGhYcmtHOU5iX0RBZE9uLW5WUjJyWnl6NXVtbkx2NmpQc21VcWVMOXc?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 09:19:47 GMT",
+      "discoveredAt": "2026-11-05T12:59:09.949Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1542321648",
+      "title": "Residents Raise Fears of Land Loss as Mrima Hill Rare Earth Mining Project Nears - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGhQNFRjR2tBbXNrSDRESlZjTFpLeWxCcG9HQzBJb09LM0EyaDAwaHNjUjRLUmRVWVlHdk9LRUVHYjFtbDlNUlE0ZDBtOGk4aHNLSnBaSi13M1E1aXl0YWFmanJVQ1F5a3BIRFRJR1J0VDRGRVgtMGtPSUZ0ajNFYU42VGtwQi1zemRXZVVlS283X2Vmc1dnbDlqYWJYQkx2YnJKR2FrNWZCZExKWTZ1OGVR?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 11:08:04 GMT",
+      "discoveredAt": "2026-11-05T12:59:09.950Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1171209409",
       "title": "Geospatial AI in Education: Applying Pre-Trained Models and Embeddings - Esri Community",
