@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-11-05T13:00:18.295Z",
+  "generatedAt": "2026-11-05T20:33:30.461Z",
   "candidates": [
+    {
+      "id": "t_37430114",
+      "title": "Maa community seeks justice over historical Kedong land dispute - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ydkNsVTE0MlpoY1BPMXFLMFVxM2VUUzUzekNfT2VQc1A2bjExcWJNMWpXUjFQMzBkNHdzUktHWnZQaUljbTRZcFlucDlBaC1DVE5FZmh3?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:39:28 GMT",
+      "discoveredAt": "2026-11-05T20:32:36.069Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1954421777",
+      "title": "Kenyan tribunal hands Africa’s richest man a win on $16 billion refinery, but government-funding and land disputes are not over - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3B4d2VHbFE3UjZHRk03QWU2RVBBdkZQLWZDMmVSQ19MNXN6ME9tQWxpVXBjSTBpSmZ1S2pyNzBFeVUzMU1fc2tmSDdCTWRObkJSN3RIV0R2dkVZRmc0bEVIMGhkbkZ3bFQzb2RJaGQ2dGxYak9HWjhxeUZQclNDTGVNYl85d0VocjlJSG5qWVhrRTB1dEVMNTBVYzNNeTVPdmN2dDNEbm95eGFCSlh3Vk01S0ZFdGt4dFgtSl9QV05OYkRET01TUXQzX29kYTdaNW5z?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:45:14 GMT",
+      "discoveredAt": "2026-11-05T20:32:45.871Z",
+      "sourceName": "Business Insider Africa",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_209671833",
+      "title": "DJI Launches Matrice 5T With Lidar, mmWave Radar and 1K Thermal Camera - Commercial UAV News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFplM2JmRTVIdTQzeUlNTEpDWWQ3RkJ0WTJ2SmV1cEJlVWFtNXp1TmlZbXhFWWV6WDNBbDZEZ0VXUDZhVl96NEd6ZDhaQmVuWDg4MXNiWGh4cEZFZnZQY2hraUhjejNBdWpZZ1F4LUNScXlRMUdnLTVVeHBIanVFaThfZVRBOTBhQm5QUkU0NUdPQnJUblFpQjFPMXFqTEt4UUVGZ0xR?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 20:14:41 GMT",
+      "discoveredAt": "2026-11-05T20:33:16.169Z",
+      "sourceName": "Commercial UAV News",
+      "discoveredVia": {
+        "query": "Commercial UAV News",
+        "origin": "Commercial UAV News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1508229855",
+      "title": "Court freezes Embu MCA's land, six vehicles in Ksh.111.5M case - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWS1pbmdwejZ0Umh2NDhaaXpyOTVfNFhnTERhOERyZzVUQVE3TU5DbXp3MG10TFBwUGEwT01RTUhHNUZLUzAzZHlVT09oeUxBdEV5OHNNQmhhbzNaSVRYTlBkQjloZEw5ZGNOdUZpZEZaODhGbTNoZDhjVlhvOWE5RnlWdkRRRTFkRzByaTBiNlNpTVNnTHh2ZjdPMzlWUzQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:27:36 GMT",
+      "discoveredAt": "2026-11-05T20:32:21.247Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_18849156",
+      "title": "Speculators lose bet on satellite towns as land price gains shrink - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdk1iT0RrenBMU1pWUWEyMF81YUlHblZxUlRrWndzd2t0MnJrekdZNkhTcUppY3dQaE1hMU1Bem5TUTllMmwwUUdQQUJqY0t4VHQ3bFBBcklrVzFaREZiNUdkblI4NXlwSWJ1TkNFWkNjZjhvU1VIb1Bjc0Ixb05yT0JrWjdlZWZBR2tsT2I0ODBveTFhQndXMmFYV2tMX2t1Mkxwa1l3T2RLbDBLcXI0T2lFZHRZbGFDaVRwbXp0R1JFdG9XNG5WeGJ3?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 14:45:00 GMT",
+      "discoveredAt": "2026-11-05T20:32:22.075Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1160511730",
+      "title": "Nothing is too serious for Kenyans. Welcome to the land of memes! #nationverticals - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwb0FDWjNpX2R6TVJzOHViQmFXSWVEd2FUc0M2eGhVZlcyZ3ZzWlVEWndLSEZiRkh3QzdBTmFKUG8yZEhsMFpWMEhmUFktdFhaMl9CM1NfMGoybTcydkE?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 16:31:05 GMT",
+      "discoveredAt": "2026-11-05T20:32:35.164Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_903406122",
+      "title": "Lake Solai residents fear displacement as rising waters swallow land - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1icmo5MjU2SnhHTmhpVlBNbDRhUHNWa3daaTBybG54X0pHVzNFMnVvRzBhTzY1Snl2TnZELVZCWlBuRjl1b3RCeXgwbXFFS0F1NVg0OHhR?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 19:06:59 GMT",
+      "discoveredAt": "2026-11-05T20:32:36.069Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1033628120",
+      "title": "Kenya there’s a King-Priest in your land - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10ODBKWlZHQmdjLW5OUzlyR2VPNGs5Yk9JR21nT0VzdkV6M1pxYUsxZHRfQTgtSlBJdlVmbkhyZzE4TGxXTmNXVEFBTkw5ZXBEb05KRjljN2ZCdXhxN1p5eGpMYUx6RjVuUmhDWjctWFFrQQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 16:59:23 GMT",
+      "discoveredAt": "2026-11-05T20:32:37.031Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2046743416",
       "title": "Elderly woman is killed following land dispute in Naivasha - The Standard",
