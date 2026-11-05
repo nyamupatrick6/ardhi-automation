@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-04T23:56:49.639Z",
+  "generatedAt": "2026-11-05T04:59:34.788Z",
   "candidates": [
+    {
+      "id": "t_1171209409",
+      "title": "Geospatial AI in Education: Applying Pre-Trained Models and Embeddings - Esri Community",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0xOU2UzV0ZpZV9XelZMeHpvUDJ0V0tGalM1MDlObjVJQ3h2My1yRWVmdTJxbzI1LXpmUnI1VDY0V1o3X21nVEx2Z09Qa2t6dkQ2bVRMZDZLTklrOE1nQnVCVWdRSTZvWW5wUG1aeS01TGtBQlQ4Y1VjaGRPTzAzckRnVHlKLUZvN3VSUDBMSnBBN0l5ZWZzUnduRWk4YXFTTFJpMW5LdEdFZjFiR0xKX0ozTEJhZHQ2eGc?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 00:49:41 GMT",
+      "discoveredAt": "2026-11-05T04:59:14.900Z",
+      "sourceName": "Esri Community",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1463437058",
+      "title": "LINZ commences six-month LiDAR flight campaign - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGtjVUxySEFNR2Z2VGF4MUtiWEpyaTdoWGR1N0lCaXM3cTBZTTV0Uk5NY19YdDZDc1hYWlJmaDFGU2RtZ0ZPWGk0UWNxOUJkUmlJdkpQYndneVVFdTJ5cmktZnhyMDBpT3hFMXdHaTFzQUZpSmMtaTBGNjhMT1hyMG9GREtiWEk?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 04:30:46 GMT",
+      "discoveredAt": "2026-11-05T04:59:21.585Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2014590727",
+      "title": "Is the Essential Eight still worth doing for your ArcGIS environment? - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0k5WGpzOWlERm1sMGEwOTI4azFwOW1fTl8yZkxZaDQ2WHpyOUtuMFNLVzQ1eXU5NnQ1aXVST3BUeGR5WG5IbkxWTEYwLWxydEJSWFlPamlGT3VqcnktOEpzU3FPcEh4bHc5RkR6eWd2UlpMQmc2UTRzM05veGtwUGNHQ0U5TkpJZXZZeDJva1NjWlQ4S2RzTW90a1AyZm9ORzNZRQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 00:32:39 GMT",
+      "discoveredAt": "2026-11-05T04:59:21.585Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_581703351",
+      "title": "Lost your title deed? Here is how to get a replacement - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnMweGtKbi1sQzR0aGZCemRmSFBOUUp5ZXNIcThuZk5VYWotbmJta05FdjdOSmtOT2JPNnRNQU5Md2dzMjlHR0lYdTk3YzNxb21ZNWdTdWV1N21XajFDdWk0WmhJS1p0LWE4LXZWU2tSZU9aeDRWV2dSSm1yOFdjcS12eVlIOU5zWld6dXhqUVpkTkthalFhY2VqRmJSWUFoaVViWU45NExuZmJu?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-05T04:58:22.703Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_478943031",
+      "title": "Land degradation costing Kenya Sh167.7bn losses, statistics show - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSnhCd081YWFpRU9abjRvOTVPb1dkNl9Jd1VaWGJIZHZXdFBQVE5SNnNkdGJxeEtzYURib3RNbXVZTlAybDJYZU9xb0lRek9JdVhjdUQ0TzdYWWZwQXQ4dlhfSVpNSWgzb2xOYXhnTThnTXZYVEVHYktOWUdLRjVsdF9BalZ2MWRtMll1VjVJRXhDVTJYX21iUl9VbFFOZ0VaVUY2VmZTVDIzQzJ0UXZCSnN2bGE1ajBDdDEta0o5aEY1eHlWSlVNTmJNb0F3VWdjUmdHLQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 02:10:00 GMT",
+      "discoveredAt": "2026-11-05T04:58:24.474Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1595902435",
       "title": "Waiguru pledges land, jobs for military veterans in Kirinyaga - The Star, Kenya",
