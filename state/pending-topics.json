@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-11-06T01:07:08.562Z",
+  "generatedAt": "2026-11-06T07:59:10.928Z",
   "candidates": [
+    {
+      "id": "t_702841538",
+      "title": "Njiru residents lose bid to stop eviction from 73-hectare land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlVzR3JKWVpLenVnLURhYnVJSEFTQzVia0VxUHhCdGF3R0pqNlhQTlNwME1MMGVKckNKQTlralJYVTY3WEhmU1FMN1ZXeFNWcUtMcmxoekpWOGJaU3c0Z2dXcTZTTjY1Q0FHaEpNanBDalhHcXkxS1Vlb09BSmZYWG5tdEE4b2U1NUJkX3NKOWcyR3FBS3pVbVNMN3AzTjRoR0s0WGFn?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-06T07:58:00.982Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1390365458",
+      "title": "The World Bank says corruption in Kenya's land sector is making it harder and more expensive for businesses and households to access and own land through bribes, fraudulent records and illegal allocations. Nearly 31% of foreign-owned firms in Kenya cons - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ISVZzM1V4TWg2ZnNmNnFMLUoyc1lwOTExdDk2ZGg0LUFWajFVbTFGazZjWkhzdUpCejE3U2NpdUVGNWlJNHE2QnNYakNWNlFlczFaZ1M0QlgteWsyRHBPMF9LT1Z3Zw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:23:29 GMT",
+      "discoveredAt": "2026-11-06T07:58:16.930Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1037435499",
+      "title": "BUG-000186659 for ArcGIS Field Maps /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTdpX2JKalhQaEVjbElBcGZKc1dPMGJRRUlOcXJTYXBMbTZOeVlQcUk2aE5OMXR2TjRTNVZRcHRia3E5WXFfSG1UOWRkRWV6SDhFeHV0SGpTSjNzWk9naE9UNVk1VE9nUHNvMzM3TnNTdmkycHI1bUtJa1JGWWQ3c1MzNjVIUERmMlVCSm9LVGJtZFlFMGdlOV9nM3g2eEd4LVRKejd4dw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 02:37:19 GMT",
+      "discoveredAt": "2026-11-06T07:58:51.774Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1865516409",
+      "title": "BUG-000185465 for ArcGIS Field Maps /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXNtdmg0VnUyTVV3czBkNk5vV2NfcFJjaHc2S0RLZTZacjdhWC1SUnFSWFhQclhPRGZ3OUtuMmgtT0xwRTQyRGVZZkpmN3BCMUdadVdRQUlFR0lac0tZMnRkdWh2VFlwTDNKc0ZMU0xGX0Z5NVRvMC1JOHRqRjFhRm9mTWV3S1hOV01ZLWFHQUF6eXd1czUxT3FqMXZEX0RBVzQzR2E1QQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 02:49:20 GMT",
+      "discoveredAt": "2026-11-06T07:58:51.774Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_526877361",
+      "title": "BUG-000188486 for ArcGIS GIS Server /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHB5YWdKZWtNTTdYcFhIWFBtY29mNm5NeU40d3prTXBiQ080ek5lNkRhMDQ2dElvcDZzVERmMkthQ08tdlNkLVJZYXpKcTZRRTV5bVo2WkhGN1hWcHlLUDljSVJybkJDVzN4Rm9ob3lFTnZRTFBtdzlZaWZQY0RDdzJmWS15TkdydzhwUjdsLVJndlNtT1RadEduYUZPZVJNWUJvNE05NA?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-06T07:58:51.774Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1587415643",
+      "title": "In a land overflowing with milk and bread, let workers eat cake! - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWR5YXFtbDNLNVBNdm16blFfakdlUHNIa09abWE1N0RfdmNtdUp0N0wwZy1qT2VFemp4ZHdmS19tLUwxT0g2dEp0OGlqN2N2dk8zamJqUEZIUDYyUTBKUU9jYXJYcWJuMWRhRnJXX1lXZWI2djJTd1RiR1UyaDVYeTFzWlRLelViOFAxa2FNaFBXTjAwZlVYRGdtNkhpLS1FXzNSOE1TS1pqSHU4NFJ4UXZCZw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-06T07:58:01.845Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1850485922",
+      "title": "Governor Lomorukai accuses government bigwigs of taking over Turkana land for gold mining - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CQzRNa1o5VGdjdzdzU2Fya0gyd1gxQkM0OTVSakJDRzVUXzFuaFRLelE4UloxN2hOcUxpbG5PTHBmNW5jR041dFhxQmpqOTNoZVlWd21B?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 09:10:21 GMT",
+      "discoveredAt": "2026-11-06T07:58:18.855Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1268262615",
       "title": "Product Engineer II – ArcGIS Enterprise Patch - Esri",
