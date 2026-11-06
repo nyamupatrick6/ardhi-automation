@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-05T20:33:30.461Z",
+  "generatedAt": "2026-11-06T01:07:08.562Z",
   "candidates": [
+    {
+      "id": "t_1268262615",
+      "title": "Product Engineer II – ArcGIS Enterprise Patch - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZFZkdFFOOVBMcUxfNUxuaXlXcTZrRUNWLS1JQTl3Z00zYTlqYVNYbllMeGQtSHZGUzMxWm9xdkRfX3k0NnJ3WjM0dXk3d2ZLVUloeVo4MjFCb3h3WG55aFE0QWdmdHJI?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 21:56:11 GMT",
+      "discoveredAt": "2026-11-06T01:06:48.892Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_220635938",
+      "title": "The Future of Geospatial Professionalism - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjdzFKV0ZuU09IYjR4NU1WOHRBNGVPc0NHNXh0NTdPOG1kamtFdFROVVY0X19VVFk1a0JPdV9JcDV6ZXJnLWd0LUJNc1R0SlppVkNNeGFfTWRLZ3FuSmNVMXQwaWRSNk5uUmF3UnpKZ1pQNERfSHU2UkJnVjFKNVE?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 23:52:16 GMT",
+      "discoveredAt": "2026-11-06T01:06:55.605Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_977445831",
+      "title": "Building Geospatial Professional Excellence - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEZVUmU2WGE5U2VBX0EwLVBIZ0hmbXFfQlZrbnRSRTFzLTdlMlJ3dDZld3d4R3FaRWpyLTVSbXpYZS1hYk85dV92NFlKOGN3aXc4ZHhxX04zbENYUUJaRVpTTEoxc1BzN0I5QnUzRU01SnJVTmlna2Zpa2FGaW5sTi1Gbw?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 23:58:42 GMT",
+      "discoveredAt": "2026-11-06T01:06:55.605Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_37430114",
       "title": "Maa community seeks justice over historical Kedong land dispute - YouTube",
