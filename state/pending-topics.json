@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-06T07:59:10.928Z",
+  "generatedAt": "2026-11-06T15:47:41.845Z",
   "candidates": [
+    {
+      "id": "t_734896572",
+      "title": "New GIM International and Trimble report maps a geospatial industry at a turning point - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3BKVGMxTzltY1JnelAwWG5LMXFmNVE4T292RHdRRVI4RVJndDNfcEJBZmRtVXlHWlNPLUotVzEyUjFOcDE0MEpVRmZ5U3N3X2FhM0FvcHJxaHNQMDNLYTVMT241N0EySkVENkM2MGIyY2hrM0FqcDFCNmZZRXBjUnN4UUFJdUhodC1XTHowNEpsZ3oxa09RZ2hOUVVqTGIwYVRNWlRVWExwYjVGZWRUdjhBUGtZbkc3N0xsRGtldUM5U3M?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:13:24 GMT",
+      "discoveredAt": "2026-11-06T15:47:22.819Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1567560435",
+      "title": "Waiguru pledges land, socio-economic opportunities for military veterans in Kirinyaga - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3BsUE9qUDFUR3kxek53YUdZcHpBLUl0ZDFqRnNmeTVGUl9XXzFOcUVaZmo5MWtxUXVvbjBsQTFfdlFHVVl4cTFYQ1ZfM0JnaFV1dUc2SmdRbmZtUV8xU3k3bXRab3B4eFFJaWFGSlhmakQyQXhOSlNOc1dGVmpMNTVKRy1SRVpPOVpNMzVLMjBueC1BcnNnNVhyM0ZBelozakYzWVRqTjl0dDA?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 09:17:28 GMT",
+      "discoveredAt": "2026-11-06T15:46:34.273Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_5771501",
+      "title": "𝐕𝐢𝐡𝐢𝐠𝐚 𝐂𝐨𝐮𝐧𝐭𝐲 𝐑𝐞𝐩𝐨𝐫𝐭𝐬 𝟕𝟎% 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐢𝐨𝐧 𝐨𝐟 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐋𝐚𝐧𝐝 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦 Vihiga County has reported 70% completion of its Land Information System as it expands the use of digital platforms for land administration, procurem - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxNWHAzOWRPbFZDYjV1VHJtX1M3ZF9GTFRCZF9NTndOTHlUWDBIN1RKaUdnZTR5MTQxNTdsaTRYNmZEdVdScnBTZkEtNnNTZ1Z0TE5hOXJHb00xZF9QaHlldEtOOHlNN1phUVBfYzV2UjdfeUt4cjZmN1Q4aFlRWHNvNWVYdDBoM19VNzdBMFJXRjJqRkcxZW56SzlHc2xHdEdqRWFiVnFTbmVqNTFxYTdielFBN19SZENuR2lYOS1rMEg2SXRKMVRXaEQ0ejdzWkVvRlhzc3dCMjloQ0xySmpvdXk0aFZVSUZEbmYycnM1NEdPTFZsR1BjQkUySFQ1b1F6V2dGN0JZdGtWRGlkQWRhYnlPdnBrM0d6OG1zZWlaSlQ5UW40TTlrcUdtdFVIVTlXQjBjT0NhaFR3d3hqREJ2UEVDTl91YkNvWmZQdF9sc2VOVjlQcExWLTZmTFZ0Rmhjb0xWbUFab28xM1c4dXNHSGt5dzZ2a3diSS1RLTJybjRxT25vSkx2ampGQ0RKbHBzMkNTVmZkb0Fqd2s3WHlLR3M4SkhlRW5pR1VQaWNFTlNaTllHaW80YVRfOGItTE9FQ1pmdVJKZDkwOS1m?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 10:39:50 GMT",
+      "discoveredAt": "2026-11-06T15:46:47.343Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_702841538",
       "title": "Njiru residents lose bid to stop eviction from 73-hectare land - Daily Nation",
