@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-07T00:58:43.715Z",
+  "generatedAt": "2026-11-07T06:53:51.496Z",
   "candidates": [
+    {
+      "id": "t_673613644",
+      "title": "Nairobi land market loses momentum as property, rents rebound - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWdqLVBWNjJFWTdMaVR4V0diV0ZaTC02M05oZ0p5QWhjcjZ1cmpKYzFoRUZXbm5uc0QyX3lCRXBPaHBLNGtLejNlZFhfN0tkeENnT0hfczRWdUtad0ZMOEVPT3lsb2p4cDIxOGN0WkdQTjhGNThuSzVGT1dEQzZBUklwMGpyTHZlQ09kb2Rla2Z5UlhDZjk4RnNZeGVueEVTblR6Y1djWkNnLWs?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 02:30:00 GMT",
+      "discoveredAt": "2026-11-07T06:52:42.632Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_423824799",
       "title": "Conversational AI using existing ArcGIS for Teams Search Functionality - Esri",
