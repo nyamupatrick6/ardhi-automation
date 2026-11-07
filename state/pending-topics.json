@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-07T13:43:59.175Z",
+  "generatedAt": "2026-11-07T18:27:57.112Z",
   "candidates": [
+    {
+      "id": "t_541855855",
+      "title": "\"Hatuna pa kuenda\": Githurai brothers face eviction after losing both parents - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVFxOW1SUVhnaVN5M2ZoSXgzZkRLVlZBYmV4SGlMdFRWQjhBai1sN3A1TzliU2RzNUoxWUFpZUd1TEJ6NXBIMnNtbFF1YkpqOFBEZ1F5QnplS200VWFqOXEtMjhIaUZyN2Q3WVlVV3R4Nlo4cG1BWlpXLUtLRzE2SU5rMkVyRWIwVjJHWHJJQXJRY2VwMnpTa1pieUpNWEJZSERPWnRWWXo4R3VvaTc5TVJlcU1qenZvMGwtQ0xmajctT0Mt?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 14:16:37 GMT",
+      "discoveredAt": "2026-11-07T18:26:52.286Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_219055617",
       "title": "Inheritance wars: How courts are protecting family land - Daily Nation",
