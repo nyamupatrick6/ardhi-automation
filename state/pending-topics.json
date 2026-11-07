@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-07T06:53:51.496Z",
+  "generatedAt": "2026-11-07T13:43:59.175Z",
   "candidates": [
+    {
+      "id": "t_219055617",
+      "title": "Inheritance wars: How courts are protecting family land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXBNM1hKc2pDanNvVDN6d1VkQjVBci1xM0EteVVGckJYaDdvdlZmUHhtME94bWtCV0wtMmZ1U3lvRG9ieTV3MURYOWxMWHJUV042dFE4bTVtRS1CblE0NkRveW5mVUpCa2p0dDNRSl9ucy1yb0pvT0dBZ3RfTnpROWJGWWpYR2pmN21yUTJDMno5aGVnZWcyZmpzZw?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-07T13:42:50.038Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1532413333",
+      "title": "Govt Moves To Acquire Land From Select Owners In Nairobi And Kiambu - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGhhZUZqSjk5ekllSGQ1amhwb2o5QXgyamtLNWY1clQtLWJReEJqdWRpWF9yeDFWc1NPYUpYcEl4ZkhkR2laUUZ1d1dCTU12N2Y4Z2VJZU1PV1hMMVhwSHpQaEJrMHp6WGFwZGEzNjJRbm5NWkRZZFpMN1ktMEU4RkhCZzVDa1RaRlY3d0I3OXBSNWcwTnFtUDhvbEF6MkNBRWtMVjViMDBvV3IwZjVJMg?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 10:57:58 GMT",
+      "discoveredAt": "2026-11-07T13:42:46.116Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1246974604",
+      "title": "Landowners Put on Notice as Govt Begins Kiambu Road Expansion Project - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0NpRDBrYnVKRWpSd3ZsZGZjWDZIeU1nYTBidFMyaE5JdkpxVXVvMkRlcXVMWF9xYm90Z1hUVkloUnBSeHNiZG9Bck40czE2OXc4bnY0RmFLYm9vQVlkNU1BbnNQV25URnoxeGVvVnUzS1E3NnpLTDcyZEpVdXpUTG0tT0ppYlREeUNqeGlvdW12YkZncXJ0WXR6R3I5eVZkeU95azh1cDlhZw?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 11:06:17 GMT",
+      "discoveredAt": "2026-11-07T13:42:54.256Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_673613644",
       "title": "Nairobi land market loses momentum as property, rents rebound - The Star, Kenya",
