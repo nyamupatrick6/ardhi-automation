@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-11-08T19:19:18.817Z",
+  "generatedAt": "2026-11-08T22:58:31.280Z",
   "candidates": [
+    {
+      "id": "t_2139699320",
+      "title": "NLC announces compulsory acquisition of 11 parcels of land for major Nairobi-Kiambu road project - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWpOcEdiRlJHR1ZubDFYMm8wcmpHbUZQejB5Qk41b2dzUDFiRl96THRJREphQnlVSlFvS2FnTEdQY2R0bzRWY1NqYnp5SlJ6VHJFM3o3MlFHaHNHTkkzSzBvMENDNW53TzlOMURFekk0eUhxVmlublFydXRkUldzNHBjQkp4SDF6d3JHaDBCczEtOVBEUEV0NVlqblFWSDBZVWwwUWZrLXBZVnFhSjJwbW54b0FGWlpYMTJSMFB3NXptMW5aTmZJUV9XX0dzeDhta01n?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 19:30:54 GMT",
+      "discoveredAt": "2026-11-08T22:57:17.955Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1017994363",
+      "title": "NLC announces compulsory acquisition of 11 parcels of land for major Nairobi-Kiambu road project - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmhvZUZOc29ZZjQ5clBtc1gwWU1iWVMzNUpKLVQ3MUNvcER6cW1VXzZzUVZwVGVIMjlTSlRya0dUQVhJN3NwZFFKQkxEc2FBZ3ptRlVtOW13NG0tYTRSYlJ6bG9MUVZadWlHZlFPYWJfaWVVWDloLW5nVm11MXM4RWpGTE5HRGhoODk0cTJabUI5a0Exekx4NmppcDd0dmM0RGQ3cy1YbjZEVmZoMEIxdTBTM1Z3bzFjYWZyanlTQ3BWSTJsd3FfZVh3amFzdVFaUmN1czZ0OG5xckk?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 19:30:54 GMT",
+      "discoveredAt": "2026-11-08T22:57:51.535Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "compulsory land acquisition Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1668712112",
+      "title": "Where the forest keeps the law: The Ogiek write a Life Plan for their land - standardmedia.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWJORzNKVmpmbnN6Tl9PV0JtYWdQeWdqdm1sb1I1aU52Yl92N1hkSkxBVmxGQ2xzX2I2b3Nibm5tLXh0ZExkMW5IMUJQZWZMbzVkZjlGODF4VDJyNmNWUDdJYmpRVDZwZGs5NkJCeVYyNHNkckNMcE9ONFRjVm1HWGJWaGw1ZUZNWHBnLTU5Z2NYSlFvSWM1cDlxd0RiU2VnUEZURnhYTXpCMGtVRFpTZU82akFBV3QwbGJSVWFBa1ZVbU9UNEJCM3dsVC02UnQ3cVhRX0JFYWpFZ0gt?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 21:00:00 GMT",
+      "discoveredAt": "2026-11-08T22:57:22.734Z",
+      "sourceName": "standardmedia.co.ke",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_842579127",
+      "title": "Court in Kenya orders parties to compare four land cases in Kiambu — Nation Kenya - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYjdCeWRoWmZUc1A3bFNrRUZLQXo4dzFab296WUE2d3dSNHNjQmlVZVVPUmFrM2lVRXR5RWJCQV9GR1g2T1M1TzFfVXlGR1ZGSmJiTTZmLVo4VDVmV280Szg3YmpHeTg5eFc0M09YUEVkZjhDM1llV3ZhQXROVUhmc1NiczlhTTFjSFRlNDRpLWtaZ2FUX2xWblhWMzhDampZbV9fQWtuOGZzeGtuLTVyS3ZIOVZSUjdtNHh4ZEREQQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 20:30:59 GMT",
+      "discoveredAt": "2026-11-08T22:57:45.364Z",
+      "sourceName": "UA.NEWS",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_511795269",
       "title": "Tension rises as youth clash over disputed Olkiombo land ahead of Maa festival - The Standard",
