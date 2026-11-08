@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-08T07:56:56.202Z",
+  "generatedAt": "2026-11-08T14:46:10.624Z",
   "candidates": [
+    {
+      "id": "t_1023982400",
+      "title": "Government to open Mt. Elgon forest land to community farming in restoration drive - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3FNSlZESDZURjhDYTJkMmJDTG80SWk2WFhoMDNkbDJxUE5HVFNpdkFQSEs0V01sbWVYdTVfT1hTVUFOMTlqWnBBVHA1UVl0Y01OY0xDdmNaQ3JQV3dtM1pqVTZHUW1yYUlSYlItcjZYYUU0b3h6dGZrRUczMzlpTjRwb0V0N0ItZnpjMmpMUVkxRTIyU0xYV1djX3A3dE9KRU8wVVU5UGdRR29mczk4?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 10:09:51 GMT",
+      "discoveredAt": "2026-11-08T14:45:07.293Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1919174829",
       "title": "Why 7,000 land disputes remain stuck at NLC - Daily Nation",
