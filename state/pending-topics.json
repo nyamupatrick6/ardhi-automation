@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-08T14:46:10.624Z",
+  "generatedAt": "2026-11-08T19:19:18.817Z",
   "candidates": [
+    {
+      "id": "t_511795269",
+      "title": "Tension rises as youth clash over disputed Olkiombo land ahead of Maa festival - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS3VBcVpNX25RYlpYVzdZVTFqNTl1OXdGWHJSb0lmTm92RzgyazcwcHRxSzVkOHowc1NpbFl4T01WZ3IxTHdKM0xCaWNYME5IeGtNeUxqM01ZcEdGdHFnZXo0a2VHUkhMaUlXRWRITk9FaEVQM2VOMG54ekZqdXN3Wk1pQU9JWTh3clZqUkpNTG1qX3RkVFM1Mkh5eWl5ZTM3OGh5TFliVWdGRjIxMDJNRnpEWDd1UjlmUm1zcnMtZlhtS013UlJNZndhQ0xfZThYcnNDQm5wcmo?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 10:50:27 GMT",
+      "discoveredAt": "2026-11-08T19:18:08.677Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_895646481",
+      "title": "Fresh twist in battle for Sh100bn Kiambu land family claims was bought in barter trade - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGJNeDdXVXRFbmdBelZqek03d3pRUWdGakJ3UUgtVFc3ZmtYNjRtckVWcS1tMHV1aV9sWUFxVDA4X0RXM1g4cWZJbUxJOW5UaGFmdDF0MHphZ2EwU0FoLXNHeEptX3lna1FEeHk5bUNkU2lqenRMZDdtX2lvc2tEbUt0b050X1J6R3d1NDhwMklQVllKR2JKNmt5NnhzdWdmcUZQeUlFbS11U216dHJBQzA3cWhZcWY3ZFFERzhXZTFJdU9BZFE?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 15:11:13 GMT",
+      "discoveredAt": "2026-11-08T19:18:07.829Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1023982400",
       "title": "Government to open Mt. Elgon forest land to community farming in restoration drive - Kenya News Agency",
