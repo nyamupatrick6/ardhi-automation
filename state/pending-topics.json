@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-08T01:29:43.102Z",
+  "generatedAt": "2026-11-08T07:56:56.202Z",
   "candidates": [
+    {
+      "id": "t_1919174829",
+      "title": "Why 7,000 land disputes remain stuck at NLC - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGcwMHVMSTFOelI2a3VxUVF0MExrRGxwTG5GOVVIOHZqeTFJNi1fM2RYSjBlTlhqNGNMRm1lZWktSlBBMnU1XzhTSWNKLWJPZHZnNGtQWGU5YkM2V1YzMmpCM01fU1EweEZzeFdSOFZ3bC1SNDd6NklfcXZ0ZzZoUHMzZXlYTzRYMVk4Mw?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 06:23:35 GMT",
+      "discoveredAt": "2026-11-08T07:55:40.206Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_964977859",
+      "title": "Govt gazettes land acquisition for Muthaiga-Kiambu-Ndumberi road dualling - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWgxbFplUUYwSTgzQ0h5Unc4UFFmOFMxNmtxYkxnWHV3Mlh1SHUtRXNWeUQwQ2RpdzhGZzEwa1M4NU5ZenlPeFREWmlzT2l3RE1UdE5pTTdBRlBneDU1RllQYlhfWDZFTVNCYW1YUEVSVFJDQUprQk5laWFBbGVkNTlQSHNxQ19Dd2VNc09wNHJ2Uk5fT0tsQ3ZLVjNwenU1VHlYWnhwT2xzUQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 07:52:30 GMT",
+      "discoveredAt": "2026-11-08T07:55:40.206Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_370100902",
+      "title": "Replacing a lost title deed in Kenya requires police report and gazette notice - Mjengo Hub",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObk5Rei1SdXhFSTZsZ1RyV0d6Z1BkZGdIMG5jVndQTVN4V3FZeGh4TFVHREJVcVhOeFRIT3BHc3hBbjUxcEFwTU80SmJYcUVBSjBYV1A2N2NLM0RwQ25OMzltd3E0TFVsT1YxdElSay1qekZKMlY4UXNaNUJ1TGFQWWdiQm51Y2hwV2c0eTd6Q2Q3UTA4Ml8ybXVUU25RSEpBWlJBX1BhN29xUUJjeHA4S1YyVjZyQ29XYU11WmYwcWw?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 07:30:00 GMT",
+      "discoveredAt": "2026-11-08T07:56:12.429Z",
+      "sourceName": "Mjengo Hub",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_599545027",
+      "title": "Explained: Rules Foreigners Must Follow When Buying Land and Property in Kenya - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRklOdXFCejI3MmZ4NGxZYXpxMUxaOFBEeTA3Nzd6MDZtRWRpYVhOWUR0WURmYnphbk1jSU81eVFQTm1RZkJ3ajZtaTZpZGFnSkpGWG5DMXhWa3B6N3Rwdm93cnA1dW1NdUt5a0hJZkppbXlxbEJIVWgtRG54WE9Qd0U1VDdISWVFZ0IzU3FNQjNpUmdTTWdjRzJjMHpJVFJsZU5WcXByaVdyUQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 06:28:20 GMT",
+      "discoveredAt": "2026-11-08T07:55:48.615Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_249405738",
+      "title": "Nakuru Man Emotional After Spotting Police Land Cruiser That Rescued Him From Angry Mob - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREV5SHR3TW9sdThkNzlldC12MHU3aUhGa0g1bURrRjQxYTlmUGRZVVdna2sybjFsM05lM2tpNW9aYVo0MnF5bVhNWUNVOExRa09OeFg3SXI2YkZ3QVd4NlJucWFNSnNOMnFhQ1Z2bmZCdGJGWHhNRDQ3SmNsOFRzT29sUVBEVVVzLTFEV0o3NFZicExHSHd5X3ltSW5nalZRdFFFRFBadGJGTEdOTkZNQ3ZR?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 05:09:25 GMT",
+      "discoveredAt": "2026-11-08T07:55:49.498Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1133853001",
       "title": "The government targets land parcels across Nairobi and Kiambu for compulsory acquisition to pave the way for the Ksh 22 billion project. Read more: https://lnkd.in/dbgp_mbS - LinkedIn",
