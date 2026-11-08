@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-07T22:16:42.227Z",
+  "generatedAt": "2026-11-08T01:29:43.102Z",
   "candidates": [
+    {
+      "id": "t_1133853001",
+      "title": "The government targets land parcels across Nairobi and Kiambu for compulsory acquisition to pave the way for the Ksh 22 billion project. Read more: https://lnkd.in/dbgp_mbS - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWms1ZkRlTUYwY2JDZ2hJRUtRUUpKTFVjS0drT2xpSlJCR2FhZ2d6QWZqQ0t3REYyZkFGSlJDRFFTQmVvUUd6bkotZy1fMDJBeXVLVExvallrTWZIdlhfUUwwdkhlVHB4UlFxTFpBWm9wbG1DS0o2US1rakdDN0tscGdtNGs4S19VWnp3dGROSTgyOHZmUkpaMUZaYUw0VWI0ODJjaUZWX0RaZUNMWm10R21DWk1jS1VIOS1JbzF3?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 11:34:29 GMT",
+      "discoveredAt": "2026-11-08T01:28:48.578Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_2140739587",
       "title": "Retirees In Distress Over Grabbed Land More than 1,500 retired civil servants are appealing to the national government to rescue them from land grabbers who have invaded the Mulinge Scheme in Mlolongo, Mavoko, Machakos County. #NTVWeekendEditio - X",
