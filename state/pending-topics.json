@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-11-09T10:18:21.474Z",
+  "generatedAt": "2026-11-09T20:51:17.011Z",
   "candidates": [
+    {
+      "id": "t_1346076322",
+      "title": "𝗧𝗪𝗢 𝗖𝗛𝗔𝗥𝗚𝗘𝗗 𝗜𝗡 𝗦𝗛𝟮𝟱 𝗠𝗜𝗟𝗟𝗜𝗢𝗡 𝗞𝗔𝗥𝗘𝗡 𝗟𝗔𝗡𝗗 𝗙𝗥𝗔𝗨𝗗 𝗦𝗖𝗔𝗡𝗗𝗔𝗟 Two directors of a M/s Waki Clearing & Forwarding Agents Ltd have been charged with obtaining money by false pretences, following investigations into a Sh45 million land transact - X",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53LVdGcUlXOUV1RnloN1FEZ0dzZGtvNzdnVmQxVFpMSnRvYmF4S0h2OFFLaVIwdXRaTHgxSndreGlLbmI5YldvTHZHZklKSENTYkFrRGZJdXhNWnFQZGVR?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 17:14:39 GMT",
+      "discoveredAt": "2026-11-09T20:50:21.525Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_921895681",
+      "title": "Family of ex-prisons boss fights to regain ownership of prime land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjVOTlRhVWpXTlpuZ2ZlZ1kzNG5oM2p3N2xCY2xyYWZMT092LUFTYmoxYUhOdTQ5d0dmazVSYlJjRkFDYjNLMElMUXJlaVYyclU0TFFNakxQdzhObll1bFBneFp3OGk3RUhIOE9xeVpFSnBEM1NmNEljU09WV1FST1dOTnBwdjYteDVFVFUyNFdvb3dRczZuWjUzTDVwNWY4eEdyVDRoYjlmTncxWnRFRjVJVlE2eGl6?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 12:40:08 GMT",
+      "discoveredAt": "2026-11-09T20:50:04.750Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_495988367",
+      "title": "Billionaire Munga’s Pioneer School ordered to vacate Del Monte land - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVENycDRJY3REQzAzU0ctV2JaWG5jdVctcHV1ZVk3ZG9LazZ2ckhmT2JuWDB4NkctRG80dWstQnV5T1ZLYWdfTW05U1hjTmw4a2YyYWxUYnlSZW0tNnVfN05NbzFycFVLRHpvcUpHSERselB5LUlpdVQ3bnlhemJxNTNPRHk3dlhaNWdYaXlkLXUxWGMtRU1Lc3NJTmREalJNWVRIMmRDRTk2MjFr?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 10:10:51 GMT",
+      "discoveredAt": "2026-11-09T20:50:04.750Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1583436425",
+      "title": "How she turned inherited land into a money-making venture - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUtLcFRoRTJfYnYwejM5bXNqYUV2azJpbVlUSG8wWWZ4QWlrVi1nU2d4dEl4NDhDZVlxRmtrSHhCTXVrR1ZXdUZLY1E5UFNrRVUtdFE5VVJ0ZXFmT2hlam5EVFhXTy1UNmRJWmxCbXBfcjRsNllxZEptTV90N2tpbXRNc01FYmlzTGY4ZEFFOGNiM05RcWhtNF9BS1pacE95WTNJSWZib1o?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 10:00:00 GMT",
+      "discoveredAt": "2026-11-09T20:50:04.750Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1484830975",
+      "title": "Billionaire Munga’s Pioneer School ordered to vacate Del Monte land - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmM4RGdydUIxRmw1UU1VdDBUckdyYnBueWNRb3pDYWxMS0c1aXRFSFdVQ2M0X0l2dGdhLVV0TjJwWGRUcEFTNXNsY3B5MlZKQ09FTlFuLURUb2x6aE1DYl9JSy12LVZxSWJSV3ZtV1JFZU1ieG0zT2tsSWxaRzhialBsX2pqMTN6aFkyYTlNbFhLd1JXZ1FFZFh0UHhZNlJVVXJaNFI1MTZmMHlDMDZoUVlROXVXMjZ1TkhvczlXVQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 16:15:00 GMT",
+      "discoveredAt": "2026-11-09T20:50:08.160Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1403941639",
+      "title": "Sellers drop shilling for dollar, euro land prices to woo buyers - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXNTRW5FX08zVnlLR1FCdElXMkNCRlB2T0VyQnJaOWNCMHE3WFViUndJZWVwV2FtUFoxcWNjb002VEVxUGtpc3FLQUc4SUkySlpBdktkaGZoa1FoSGtQUnA4djBzbFpHVkZ2VlhWX2VESmpPdnE1UEVjLVRjRkdTOWJTUnNRN0ZmZzBCNzhVZGhiQkcyU0U1WEZuREpPZjZQVEVqbHN6dmZCTnpVN1ZMR1ZHYUF6VDQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 18:15:00 GMT",
+      "discoveredAt": "2026-11-09T20:50:08.160Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1106128954",
+      "title": "DCI to Go After Some Houses, Land & Businesses in New Crackdown - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHh5ZU9UOVp5cVhBdHR1ZGpad2xzUW5LUEdVN2ZjZGJzTDIzNWpJVkpHLS1xMHFGS3ZjMEZpLU8wcENYX2h6dDlxQlhWYy00SlNwTm1sbEZvXzh1N3JIUkc2SV9lTnZOODRzODFFeDdVQVB6OUFoNDF6czNuQ3dHQ1c4bHNDLXhxcXkzc1h4MGF4WTZn?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 14:11:29 GMT",
+      "discoveredAt": "2026-11-09T20:50:09.029Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_711772982",
+      "title": "One dead, two injured in alleged illegal evictions in Kiambu - KBC Digital",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazVQOGZkVEFVbklGUHU4T1kzMGE5VDVRbjZsaDk2Z2duQXNtNm14M3JvYzRGSmhzWUJ3RUFpeHRJalpVa0RwdjhOMWZpalBFdW5SZEZxamt5ek8wRnlGdGVlTkxiTDZRcW9PblpONDBFamR5UzBNV0prMGEyVUl5NkNtd1c3RWdPTUE?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 09:10:25 GMT",
+      "discoveredAt": "2026-11-09T20:50:11.396Z",
+      "sourceName": "KBC Digital",
+      "discoveredVia": {
+        "query": "site:kbc.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "KBC Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1458335257",
+      "title": "Nairobi land prices shrink, variation as performance per location - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHhMbHo5RS1UaVJ2MklsTWVWM09CQkZKQ2FGMXpjU2M2WWdJUk52T21XOWZEcjgtMFRLM1Fqb2RWeHF1M2hRYkFVQ3ZzRTVPb3lNWlhJSUxtamRzYTVRdlRUam41eUd2MUE3VkpxR3BieVZLWUkwdi1XbFlMRkxiSXlkSkRaYTlmZEE1dFE5VGM1c0N5a2NKTw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:55:46 GMT",
+      "discoveredAt": "2026-11-09T20:50:12.940Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1581115775",
+      "title": "Buying land in Kenya? 🏡 Don't make a move until you check these 3 things: Location 📍, Infrastructure 🛣️, and Demand 📈 We have verified buy-and-build plots available right now in Ruiru Kamakis, Juja Farm, and along the Tarmac. Ready to secure your piec - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iZG96MGVQY19CeVBYT3RRQk9WYW9nVlRDVG5LVzdnSWhQVjdpMWlFY1dLcmQzMFpFZllCVXphSkNnc3FhU21zZ3B4MkFPdVpEekNmU2FWQ1pLVnNtQ1YtMi1NNWFxZlkwYTZNQm5kZjB6aTBq?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 09:21:20 GMT",
+      "discoveredAt": "2026-11-09T20:50:23.910Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1324530013",
       "title": "Old tyres, basins and gumboots: How a Githunguri farmer grows vegetables on little land - Daily Nation",
