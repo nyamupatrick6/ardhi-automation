@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-08T22:58:31.280Z",
+  "generatedAt": "2026-11-09T02:27:38.736Z",
   "candidates": [
+    {
+      "id": "t_940016401",
+      "title": "In Kenya, 7,000 disputes over public land await new rules — Nation Kenya - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckg0NjhhZ0pEUFVYdkpkbDJvZEhEVERtelNLZkhjd21LVzFzd2hWeXUyNnZyRE1NeGUwcHRmX1NxMGlnVEhvckxkWnhnVlhqZjZZN1hfQWNma3JmUWMyd3RJV3AzaXFXMUlkQVJfaDF3NHRqNkY4dkw0YzMwLThuM2FhMEE4SlpiNGdXZWJ2aUFxZ2owRDVsZ1dkSm1ZUnZFQ2NvZzl3VVV6NlNVbndLd3pVQnAyYklNQi14ODZ1dw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 00:09:22 GMT",
+      "discoveredAt": "2026-11-09T02:26:24.093Z",
+      "sourceName": "UA.NEWS",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_2139699320",
       "title": "NLC announces compulsory acquisition of 11 parcels of land for major Nairobi-Kiambu road project - The Eastleigh Voice",
