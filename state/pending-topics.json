@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-10T03:08:56.614Z",
+  "generatedAt": "2026-11-10T11:20:52.636Z",
   "candidates": [
+    {
+      "id": "t_959156860",
+      "title": "Two Company Directors Charged Over Ksh25 Million Karen Land Fraud - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1ZHRTN0TEN0cU5WNkZ3OW12ZExneE4tdEw1OHZycDdWdURBWF85OVNZV2lQSXNPTHN6cXBSdWw1a09CQi1jbkhtY25iM01iaTBlVlEwOWVBS2NjUE9RNnJpOXdLMHRHY1BvVVRTVE8yQzJELXo2SE9rc28zTEtWbGtRYWtZNkNJcmJjeEh1R0REdnBfZEVaWFV5TUZSUnp1a3Q5SVpR?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 06:46:40 GMT",
+      "discoveredAt": "2026-11-10T11:19:45.818Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_993534760",
+      "title": "Court of Appeal kicks out tycoon Peter Munga from Del Monte land - Bizna Kenya",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPeGc5R21uUFdGX2pQVGRVVDFjNmVvbnVvT28zVmZCcUpVbExINzhBT01aVkZfN3RZTnNSM2xiNkpsbzJQSjhEUzZMUjhJb01xMUNvNV81U0VpeWNYZVg2LTFfQUtLYVJfdTZBenRRSzdEb1N0bGRzaGpEYw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 04:05:56 GMT",
+      "discoveredAt": "2026-11-10T11:20:05.371Z",
+      "sourceName": "Bizna Kenya",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1884159285",
       "title": "Kenyan tycoon Peter Munga's school loses appeal over 75-acre Del Monte land - Billionaires.Africa",
