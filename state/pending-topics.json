@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-10T11:20:52.636Z",
+  "generatedAt": "2026-11-10T18:44:36.996Z",
   "candidates": [
+    {
+      "id": "t_1740825689",
+      "title": "From Handheld GNSS and Imagery to Survey-Grade Point Clouds - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelVWejlEV1FacEgzVzJVREJLeS13cDZFMVJQbGpfN3Z0Zm5lNGxuODRQMmNJYWdyY25mRU1tbUozRV8yc3NfUUNDcFkwTkk0MFlzaGs5Y1hhTVRTWjNTejZZSVJkc0lJUTYwSEMtcWJDNG5ENkozTmJyQk03QUJaNEJLVVJKNG5KT0hqeHB3?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 17:22:39 GMT",
+      "discoveredAt": "2026-11-10T18:44:20.854Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
+    {
+      "id": "t_355680959",
+      "title": "Geospatial Profession Comes Together to Put Surveying on the Monopoly Board - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU1VUklGRFhTTi00bS1QWWJOaXZIZnlVYjlMYlliQXhKRTBKM0ZiYTVnOHNnZFNOQTg1R09uajlfc1Z6dkhoRWhIeUp4RWRsX0FIQVZTdlRYU1E4aVU2NG9FZUM0RmRNcVV5N0szQ01Ed0NwNnhjdjRWSnA2cy02ODVrUFd6cC1ocHdTUURzaXRYU0pCQ1gyQ2hucXBnLU0zaHhV?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 16:58:21 GMT",
+      "discoveredAt": "2026-11-10T18:44:20.854Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1084868315",
+      "title": "Korea to Build Precision Time and Frequency Network to Reduce Reliance On GNSS - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHUyM3d0amtBczZ1NjJxbXpBeFZ4a1czaUdfYk9qZUQ2M09fR1BQWVhLdDBmTmp6dXRSRUZwQkJOLWM0YU80eVNhMGxLLTVaYi1FWjB3bEU2azMtZ1ZxaXhHeDZXUnF1SkZZR1QteC1XdjlkTkpjZnVqaXFjZEF1eVh4VXU4VTNiNE1MV3RTa2ZKTXdOaFIwWlVhc3JLcDhLRjRBQURkWQ?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 18:08:47 GMT",
+      "discoveredAt": "2026-11-10T18:44:20.854Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_959156860",
       "title": "Two Company Directors Charged Over Ksh25 Million Karen Land Fraud - Kenyans.co.ke",
