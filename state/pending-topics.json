@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-10T18:44:36.996Z",
+  "generatedAt": "2026-11-10T23:54:44.762Z",
   "candidates": [
+    {
+      "id": "t_1481740126",
+      "title": "What's new in geospatial AI (November 2026) - Esri",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXUwYmlrY2RpckN3Y3dzajFJQ2pyYVFqZXpCWFFXamx0cnl1MFl6SHUwT0NvaE9ES1JkWnptVVBqY0l4YUNfWmRRanhWalVHUzVtSlZYN3AwTDFOR0hRdnhYZjUzZktWR0JSSjJQLWhLTEp2SUo3RFVxXzVPcDMtQ2hhYVJZdFdMQmU0enlVVGdIOVhERUFRMGhYTQ?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 04:46:26 GMT",
+      "discoveredAt": "2026-11-10T23:54:25.016Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1740825689",
       "title": "From Handheld GNSS and Imagery to Survey-Grade Point Clouds - GPS World",
