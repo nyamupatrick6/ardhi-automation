@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-11T12:07:58.574Z",
+  "generatedAt": "2026-11-11T19:41:21.592Z",
   "candidates": [
+    {
+      "id": "t_1323782491",
+      "title": "Kindiki pledges to end land ownership uncertainty at the Coast - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUEZ3bjhiWVFMVUNtdVJ4WHhRaU90TjgtanJTUkJJMkRSajgyUXE3ZUU3Z2l5TXlHLUJzVTlYZzlpNzZzR2d1bVhqVTFQYUx5TjFwbmVtZXJNZmJ6Wm5CT1BnU1k5Nk1qai1lSlAtNmhoTXg2VDc5NFFqUnp1R0RZUWV0V1RsdWdGaERwYjNabDg2eG5sWDlNakVmdHh2dF9qeEtIUnB2MU4?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 16:29:00 GMT",
+      "discoveredAt": "2026-11-11T19:40:13.955Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_708331198",
+      "title": "Beyond title deeds: Why Kenya’s housing policy must put people first - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUklLRi1TOGJRdm1pRzZNSDB0cThveG56RFJiMkpjRGx1TWZXTTdOMXljNmpxeDFoQldwRlA4TURoVE02NnRxWV9XckliZG9CM0JZMWVVZEVucEk3bVRXSzdhQ0phak5CTEJHZWpra2x3c3I4ellia1RTTFZRb0ktREJ3WUMwR2Y2S0czVnI0bDNqdE9WVjE5aVNBUzNXV1puX29HOU4wWVNGcTNNOVVhc0FYM3h2Ql9lbF9jWFI3bXA?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 04:00:00 GMT",
+      "discoveredAt": "2026-11-11T19:40:13.955Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1693759486",
+      "title": "Kakuzi seeks review of judgment in fight over 72-acre land - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEJPQWt6WU5ObUI4Sk5JVGtVUlZEYnk2TU5KbDRsdm9OTTZqekQxR19hRml5eWlwY0prb3Q4ak5ackMzU2NueTBmMmZIYlJmT2l2aVYwMGVoQXU1NGx0ZHNFTlhMM05ENU1US2FVakFOSXFielRhOGlPQ0EtWHVTYUZHaVVOOF9oOHhiUEpKX19fRk8yQWxtTVBPWWtNdjRteTB6MjRXNE1fMy1WYVFncU9Ta2xnUDdIeUE3QWpURndaTXc?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 12:00:00 GMT",
+      "discoveredAt": "2026-11-11T19:40:15.555Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1496504406",
+      "title": "Panic as Police Land Cruiser Overturns After Colliding With Saloon Car - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRlBGei1DYVRkSkFqaW5EZF91dHVZX0Q4dWFaUm4tbWVUY29jUjc0SFB3bHpNYUxOdTVkVl9PbFRjdk1LMkNjWURJb1d6Z3FQWUZwTEJvS21XcEFQdkthb1Z0TF9lNGxBX3Y3aHN4OHVFaDBpQmM1RG9MQUJ1NnZwOU9EZVlSaWowVEwxbTlmNUZTZDFET1o0aWptSDBndVVwRm8zOTQyZkpwd3VydXk0X0Y4M1V1N2Ux?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 12:20:07 GMT",
+      "discoveredAt": "2026-11-11T19:40:16.384Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2060498000",
+      "title": "Murkomen Orders Evictions, More Police Patrols in 2 Popular Kiambu Estates - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXRiVFh1cmh5b010MGF6N3hjWnN4ZHd5WTg5ZGJDNnl0QkVYNTdidFNEM0VNY0FGTEtQME5lMUVzUGVDSHAtR3lVYllnY3JMTERheEdTTWpTZEhzSFJjYnQ3LV85YU5xMW9aVk0tS0lqYW1GVUVMZGs5V1ZIOUJLaEZMOGZlWTQyQ05BbXctbFNkQklyLTZsclZRdVJ1a1BydjN0d0VzVURwN0tKR2ZXWnktZw?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 13:40:32 GMT",
+      "discoveredAt": "2026-11-11T19:40:16.384Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1190719973",
+      "title": "A section of the Buxton residents follow the meeting with the Mombasa County Executive Committee Member (CECM) for Lands, Urban Planning and Housing, Mohamed Hussein Amadoh, and other officials at Tononoka Social Hall in Mombasa. Amadoh orde - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRjZXZXJ6Q0loR2tUdHV3UTBnS2txUzBNaWxOcEJIdzFPaVpVcTJ2WUF5ZC0yTkQwVlZpR2VseUJNUktEWlRxVHNLdWF4c3UxcU1oVDlRcnVrVXlVTFZPUlhuaWdsdHhTcUtuUzQ5akJCQ3RtcldCaXVlTTJKYWM1OFNWeHcxUGY0NDlaMFF5NlN2Z0gyQnRvWEw2YnpUTlpxcGF5bTZwcTBBdmtXV3VhdUNFSG1VRkNiZEdaMGRYLW40Q1J3NFp2YVc0dzJzd3EwOE9GUENDUk1nUFo3ZkE?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 15:50:01 GMT",
+      "discoveredAt": "2026-11-11T19:40:35.531Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1035335160",
       "title": "Nairobi MP Dealt Blow as Court Clears EACC to Recover Disputed Nairobi Land - Kenyans.co.ke",
