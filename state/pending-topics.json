@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-11-11T19:41:21.592Z",
+  "generatedAt": "2026-11-12T01:41:41.096Z",
   "candidates": [
+    {
+      "id": "t_1865314958",
+      "title": "Kindiki says title deeds will end decades of land ownership disputes in Coast region - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxdjBiLS1oMllxT3R4dnNGU01EeXpyRVhXQ0tFZ2tyaXNvRG9VcjlaWWRiQWxEMXJaTG9BY2F4UXV1dlBIMDRHSDBCNjV1ZkVPY3R4WjFn?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 18:19:16 GMT",
+      "discoveredAt": "2026-11-12T01:40:45.257Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "standaloneTitle": "You Think You Own That Land? Think Again",
+          "matchedKeywords": [
+            "land ownership dispute"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_1943891590",
+      "title": "Kwale Families Demand Compensation for Land Acquired by Base Titanium After Mine Closure - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuUm5EaWNWN0hPRFR2NGE0NW1IdG5TY3ZmWU9WNUpRck5xck5yRzV4RnJxNk9ZaG1jamFFU1lxOEpGdHJ3bS04STYzMl9TNVQ3S3Z0eUhR?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 18:48:16 GMT",
+      "discoveredAt": "2026-11-12T01:40:45.257Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_19266996",
+      "title": "𝐊𝐰𝐚𝐥𝐞 𝐫𝐞𝐬𝐢𝐝𝐞𝐧𝐭𝐬 𝐝𝐞𝐦𝐚𝐧𝐝 𝐟𝐫𝐞𝐬𝐡 𝐥𝐚𝐧𝐝 𝐬𝐮𝐫𝐯𝐞𝐲𝐬 𝐨𝐯𝐞𝐫 𝐝𝐢𝐬𝐩𝐮𝐭𝐞𝐝 𝐭𝐢𝐭𝐥𝐞 𝐝𝐞𝐞𝐝𝐬 Residents in parts of Kwale County have called on the Ministry of Lands to conduct fresh land surveys to address discrepancies in land allocation and registr - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMisAhBVV95cUxNX0JBQWQ2LXU4NVhqakxVcFhJMFZMaGZ4YWkzcS1BeHNuWmUzdWxIYlNfLWJPeGNoMDhlUmx6NlhVTGpGcU1xNjRldUJ4OEhadjNXVDF1bURhVTRvM2dibTloN0lVcGZweVpuQm03M3JyZm9TWGlEcWkzVmhQMlYxX0FJaGNubE1BanBaLVFWbE9uQ05FdWF5M0FIdTY5MTNSaUJiQ2k5SzlEemxjMjlEZmF3c2NCYUNNMkRJZWFnQlU4VmY4dUtqU21NeVZjeWRLTFFfd05JNTkxMlc2d1lvSXRHWFJzSlRMQ2FvdXVuSTRabjF0LVkwQ2NNR0lNbUFGQkFFSWo3YWZOTVk1TjNpNmI0WXpERnNQRHV5ZEhON1Y0U0F0Q3pmZ19QNHI4OUJsVHE1VE9YeTE0VUJCLU5tQ0ZYZEx5YUhRQmo1bmJON2lreW0xNno2Wm1lQlE2LWF1Q1hYLTJ0Tk1OdjhNUTI0ZmJPaE9nQy1fWmM5eEpKSERqd0hMUGcyZS1Yb2pKTFNlQmdsNnFkc254MlFOMmlKZE4yMkV3WUlKTVB2UHRYcDlkcXhNdW1ZeWFLcFM5blBVbnpjVU9nUWVnaXEzRnplN2dWSTB2NWRqWXVhQ0lpSGxVa0ZSS3JCU3pTWHZjbWMzNWM1SDN1MjZxeTlVOFY3b2Y0YnpaSVU3eTNHcmxhb0tvLUx1QUJvLTY4Y3cwdG1uTU56U21wd2NlM09VZkdQcXlQd0VhM3ZjR1hEZ01pM2t4Ry1ZaHNyN2c5YjU4XzFvN25BR21nc2prT1VuU0Q4Z1NRNTl5SDVHc3pXUjZ5cUQ1ZEYtd1JXR3l6MkVBRG1reUUyQjY1akFIZmh5NFU1Q1lCV3ZJUWZzWldPZld0WlpLcVpQd0JCdUtSemMyOE55NW12S3pjZVNwMnVfbDd3WVpsclI1S1FXSXdxTUNWVDhRVWJQb2NJMUFxMGVTTGhkdjR4dHdfZ3NzNGwxUm5nM1Q1LU9RUUFId2lKakRPWXJmUVdnaWkyZEdaV2lwNmx5Q0ZESWVhYVRnTk1FbVpfMWJONE8xTnQyaXBVQkxId196QmNuVGdQX3NGUGFheDdnZ0pHMXgtZkl5YW0yVmZrR3BkWktxdjhWN2pvaC1nU09RNEVxTE92OW9aSWx0T2tIb1NLazQzNmtKQ3lqUTFPdzY4ZlFaaVJNSXFLLTRRVDZfSHZxcm5MUTYtZVNMMHNFSG5ha1N1Z2VBdFdWQTJxTFFXV0t5VzhxNElwMWlSWERyR180YjVsM0xDVjlKMWw1VzBYRUcwOEhvaHVycDZPLU9WdXhwUnk4TWRtTTVvOE1JMGcyaTA4SGRkazNTbkVsYUdsd2JfMEg3aGI0RmhXbW9OYVltR3lydmxMZEt0d1pWMU1fMjJwMEdRNFFmMVU1?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 20:35:56 GMT",
+      "discoveredAt": "2026-11-12T01:41:10.961Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "land survey dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1644239197",
+      "title": "Get started with Map Viewer | ArcGIS Online - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFBBeHdNRlFMelowVmt6UVNMQkx2SDd0VFdOQm1QZUJINnhockhzRUxtSVlZNS1wVjVvVWZBWFpSa0RjWGJmSmVDQnJRcEk5aGRpcUxCdWtwTk8xSmkwNE9mV25kSHQ5X0I1YWVJZFpqZ2Nac3c2cUhTeE9tTkh1ZzZ4Y2pKQlZ2?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 08:14:11 GMT",
+      "discoveredAt": "2026-11-12T01:41:20.903Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1323782491",
       "title": "Kindiki pledges to end land ownership uncertainty at the Coast - The Star, Kenya",
