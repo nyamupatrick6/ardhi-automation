@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-12T17:38:51.760Z",
+  "generatedAt": "2026-11-12T22:52:27.874Z",
   "candidates": [
+    {
+      "id": "t_99228092",
+      "title": "UAV Navigation-Grupo Oesía Launches the HES01: Precise Heading Estimation System for Landings and GNSS-Denied Navigation - sUAS News",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdWk5Yll3SkcwenRPZzNqRkp1UFIzMmYwcGJFTWd0UzdYUkRDbzNCTjRnbVl6aEpmRnN5cVNJLVgxOTh1SEhhVXJyd3huOWVfYW90emM1cmZzU1RsX0NGUEI1Qk1PZDNIdHRCbU1taFpDRGhtRTJvMDdNN2pIUWtiN3J5ekZQZ3VZOTgtUDJYQjEtTnlraldRVHJXYUZkU2Z4UElhSUJqYmViQmJwRmdOWlFYU3pDejlyRXZZeXFEeWdsRG0wck02dHY5SXFDTjlnSVI1dzhaYzlKS09oWnpYc3ZDcE93S0t0?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 18:38:38 GMT",
+      "discoveredAt": "2026-11-12T22:52:13.577Z",
+      "sourceName": "sUAS News",
+      "discoveredVia": {
+        "query": "sUAS News",
+        "origin": "sUAS News",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1412512572",
+      "title": "NLC, Ministry of Environment to assess flood impact of rising lakes on Rift valley residents - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MM1JOMVd4eTN4ZjBrSEZzVzBwME51SkRTbENHUmdjWnUyVDhLUnA4U1hMU2Fmdmw4clAxM0pLSGhpakd4RG82Q0RKOTIzWElTYmQyZ3F3?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 21:33:43 GMT",
+      "discoveredAt": "2026-11-12T22:51:34.914Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_490786201",
       "title": "Wendano land row: 500 families hope for justice after 10 years - Kenya News Agency",
