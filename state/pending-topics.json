@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-12T01:41:41.096Z",
+  "generatedAt": "2026-11-12T09:13:11.210Z",
   "candidates": [
+    {
+      "id": "t_186237396",
+      "title": "DP Kindiki touts Ruto's land reforms as 20,000 Kwale residents receive title deeds https://t.co/2adqthJODS - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KU1ZHSTNUTDVmaHRNQXdESTMxM0J3WmRlQ2N5c2hyQ2dfUG9SM2JFTWljcnF1bHl1VUcwS0tmRlVLMHNWdVNRQnpPSXBmcmtmbVR4cHRJVTBFOFRUSF9TRmNkMmpqUQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 18:02:17 GMT",
+      "discoveredAt": "2026-11-12T09:12:19.679Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_377008197",
+      "title": "Crowdfunder to increase 3D functionality in QGIS - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFFQM2JzczdhR29EbnQzd1dzOVRJY0tBdlZvX2wxUUpWQjg5Q1FTcTFNZU9kcTRtbFRLX05BcWZrZTNtalcwVWdfSkNsbUxQRVZkZjVzMV9CVC1uOHZfT090WUZBVVRSVkRWZl9hamNYcXlBOHpGSHI0R1JOVTJuVGhYcFNpWno2bWc?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 04:03:03 GMT",
+      "discoveredAt": "2026-11-12T09:12:58.945Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_625003003",
+      "title": "Mouse Computer to Exhibit DAIV PCs Verified for 3D Point Cloud Processing Performance at \"WorkShop KANSAI 2026\" on November 27 - ASCII.jp",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aSklST0RzM2g0LXotWW9MWkxsa0Y5R2ZYeHQ4UVJjdVdVVFFzVF9ObG1uekItT1ZlNnN6Q2JsUEtBZWJrSWpXWEdpS0wySVdETzN3cl81dXQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 04:00:00 GMT",
+      "discoveredAt": "2026-11-12T09:13:08.380Z",
+      "sourceName": "ASCII.jp",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1337912237",
+      "title": "MWAVUMBO, KINANGO CONSTITUENCY, KWALE COUNTY, KENYA WEDNESDAY, NOVEMBER 11, 2026 Addressed residents of Kinango Constituency to update them on the status of the land reform initiative to correct historical land ownership injustices in - X",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqdExxMTFqTlktbnN1ZVpRdVY2VUpLcng2YW9ReUR4c2FuLV90ejUtRlEzbkFEaVoxdjA3dmVrMWRldjF0Q3ZTMm5vcy1zTEZWTjctS3QwVzFvRzAtbGZoaFNEa2RZN2M?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 13:40:50 GMT",
+      "discoveredAt": "2026-11-12T09:12:19.679Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_936179492",
+      "title": "𝐌𝐨𝐦𝐛𝐚𝐬𝐚 𝐂𝐄𝐂𝐌 𝐡𝐚𝐥𝐭𝐬 𝐁𝐮𝐱𝐭𝐨𝐧 𝐡𝐨𝐮𝐬𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐚𝐜𝐭𝐢𝐯𝐢𝐭𝐢𝐞𝐬 Mombasa County Executive Committee Member (CECM) for Lands, Urban Planning and Housing, Mohamed Hussein Amadoh, has ordered an immediate suspension of all activit - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMigAdBVV95cUxNLWpHSXU1ZTFzdXNLSkhiWmdad0tMT1ZyMnF4V0xVcG1WcTJxcldENi1Tb3ZFZlBTSGpXdEQtR1BidTdwWXVCLU9kX0k4NDdCX0h4WmstUEdZTmtYc3pSWUNMUHhSQ1lXMG13Q0o4cXNwbDhLUC1lT24yNThwd0RFTzlSRFVSWWlENDlQWG5jYlVEbkVFWTZhYWxJOE9QRUtDUGZ6NXhldm43SmZSWGtuWThnYjNGX0pZalFkZFd0QkNUREZyS2dqOVhjaWlXTFZkZ0FTMXhkVms2aGx0VS1TWHhZUkdzSnVrcE85WmVETGtsS2tjeEt1NG9NSWJXLVctN3RXRjRUb084YzlOWVBYd25uQi1UcmRGVHFlZnhmYktBMzVUVzdCeEZBbEh3Uy1ENTN3X0l4UXE1UVpQQnNfVThoTENIUFdWQ3lRNEdlSzFpRUJKWG9WSFdHZWJNalhfZnlYNmxwTFFFT0l3T0xqekdabzk1blc2bG1DMy1ONHdhQWhiRzRHRjB3OHE1QS1pVk9IYWl3VjJPQlhKQkRMU0ladHRjYTNFb1BadHlJMGdIbUg2a1o0czN5ZnBLSW1IS2g3U3JkY3V2SmZvYVVDTUVTZXFrbUQxRU5pTWJ0NEpkenZrWnVKVEFLQVMwWTdRMlBva1AzUjBZNWFRMHZrZFpFNS1ySHdQZDhMQ2o2NXIxUU1BQlNxbnNpSU1DWnVGaW5MeHRaS3pGaWhaY3dORklPM0l4STlnN0RTSFM0dFU1dEhvMUY3MF9pMFJyT1FaOWItUF9ldWF2VWVPNW1ucWp5SmlmOWJuSHJ3U0RERTVOVXlTdXVnLUNFbjVITkJFajVwdV9TZ081Wjh2UlpsNnNSMmxLZFZOdThSY0tEaER3WXpYMXFKbVNlT19CLV8tMDVFdTA2WWswbUZEb0pHYnBJeFI1MWpNQldmSjA3REg2UFZ6Q2RHblJIVDgwb3RyWS1FdTJ6aHVsRnFCRUdraGFiQ3U2ZGNNTHVBOXEtd1pIOE1VaVFnZ2xBNndGMmRzT2ZYZExzZVV0aE1fcHV3MEtlY0wyajNHRXM0NFM3eFZSS3Jac3JkVVJmMEtWY1NQNzRlUXQtZkZ5QnZiUGZjX0hUaUttSGFPRUJWaWdoTlR6Y3NQbGVEYWtLZHBCTkUyYVVOa1liNVlyUVpHa3dmdA?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 15:04:52 GMT",
+      "discoveredAt": "2026-11-12T09:12:26.492Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1865314958",
       "title": "Kindiki says title deeds will end decades of land ownership disputes in Coast region - YouTube",
