@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-12T09:13:11.210Z",
+  "generatedAt": "2026-11-12T17:38:51.760Z",
   "candidates": [
+    {
+      "id": "t_490786201",
+      "title": "Wendano land row: 500 families hope for justice after 10 years - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeW5zV0ZkWUNuT1hCY2EyRWN4Q0dZZnBDMlk3d216eGRmaEhoLW9uVkQzaXNTNFlLSzlHNzNsTzFCR0FBUWFMNUpIa09BLXJSaGJ6RUJrVC1OZjNfSTlUenc3anhxbER1MFBMNWZKUTF2T3pZajBHMGR1RU44d2VxQjFpa3pGMFoySGdqX0dtNUVEc25H?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 17:03:29 GMT",
+      "discoveredAt": "2026-11-12T17:37:47.342Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_346111276",
+      "title": "NLC launches campaign to reclaim grabbed public school land - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBodG90QnBLWDE5bDlmWmo4cXN4UG9rYlJvQUlKVFRSQ1diMDlzWi1icElGV3Q0MHdNUEhlZWpzdUxqa04xS1pNN0RRYWNCSHhjaXZaTVNB?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 10:29:50 GMT",
+      "discoveredAt": "2026-11-12T17:37:56.819Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1176175245",
+      "title": "Murkomen interacts with landowners during fact-finding mission at disputed land in Two Rivers - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZ0xGRGozUl9WNnhDc0Z1bGtkTHQzZG51eHVJeEF4VkZHc2h6YVRuWV9UOTdNM0ZpMjFYQTRWeHctUmUxb1A5eUxzbEhUM0JTemdLeGJB?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 16:28:48 GMT",
+      "discoveredAt": "2026-11-12T17:37:56.819Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1440714862",
+      "title": "List of satellite towns recording a drop in land prices in 2026 - Bizna Kenya",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBObUxkOWVxRHBuMDZHbm5yTldiVHBZQmRja1Z6enItVmZ6TGV4Mk1JT3drdTI1RVVTZk5pMW5xZnZRUnJxeFZCVXBmNlZFMzZKNTBxZkNDb0dfTEJEOUMyNWxLVU95ZjV5YkItYWRjcktjY0l3TVBFdFNsWQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 09:26:55 GMT",
+      "discoveredAt": "2026-11-12T17:38:15.650Z",
+      "sourceName": "Bizna Kenya",
+      "discoveredVia": {
+        "query": "land rates Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1484459137",
+      "title": "State: All title deeds issued in Lungalunga Ranch are genuine - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEY5UXMzT0xaWExPYTVGWDhJVEZKS0hOZlctSmtRNzMtOHUxejNUOHY1MDBwV21MZlF5RW9NZDR2Z1JtTTlrTml0Y1JRNGRTaUtpWjFBU25VbHRNWHdtalhKUmNEME51YldVdFRlMnVrRU5zdmsyM0hRZGN2eklzejF4RTFEcTV0WTlYM3ZVQ2JMTjRzYzZ6UTZaVm4wSl9aeWpGcU5B?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 12:37:00 GMT",
+      "discoveredAt": "2026-11-12T17:37:40.478Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_186237396",
       "title": "DP Kindiki touts Ruto's land reforms as 20,000 Kwale residents receive title deeds https://t.co/2adqthJODS - X",
