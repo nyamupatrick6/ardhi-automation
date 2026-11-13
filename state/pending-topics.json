@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-13T03:07:34.128Z",
+  "generatedAt": "2026-11-13T11:09:17.147Z",
   "candidates": [
+    {
+      "id": "t_907243508",
+      "title": "Wajackoyah calls for review of Kenya’s historical debts and land ownership - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVHp0TzBwTmJJb2JOWnRnTi1xOTB6QU5pQlg1QnU0UnkzaDRJWFRub1RaQkJld2JfT1pTbjNMTGMxdGpRYzNidkVsN2tXTFA3ZkhibjZlaS1CMm5KNzFyZXNZbEwzeUQyaDJXZkR2aG4waHh6MURXanVPNWF4WDRsVzM1dXdJb1NkZHdBYk5UcDJiMl94cXFLNHlhLW15X1VDVENlNzdqQ2ZVMXJRNUZTZGxaM0Iyc3Nl?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 06:26:20 GMT",
+      "discoveredAt": "2026-11-13T11:08:32.867Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1861425983",
+      "title": "Dubai Gem Warns Investors Against Tatu City: The Billio-Shilling Land Empire, Offshore Shareholders And The Ownership Battl That Refuses To Die - Kenya Insights",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNajlWR3B2X1BfNTJyUHM4aU04eTkzSW5IczNwRElobEtEb2tLQmhkREtqT1ZlOTNBUzJYbXl0OUZuMnVRMVhoc0g4WS1jNHZpLTNIaU5OelpLS25hRnJuQnBTczRJV2FXbUw4amFhN1ExUnVUdGlvQjR5NlhDcExFY29rZmZGMTJ6U3N4SnhBbktJSjJtYlQwTTZBOXlfWm5ieVJzSFlSd0stSTRaZjhlbUNBYnJxeExobmZDODNrZ0syNjNvLTlKczZxb3NFckdtT004bWZvSTBUWFExaEJKY01KMEN2TkRoYmZ2MGtvZTZjVENqbC01b3hzcw?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 08:36:18 GMT",
+      "discoveredAt": "2026-11-13T11:08:32.867Z",
+      "sourceName": "Kenya Insights",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_814516440",
+      "title": "State Issues Fresh Directive After Kwale Residents Reject Ruto's Title Deeds - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGk1YUxqTnMxSHpONnA4VVVDcnJtU1JSX19JaEdQSmlFbEFuNl9oZFE2M3EtLVQ2V3EtOEhYREJ0ZExacWJqdzNrdEhDNmJHeHdxQjN1YjMxVld4Q1BOYzF0ajBRNVNjSlh2dkVGTlpyQmJHai1uaENoUEZmY2U5YWlZR0g4V3ZETzV5Nld1bERKLTRjdUpoY3NEbnRmYzVxS2NFRA?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 09:17:32 GMT",
+      "discoveredAt": "2026-11-13T11:08:09.035Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1659257662",
       "title": "NLC warns of political interference, legal backlog threatening land reforms - The Star, Kenya",
