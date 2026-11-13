@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-13T18:34:46.838Z",
+  "generatedAt": "2026-11-13T23:51:42.676Z",
   "candidates": [
+    {
+      "id": "t_1558626420",
+      "title": "Precise Heading Estimation System for Landings and GNSS-Denied Navigation - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmZBWk11elRLdFBPWVpvdGN2VGNEdDNwX2c3Uk9jV0xjNm1wSTYzejNGODM3dmdZZjF1aHotQ3FvZG9fckEyX1VfMWdsUnlqZERCVmJPLVY1S0FJYkJmTnhCdzRvdEg0ZS1tUFRyc285MGxUREFrbk9BY080di03U09EUHJNdmJxMmRsZjk5ZU92bzZHVnFJcDcxRzlUTUJH?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 18:54:24 GMT",
+      "discoveredAt": "2026-11-13T23:51:27.728Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1560433256",
+      "title": "Government surveys Lake Baringo to assess safe water extraction for irrigation - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1scUp3M3JObTFsaGlrR0FfNVFHbFd1dUVLSjA1UEpGN2lPeWswYjZTTkMzRjNDalNldFVJV2Q5Ql9qTlIyaGVaaFVETlBKWFdWOWpCUkZn?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 14:43:02 GMT",
+      "discoveredAt": "2026-11-13T23:50:50.624Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1135506452",
       "title": "Lunga residents seek clarity over title deed, status of their land - Kenya News Agency",
