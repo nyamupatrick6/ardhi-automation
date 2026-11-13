@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-13T11:09:17.147Z",
+  "generatedAt": "2026-11-13T18:34:46.838Z",
   "candidates": [
+    {
+      "id": "t_1135506452",
+      "title": "Lunga residents seek clarity over title deed, status of their land - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTDNkbE53bHh4QXU1MjhVRERIRnRXSHdySmhFcE9yRWVkb0I0SEJZdm5Xby1tcVFfWkg5Qlh2WGEtSXY2R1dGbzREQlBYWGlvVktaQnNTN3drVC1FeWZkcXROODhYSkVsQnBpNFBzdnhfeUtzcFl4QmJiVEtDSWVDTVJlZmY3WVN4TjY1ZEE4T1BFcXg3UWtnM2h3?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 13:52:29 GMT",
+      "discoveredAt": "2026-11-13T18:33:44.173Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_908301227",
+      "title": "Government pressed to clarify Lunga Lunga land allocations - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWE15Rjh0OHZRN3Z5SWFyLWRYX2tST1hJUk9WNVNOektscWFmOXItdktENjN4bnFuR1FjVWdnRWxRV2NOU3VZQmc0UU5wNmNOcS1Bb09BaVVXTUdIUEtYaXVoemhFdUlscGNiWGhYV0JEUWkzWE44bnFkUFF6VHJnalUxMGJQMjM1OTAwZkl4NGotTUxXcVAzYnkwOW0?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 15:52:00 GMT",
+      "discoveredAt": "2026-11-13T18:33:38.123Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2029647163",
+      "title": "UDA regains the lead in political party support as ODM declines in the latest TIFA survey - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYUlZWWZrbEtxVUplTG14dTFBd3ExVmdGUXNRaG51Vm94WEo0SUE5dC1UUFNzNGwwSHNfRFZHX0Z1SDVOcndrQTZJSllJZUlCaXY1MVhORVdFaW1uemFSeEpMQ1lnNndvVVV2TlBmc1hfUTNPek9PRzEwY0NNeVRqZWkzSjZ0a2cxSEpRMXVhdDEyTmRQVHhQR3poYWxxb1QyNnZ5dkRIUkp2NW5JZnhPbTlJSWlwRHcxQnBiTTI5N3dDTnBlaWVMeHphUmZHM3lDR1EteHlSUUdKYTNXSi0tUEcxeE5iR1pHc1k3aER3ZXlwa2RrTWZXX2dEVHg0Rks5RDBvUjNLbks4em56U2ZiYllWNVVQenpVVW93aklB?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 09:45:34 GMT",
+      "discoveredAt": "2026-11-13T18:33:38.123Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1137842598",
+      "title": "Govt Announces New Changes Affecting Several Nairobi Lands - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTA0VEc5dHdqVDV0OTg5VEtuYUV5bTR5b3I2X0xPaklGTlRvRzNSdUIzdmtPUVVCMDZjZXNpLTNZcWVMaXNrNlpyQmd2ak1VWWUzWnpmY241VkxCS2lteXVPWTBGYlhLOE1ZbnI5QkhiZDdMVi0xMUt6UjdiTEdBdlBiYmZKYUY3MjRCQVFpUzZIVDdCVDdERjZBdE5xZzVjSG5j?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 15:18:58 GMT",
+      "discoveredAt": "2026-11-13T18:33:40.520Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_186113769",
+      "title": "Ũmemerekia mũrĩhĩre na arugamĩrĩri a Topcare Land Kenya #INooroRũciinĩ PART1 https://t.co/5y0xLTT8zP - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wZU9HaHFHVnYwQ3JGY0ZBUV9fTlpOOUpQaXc2WDQ1cmNSZjBBd0RYLTVhRnZuaDhycTh5d0FnWV9KVkR1UzFrT0hUSWxNdWJHWFlVSHhnTTJNOGw1TlE?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 09:19:51 GMT",
+      "discoveredAt": "2026-11-13T18:33:52.568Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_907243508",
       "title": "Wajackoyah calls for review of Kenya’s historical debts and land ownership - People Daily",
