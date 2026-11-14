@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-13T23:51:42.676Z",
+  "generatedAt": "2026-11-14T04:46:15.432Z",
   "candidates": [
+    {
+      "id": "t_1980649236",
+      "title": "Intrigues over de-registration of a company owning Sh1b land along Mombasa Road - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS2lyc3NmenhzMGYtUjAzNUhwbE9aYnJwUHFJZS1WTXJiaEx3eUxWM1dueVhwN0JZb0kyZkFXQl9keXp4dHlLMmFpenRUQXFDTjNPTkYwNVFSWEVia1pLa2MtdFdMT1d6aVR3UEV2N3Z2R21KanMtRGxCTXZNRXJEeThnOFd5aDk5bHZXQ0RHQTMxTXJlOTJyc1FfLVRTd2h2VWtjcUdMOFVCOVE3S3hjamNhUmhVUUhoU0RJOGt3MUlqRXh4U2trOC02WjliVDkwRjhfRjJlN1VULU5VdDhDTlF3?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-14T04:45:04.891Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_865695601",
+      "title": "Kamba land rallies behind Sh100 billion Thwake Dam project as it near completion - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDBrMWl3WjQ2Z1RJQk9jb1F3Xy1fald1WV9mTmlEMFBXUURxQUdWZy1xRllUMTJmQ1pDNmU2UVlNekY0eXpzV2pldnZUM05xYXkyZHpkMnVzbWg0SGQ5NGpBNzBBcWk1bnllUUZEMlM3cE9oaDFKOHpndV9UYTc2VWtqTXRxMU9nTEo2U21nbDB2dmh3aDgw?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 03:58:00 GMT",
+      "discoveredAt": "2026-11-14T04:45:05.818Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1558626420",
       "title": "Precise Heading Estimation System for Landings and GNSS-Denied Navigation - GPS World",
