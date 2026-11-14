@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-14T11:55:59.940Z",
+  "generatedAt": "2026-11-14T17:38:15.314Z",
   "candidates": [
+    {
+      "id": "t_1751932096",
+      "title": "Harambee Stars will return from South Africa in two batches, with the first group expected to land at 5PM and the second arriving at around 10PM. South Africa, meanwhile, landed in Nairobi earlier this morning. - X",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvMFJIR2xrZm1SUkEzRUFhdWdtdWh5YzVEVDNnbGtYcHlyekVEM1RCMFBCUEhMdEpXTWE5dTdIc0xkSGdKTFhZZDJid21wMHBROXJjQzhYVFRTcnQ0UUw0?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 08:30:21 GMT",
+      "discoveredAt": "2026-11-14T17:37:21.439Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_772489184",
+      "title": "Aende asiende!! Fearless Lawyer Ndegwa Njiru risk speech to Ruto in Nyeri that might land him issues - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fRkw2UEZhcEgwVFdrVHFtNXRwNVRnS1BvUzc4OHVUUWI0R0FWUzRreERIbVBLaGFPdTlXczJOZUlpVUdZTHY5TVhKcFpCc0JBMXY4QW1R?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 11:58:57 GMT",
+      "discoveredAt": "2026-11-14T17:37:22.347Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1980649236",
       "title": "Intrigues over de-registration of a company owning Sh1b land along Mombasa Road - The Standard",
