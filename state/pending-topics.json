@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-15T15:21:51.799Z",
+  "generatedAt": "2026-11-15T20:32:50.489Z",
   "candidates": [
+    {
+      "id": "t_1571984975",
+      "title": "Isiolo-Mandera Road costly delays World Bank raises alarm over stalled road construction Kenya faces KSh 1.2 billion penalty over project delays Compensation disputes hold up construction works National Land Commission faulted over delays in land valua - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxd3M1TWFPaHIybGI3ZUh0N0IzMkRZNVVSbG4zSVIxQjUzOS1LQmYyQUVOVzhHWE4xUUp1TVQ0T1BMRmNwQ1FoMzF0ZmxCNmExS3gxQ092U0Zya3gwX3ozdUh3VTdPdw?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 18:16:52 GMT",
+      "discoveredAt": "2026-11-15T20:31:58.041Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_94084648",
+      "title": "𝐌𝐮𝐫𝐚𝐧𝐠’𝐚 𝐖𝐨𝐦𝐚𝐧 𝐑𝐞𝐩. 𝐯𝐨𝐰𝐬 𝐭𝐨 𝐏𝐫𝐨𝐭𝐞𝐜𝐭 𝐩𝐮𝐛𝐥𝐢𝐜 𝐥𝐚𝐧𝐝 Murang’a Woman Representative, Betty Maina, has put the County government on the spot over alleged plans to sell part of the Del Monte land. She has urged the County government to gua - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMiiwZBVV95cUxPdS11VHBXcjdyVDJ5TlVzcmVCNW1xcmliRzJZUGhoOXdlQVloWlJaaXpGNjVHRUJtQk1nUkI1YkRYWjRjbjNidnRQYXJ2czh3VGNCSTlHRmNhTXRfLWhBb1NmYmI5UzRIMWdRNm4tLUx3SEJLVUU3MVd6d1pVZ0VocHc0YVpUMWZkTTBTVmZGeUhWNnBFb0NQSHpQZDkyQzFNNUhUWm93dGhuS0JJYldYWXlua3JDVkxxd3pPMXV2dTl0cjQzT2JVWTlPM0JHNVNZYzVoR18zZlJibWF6akNULWtoRkdlazJYdzNOdTBQYVU0eFMwUmhnNkVHNzh4SERVVnFvOGswbWRRUmk5MGFpMFlJTzVOOHR6RUxhMkhVajV3TFFkWmU3aUhaRGFDTnpHSi1qTE5qZzVzSmJrdWtHQW1uS2xIZDhnck03bUd2M1ppc2h3WkFNdDZoc2tmWlBzV1Q2UVowQnVxeFpXeTRqZV9UY2UtT1NqanNQb1ZpUVJ6d2R1TV82ellrdE1Vc1hiWWJqenB5TnFqT3hrcEFhV1EtSmE1R1VrYmdidUFOUFRYR0cydlFiMThzSXBHcXZWVjZ4TFpwckYxeUlUYUN3bzRZMmlUYUtMYzkwWXA0NXpKV0g5TnY5TWRIanA5QnpIbkdzZERydDEwTWNKNjU5U3pLWFNRQ0dlVXdRQmhieXYzSi02OFh5LXM1S0NFamlab1Z3WWRqS2tPSUhVMVVqcnNpMjJIc3R0cUdaaHFrVzZjRFMxNkg5SkRkNWVkWWp3VXVyVFJpQVc0VzhDLU4ySUpWTUQtTERhZy14WXJ3SXZCdHU0VWd2dzRLTUJPZUZ4emhhZzMyU2k2bXVwNnpXWDdwMmFKQlAzc1NjVDR3V2pMeFB3bEozMFFzb0pvQnU4M2FvdnpDUGlKcU1tUVNJVVVOSGIxY3MyVGFENjNNNXVGdXlWazV5NldXTU5Hd0NFSkM4UzF4SFc4RlA5b2F6REtzT21Nb0VGY19IeXIxTFFTQk83WjlPN0cxQQ?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 12:49:43 GMT",
+      "discoveredAt": "2026-11-15T20:32:13.458Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "county land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_126312212",
+      "title": "UTEC Develops Resilient Positioning Solution to Address Growing GNSS Disruption Risk - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWpWR2tkN0NVdm55aTR1SlNoSUQ4dTM5LUEzNUx0bnJwTm5wZ29ZYWRpY0d2ZnJsVVM5TEtDUjJpZFg0Q0g4dDlWLUV6SjAwZlY1WHdHVThEdHhzQlFvZWpPSXJ4UXc0dmk1aFRVM1k1VDVqMXpkOFZ2eHpjZV85bHh4bXl3N2JLcHIxdHI4RF9xM2xPbTc3LWxjS2piZGpJcHVHZWxtTG05ck5YRzdn?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 18:26:31 GMT",
+      "discoveredAt": "2026-11-15T20:32:35.629Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_302732140",
+      "title": "Taoglas Introduces CRPA Reference Design for Resilient GNSS Development - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdy03cnY5bGdIZ0swb3FTYlJRUnlIUWdNbHg5OWhFQW43clEzajdIWUQ0STNTaS1DbG4zOGx1di1fWWFlWkpqWGU3MnFUVXQzMExUckcydXh2bVVnbUdUM3ZGa2ltNzJVaGRxY2hJRzk2dlRxdWFNM0tsbC1YNTlYV0pESUdGbnYwNmpyLW04TXREZFhDLUVFcGxGUDRLdw?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 18:45:47 GMT",
+      "discoveredAt": "2026-11-15T20:32:35.629Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_562388341",
+      "title": "Deg Deg Itobiya Oo Ciidan Soo Galisay S/land, Xalada Moyala, Xasan Sh Oo Xaalku Ku Xun Yahay - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1raEJCSWdLY05feEFqMWVicVl1QTZieFgyck5od3RZNWZyMHZyNk9yRTdXS1liVkh5b2V1XzNYdzFreGdyNENleXAweTBnREwweV9VN3Vn?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 08:56:08 GMT",
+      "discoveredAt": "2026-11-15T20:31:58.887Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_518541893",
       "title": "Police probe violent clash over Kiambu land - The Star, Kenya",
