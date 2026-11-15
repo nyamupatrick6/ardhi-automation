@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-15T01:19:37.340Z",
+  "generatedAt": "2026-11-15T07:57:07.863Z",
   "candidates": [
+    {
+      "id": "t_1425263449",
+      "title": "Lidar point cloud: returns, classes and data quality - CASRAI",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Za3VqM0VqRFpEMWIwQkxnOEVUUVVuX3RYdUdTY0RCMmFfYmEtUHV3U0xYQ2kxTHQtTHlzb0VNWkJNejFCZGoyVEFWaWtBSDYzSFBDZnh3?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 02:54:08 GMT",
+      "discoveredAt": "2026-11-15T07:57:05.163Z",
+      "sourceName": "CASRAI",
+      "discoveredVia": {
+        "query": "point cloud processing software",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 2
+    },
     {
       "id": "t_1751932096",
       "title": "Harambee Stars will return from South Africa in two batches, with the first group expected to land at 5PM and the second arriving at around 10PM. South Africa, meanwhile, landed in Nairobi earlier this morning. - X",
