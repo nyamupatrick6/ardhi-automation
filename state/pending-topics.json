@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-16T00:21:07.650Z",
+  "generatedAt": "2026-11-16T06:50:53.766Z",
   "candidates": [
+    {
+      "id": "t_416129688",
+      "title": "LiDAR scans target rail network bushfire risks - Infrastructure Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3M4QmlJTGgzMkMzVkRULUd4SEx5dXFSOFJ1bG53dmw0Ylo1aV9nMDd4N0Ita0g4TGd4QTlteG9zVDQ2ZjR4eFVhN2RUM094VC0tMjZXU04tLVpEQUhGYW5RRXYwc1ZOUjd2QWwyQnJJY2RHOXU4cUFXVmg5RVIwNDhZSG5IZmt0Y3Voc3N3?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 22:47:04 GMT",
+      "discoveredAt": "2026-11-16T06:50:44.028Z",
+      "sourceName": "Infrastructure Magazine",
+      "discoveredVia": {
+        "query": "LiDAR scanning survey",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1441991634",
       "title": "| Land & Property Diary | 15TH NOV 2026 | - YouTube",
