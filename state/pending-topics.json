@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-16T06:50:53.766Z",
+  "generatedAt": "2026-11-16T16:43:52.137Z",
   "candidates": [
+    {
+      "id": "t_1497896834",
+      "title": "Sh14m land fraud case against anti-counterfeit agency boss to proceed, court rules - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYlBmQmo0MkpCV2hWTDl0cjRSUktRWW1KU2Q5ZldiSFpPc0loRDBZbkstVHdZdUtIanE0b21OcHV1X2dTYjhQV2NpQnNURHVBWExxZGQxa29FVkw4cjQwdEJVOFdoUXFvLTBDdEpob0ZESDYtMmJrLWtUSGdCSGRuQm9MbFgtdENVemp6cEVmalJ5TWMtVUhlM18tdEJQZG5sTWU1UEtxMVBnblhGb0dRWU9RZmhvTmdwZHhveXZUOA?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 13:20:12 GMT",
+      "discoveredAt": "2026-11-16T16:42:39.775Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_555715593",
+      "title": "Landowners in 3 Counties Put on Notice Over New Rironi-Mau Summit Acquisitions - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelIwRG5HWFREaVFoVWRtaElvX0RiQXR3c2JVMWxYb18wZ093eVdidmhxRk0ta052ZUp5MG9hV0FJbW9uWjFYU2loQVpvVjN0U2RIb2x2XzJEN0hoUTk4S2JRenlXOHdhR0ZMSTFIZ0tzZjhhcXlTQjJZLVFQakc1dE44XzBPeUVwTEVrZ1RsVVJMcVZNZWVzZ01iLW0zdmtxR0l2c1p4b2lUTXlFSUkw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 11:00:03 GMT",
+      "discoveredAt": "2026-11-16T16:42:43.977Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_474850916",
+      "title": "President Ruto Has the Power to Allow Foreigners to Own Land in Kenya - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yWUpzdXc4bWpWcFdEYVc2aWxzUTdxQjBNOEJaVkZhVG50QkZqNmt1X00yUFg0aU5KZkFvMTFHZ3pES09Lb2xoeTlSVVB2ODE5UnBmeGdjNGNwR0cz?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 05:00:04 GMT",
+      "discoveredAt": "2026-11-16T16:43:08.565Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_39381942",
+      "title": "The Affordable Housing units title deed headache - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXgyZDdsRmVNUThRV3VnSHY5Ry1vNzA3X194YUpSaS00eXFVTjFXRmxNRVNxV09VQlpsY09pTXFWU0dsOEdHelY1TmdNc0hCRFNGS2MtN2JaaXN1Ymp4OHBrNkNVcUtJMjFWSk1hbFhQbkFzM3Z6MlhYQ1RmdmJwNUdWSlVGOXVGS1k0MFlKc2pCNElFYUVhdmFB?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-16T16:42:39.774Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_407762056",
+      "title": "JKUAT graduate petitions Meru High Court over land surveyor licensing rules - Education News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalBoY2xVR2hRdWNFS1hEWUZ4ZWUwdkY1V2tVWTV3UG96YVh0QkhlRWxGWE9LRDZvRzcwemlyYlJIb19pdWwya1ItRFh2TXlDaS1fRXpkbE4telpxYTByTVlTUmFydFc4VUk5bU1KUXJfQjQ1Y0k4SU82VUdnS0F3ek51VHIzdllzMVZrbXgxbmtPenVJT0pvcUxUa3F4ZWxBazJLVU5US0Z0QWJj?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 09:43:40 GMT",
+      "discoveredAt": "2026-11-16T16:42:49.479Z",
+      "sourceName": "Education News",
+      "discoveredVia": {
+        "query": "Land Surveyors' Board Kenya",
+        "origin": "Land Surveyors' Board",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_416129688",
       "title": "LiDAR scans target rail network bushfire risks - Infrastructure Magazine",
