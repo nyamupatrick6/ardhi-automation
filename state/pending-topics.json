@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-11-16T16:43:52.137Z",
+  "generatedAt": "2026-11-17T00:39:29.968Z",
   "candidates": [
+    {
+      "id": "t_1998942932",
+      "title": "Judge warns Mwazaro community against erecting new structure in disputed land in Kwale - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkZRbFhyb0JQbnpsTDkyUXJqNzl4b1ptbEZHcjlQWkx3UU1EaUVHWHdHTEY4bkgxaTVKcEJRX01QR0cxMFNXV3JLOHNwQUFZNTlINWEzY1hkODhsa0NRaXFyTUVYbkJuaGFFTGpSYVJfX2p2VHlWSmV5SzFSay1NdVBNSDc5QlIyTDFkdFNYME1hZlk5b3E3bUJHV2RqSkZIZ2VFOUJwYVdRS3c4Mk5HZ2R1Zw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 09:55:00 GMT",
+      "discoveredAt": "2026-11-17T00:38:17.240Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1416276846",
+      "title": "Strengthening Access to Justice The Judicial Service Commission is today conducting interviews for the position of Chairperson of the Land Acquisition Tribunal, reaffirming our commitment to strengthening judicial institutions, enhancing access to justice, and - X",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hM1FkZ3h6QVpyQVFhQWVjUi0xV1ZKbDBxcEdBSnpXWndHTWN3cmNQQUNFRmZIeUJLXzBKN0c5RExGNmZXREVlcnUtOFE2cW95SjAySE8zam9ZcHdSb0E?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 12:44:57 GMT",
+      "discoveredAt": "2026-11-17T00:38:32.721Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_424777626",
+      "title": "Sydney Trains’ LiDAR vegetation scanning program - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUpkYVpTMEZvQ3I4TUVWZjN0QkNJUUNUcmN2S3BCZ3pXTXdvTFJpc0IwejdGMS1wem9VWDhqenc5R2U3a1lOSnZvQWRVZlVQU2hJTlk2azVtQ3BPY0huZjdpVUFnMUl6bmNtM05EelQ0WFVvSHV3ZlU4SmhFNHZneGZmaUNYUlNE?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 23:36:54 GMT",
+      "discoveredAt": "2026-11-17T00:39:19.926Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "LiDAR scanning survey",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1405122541",
+      "title": "The Star News Brief: Diaspora boom as 700,000 hustlers land jobs abroad - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSXczOXFQWExaQWpabzJkRUpmZTBrMmJ6d0xXMk5HM3VUZEswV1dUQmlfck1CTHZ1bXUyeS1XTHF4Q0VjMjJTYXdLamhEV1JYWGZMZzJvWFBpSURqaGhXcmJxdU50QVlRR0sxVnlIeUtvMDdqT09hLWdGMXZpSFVKNm95bW9GLTRjYjNlMEN0Z2s4emprTXFseWs4Nkl4aTUxUUVNUDhkdmI2R05TMDUtQVhjWnQtcUFVaWM5VUVHNFpwNVk2eG92cnZRMEVPMjdrdlRZeTlMZjhqM3l2akFKcncwLWJvMWRXOG02YXV1N251c1p4MzEwWDVGblRsQUJiVVpV?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 15:52:21 GMT",
+      "discoveredAt": "2026-11-17T00:38:17.240Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2146314018",
+      "title": "News Brief: Diaspora boom as 700,000 hustlers land jobs abroad - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmtrU0I1aFpoRWU1QnhkMmtCMWVuWGVYNl9EbVFoYkJfVlJJNEc2NXVrMHFZZU9FcXNWTVhWTDQ2Q004UnFZNUs1NlllcDRLNnI3MXh4N01mX2dUQjd4UHdyc3RUUGlnb2kwaFFwbkg2V2ZqeDI1OEF5bkNrX19HeFBEV0RBUlFHUGd6d3JZbUxySDg?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 19:00:00 GMT",
+      "discoveredAt": "2026-11-17T00:38:17.240Z",
+      "sourceName": "the-star.co.ke",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1497896834",
       "title": "Sh14m land fraud case against anti-counterfeit agency boss to proceed, court rules - Daily Nation",
