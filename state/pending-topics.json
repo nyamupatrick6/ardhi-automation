@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-17T00:39:29.968Z",
+  "generatedAt": "2026-11-17T08:29:10.921Z",
   "candidates": [
+    {
+      "id": "t_444547186",
+      "title": "No title deed for Garrissa County Assembly land, new audit finds - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWNrc1JLdXkyaWx3R1N3NXpTdENmQ3g3OC11N20xbkFIak5KUW9uOHFiX0prYnIzdTBxY1BQZkkzY0I5RExIRkpSMnlPbWRlWERja2JJelhzVWtfTlZKYlgzQUwzVm1hX3NZX0IxRHhUbzVNZE1DSzBPbTJpSUNKZ29abmFqdXBVNHRQV040b05HcE9id2lOdmFMNk1pR0tSalhudHcwNWtZTEJhTG0tdlZRdmR6Y2c?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 14:43:02 GMT",
+      "discoveredAt": "2026-11-17T08:28:00.079Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_777172881",
+      "title": "SkylandX MetaCam Pro LiDAR Scanner for Mobile 3D Mapping - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3RvLWFHZk8tdk5LamswSHB3dVExN2xjd3UxRTB2YTBiSGhScDI5UWFIRG5NNXNNeWVJeDA2ZjBlY1pPOUhTVEthZjNkV3NiWHdVVkJxM3RPUHJSczRmMFpZVnptNGlKWmNIaS1DNUlTSWRWZFAtOGd4eENxemc4X1NZWXVwZDVSZ0FTQ21rbmoyU2tlR3JiYXFGeXVmWTE3OWZKTXBDbmY?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 06:05:13 GMT",
+      "discoveredAt": "2026-11-17T08:29:01.397Z",
+      "sourceName": "Unmanned Systems Technology",
+      "discoveredVia": {
+        "query": "LiDAR scanning survey",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1998942932",
       "title": "Judge warns Mwazaro community against erecting new structure in disputed land in Kwale - The Star, Kenya",
