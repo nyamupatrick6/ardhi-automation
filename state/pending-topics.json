@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-11-17T08:29:10.921Z",
+  "generatedAt": "2026-11-17T17:52:46.705Z",
   "candidates": [
+    {
+      "id": "t_423513120",
+      "title": "Kiambu Nyakinyua Farmers lose bid to stop Naivasha land fraud case - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk82QktBWHJ2RHNFX1dmcF9TdkRNV0hJXzZmR0VBa1ViZk5MMmxoRDI3UWt5N3V5LTgtREhoUGU4RHpRZG5NYlhTcDhFdHdWQWpkYUc5MG5Pb2dZMVN3Tkh4VXg3WmxDVDgyNUdPTFdmNHU3REdlUURXelB0V2RrNzFRdlVMQUZfb2tCYUt1cGJWTTNZeFRMYmtMMkNuTkxjZFZxbFNjN3ptVWs?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 13:06:40 GMT",
+      "discoveredAt": "2026-11-17T17:51:32.164Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1875838501",
+      "title": "Court declines to bar DCI from arresting lawyer in Sh5m land dispute - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcENRNkRmU2kzVU1GT0lrcG9GNkctX1J2Rzc5c1ZWbEV6TEg3alZMQUEtV0ZBeTdaWnZYajMtQ0oxSURyQlppOGZRckpfU3Q4aWxielpGSGNKQzNfZ1pvVThmcEN5ZGtzeTRWc1k5by1udzdnUS1wZTNib0tfNWVEWDBZYmRIa1ZIaDZIY3lTU1lWRXBtUS1VN1lDWk84Y3l6MUt2bVlIZ0VUd0ZLaHBpSG9aYXM0U29MLXQyb0ZsV1JKV3oyWUJ6NkV6UEU5eVQyWXhJ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 12:06:11 GMT",
+      "discoveredAt": "2026-11-17T17:51:33.071Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1315983053",
+      "title": "Kilimambogo squatters relieved as court blocks cancellation of 3,860 land titles - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXI3QUM3SmgwRDdRR0VRbUVhOWs0WUItbVNPWGZsUUlvdzA2RGJzM3pFRm93ZVZpYWRPbkduTmlGTVRnQk1sTlhrR0pUZ0VpeEN6LXJkVDFQQXdwZWt4YVd1STFCMVdfbjM5MWNmd3I4MGR5ellldHEtbEZEZUNJUFlDRldjTzk2cXNPRzJWZ2drZFg3bWIwZzJPeXpwYVNmalhUY1NsYm0tMjRW?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 13:38:08 GMT",
+      "discoveredAt": "2026-11-17T17:51:56.792Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1955675216",
+      "title": "GNSS smart antennas - Hexagon AB",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHcGVSS2FmNU9GSlRUaTI0S2RuUXlXQnZuYVdPQ01CRGhLXzc5dEpUMzRCc0hSTUJjTEE2ZkFObTRfQUhEeW9CUVRoX09JejR6X2dkRnBfekpHMi1aX3Jnb09paVFIU0E?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 07:07:48 GMT",
+      "discoveredAt": "2026-11-17T17:52:19.112Z",
+      "sourceName": "Hexagon AB",
+      "discoveredVia": {
+        "query": "site:hexagon.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Hexagon AB",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1747510939",
+      "title": "Around the Geospatial, 3D, and AEC Industries: Road Maintenance, Coastlines, and Complexities - Geo Week News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0hiSzRyTTZOeXE0X09pMUl2ZGRaVXJscWQ0cFJ6UFo4YTZzY2JlRUc3LWFrdzk4VE1XUlFrbnpxdU1xTER2RVFQNU9zU3BKb2x6SWhxbnRaWDZqWDNhSmEwMG9icUQyRWhXNEVvNTA4OTVWZ181cm5zUDUwOElaTmpJUVUtQWM0NGVPWVZpeFRsWnJFNzdkdF81Um10d21SWmVuNTRQZ3F1LVJUWE5qUEthalBJX0J3Y0VNNWxWQXBNTHN4?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 17:08:23 GMT",
+      "discoveredAt": "2026-11-17T17:52:27.573Z",
+      "sourceName": "Geo Week News",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1237555317",
+      "title": "Lands ministry launches five-year project to speed up land digitisation - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSm00RnVGTzhaZTZzdVpiYW80ZF83a1p5NGFET0c0eEdqc29wOTNSTFRxdHlkaG91NnNlWWFQYUFsZktJX2w0TTd3VnlZZXlMbnBjV1N0SUhobVh0MHp1TzVqZFdxc0RqeUJTQVZsbFBDUzVxSnhUSkhVMUQ5bU5qdjVwa1JjTzJTWWJYM2otMWJhLWI3MEpFYjFGTEtYazNTQWlHWg?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 09:53:00 GMT",
+      "discoveredAt": "2026-11-17T17:51:33.946Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_2017789196",
+      "title": "\"I'll invite Ruto\": Gaucho shares millions he used to acquire land, build house - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEZ5TUlBN04yUFA1X242RmI0OEdhVGVRcERUMlM5WEt4VUZyamVMczRYZ1BsR3dUZ2hFSkppR3RQYjBnUk9fV3pHNG96R1VHRW40dWdVUTRYQU1BN2w5d2Etb0dsS05FODlDbDZKejNUeGNPZUhhZTRKaUFiVTd4M25JTTVacU1H?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 12:33:09 GMT",
+      "discoveredAt": "2026-11-17T17:51:37.453Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_289558272",
+      "title": "Plot? Kenyan earning KSh 70k in Gulf seeks best business ideas, many advise him - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmxtYVJveWxockxNTzRpN1cxczdQRWVwZy0xQVViS2tjc3lFdFAzUHVCclh3Q3lEUDVSLXd3NlAyNFQyeldKdWpxVk5VUExPRVlCaTZtNWVVb3Q1WkpTek9PVzNlMTNhMVpFWTVmc3dIWUdvNTBVTF9IaGhfcHBFNjhNNzJIVG9vV1VURVRZcFRxYmZwbEJnRDBCWk5aZw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 12:08:10 GMT",
+      "discoveredAt": "2026-11-17T17:51:37.453Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_924196415",
+      "title": "\"Napenda magari\": Defao adds a Land Rover Defender to his 10-plus posh cars - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXNNaVZNakhCejZ4VkZTUDlSZGo3UDNJV1N3SVJxVkpiZERZMnRDR3BnaU1za1RCTW11VnhfV1VjNml6blJmVzVRVEd1WmlaY01ISWZRSjhaZ3VQU1pEMmR0V0hjNl9oUkZRQThzbkdWdkJwOS1DQW96UExDV3loTWdsdmNCaVN3TlYxMTZUcDA0VElzYmJ4YjgzLUV2MHdMUTF2UThsRnYycG9KclZaMngxMUwydw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 15:33:33 GMT",
+      "discoveredAt": "2026-11-17T17:51:37.453Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_444547186",
       "title": "No title deed for Garrissa County Assembly land, new audit finds - Daily Nation",
