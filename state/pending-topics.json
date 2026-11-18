@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-17T17:52:46.705Z",
+  "generatedAt": "2026-11-18T00:27:49.666Z",
   "candidates": [
+    {
+      "id": "t_166224107",
+      "title": "Nearly Two-Thirds of Europe Lies Within 25 Km of a Geodnet RTK Station - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaFdLaXRBb2JCT1IwUzBYNWRuOENUUDBPZkdVcDdPU0M4aUpDZ3BIZGowZy1WbkVyam9Id29ieE1Lc3RZWUw4THFRTUhEQ0RHUmFSR0w3YnJYYnczZWxOaWNFS09VbTRnWEF0eXhMdFZaUU0zR0twSFdrOVJBWWJhWVp6M0lVWnFDT2w3cHVxdkpVZU1jV3FWUHZMYUg?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 21:18:27 GMT",
+      "discoveredAt": "2026-11-18T00:27:33.356Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_423513120",
       "title": "Kiambu Nyakinyua Farmers lose bid to stop Naivasha land fraud case - Daily Nation",
