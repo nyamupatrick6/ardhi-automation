@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-18T00:27:49.666Z",
+  "generatedAt": "2026-11-18T07:55:45.567Z",
   "candidates": [
+    {
+      "id": "t_432842061",
+      "title": "Communities race to restore grazing land as El Niño rains arrive - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjNVQmF3VkZ4MnFMZWR5WHp3Rm55bkFpRDdMd0dLSVhQS3lrQmc3Z1pHRzRkY2daVTdReTdEbkppcFVHYzlLa2ctRmdXaE01cnhuSUtFcml3dVdHTG9jbUNJUzhyVXBQMGp2aTNQMzhlcHFfTEY2MjJGUjVRUWxONHZvT0dZRkxPLXhj?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 01:53:00 GMT",
+      "discoveredAt": "2026-11-18T07:54:38.056Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_166224107",
       "title": "Nearly Two-Thirds of Europe Lies Within 25 Km of a Geodnet RTK Station - GPS World",
