@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-19T13:22:28.328Z",
+  "generatedAt": "2026-11-19T21:47:42.535Z",
   "candidates": [
+    {
+      "id": "t_1593135737",
+      "title": "ArdhiSasa Announces Temporary SMS Service Interruption - Nairobi Leo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOWt5SEYxNVJ2empKa0xZaXlkRWNvcEc2LUtibkxrUk1qV0pSZEU0TkRkTTc3TFlLY0tUajIyS29SZ0FHWEZ0RDRObUFnc2pEekZ0bGNpTWVYR243TkY5Y01rZ2JYRm95SU5zeDlOdVBOaGJ2LXROTk9XbERvdW1Wa0xJcHlXN080S1p1SDcxN19yR1ZRaEx2TjF5X0F6eFU?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 10:26:46 GMT",
+      "discoveredAt": "2026-11-19T21:46:51.790Z",
+      "sourceName": "Nairobi Leo",
+      "discoveredVia": {
+        "query": "Ardhisasa update Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1794016201",
+      "title": "GIS Day: How geospatial technology can improve India's canal irrigation management - Down To Earth",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObVpfZHZJOU93bGhPN0dOeEstNHJOR3hocWw5VnFueDFBdkI5endlQ0RFdHJXTFBhSkt5Q1A4YVAtNno4ekQ0TEE5NThJY2ptUVZUaVNtQm80amd3UFVrZ3BlbEtRTGFUMnpyY1EySWNZY292MVF4eFk0eGJrZTVIVHpXc3pLcWtaakFqdjdwMEpKWU9iekdBN2xhQXV3QllObDR1bUFMeWJEYnhDVndnckFROXRob011YjdtVUhkWWlqMl81WFMtTVNR0gHXAUFVX3lxTFB2SlhKSE1oNEt4R0RBLXRCT3UtbG1ZaUYzRzkzMXhCblo0NGxxbkZHbkVtajloWW1IMThwczltdTRhYUZDdkJXZ0ljXzdJMkMzQU9jeG51TkJpNDV0STE1MjE1eWQwcnhFcmV2VWJXRTg3ZllXRTFKWDBLRzJCeGNCUXhISU5SdUh3d0ZDRnVJdThwUmVqVmZaaG5VcGczWFdBRGxIQzFNc0U5X1NmX1lkT2hlcWZZYWxCeUM4YnZTZXI0OElta2ZIQi1zYjhKZFNtR3BTaGJ3?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 11:16:52 GMT",
+      "discoveredAt": "2026-11-19T21:47:36.455Z",
+      "sourceName": "Down To Earth",
+      "discoveredVia": {
+        "query": "UAV mapping technology",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1415184275",
+      "title": "Man fears rogue land officials, wealthy people want to dispossess them of family land - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUhyV0NCUWRockp6SEJ0ZmdYeVNmTGFCcTByeWFJX0hKV2VjU0lCaURSTHVVc0Jmbm5YekRqaURvdDRqMnF5Z3RLWm5MNFFQejFiUE9Lb1RtQk1lSnBZOHNYc2dUcnJOZktyN2l5bFN0RXJuVnlWc01yRm1HMHM5VFBueHlDU1E2QmlwM0d1bzZFOWNwQWhZUnAzdk9KekJhbWtmcUVCNzBCdHgxNTVYdHN3cHVCT09pWmJrMFFvVlE5bEFHTVVlM2h1djNuRkZCQkVN?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 10:49:00 GMT",
+      "discoveredAt": "2026-11-19T21:46:27.819Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_11296308",
       "title": "NLC moves to set record straight on multi-billion Horn of Africa road project compensation - The Star, Kenya",
