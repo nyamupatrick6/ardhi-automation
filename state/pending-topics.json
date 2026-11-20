@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-20T02:49:57.034Z",
+  "generatedAt": "2026-11-20T10:53:09.570Z",
   "candidates": [
+    {
+      "id": "t_1716483451",
+      "title": "Fresh Details Emerge on Alleged Grabbing of Supreme Court Land - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmpIT000SnIzREFoSE1PNkh1Q1B4TlJKV1doR1E0dk0tYWdURkdQMk1sUXNfWGNIR0xMaGF1RjU4Mnl0eUcycTNsdW83SEt1bGJ4RWpkemtxZ3pmRWUtT1RpTkxXQ1J5RmtBYlZKSC0tcVJQM1dqN2NqcXhUSDNVd3VkbDcwaTFHWUpoM1ZDWWVhamVuUGNRV2pSMA?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 10:00:45 GMT",
+      "discoveredAt": "2026-11-20T10:52:04.496Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_1964926248",
       "title": "Former AG Justin Muturi Lands New Job - Kenyans.co.ke",
