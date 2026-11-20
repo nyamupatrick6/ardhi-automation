@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-11-20T10:53:09.570Z",
+  "generatedAt": "2026-11-20T18:57:53.974Z",
   "candidates": [
+    {
+      "id": "t_1543612834",
+      "title": "Suspect posing as Mombasa lands director charged over Ksh.4.9 million fraud - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQREt6YjA5VmpmNzNoS0tBV0l1TU0wSU4yX2NPVkNQVFViNkN0SkNqNHBscEZ2ZlE1QVVNa2k1NXdvdFBXRUpaYUYtOXFqQUE4UHlZUFhOTnFiZnFtTmNzd0kwNVJKSktVMkdXcUtZRGFJejQ2MUFKV0ptY0x3dUh6b1FtYVk5d0FJU1o1UTBRd1F3WmZJWmlacEdzQ055cC1VR1VGSHJOUVM0c29BUlJtUkcwbw?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 16:48:27 GMT",
+      "discoveredAt": "2026-11-20T18:56:44.291Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1717816297",
+      "title": "Court Deals Blow to KeNHA, Chinese Firm Seeking Ksh 29.6M in Land Dispute - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbXQ3a2s2LVdibmlpdEZFOW1zODJDYXlKRWQtUElQcUdXRUNPOUJQYXRNT3BPMnFHamtEaWxpN2pRdDhkUXdLcXhnRzZlVnRZZFBiRkN6ZG9CQUpSQVVHa3pvejZTZmdPejh4Z1MtaUE2WUJtV3kwQUd4cjBHNEIzTzBXTFFmamVHcWtkc084WjVtc1NlVWpxTGxlVXdnckEzV3hnZk41X3h3TVAyamxRRHVlNVo4ZFE?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 11:39:54 GMT",
+      "discoveredAt": "2026-11-20T18:56:46.000Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1659882293",
+      "title": "CJ Martha Koome: People have no shame. They even grab Judiciary land. - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RaHVwLXZtbEtBeGd3dVcxWUdlYV9DTWtZQjJlVWF0SUUwYzlZRHVLaFoyckhpbWpxZXNTZmh1SlZMTjFVOVYtdHJLbVBjQ0loeHpRWEJ2X1pTeklTWDZRNGltYi1oOXYxRHc?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 08:05:18 GMT",
+      "discoveredAt": "2026-11-20T18:57:00.341Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1321320607",
+      "title": "Supreme court finally gets title deed after years without ownership documents - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR2dqbm1OLWNvZ2VmX2FhMElwMjhEd1R6RUo0Z0ltUlRyS2lEMmJWaDZjWF9uR3RHZDZOakZhUThPcDE3RUlwOHo4X0lwX0NwbHVwWW42WnNnNVRxdjd5aWVmTE5iTUtxajdITjBLSUJ5bi05YUxPQ3g3WHJaTURvSmROWHd2aUpZcHhscXNLTUNIQ1cxaFJsajVDeF8tUEY4bGtUamUxTGladkIwd01leWZLN01nNGIwWlg2Y0tZRW1WQXk5S21lVzRKVWpWWHlzYmJJ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 09:18:00 GMT",
+      "discoveredAt": "2026-11-20T18:56:42.359Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1398648878",
+      "title": "Firm wins five-acre Kasarani land battle against 2,000 traders - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzdCbEpqdGU2M3VkQ0xjUXhQRlY1eE4wSGFPTHd5NjVyWDdpSUJTU2lpYWw5Z0xpX0F0MEZpODMxWDgtTnNYeEdXOUlxdjN0Rk5nVk0yRHNJV29sTWFBSzR5d0dEWlhlbUdZdkdsdkNuUjZvYXNNRHU3MEVxbzk1LTRKUVdYc3dsdDlUSDdiNnp2MFJEdzVEczc5cDNTQjJVdmlnQ2N0cDlsaE1pd2haaklJd1R6bGRlZGIzdg?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 10:13:37 GMT",
+      "discoveredAt": "2026-11-20T18:56:42.359Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1017328294",
+      "title": "Inside deadly world of landlord tenant feuds - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMmhublpsNGFPdzZQb0NRaDFwQmdHSWtkSVA3TExVaWs5ZDlweXZTM3hIbHM4dE1TMEtVcmVpWEM5WGtkZ2hvQzFiX09zU2RDZ0ppVnZZTzhwWWhfcVBRa0xxT0pDWDJoMmJiSGxYNTg5TC1ybGRBdk9LVkxHUkFCSGJicUdma1I4bmg0S3lDNzlVVnJnRnROaHJjaFE5U3ZWQk94emVXU1g4bUV0TkhvMFAwMA?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 10:25:00 GMT",
+      "discoveredAt": "2026-11-20T18:56:42.359Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1572390828",
+      "title": "NLC outlines how communities can benefit from carbon credits - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTZTbENJQVNieUg2cGNuNENpaWFMUXI3bDZ1RXJELV8zOUVnbEctUXB6WU1JSXlBRndmWU1sQVFubWdWVS1yYzlBc05lOVFFaFFtVUxQNDNtSVBHWXpSNTg1bF81V2pLVzVlUE9LUGF2RVVkVjBsc05PbWRRZGhySS15ZnBkQ0QxSFJJeEhNb2M5Ul8xMjlWLUtKem15aGdtdC1ybDhJM1B1d2NZa20teldaMA?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 11:48:00 GMT",
+      "discoveredAt": "2026-11-20T18:56:43.408Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_207699393",
+      "title": "\"She was so loving\": Karangu recalls Bayo gifting woman battling cancer land - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdFQ3NWRySU4xTlFWbmFuU1dtRjQ0VW1QakhGcmF0VGNlNmh3YkV3QkhqZURqblkxYVF2cGVPTWs0eUhVTU1WRmhva3Nra2o3eEJ0dnpaUktvbzJmZEZxbThKNl9oMlFvbnVwSkZnTnVINmZHTm05bFJPUUh4elQ0NkpnMm9wb05FdlJiOTEwR0pGQ0RKdXFiZUVtQ2NFeTRLQms5UERMblJ0YmNTY0dBSGRmMU00UmtpRDF3N0UyYWE0Mk45YzQ3WEstSFNaZw?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 14:29:02 GMT",
+      "discoveredAt": "2026-11-20T18:56:46.894Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1810362664",
+      "title": "Judiciary secures long-awaited title deeds for Supreme Court and contested properties - Pulse Kenya",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSUd4TDhJeE9FZXpISFJUV0NaejhWay1ubkI0Q2Jtd0tkVjJuS29QTFZhWmdjcncxVFV3UFdNejlKdjlBV3U0N2tPbTJhc1BkOGtYS2lyOEF6UDQ3bW5FMlZLTUptWFZRc045Zmt0c05oeE9SZnduZWIwX0MyeGdqLUNVUm10YVBQUTFjbWNUMUlVYjZCT0RqcEJLSEx0ZnloLTRldDFRMDVLc095N1lJTFpsR2FvRnd4OWt6dm9ZdFRzd2kwRFR2YnRhYVdrMnFH?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 11:43:57 GMT",
+      "discoveredAt": "2026-11-20T18:56:57.396Z",
+      "sourceName": "Pulse Kenya",
+      "discoveredVia": {
+        "query": "Kenya Judiciary Kenya",
+        "origin": "Kenya Judiciary",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1716483451",
       "title": "Fresh Details Emerge on Alleged Grabbing of Supreme Court Land - Kenyans.co.ke",
