@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-19T21:47:42.535Z",
+  "generatedAt": "2026-11-20T02:49:57.034Z",
   "candidates": [
+    {
+      "id": "t_1964926248",
+      "title": "Former AG Justin Muturi Lands New Job - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR19LQnZVUVNWMEhrQV9uVjMyX2ZUU3BVeHl0U2lFTFpwc0FrYlE1V014TzdNQ05pd2VTYnRKM0VqbTJoYUtyeWQxckRXN1JhZGJyaU9hekVKZFQ2aVF1OGU0SzRIODltQlVZMC05eS1tQVRTWVo1dW9BYmJCZDM4UjV2eHJ3Z1ZkWjlwV0hheEZBVnRaS1NGN3dESThlVGp4WDRickdUQkMtUVN1WWVV?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 07:08:49 GMT",
+      "discoveredAt": "2026-11-20T02:48:51.071Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1593135737",
       "title": "ArdhiSasa Announces Temporary SMS Service Interruption - Nairobi Leo",
