@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-20T18:57:53.974Z",
+  "generatedAt": "2026-11-21T00:39:23.626Z",
   "candidates": [
+    {
+      "id": "t_1598730855",
+      "title": "Images of Northern Lights Effects Can Help Improve GNSS - GPS World",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3RkSEJSQVEzSEx4VlYzSzk0aDRGTTFUUzlidUJEUnpUbTBGU2s3ZFlaWEtJS1RuSkV4VTRyY045VEtfSkk2TE1SN1JJLUQxRWt1emFKcGNPQnpzR01qWmVRcVNOcjdSVmNTUmRWa2RiekExTjRLeWJMWUwzS1RZZUJkU0J6aWx1?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 23:55:09 GMT",
+      "discoveredAt": "2026-11-21T00:39:08.409Z",
+      "sourceName": "GPS World",
+      "discoveredVia": {
+        "query": "GPS World",
+        "origin": "GPS World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_560789217",
+      "title": "332 Plot Owners Risk Losing Land As Developer Issues 20-Day Ultimatum - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSG9kVUEzNW1QT0tfWTY1bEk5bkJwdUU4aEhQUC05M2VNQUxlZDFGVEdNd19na3I5NXN2TTRrSzJ2V1NJMWZzX2VtZjBPeThpbnNiSE5nd0ROeUNpZ29DS2R2Z2dnLW1QX2J1dzBLOUwxcVBZaTFiUENuOXdCanhuYXhtQkhFbmxDcW9UT1NEV3UtdGV5cmtsOTVHWlNwaktrUXFVc09BWXR4OTNJTGxsVXlocmZBMldfZW1rYQ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 15:30:18 GMT",
+      "discoveredAt": "2026-11-21T00:38:12.710Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1543612834",
       "title": "Suspect posing as Mombasa lands director charged over Ksh.4.9 million fraud - Citizen Digital",
