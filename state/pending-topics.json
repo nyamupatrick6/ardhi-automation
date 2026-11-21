@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-21T15:53:58.075Z",
+  "generatedAt": "2026-11-21T21:26:36.498Z",
   "candidates": [
+    {
+      "id": "t_1387136075",
+      "title": "Four jailed for murder of father and son in Baringo land dispute - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbS1fTW53bHNTaEhVUnYtQjR3bHJ1RThYUGxGaTFEYTZTLVVKNzhCSHpTQ0JmcHZXdTNzMkY1Nmh3WTRndHd0eDVvMHFYYUVmLVg2SFZpVFFLRlBqOTZpZzdyRXl4clRUcG1USENVbjBUdFRWZGlSOEotLTR4QUpZbnVIMjF0WGZaa1FvbmJNTU5Ga2NFUnByeTIxaXBLSXRYQnhSQUdFaw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 07:30:49 GMT",
+      "discoveredAt": "2026-11-21T21:25:27.955Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1656547503",
+      "title": "Introducing Announcements in ArcGIS Enterprise 12.2 - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlREN1VqdEwwejBHUnp3cEpqckZQSzR0OFFPajRQS2VMZDQ2eGJJQWI5TlhRSmctQkxWYWNFd2ZnUlliRmN1MTYyX1loVHNUc3JLRzgwZk1mSW53WGw2MXdlemxJTTMyTERGcUJOZnNnM1V0b1Y3N05xcGhRLUhfaWZQel9wWklSSVFHOGhrX2RZVHJRenFWcERTT25JaW5tYmdBbmRQSXRsWmFWQmdfVDVLMkJLWU9MNG8yRUVRblhZOGM?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 00:15:09 GMT",
+      "discoveredAt": "2026-11-21T21:26:17.121Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1838347489",
+      "title": "ArcGIS Pro's November update brings OpenRoads corridor geometry into GIS - MarketScale",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOGpDd2djYkpZNHpYTUxRM2wteXoxam5Senh4bnFBSkkwVy00Z0ppRHVLWFJtekh6cmlxamtYMEZjTFB0cWFxeWZwT2R0cWhtZDJtT3VsMUVENjdYbnZTWE1BaHdVQzI5cXJNVkFNbEI0Ym5MRmxDSHpXYWNjSTgxM3pFMTdETFFGQTJOOEVuT3dxMGg2TVIzdFdkNURYVU53cW11RmJ6MWhwcmQ5dWtiUGJxZWRQVnIxTFlUamljZ1FjMHpFTHZuaHI5a2lzak5zdUg0LTFB?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 13:18:00 GMT",
+      "discoveredAt": "2026-11-21T21:26:29.533Z",
+      "sourceName": "MarketScale",
+      "discoveredVia": {
+        "query": "GIS software release",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1589207634",
+      "title": "Ruto woos Western Kenya with sugar bonus, teacher jobs and title deeds - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTklHN1JDTzJUV21KdWdiSjlpVHJvSW14dEN4d1hmNV9FUGhSeFNESE12REZUMnU5aTJLUXFoU19sT2Q2YWZhbzFzaVNRUUR0b2VuT1ZzR09pS1FBVWM1MHNUaHVzaFowTjBqMzhyaV9Gb3JtbjJTSW9XeDRoZzEzckVjZGFOYkJKd1JkdzNsMnMzVktRdnI2Y3BXWHVlTWxKTmNJT0VjWFJwRGphSTZoQ1dXeV8zWUMwdTB2Mg?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 16:00:00 GMT",
+      "discoveredAt": "2026-11-21T21:25:26.190Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_880307919",
+      "title": "Broad-based leaders accuse opposition of plotting chaos ahead of 2027 elections - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1ZUbDEtaE1seFg0ZGYyY0EyZmt5MGRXTzlfY0VzVVVVYTVDMTk3aDNvWDZMc1JmeWJOVC1wM2QtU3BJNzV0SVd1Y2Z0U0VDT29MRlpyWWhkT2h0MjNFSmJYS0xqWHRWcjR6dWFoUDJ6TWc5UGFsVjdjYU41amZHYnp1NXBLUU90ZzA1aGFQWUh6V1BFdkRYaUhSSXFqZG9TdjN3a3U0dWVSeGFOT2xLcnFNNVJiRUdyekE0?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 18:14:17 GMT",
+      "discoveredAt": "2026-11-21T21:25:27.955Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1600735448",
+      "title": "One of the biggest hurdles communities face in securing their community land rights is the adjudication. For communities living on unregistered community land, particularly former trust lands, this stage of the registration process can be daunting, costly and diffi - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVW92b1RJVEJkclZ6ZWl2cFk2aG1PYWlvTnROSU1oZGR5YXZsbWZiVjF1d0JqS2dXOWpYR29qdUw3RlVzMi1uUW9ubWlXUm53MkJVYUE3ZWp5VHBZcnFlVUhsMkN6LTNrRWE5dDcxUGg0WU5pSVFaSVUwbG13anVqRU5GSHYwWEJkdXZoaWRYSUZ1VFlyODIzQW1UaHN5TkpXSmMtX1B0SzZtU25SOTdmeTNQUGpwc3g3b0RoWkt0OV8zQUszMkVDQnNWdlN6cUE?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 07:47:24 GMT",
+      "discoveredAt": "2026-11-21T21:25:45.255Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1274073493",
       "title": "Kenya News Agency - KNA. . Lands Cabinet Secretary Alice Wahome on the Supreme Court title deed. - Facebook",
