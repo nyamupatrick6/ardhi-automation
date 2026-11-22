@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-11-22T08:46:57.738Z",
+  "generatedAt": "2026-11-22T16:52:44.749Z",
   "candidates": [
+    {
+      "id": "t_516243746",
+      "title": "Shock for Lamu residents as private investor unleashes title for 750-acre 'ancestral land' - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPODFRekZCX0RzazNmaDF6eFQwcUxwdkZTT2NvZFhxc2pRSmFEZ1RsTzZQT1FGVnRfZmVHeUswTGd5S3JCQ2JLd1JRai11Z2xoZm1SOWluWnF2dS11aTNjV1YzUTNwMnd3QVZVTjJIaTVDRVNBQ3JGMnVoOUhoMWF3WnBpTDNxOHNrV3pacjRwSlhPZkltelJRR2tNb2pmSWc0MW14a285VmNQakRVajNrSFJ2SmI2YVVaOTBTbFdEaFlDSml6cGVlLS1McERiWmNGTk1yUFdR?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 12:41:07 GMT",
+      "discoveredAt": "2026-11-22T16:51:31.890Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_955775823",
+      "title": "Mombasa Port Records 12% Growth as Kenya Lands Major Maritime Deal - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWU0wUFV3V2lVanZjUTE3MkFkdTJCUGxQeVpvZzVGUEtuaHpnZjhIV2NiQXRxOEZWUHBJbUdaWEhWOTJmYkFsdzZYeDZuUllHMHBwOWlYSkd4LWJoYjQ4YW1adU45eVhZWUtsa2VEcGV2SXB1cTRuR1lCTHA1ZWhHb3FobXlENXMyZnMtTzNPY0U1U3BHaDIxVTZzVkhKM0JKWGc?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 10:58:05 GMT",
+      "discoveredAt": "2026-11-22T16:51:36.352Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_11863833",
+      "title": "Kang’ata dismisses claims of illegal allocation of Delmonte Land - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzJPaFZIRlBhR1cteDBxNXhfdG9DQ3hvSHI0QzlXdnFMN0cxaWlKNXFhQklfZFRvamFBa0o0S2JLN3JwWldCVGE3OS1uR0pwcXp1R2U3MTVGbkF4aEh0cHlnd0swVG04ZHdjSDZuczlYQ0V1aS1ieGJCZnJ6WW11OUpHdjY2SkZiTEZlc0MxYXM2S3RQSWN3?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:15:44 GMT",
+      "discoveredAt": "2026-11-22T16:51:40.338Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_83433290",
+      "title": "ArcGIS Pro 3.8 Patch 1 (3.8.1) Announcement - Esri",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFc1aGZFbFBCM2ZTcjBMZmFYZlNwWTh6TWl3di16VEtydUxreVJ0c29leUpkNEtGeUVUdHBFMURnWVJWWHBUTEkybmxWRHgzSjZZUHV5M2tPOGUybzRzVUFqWFdJTlRPRGY1cENRN0pmTzNTWFh2UUdRYU1SRnk0Vi0tc2lLeWJKRkgtQjdYUEJENFduYUhmXw?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-22T16:52:24.765Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_315398085",
+      "title": "What's New in ArcGIS Data Reviewer (November 2026) - Esri",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb29Gb2NSX3hJN3A0Qml0UWtIQ2ZsSUNsUDVkdmZCZW41eTIyWmtkMkVZQkNBMExxWkRzOXZHQ080cG9QR3VQSTF4Z0JrNGRVZnMwNGRRR2N2d0pqYXF1ckEyb0gxQWZkTkVOWndTblNBOXFzTDl1bHhqdjU2QTFucFkzZFl6OUJNdVdjQUhfQ2ZjeFlnbEJ0R2htWEhvNDE3LTkzbUtWNFJ2c1Z0MDljVVVoRl8?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 16:05:04 GMT",
+      "discoveredAt": "2026-11-22T16:52:24.765Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_241353354",
+      "title": "Calculate your own location quotients in ArcGIS Pro 3.8 - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlNhTzNaV0stR1J4NWJ0SWFXU19FMktNanlsNXZjZndsMXZRSUxObDFlY1FRaHNDSUdfRXVuM2hTU2tubFhpak4wdXh4dFhCX2E0b2hzSk42emJKdzVxTUFUU0VybnJGcXpYN0hrb1JCRUNxeDJmQldFLVFLNEdmYUtsUHV2UGtmZUtVWEVWVUR6VzVQWGJ0OWJZYmszZDlBd3Y0dHJIbFpDNlBKclVmblFWdw?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 20:56:30 GMT",
+      "discoveredAt": "2026-11-22T16:52:24.765Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1048726662",
+      "title": "Open Source QGIS Plugin Automates Multi Method Spatial Interpolation for Agriculture - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmhSREZsSzB4d1psd2pvaGpBdnYzY3V2QW9SSF93VUUzMjV3RmdpcmZVcy03dVdlMEdsUkVzRm9sMEc5Qi1udEJuU2ZHTkZSa2oxRFljWHNZNWpMQ1djSTRLSUN2NEJqeGxXSnlfemp3QmpIdjVJckJnTUhKRVdGc2tscERDZkM5YmwtaENHRC05Tk8yWlJ0WG9Rb2dOUXFiTnpENVlnNEI3eG5iS2c?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:39:04 GMT",
+      "discoveredAt": "2026-11-22T16:52:31.577Z",
+      "sourceName": "Bioengineer.org",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_834069230",
+      "title": "Ruto woos Western Kenya with sugar bonus, teacher jobs and title deeds - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOVp5VzQ0Tmw4emlwM0VadWZnYi1vM2FMenFqLVYzdzFnY0ZBWWktNENhbUpoVnJScHlNcTIzMDJEZVVaajU5TUlFS3M1TVMzV192SU82OFdvX3pmOUR3RzRCTFlFZGp6VWc0anRfdDBZeXZMd1pUMHJUVUdRenkzNS10Z09UVmpRUTc0YjNTbnhLMkJicmZ5dVZzTUlaTE9VNlFSZzN2SWdHWGlNQmY3S282QVJfOWRvZU1fc0JQbFpKa19YZFA5SQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 16:00:00 GMT",
+      "discoveredAt": "2026-11-22T16:51:32.971Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1067703163",
+      "title": "Ministry Addresses Land-Selling Trend Among Parents Seeking Police Jobs Ahead of Recruitment - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFJNMUFacmVHdm9IOUZ2ZDZHaWsyVlUwc2czNTEwa2N3Q3B2emJLa2hSSXV6cFByVHQ4ZVJSLXIzTE9SWlRCR1hlZTlKenQtZXA5c21ibG1aSVZzTVRuV1pRUUNOM2RYZTZnVjJ2ZzVmVjJOZm01d0h0VkVHT1MtUjRnUkpFdktmcWJZY25NZGZfYUoxalBBWXljdVpveFJGczNLanMtU1Q0amRXZWxnUWYzWQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 12:00:49 GMT",
+      "discoveredAt": "2026-11-22T16:51:36.351Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1241364406",
+      "title": "High Court Issues Ruling on Parents Who Leave Family Land to One Child - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHpxc2k0NU54UlJ3Vk80VzdkeG9qWC1EYXQ5X013YjlEM3J5bWxVUHVaOFdoYWRINFViN1pXVkdxUXIwMlY4dXBvZXNDSlZMT3psYVlZQ3psTVFodF9zNTNybW9QRFJvdzFMSERZX3hNTmJnTFR2YWpJODBha251N3dmTHIwSDQ3cVNnSW8zcVZlM3pfTjNmcUxVQ2g3MmUxSFJKWVBGN1JOaGZ5ckJGOTFUWEVBci1W?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 09:25:28 GMT",
+      "discoveredAt": "2026-11-22T16:51:36.351Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_284087346",
       "title": "Sh14m land fraud case against former anti-counterfeit agency boss to proceed, court rules - Daily Nation",
