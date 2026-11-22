@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-21T21:26:36.498Z",
+  "generatedAt": "2026-11-22T01:33:40.899Z",
   "candidates": [
+    {
+      "id": "t_284087346",
+      "title": "Sh14m land fraud case against former anti-counterfeit agency boss to proceed, court rules - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaS1VUkliQjBXYlpjaFdNbzdHSWZaWkhuU1pVVzFTWTVUcl8zNkhPbWZuRmFyMlhNelBCTlJidHNnYU53ZE80MHFLUVRpSnRZT1lJNXY3V3VaaDFOUmp2ZjNVR0U1cWF0TmY5MjJPY09JWnZXLXNhYXdzM3V0eE15bW1MaFRRa0YyM0VVdGVvc1FaeXhoaUlwell4VFFpSWRoYk1aWklzR1Z1LS1uNVVyVk1pRVcxMjByWnhsQ3htYW1keUhFeUxnRQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 21:08:18 GMT",
+      "discoveredAt": "2026-11-22T01:32:32.065Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1039948630",
+      "title": "What's New with ArcGIS GeoBIM in ArcGIS Enterprise 12.2 (November 2026) - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXJQN3poN1V4QTVHZW5DclhiSzkxazk3cmdFd2lpakY1WktDenpuUzYtZTdnNkxjckx5QWl6TWNiQmFVU1Jpc1RDVDdOZXBKczJvV1NPclk0cERicnV2YjFEU0FQN1Y1T1ZUTVFNVHRQeUMwWkUwbllzR1lPcHRna3l1UGctb0xVYnljcWg3aXJLZkxIbU0yYTcydy0xb3BfbVlaY0tzUFE3OVplLUxCQlA3WVRzcTNHX1haeG9NdVdJQ0ZrRG8wQ0FUSQ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 23:47:59 GMT",
+      "discoveredAt": "2026-11-22T01:33:21.936Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1387136075",
       "title": "Four jailed for murder of father and son in Baringo land dispute - Citizen Digital",
