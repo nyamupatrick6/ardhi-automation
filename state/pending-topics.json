@@ -1,6 +1,222 @@
 {
-  "generatedAt": "2026-11-23T02:54:56.152Z",
+  "generatedAt": "2026-11-23T11:44:41.012Z",
   "candidates": [
+    {
+      "id": "t_1791565129",
+      "title": "Court clears construction of Sh1.5bn Ol Kalou Stadium as dispute over land lingers - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXl0NGR6c08yQlRTTDNOazRlMjhVNGdMUThLel9xNUhjczVoN3JJNlVKWGlHNEZGcmdrQnVrRnJSSzRMUk1mU19CX1hiZ1gtSGc5ZEZiZm9mLXc2alNMSW55VEMwWExORl9ZS2ZVMXVUc0ZOYkdEamZPRV9OYlBubTJ4bXF5TlFvQ2s5WVBDU3RHeTBES2xUQjB2SmdsbEx5R3JlVDdtV2RYYl96aFd0YURtYzh2TG1taVdYcU5kWFY4RFVyemgtNFJsWlp2d3U0cGV3?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 08:15:13 GMT",
+      "discoveredAt": "2026-11-23T11:43:18.044Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1780308562",
+      "title": "Landowners on Alert as Govt Revises Naivasha-Malaba SGR Acquisition Plans - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNS1NdWVOb09ZN3MwVUUtZTNjdm9aSS1vVFZHdGtnSFRFLVYta0N1MGtTbHVGWEYtREVMMDExSEtxY0xZcUpNVzBWdGN4U3FacTFZQ1RzYi1YaXRsUDhpWWNaNmktdWNkNUJFSWJaWGREbmJOWkM5V014VHVCYXpMQ1I2VllIN1pzcGJYeWdrUzQ5bnU3LS1HRFVFUFFyVzQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 08:51:36 GMT",
+      "discoveredAt": "2026-11-23T11:43:22.450Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1768024195",
+      "title": "BUG-000178289 for ArcGIS API for Python /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3U2OEM1ZFJfNVFFSWV5b0dXS1M1SEJzY01JNl9fV1h0cnBtS2RzNkpTRFRYWTAtR0FIUW9xWmF6OFVWNG9DU1AyOGxtTmpJbGhWUnZIajA5ZUFibnVVcXN5eU5GMERDUUhyWWEycXlMRUc1U1hkd0x0UEZ3elZQMkRnSENDZmVpV2xUR29pUnFvd3BYLUdiRkpWTDRvSHFiQkktaGhfSQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 03:03:12 GMT",
+      "discoveredAt": "2026-11-23T11:44:18.842Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1722544729",
+      "title": "BUG-000178970 for ArcGIS Online /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0Rkb25SWU00Z1JMV1I2RERQRG5sbWRlTktXX3p5ZlhDTFFURjVyWFZtU0wxVTI1Y0l6ZnY5dmZzdzZIS2czSlRjU1AtUVRWNmRhUzZyS1MzSFJxSUVTc2lRNGhqQmJ0OVh0dlFmRlI0RDJLU3dsZFJYMWZJS295OXFOSVUtMm9ybU9Cd1JSOEY2ZXdXRUpoT2xmVEQxVjFHbkN4MTlJbw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 03:03:15 GMT",
+      "discoveredAt": "2026-11-23T11:44:18.842Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_94651563",
+      "title": "BUG-000173133 for ArcGIS Online /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkt6UGhLUmhacThKemRtanVSbUpqOHRDUlZUZHpLRWZXeEtrRmp2c0ZKTFBYTnZlSUs3bktrMFI1T3RrcEZhOF9ENUVkTy1wRENMU3AwamRHZGpNcUpuQTkxZldLc0pBZ2VWVGVpN2FwbEVYRF9NM1hIRUZJLWFwWU9VQUlNY1llUE9tUlNWeHFFOFJIeVFaM1Q3cS1xQ1lveVRvLXFjMA?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 03:03:16 GMT",
+      "discoveredAt": "2026-11-23T11:44:18.842Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_494644885",
+      "title": "Take accessible PDFs further with ArcGIS Pro 3.8 - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXFPSEstdEctcWJpTTZ6RFpNY2YzVkQ2SGVwa202ZDUtMEZEUTE0di1VZ2FTblBubE9kdF9zcER5enZjNVpxOVZFZ1JkUFVxZERhQkdVUTZlejJ2YzdFTUZtX3B3bVBXUzh2MnJaNmcwWWRyYkZQdjNkbkhCUEIzVWQ1N2F0Z3drSDl5Q2lneWhuUDNqemtQSEZycEFEVG1MQU4yb3NaREFrQQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 17:49:21 GMT",
+      "discoveredAt": "2026-11-23T11:44:18.842Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1439369251",
+      "title": "What's new in ArcGIS Linear Referencing: November 2026 - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0l0UnQxM1NJaGQwZlF5dG1rRzF4WVZEUkFnUUZrem9EWmVYT3l3TXdMNEoxRnNqOERYNzVCaU9aVE9lUnJDdEY4OFJPR1JPOER3LU55VGdsTFFMZ2ZzMjdwbERZNTFlYmhVdU1UVFdxUmNnOTlxZ3pWOThpa05mMkxyb19zZVA2MG83Q3p5dHkzaThrWkExODV6R1hFWGVJd1EtMkdmMl96cTBkczRCTTl6bw?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 20:56:14 GMT",
+      "discoveredAt": "2026-11-23T11:44:18.842Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_667681493",
+      "title": "From Data to Decisions: Space42 and Microsoft UAE Release Report on Geospatial Agentic AI’s Potential to Help Governments Better Serve Society - Taiwan News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zcnVCT0FUSFNvdGhUVUhpZ25DZ0llV1Zock5pVG9ORTdPYkYyVHpNN1hJRFc2N01laWNTTzRYQUlieHljOUFXMVJ3LWw5aWZMcEhfcG0yVEY?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 18:52:00 GMT",
+      "discoveredAt": "2026-11-23T11:44:22.444Z",
+      "sourceName": "Taiwan News",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1709541520",
+      "title": "What Are the Requirements for Land Transfer in Kenya in 2026: A Business Guide - Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXAwc1AxVG9iOWlIU2Y3TE5Ca09OeF9RM0tSTmp2ZjVlTnUyc0lXWmxaX1poSDd0SHRQN01qOHF3NUhYR1puSFRoOFhOVUNub2ZqcV82UmVRSHR6ZzVYblBEazhqWmpRSFFfRU5HOXJ1WVlBSWFFUHN4SENWYkdSeUQtNHRLWlp3bVpyVDJwelNncE80Q0xxdw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 06:27:41 GMT",
+      "discoveredAt": "2026-11-23T11:43:15.565Z",
+      "sourceName": "Global Advisory Experts",
+      "discoveredVia": {
+        "query": "Kenya Law Kenya",
+        "origin": "Kenya Law",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1359916110",
+      "title": "NLC Moves To Acquire Land For Naivasha-Kisumu-Malaba SGR Project, Lists Owners - The Kenya Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkU1VGRFSm9FRHFPb3pLRGNDMEpua0t1NE1WY3ctNDN3RmozV0JJZ19zZFFoOFNRYm9DUnEySTJBUGVTRUtJbzR5b1hOM1lOUzBQeWhGamx3ZHY2OG1BQkxHQjVFQ2pxSGNtQm9sYm1VSXRUVmp3WnVfVW9LY2JTUFV1VkNYSFA2SXdmbTdiNlVXX0pLQUJhU0xCT1ZkdldMWThYZlVHby0?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 09:43:26 GMT",
+      "discoveredAt": "2026-11-23T11:43:17.139Z",
+      "sourceName": "The Kenya Times",
+      "discoveredVia": {
+        "query": "site:thekenyatimes.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Kenya Times",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1962899919",
+      "title": "Gerishon Kirima land tussle: Occupants urge family to give them reasonable prices. Family says residents must pay for the plots they occupy Waithaka: Prices for plots available at Kirima House Aisha: We appeal to President to intervene #CitizenWeekend - X",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PdzIwSTA1RHpweUJKdXVIZUxCNV9CZ05VTFRYUE5nVFFtM2FuNUtrYmNkTnE1N3Q0R19xeHRJU0VFRnJyRjlJWGVPZjRPa2h4TUtPZU9YY2VaMlRFNXJBTGpCZU5HZw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 19:10:49 GMT",
+      "discoveredAt": "2026-11-23T11:43:35.263Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1141870329",
+      "title": "PBI-Kenya accompanies land and environmental rights defender Otieno Ombok at Bondo Law Courts hearing as construction on nuclear power plant to begin in 2027 - Peace Brigades International-Canada",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmlpWjlEcTI5OXQ3SmRGU0F2eU5WdkZhallCQ0Y0WXQtZXk3OGtDTmpBdS1zLXhfOWE4Z0JUdllNNmIxcW5IdElpdmQ1Wi1JQU5nRmNiRXV2YmNLS3VHRlRTdmowSUFOU09jT2xxOHJrNmFWNnRRa202d0ZYd2Nwa1NyVVZxbnJnZXVwdHc3bTRONmdlcnlyTGYzNm81X1FSbVZEZ3RYaXlodzdUOXlFMkZKNzZqUmZFdmZuVmw3blhwN2diNS1hRVNQb2dMb3Vm?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 13:33:16 GMT",
+      "discoveredAt": "2026-11-23T11:43:44.298Z",
+      "sourceName": "Peace Brigades International-Canada",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1573435703",
       "title": "Njiru residents seek gov’t intervention in Kirima land dispute - Citizen Digital",
