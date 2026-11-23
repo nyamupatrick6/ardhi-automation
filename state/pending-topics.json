@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-22T22:17:55.077Z",
+  "generatedAt": "2026-11-23T02:54:56.152Z",
   "candidates": [
+    {
+      "id": "t_1573435703",
+      "title": "Njiru residents seek gov’t intervention in Kirima land dispute - Citizen Digital",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkFtWlpmdGdiSU5lTGJmVUlmbm54dXlDQ3lHV2JiZUZHcFJmWUY3cmhHWEVkb19wOHc4Y0lfTF9WOXJNRFd5ODJUcVh0aFdzUWFQT0Y2NFZJSDNQZ2hjVENsaUdRaEhfNnFEOS0yaGtFMmhveG1NR19sSUlZcGRIdzNlTTc4S1hfZG16RVhZWUtuR2tjejVDZGVUeFFhUllMTzNF?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 18:05:09 GMT",
+      "discoveredAt": "2026-11-23T02:53:48.134Z",
+      "sourceName": "Citizen Digital",
+      "discoveredVia": {
+        "query": "site:citizen.digital (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Citizen Digital Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
     {
       "id": "t_996399745",
       "title": "What’s new in ArcGIS Bathymetry 3.8 (Fall 2026) - Esri",
