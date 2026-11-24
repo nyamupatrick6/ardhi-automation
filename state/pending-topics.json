@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-11-23T23:20:07.651Z",
+  "generatedAt": "2026-11-24T07:00:11.861Z",
   "candidates": [
+    {
+      "id": "t_1868958711",
+      "title": "Naivasha-Kisumu-Malaba SGR: Govt issues notice on planned mandatory land acquisition - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNpb19yZEdlTU0yUU9xMHZQSkotYkxiV2tndFA1dkdNS2lfOEpfZnZtRlp1blF6eGlzZF9fQUtwWlhYUmRNR2p6c3R5US1qbHljcm1Fa1pxdTRTaHQ5Q0p3VW9BdG55LU81UmNNdzljNV9JYURnblNqY1JnWDlycjNqRUZQclBfU2pYbWFnLXVpdkU0TjVoemhVbGdKQnV3YmpVOUFWMXdXbXZ2N2FwaVNSU2I2QUE?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 19:49:50 GMT",
+      "discoveredAt": "2026-11-24T06:59:10.563Z",
+      "sourceName": "People Daily",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1756440230",
+      "title": "BUG-000188946 for ArcGIS Online /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbk1hU0JOQTJkWWpQdEZhN2pfMWI3ZFdMcWJNZ0Z3c1U5b0NoX2daaUZ0X2JGbk1YSWJMM3AwOU82X3A1OU1ueHE3SXI2QUFXc1BsNURHUDBuQWhXa1I5Y2ljbWZKWGJYQ2pDc29OMG5tMmFCd2pFVkFVWmFoZVd4TngtVnZoMEVneDA0YjZfOVJpakFJcWcwX1lwYlNnR3lDUkxra293?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 23:32:15 GMT",
+      "discoveredAt": "2026-11-24T06:59:51.133Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_723565808",
+      "title": "BUG-000188550 for Portal for ArcGIS /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkNQSkowdDNYRWNwWW9tOUR2R1EwX19sUVp3RDNobkdjUmx1Wms5cWM5LThSb214dWoxV25iVUxZc3pNaEhXUWl4VmJvX3g3cVhyMk40TkdBc0pNQ3NtT3FYWG8tWlo4blVGWU53WGx0R1NEMmlnazhCLWlrTmZISUdNVnlwUU44T1RXMEMtYTlzRzVndFh0MElZQ08zT29WUG95eUhXaw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 00:56:40 GMT",
+      "discoveredAt": "2026-11-24T06:59:51.133Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2030617594",
+      "title": "BUG-000187623 for ArcGIS Pro /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnd5ZmhzTXpSM2MycUs5STFsV0hMeE92VFNoU19qWHNJNHhnWjRua0pVblMtRUE1enBzOExMU1JYbVFJRjNqRmpsZlh2TktLdmszeXZPZjlIczR6WVRRUUw2SmRMWk1ualpEbHRFZ2QxTU9aNEJ3bnZXeXlscjY3dDJleG9yRWgxU2xGUHZMS0xfbS1wenhfcndScDVKUGhlVEJudkF5NA?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 23:32:15 GMT",
+      "discoveredAt": "2026-11-24T06:59:51.133Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_12070171",
+      "title": "BUG-000188463 for ArcGIS Pro /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHM3ZElyREZsVlZuemNORGNrdjMyeG9WTUxxcjk4TU1QMUxweU1uV2s3VmJVaUJNWGwzSkNubVpkeFpraGpLbUVPWXI1VVFPamxzZDBYMnVLNnB1ay1adDN4eUNyY28wNTNFZkFqNDhrWUltLTVBQjB1SzVNT1lrQnZORkVpX01oSFpRaG93Z1NFazB0WW5sbHUzcFE4SHc5eDlJTFZlSQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 23:32:14 GMT",
+      "discoveredAt": "2026-11-24T06:59:51.133Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1865120405",
+      "title": "BUG-000188932 for Portal for ArcGIS /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFBUWWU3TUswZ1ZPS0dMX2tVNWRCeXZ3MVFPbEpBU0lNbHZXNG1hSVp2dmVOeE9HbzlnQXJ3OTdveHdFTnlKcEtsemd3SVlFem8xOGNTVFFlWVBFWVkwOUo1MndTd3JyeFBaRk1tUktWc1psYWU1YTBDTFpIZnFGVlBjTlF6UXBQYUJ2MFlCazgzdmJYdDBsaHVRUjR6Umc4aUN3elgtNA?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 23:32:14 GMT",
+      "discoveredAt": "2026-11-24T06:59:51.133Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_526807512",
+      "title": "BUG-000188912 for ArcGIS GIS Server /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2hTLUhWRGZadEhqWmZJSFpYVHJGcVk4bHZHUHlCeXg4V19lZW9vRnhRSzNFd05pY0FTYWZjYVRVTkFkR2NTN2lpMzAzQWN5NVY1aEpIMDk3UklJNjIyMEVtS3prelJTc1YwSkFhWDNSNkVfQWowQm5FNVhGUy02UGJyOHczWHV6LUFFSGIwdnhjSThqektWbElhOEZIbFBQZ2FnaXVR?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 00:56:39 GMT",
+      "discoveredAt": "2026-11-24T06:59:51.133Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_595304004",
+      "title": "Google introduces Geospatial Analytics Playground - Spatial Source",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdFZOZUF3YjN2R2E0THZDbFFwdFB3T21JRlUyX3d5b1c1RzVQbmZZVkEyV2pRWHk3NU1qMFRRejFfY1VNbkJZMlhRWWNncFVMT19kRWpXSmpEd1RIRWFobXFjQWdEV2habkdaOHRMV0pnOGEzTjVKZk44WWU5RUdaU3EyRlVaTjY4blVR?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 02:02:16 GMT",
+      "discoveredAt": "2026-11-24T06:59:58.199Z",
+      "sourceName": "Spatial Source",
+      "discoveredVia": {
+        "query": "Spatial Source",
+        "origin": "Spatial Source",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_1926482317",
       "title": "NLC revises land list for Naivasha-Kisumu-Malaba railway - 5050 Markets",
