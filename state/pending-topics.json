@@ -1,6 +1,213 @@
 {
-  "generatedAt": "2026-11-24T07:00:11.861Z",
+  "generatedAt": "2026-11-24T18:47:20.847Z",
   "candidates": [
+    {
+      "id": "t_2146035095",
+      "title": "Land mine casualties soar in Syria, two years after war - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMlZEcTdiVHVUSkZvb01zZ0JRZlJOVlBxQnc1dXJDamVFSUhkc3NVN2FTZER3cnF2VkcyYkpCWDMzbWo4amxyaWYzMEZaZkllNjN2RWhBY09sY01Gdi1BVkxjWDRzWUQ5bE1ZdHYycDZLUjZNVWxzYjFkc3kwQzgzOUVwSTNQOEpwaTFfOVc3cXdtMElMQmROLXlzTUdobElxSHVrRHRR?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 15:44:00 GMT",
+      "discoveredAt": "2026-11-24T18:46:04.012Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_687691604",
+      "title": "Register a Charge Kenya: ArdhiSasa Steps for Lenders - Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0M4dllxcVpGX0l6S2Z5SzJLUEVoSEhyei0waWp2TUJ2UEZmSFpSU2dKZnR3N1FrQzhlTjJCN3hUTzVZR1p5MVMzOUI4MDAzenN1Um0ycEFaM1RGWkp6WU41QjNIeS1JZ2JVcUxVZjJKQlNwUEkxNElzQ0JWaFE2VDc1czQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 07:28:49 GMT",
+      "discoveredAt": "2026-11-24T18:46:13.494Z",
+      "sourceName": "Global Advisory Experts",
+      "discoveredVia": {
+        "query": "ArdhiSasa Kenya",
+        "origin": "ArdhiSasa",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "seriesPartId": 2,
+          "seriesPartTitle": "Ardhisasa digital records",
+          "matchedKeywords": [
+            "ardhisasa"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_997097341",
+      "title": "Own land back home: How Kenyans in the diaspora can finance plot purchases through Equity Bank - The Kenyan Diaspora Media",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZE9TdVd2UXdrRnZhMVhXZVNzSGNvM0ZnY1BZc3VOT2hmOU5ZSzVfUVRJUU5zX3B3RUlBWmdQVlYyb1BBVHQweE9RTDBmeVV3d2JudDBUa2JqUU85RlQ5eTBYOWJPcGFrMUhXbnJSQzFremdmaWFMTEVmbm5ibVRZU0E1OC00WExSYk1YdjVQdmVXV0p2bmtHQWhlT0FDYVJxT2ZyZkN1SVlfUnYzcVMxWXRlM2xneTEtOE1LTjdMckJPQ3JCbF9IckdrYnFrZGYxMFE?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 09:45:00 GMT",
+      "discoveredAt": "2026-11-24T18:46:32.199Z",
+      "sourceName": "The Kenyan Diaspora Media",
+      "discoveredVia": {
+        "query": "land ownership Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1137140895",
+      "title": "BUG-000188966 for ArcGIS Instant Apps /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzA2dGoyWmo5OWN3R2huQmVHeGhWb3NhOWxrbk0wd3ZjUEJYZm5uQ1NvSExHY05xNDN3WXBZblhHbnhrZDhXeDFMUWtZN2dZVE1PTHEtekY4end0WXJhM2VHUm5vYWdxMzNzdVNxazE5Q3lyNnYtdF9GeDM3bmoxVWRienlSQmx6XzRqRy14Y0FTUE8xTS1VdnFtS1NLXzhyejNIOG1Hbw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 23:32:15 GMT",
+      "discoveredAt": "2026-11-24T18:46:58.350Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1063196347",
+      "title": "BUG-000188924 for ArcGIS Instant Apps /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVFNZUxxNmN3N0JSSk5jNmIzdGpzU3RFZFhEcW5URk9QZnJPVW5vcFlhYi00TWdTaF95ZlhjcWQwTzNMS29vaXN0cEh5Q0lsc1NicVNaYWVFVWhzRkR4THJ3WEFfTFlranBrcUZWUUo2aWVIaFI2X1VtSDdVbnZndlZubExuSnNBeTUwblZBNHhTMW16X2ZxakdVYVZLenRoN04tUTVBQQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 00:56:39 GMT",
+      "discoveredAt": "2026-11-24T18:46:58.350Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_376804539",
+      "title": "BUG-000174017 for ArcGIS Pro /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDJpRWh0WXlOTnhlT0FiYWQ0V2RqV0NKU0U0WVRBZ2ItUDh5WjVhRF85dnNZTWFoVWtsbTZRdzhSMXFXOXpEZTlKNDUtZ056dVNRVEFxckZlSEdfUmZIRU5sbzd5ZS1rWFktNEVBcVI2SHQxS2YtaU85RlhoaHl1WDIxZTQ0YURxRkQtU2YtUDJpNGhWUUhCRndDQXpqN1dScEIwbkpJTQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 00:56:39 GMT",
+      "discoveredAt": "2026-11-24T18:46:58.350Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1769974385",
+      "title": "DJI M300 Stops during a Mission in ArcGIS Flight - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjR6UnV1ekVfeW9tZjA0U09jQ3BFYzdfMXZEYmpSR01xQXVEWjlOWkhjSmNuMXZFc1NXMm9VcXFoUkd3a2R5Q3JjVmFpN21BZFZISmhYZUExOUFxY215T2VFRXd5VHluSkNwdXZBM2l3d2N3NTZId0dQNl92RU44Mkx4YnFOeGRqTDFscFhJcEQtNV9pTHFwN2MyZ3ZtQ3AzODBsb3M1Yw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 01:53:55 GMT",
+      "discoveredAt": "2026-11-24T18:46:58.350Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_947338800",
+      "title": "BUG-000186942 for ArcGIS Experience Builder /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFdaeWpRQWVKa21mQzJoMEN2SG5ZNGJZZ01ac3VHSWNBN1hmdVcyamI4WWVvMllfT2I2dXhVOEotSmNocEMtb3p1dEdFX21JT2RvTHR6alVITjRJWk1kYzBzVnYxYU41dzlkMGhacmJhcVJlWURGVUNaTjEzQUR3YXRtekgyMC1UdU1SeWZkLXgwM2UyS2FybnFKQ1Boem1FZXhibzN6Yw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 00:56:39 GMT",
+      "discoveredAt": "2026-11-24T18:46:58.350Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2063994908",
+      "title": "What's New for BIM and CAD in ArcGIS Pro (November 2026) - Esri",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmdyVmUxd0ZXZmdIMzh2NGVBTnl2SWJJTTJqbF9iaEx0Y0FtRGZ0WTd0Z0pTNV9ZSm80ME9SRm5IeGJxVm9udDNiZlN1WmlXWFQ1U2V1YzI4MEZXOHlVaFFSN3VCZEVvNXloaGVwN2pNNmhuakU1cjAyMzVnbmNXNjdUVC14VU9ZS1Vsc24ydklQSkJUYVFMeE9ZZkhaUkhwQUtHWWJIMlQwMnB1VVB1TlpnZFBET0ZVVENMaQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 20:56:27 GMT",
+      "discoveredAt": "2026-11-24T18:46:58.350Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1623272886",
+      "title": "128 families finally secure ownership of land after 30-year wait - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmpYbWtwejF3Z01wWldhYkRjMmE1Z1lWVlhXRFBJQXMzU1VnVlpzcms2LVN0NjFOWFg1V0ZuVXNRUzJENGw0THdFMlNLWGZVTVAybHg2Ym5uYjNucFY5cno3b0c4TmhlY0JPbWxFQVdVNXN1RGswYmpkeUlxd1FvdG9KRl9iSXpfT2VZYnJtWGZnZFcyVWhUR2xuSWo3Um9TVl9wdFFWQ3NlLWlUbC05MTZ5a0w2ZkdSZkV4WEROWHJZNW9KM3Q1WWRudDVEQQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 11:05:13 GMT",
+      "discoveredAt": "2026-11-24T18:46:03.084Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_186314938",
+      "title": "Via. Gregory Cholwa Edwin Sifuna, enjoy your tour of the US. Take your photos. Shake your hands. Make your speeches. But when you land back in Kenya brother, do not go to Nairobi first. Do not go to Orange House first. Do not go to a rally first. Find your wa - X",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5abGFuQlBUNElUTUs1QWpvUjBpdFBmYW5hTzI0U1M0QWt6MXZDd2xiSkZTN0ExS1ZYVVJZamRtQTFzSGtpSWxMeEVmTmNhN3ppQ2tLYS1mNjMxOHp6Vk9ETXB3?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 06:44:20 GMT",
+      "discoveredAt": "2026-11-24T18:46:19.750Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1868958711",
       "title": "Naivasha-Kisumu-Malaba SGR: Govt issues notice on planned mandatory land acquisition - People Daily",
