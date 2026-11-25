@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-11-24T18:47:20.847Z",
+  "generatedAt": "2026-11-25T02:56:14.344Z",
   "candidates": [
+    {
+      "id": "t_1181639772",
+      "title": "Kenya Homes wins two Top Property Awards 2026, named among Kenya's top land selling companies - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0ZGenpzaUxjOG95Z2pMMjYxaExlc3NLX2Z3ZTNUWGl2RF9zVTBTYkRSU2VYRk5GRS12VjdjY2lvMlpzZ1c2MjZ5cE1oUklrU1A5Y01mRTJJS2tVZENGeUt5QlNvc0hIOHV3cHNxb2txUFZhZ0lTeGEyMHVKcEhUczRzWm1Ta0ExZmIyWUg3UXJQREc5YlY4TG9ZUEVVRDJkek4zcg?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 02:50:50 GMT",
+      "discoveredAt": "2026-11-25T02:55:02.473Z",
+      "sourceName": "Business Daily",
+      "discoveredVia": {
+        "query": "site:businessdailyafrica.com (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Business Daily Africa",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1543556350",
+      "title": "Mapping Holiday Races with the ArcGIS Static Maps Service - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFZWbkNOeWZtcG5FVUwzOUFjQlZaNWt2NmR4MFR5bGdPcDhQb2hWelp4ODFOX19IcEJuUmpMTWtXQV9YTlpsMVFfSGtkb2h3eER4QklIcjhOYVNvWDBnUmNQdTdGMWgzdG5rT05lcW5QRnR5LVJKejJ6dnMxVEc1RXRrVDdJdzBSc19LSTBWTnNfZS1GeTU4Ukk3S3FTdnVoLWFWREZxME1mNlVLZExuSkZLcGpINk0xV3c?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 16:47:03 GMT",
+      "discoveredAt": "2026-11-25T02:55:53.862Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_382990815",
+      "title": "Geospatial agentic AI’s potential to help government serve society - Smart Cities World",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0NGV2FUM0ZVUFd3ODRQVWt2THNZSjJSbEpLRGJQbjZ5YVJtWVJUbHJMTHlSc1V4OHNNbDVHZjNOd25QdEhzN0pqRlVVaVZXU0RWTUltM1dHVHpFVWtuV1VtVEFQY21CWl8wWTZYaTJRdFMxT2RYaDZDd2NwbkJKLUJLMDVqWDJac3FuMDctU3pEUUpfNW0yM0dXenN1Wmt2SWVuVWV3?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 14:47:58 GMT",
+      "discoveredAt": "2026-11-25T02:55:57.362Z",
+      "sourceName": "Smart Cities World",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1669423180",
+      "title": "Investors scramble for Murang'a Industrial City land - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2RUTlk4bmJOVG04b2RXUGJjR2VKa2M0QzZ3ZGdScWk0aHRiRnRCMHEwc2Q2clQybVlDUUtsaDBVS2x2REtwYjZjUGZRRzc2cE1ETEtpazhGV3JKSGpsU0IzalJ0UFM1YnhHTm40bVNFTjAyVFVYcGxnT1c4cU9EcTVCYUs1d1I5emFGekRwU09zeHlLZUl0VnowNnUwVTZPanhiekV3SlE3Zw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 02:00:00 GMT",
+      "discoveredAt": "2026-11-25T02:55:00.700Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2146035095",
       "title": "Land mine casualties soar in Syria, two years after war - The Star, Kenya",
