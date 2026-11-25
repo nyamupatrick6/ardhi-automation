@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-25T12:03:18.181Z",
+  "generatedAt": "2026-11-25T21:47:18.676Z",
   "candidates": [
+    {
+      "id": "t_1381448115",
+      "title": "MPs warn Sh2.3 billion budget cut could derail land reforms and disrupt services across Kenya - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQjl0WXFMcVVjRUVrZTVWajNqbXAxZWNqcm96VGNPazF0UTk3OGtuVVhHMmQ5bFRQLUpnM19iMV9OWFhUalJ0STA5Q0RCQmdVUE1SaGNUZUkyUnhJVFQ2amkyWFRaRnE1VEVaei1lN2xDSFNfQVdLRzhiU3hPSEN1TWJZY2FyYUt0LUVBUXZ3UHprY0RmeW81VWVsa3k0SzgtQzRVYkJaY0I1NlZYYzNyVlNjaHZqbE1NMXdNcWxVQjlRTGt6ZjN4dTZUOXNOUDRSVWpEeA?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 17:29:51 GMT",
+      "discoveredAt": "2026-11-25T21:46:18.104Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_445871902",
+      "title": "Land Disputes Kenya: Which Forum Should You Use in 2026? - Global Advisory Experts",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVG43ekJzdG5OTjNGVUhoMVplbUJsOEJQMVIwM2MtMHpiN3c2c0tWN3RpZHJwUzJHRjNDMTRGazBzNmRxYkJmX3k1X0swZG1hcE1DSW56VlIyZGU3NW41aGdPaGZ5Ri1XQlhzcjcyYjZuVzc5Y1FkUUJTZkJYUktGdXZhZDdjRnQxZ3hV?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 03:39:31 GMT",
+      "discoveredAt": "2026-11-25T21:46:18.104Z",
+      "sourceName": "Global Advisory Experts",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_295937747",
+      "title": "Introducing the Change Dataset Schema tool in ArcGIS Pro 3.8 - Esri",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVhQZk9ZQXBYeFZoMnJjNWV3VURKeUVWR204bnpEQ2piMjZmVWxWcXA0aG8zUnQtVXItRHhPRlh4LVVPd29PVnYta3JmWUZTeTNZX3A4dHllWTZINktzOUJob0NLWnh0RHhja0MxOGNoakt1ZVlfTV9ONFJ5RVR4R2NGVzNnb1VoS0JWUWtEOURGb1VDcy1xSTl5enJMYm8zanpRWEdhejBUYk9JU0s5R0RjV3hJSklYYk1UX084T3BjTjBDUEE?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 05:57:49 GMT",
+      "discoveredAt": "2026-11-25T21:46:58.475Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1641018967",
+      "title": "Kruger launches largest AI drone survey of wildlife - TimesLIVE",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1NaRmprNU9aZ3VZYVk3ajJrZTdFcGM0bFRSbmtCTFBBTUdYOXE2blVXOHJpNjVXRV90NFFKRXMyRVNWaE9KRUo4QVFwbHB3UDJsb3VCcWpMaVFtMmN6R1YzSUVFMERnU2JBMnFjQkUxRTliNTZTQm1VVjZiSzZzeDRmMVcwVnY3Wk81b0ozRm5tbkpqd2pCeDBYSERWRVFMSDRlVlltVTJyTTc3dEE?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 13:28:21 GMT",
+      "discoveredAt": "2026-11-25T21:47:08.156Z",
+      "sourceName": "TimesLIVE",
+      "discoveredVia": {
+        "query": "survey drone launch",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1369034098",
+      "title": "Explained: When a Land Case Can Be Reopened After Judgment - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeU5wUXJGenE5djV6S0h0VmtHb3otYXNRVGRrcWpGbHNXMlN6UWJPaXVrNjBhaFJwNjJzcG9TQ19VaHFCWVpxU1ViUlZTdlpDTXMzdXdEYkVEMnk4a2RnS1NoYXBtZVhfOVE0U1dmb2VwNnRES2doSnZXVDR0OGY2T0xsbGhDNDR0TC1rUEpiVzRLUHJpXzN0NUJsd2lWZmQxOG5tVA?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 14:32:33 GMT",
+      "discoveredAt": "2026-11-25T21:46:10.334Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1178994887",
+      "title": "Mau Forest: The land question that haunted Raila, divided Kibaki’s government and shaped Uhuru-Ruto’s rise https://t.co/XEdxcw6UHw - X",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VWWRDUzdNYVhVdkoyTGlmZDZJbnBzcmpyeDIwRFNzNVJGZy1ZeHpvdVJrblB2d0EwLVZMMnFLQnJDVWlMSHJFOHh3alpLZlh4Z1RXQWpXdDlkdzZtdm9mUGlBdXdIcXVk?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 09:19:22 GMT",
+      "discoveredAt": "2026-11-25T21:46:22.387Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1509670385",
       "title": "Senator Seeks Kenya SGR Halt Over Eviction Fears - streamlinefeed.co.ke",
