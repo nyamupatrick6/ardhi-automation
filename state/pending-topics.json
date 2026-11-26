@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-11-26T13:31:05.146Z",
+  "generatedAt": "2026-11-26T22:34:46.178Z",
   "candidates": [
+    {
+      "id": "t_882162034",
+      "title": "MPs warn Sh2.3 billion budget cut could derail land reforms and disrupt services across Kenya - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNm9wejdSZmNMXzNVOGY5MWxmUWZuZzlNOF9ValNQRk56WG9IZnA2dXd3ckdCUlJweUoyN3NwY0pMTGdfNG1KVDU3S1k4NWZPUGZVRmJBUEJvR05hS3hFbkUzenUxeWw0cEVzR1gtb2NRME1kQTNSNGhCcnFTR2kta2UyUUs4aHpqTGpoZVJ2bmRYN0ZJV2VSZ19fNU40bmRZbXVkOGRFNFUtTkV4OWtEbGtmYlk2azRMTDJEa0ZiRUhFRkp1UXFjemZGaGc2T2FkMnpldTJ3?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 17:29:51 GMT",
+      "discoveredAt": "2026-11-26T22:33:42.983Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_690820401",
+      "title": "Moi Family Land Dispute: Government Yet to Respond as Court Orders Police and GSU to Vacate - YouTube",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wdl9EWTMxSnlVRVJuOFJZRzQwdlczQ1RreGNXSVhIVkpWUXUyMVZjdk53U2lKNWxpMTQ4SWxER1o1VUttZE5BWWJLUWczYU9NLWNJVUJR?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 18:39:55 GMT",
+      "discoveredAt": "2026-11-26T22:33:48.421Z",
+      "sourceName": "YouTube",
+      "discoveredVia": {
+        "query": "Kenya land site:youtube.com",
+        "origin": "YouTube",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1763142347",
+      "title": "Mapping a Trip to Killarney Provincial Park in ArcGIS Pro - 30 Day Map Challenge (Day 26) - Esri",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORDlsZGYwdHZrZmk5T1FRUEFtOVZkX3JXVXNsOEplazRVR0lFa1Y5a2R1MTR2VmFsSldxNDcxbFFhVzlVY1AyM0YzeDlGX3lndFl6bFEwVlZJYmF4c3NGd1BjUl8yM1piT1lDSFVZSDJ1RXBZcjBnZ25Zak91WG00TEJZSGl0ZDJuSFJJd2dtb0ROX2tpOWIyV1BCQnItUzdIblJSNUFSOUhPekRHb0pQMEU0bTZUemZvcUZBM2NELXloUkFpeEEtSmRrWGh0QW5uOWI5elVDLWo5Ni1vZ0Uxcw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 14:12:48 GMT",
+      "discoveredAt": "2026-11-26T22:34:25.240Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_2116529209",
+      "title": "President Mnangagwa lands in Nairobi for inaugural Kenya-Zimbabwe summit - The Star, Kenya",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcFRCc0llaVUwaUxET1YzVDJSTjNzV2JPMlRtVWNfcXNsOTZkN1IzWUJXNmpQZjRpeGJBQkZVWnVYbF9ZNU00a2FaRzZmRTM1LS1Bek9wVmxXS2dQczlwMWtEZ01BSkgtMjdPYkk1MTZPdEZybzNrZzBGRkdPb1o1RXZvbDRZVTRqdUNhYUtNZkR1ODdBWkcxczJJYXo2QVU?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 19:17:24 GMT",
+      "discoveredAt": "2026-11-26T22:33:31.760Z",
+      "sourceName": "The Star, Kenya",
+      "discoveredVia": {
+        "query": "site:the-star.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "The Star Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_886184268",
+      "title": "\"No doubt\": Court rejects lawyer’s bid to halt multi-million shilling land case - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW01cmFjMFFtX1VEcDBGSFdMbVRPbmJoUnFlYmE2Mng0T0IzR2ExS2tTYVFQTlRfY0xfTjc4SE5waWt2NmJfUnJvazlVYk9XVEtaUlFpY2lKRmVHYlJSOVNXNmVsRThHcVZLREtiTVdqMDZLSWtyQlBDSmx2dWhHeG1lejZ0eDdjY0xmNTN5VS12Z3FKSGItWHVhb3ZNQzJ3dGxiNUxVQzV1aVZYUDBxVzZTcDJmOEQxNmRfQkZYaVA?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 13:34:25 GMT",
+      "discoveredAt": "2026-11-26T22:33:35.576Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1607878240",
+      "title": "\"No doubt\": Court rejects lawyer’s bid to halt multi-million shilling land case - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDE2UTgxZ2t2U0JqRlJ4NUFfVHlZalotenJYNE5mRmhzZm5sWDdNSWUySlIwMFZ1VmV1aHpRU2JPYUJSal9ZNmtQck9sWGFpTGh2RWpiOW03X1M4OExiQmoxZlpONVdvdklzSFRpMjQxaDJmMTZuV0MwdWtjaUFTZWJIUUUzVVhuUDZtY2dGVGFTRk1waXFVMFVSSTIxUlk0TTVDSDNvRnZHMnlvenRObFU2S3BaYkZRWndDeUx1ZWpmZ3dfc2NlY2Y5MA?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 13:34:25 GMT",
+      "discoveredAt": "2026-11-26T22:33:35.576Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1269152621",
+      "title": "Buying Agricultural Land, Farms and Ranches in Kenya - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2dQUW13b01wQjFaT3BfYVoySmQ3cjB4Z0UxbEZ3Skh3d05ObndPUHNfaFduSmgzWlp3a0hsWWdRaFg5TzZUSWxaOC01ZndMc2xRblRaQkZJWTRDUmxUVi1BeVFrbGdxSG01cWx4X0Q5am00SWVaMmJXcV9SSXVvZUtBNDg1S1pwWWJXWm1mU09GT0JEMnQxZkdETXhHWkpyREY3VjE5UDM5NVBsbWVyeGY2S1VXeWN3YkhUNlVPc3FmZw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 12:43:44 GMT",
+      "discoveredAt": "2026-11-26T22:33:50.431Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1808863653",
       "title": "MPs warn Sh2.3 billion budget cut could derail land reforms and disrupt services across Kenya - The Eastleigh Voice",
