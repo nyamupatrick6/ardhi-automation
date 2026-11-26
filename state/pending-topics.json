@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-11-26T03:56:17.505Z",
+  "generatedAt": "2026-11-26T13:31:05.146Z",
   "candidates": [
+    {
+      "id": "t_1808863653",
+      "title": "MPs warn Sh2.3 billion budget cut could derail land reforms and disrupt services across Kenya - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlo3bEs1WUlfNXJXVXlsRHY0cnA0dHhoRjJhY25qMThqYi0wUmVnUENOM1pjX1hXRERtaHBJZTN1OTBNdnR3bWF4WFRKNm9oOVg3S0NLc1VMSXBodlZCRGV2ZGN1bXpqVDNCM2s2OGZGRFN3MXFETWhfSm9KeUNhc04yaGZQTllOYTZITXoxejFyS3I4YmJ5TmthVy1DU2tZd0NYT19BMm5VcEMtb0xLd2hjTkd4Qk9BRVZMb3NyQjZHOHJfLWQ5TF9PbzJxSTE5NGN1c2tWTUdORXM?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 17:29:51 GMT",
+      "discoveredAt": "2026-11-26T13:30:02.251Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "State Department for Lands and Physical Planning Kenya",
+        "origin": "State Department for Lands and Physical Planning",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1738810107",
+      "title": "GNSS information - Topcon Positioning Systems",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYXMxczU5ZmMzdVZsZVZKaEZqZDhPZXd3R2FidzVtb1RHb3dxbU94cGF4Ry1wcVZqekZKZTl6LVd5OVg3VVI2eHdUU3ZfRzVMcEZqMDZiRUpLVkJONzF5RDhvSnRGSGVLWUJEZ2dHTkFEbU10cWpJQXR0cGhPN2xBbmh4VEFxbWg0QlFnZXJWSEdxb1V1d3RHTHB6QUx0Y3JCOTZ0QzZtN0Jad2tjYmtVR2pPZ3JnNWhSWXViUDdNYXU2SkJxTFJYc1BkZzBZZW14MVp1blM5eVU1T3JONTdUMDFnRnlvZzlBYVc2bGRBOWtxMHUtQjZyeFpBZjVfQkdhSWZEOVlBQVppdUZScU9NUk1QUQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 23:40:19 GMT",
+      "discoveredAt": "2026-11-26T13:30:38.566Z",
+      "sourceName": "Topcon Positioning Systems",
+      "discoveredVia": {
+        "query": "site:topconpositioning.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Topcon Positioning",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_993312124",
+      "title": "Warsaw set to host a landmark ISPRS Geospatial Week - GIM International",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGZudzhGYlVhbHNmNTVYMVREaW1CZG1CUVBSSFJuOEdra0tRLXJTbDUxQlVhUmRmQ1NpVFVFaDZwN3BVVy1WNTZJaUY0czlYc01MSFFyTHczeGc4LW9wU2dVY2xRaGllMThyNmVFdXdoZWdjUF9lVVg0QUJIeXYwRU51eDdUMTVEaDZOR3RjbG1PZEVD?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 07:26:10 GMT",
+      "discoveredAt": "2026-11-26T13:30:46.270Z",
+      "sourceName": "GIM International",
+      "discoveredVia": {
+        "query": "GIM International",
+        "origin": "GIM International",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1126882889",
+      "title": "GeoTech Expo 2027: a new trade fair for surveying and geospatial technologies in Poland - Rivistageomedia",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFM0LVVLOWZWMWxIWmJJTDNqWXk3em14NVZRRFEtV3laMU1WQTR2WDdNc3VwZnVsX0E4ZEdKNk14Ym53NjRReUk4ZEJUSlFXUmlsa3pkcWtueFNyMnBFeTZuZFQybEdJeXU2eGs1Rl9VVlFrbkVwdkk5RHRDT0lJY1ROSmFiSmEzZjdLMDR3cEJVTUpsTmRVdkJhQlZCdw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:19:03 GMT",
+      "discoveredAt": "2026-11-26T13:31:01.144Z",
+      "sourceName": "Rivistageomedia",
+      "discoveredVia": {
+        "query": "digital twin surveying",
+        "origin": "tech_watch_term",
+        "originType": "tech_watch"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1732333569",
+      "title": "2,549 Kenyans, 600 South Africans Land Farm Jobs in UK, how Much They Earn - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmZ2YzVOOERad1dNRVF5R1p4RFBEMWhOSU04RnJZdW5BQUR4cGM3TFVLXzVJczRJakJBNUx0SHRHZUEwUkJQb2xNanIxWmFtdzYySE10T2MwRVNfd29KR296UkY0RUpJam54ZHBHTVpQV0gxMnZ2YTRkNHR3Z0wydXNUZE92Q3luWExBQVgtQzBXSDZ2TFprN0tOLTBaN05iNkpxeG1WbFV6MTlNR0tNWlNTZjRvNUFzZDRoV0RsMDRHM2J5S0pv?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 07:21:52 GMT",
+      "discoveredAt": "2026-11-26T13:29:55.500Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_475603258",
+      "title": "“Mkewe aliumia”: Man dies after DCI land cruiser allegedly hits him and his wife - Tuko News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYjQ0cXBBeVhkbWdZcV95SzEtMFdFSDNqekZhZmlYdnNMeHhIUmlxS1RPMTNDSThiaHRjYnVUYVVBd3ZzZjlBV21Fdl9iSEFKSnpUU2VOakQwZUUyNFBMOFlLWWRHVlNNVTdvV3MxcFJYWWNUUjIzdE1JME05U1V2WFRqZ3pUai02aUdYZzVKQU91V1lNaFhQZXg5NTVVQlVoMEQwdnJIOTVMOVBDR2hQN2JhMVV5Y2ctTVZNOE9TQlFFazlSSU9vaVo1ZmxTQQ?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 10:49:59 GMT",
+      "discoveredAt": "2026-11-26T13:29:55.500Z",
+      "sourceName": "Tuko News",
+      "discoveredVia": {
+        "query": "site:tuko.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Tuko Kenya",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1232318870",
+      "title": "Jeff @KoinangeJeff please ask @rigathi to stop lecturing Kenyans and answer 3 simple questions: 1. Show Kenyans clean proof on how you acquired that Sh1.5B JKIA land! 2. Why always preach divisive tribal politics? 3. Why take Kenyans for a ride on 2027 - X",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RTFFCS29uTDhKUEIyR1V1QnFkbG1VdDNabVhlNUw5ZS0xSEtwUmlzWUNlS2Q0bUtLdDdnY2VIRWZQRXNKbURGNTczUldKSVlURjRpZjduc2xlNXJjb0VUdDdLVQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 19:55:33 GMT",
+      "discoveredAt": "2026-11-26T13:30:07.317Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1715422890",
+      "title": "DCI Steps Up Crackdown on Land-Related Crimes in Coast Region The Directorate of Criminal Investigations (DCI) has intensified efforts to combat land-related crimes in the Coast Region through targeted investigations and enforcement interventions aimed - X",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aWFdPSU9KeXJIM3FydkwtRUEwRlNmLXZyWmM0VER1R1JYeUhhQ3VBNEJaWG9wZ204OTlDNmM2b0xMMDl1REF3VmpPZXQ1a09wZlJYVDN4UEhIVmtUTzBZ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 14:57:44 GMT",
+      "discoveredAt": "2026-11-26T13:30:07.317Z",
+      "sourceName": "X",
+      "discoveredVia": {
+        "query": "Kenya land (site:twitter.com OR site:x.com)",
+        "origin": "X (Twitter)",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1175685246",
+      "title": "Nigerian billionaire Aliko Dangote's $16 billion Kenya refinery land case adjourned - Billionaires.Africa",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbExuekFsU0Fnd3pDZ25vdjdEQ1dDQy1jd3h2M0ZVVTduc1U5dkpzQ3E4dVJobHVScV9BQ1N6VkRuVVB3REU3WGlLbVRaR3IySHh0T3laQnM3M2lOc0pJbDN3ZWtSUndETkM4RjB1RnBFNWE2SWRHYkNDR0gzOUxyUEVrOWxUWUs3VTRxMzVUYVNnZF9JdzBqQndXeVo3dTdVQmZ0MXNpQXpfQ1h5NXVJU1Q0Qk1lOW9QMUFzZlJGWVRiYm8?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 09:36:30 GMT",
+      "discoveredAt": "2026-11-26T13:30:15.550Z",
+      "sourceName": "Billionaires.Africa",
+      "discoveredVia": {
+        "query": "Environment and Land Court ruling Kenya",
+        "origin": "evergreen_watch_term",
+        "originType": "evergreen"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_2070287623",
       "title": "MPs warn Sh2.3 billion budget cut could derail land reforms and disrupt services across Kenya - The Eastleigh Voice",
