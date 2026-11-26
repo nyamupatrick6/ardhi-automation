@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-11-25T21:47:18.676Z",
+  "generatedAt": "2026-11-26T03:56:17.505Z",
   "candidates": [
+    {
+      "id": "t_2070287623",
+      "title": "MPs warn Sh2.3 billion budget cut could derail land reforms and disrupt services across Kenya - The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlVMS1ZRX3FaaWpwWEhVUWpsMjFkcjdteUR1blpiNjR4dUUtcURyUEhLbXZ6bW1mU1VYbnZueTEwM1FKandBa2FaX2cwSmdTaHFtMS0xdzdPc05hd0F3LU5pN0lsSEtyOUtKUmV5dmNQSFpRSFVUY0JYOUduakJmUWJveE9GeXAxUG9rLVI1SWpjb2hRS0NWd1M0bTVEc3ZhMHBqUEJCSHVvaEV0UHB5Rk9CU3lOMjM1Y3FJa1QxdGRoQjAyVlVxTU80OFduaGpSMUxv?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 17:29:51 GMT",
+      "discoveredAt": "2026-11-26T03:54:59.481Z",
+      "sourceName": "The Eastleigh Voice",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_70980699",
+      "title": "War Memorial Hospital resumes operations after 3 years’ closure over land case - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZmtyeTg1cnBIWG1fc0JEdWp5dEh3YXgwczJhUW1teWFqS0dhdE1OLU9ncXM3R1EzUkpmM0MtQktZRUdWWU41MzZzdXhWNWF0YXpTTzRDS0lTNVg1SW5kSTJxTFE0aVhLNzRRM3VONjBOaGxVY0d2eElsbFJPMTU2LTI2dHpPVDBzZEo1aE02bmIxS0dhQ1p5Sy0zVWI0T0dicS1TYTRvUGJHaUVVSHdlQVNtR1hCb3Rwei1HUWFSRkxnUVFjb3plZA?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 15:47:15 GMT",
+      "discoveredAt": "2026-11-26T03:55:03.911Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_191538589",
+      "title": "Molo families finally win land ownership fight after 30-year row - The Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQno5QmpoZUVFUXFCOVR3SmpOZWtvdy13c0d4MkFSM0s1dk5wNWJZa3RGdlFveGcxUlFNTERqcTNZSDQwWXl5eGxYS1d1T3VuUmtqandtd2NEYWZIVFRHampQeDFEb0VUUzJLVXpuQlZzOE9SeFZaUmRlaVp1b0hiS2loZndDS19YMWluNUxodEV3bmJtMXBaQlBGTGdPQzNLejZjay1pbFVYcUxOVXpzZHBxZjdsQzJXakd4alI5bldkUU5pT0FwbWQwdVVMUQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 04:05:09 GMT",
+      "discoveredAt": "2026-11-26T03:55:04.866Z",
+      "sourceName": "The Standard",
+      "discoveredVia": {
+        "query": "site:standardmedia.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Standard Digital - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_398596475",
+      "title": "Introducing Databricks SQL Warehouse support in ArcGIS Pro 3.8 - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3pEekFYcTI0dHVEVGNGLUVqTmRKWjlQZDgzTElWeUhmcW1kWjA2QzNMUUUtcnZFVlZ2UDBRUVVOUmh4ZDlDR0s4NHlqQWxxVnByYXMzTDNYRnZRYnVIZkRIS1NjQVVVNHJwS24yNGRuT3ltckZzRU9wRTFBSU9DN19tY3NYbEdmMmRrUXVGWGRIOU9aakd1TG1lWWxNSl93N1FTTm5NWVJzSlF4eF9hWHNrMEJFR1J2TmFGVmRRclliOGRwV0tQbg?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 22:26:55 GMT",
+      "discoveredAt": "2026-11-26T03:55:57.059Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_201114439",
+      "title": "AI CityXchange - Geospatial agentic AI’s potential to help government serve society - Smart Cities World",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFpBZzhiM2R6YXM5VTdoOHhsQmlzaXV1dzQxYjZxSnNaS2pBZWV3SDdieTY3WnBWcW9fcDRRckdaU3VBNGZpaFdscV9Wa3VHNkd0ZmkwdTdFUHIzRi1BbllhOXdXdTFSbENjWm9Pb3BGbVBrU0JGeHJEcjBsd2xPMGxXVzhBc0RRc0w2MlNTeFVLZmhqbWRqQTNvc2kySTljcXdycWxPaDZlbzh2eVRPOG12OA?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 15:17:56 GMT",
+      "discoveredAt": "2026-11-26T03:56:00.352Z",
+      "sourceName": "Smart Cities World",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_270681282",
+      "title": "From Data to Decisions: Space42 and Microsoft UAE Release Report on Geospatial Agentic AI’s Potential to Help Governments Better Serve Society - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQNVBaREJGTFBFSDdna2xEN1FoUDAwLXY3ZDRHYWhPbGozQlZQY01keHNKaG1UTGtRT3QxblZyNWtWZ2kwSG9BSEdudFpPSHlSbjc5VkJ1NjNNcEFjUGRSY0NGd2Ywc2diWklQYkFlX3NpS0s4azYzdnZqdTVEV1JsRTU4ZTlmbG9pdU5LNEwzRF9jelVnMmtvYzdoWlBISVN3LUo0a2laMmw2Z2FlcXdFdGhqZXBkSmw3SEZyQkxrSXNjdnFVT1kwTmdhczFmWmV0UnNUUGtKbnRvREdrLUk1RWVDdFg1R2cyWVIxLTV2V0xueTBoaGdMeDJhb29jLUktZWVpeXpiQi1jRkU4SG9qbFFodXVuckU3TGtaUDd5cnNwSEZtY2RDNXNVVkJVbC1heUdzakhJTVdQUdIBvwJBVV95cUxNS2pCd2sxbTd3eDR6Q1E2c09HMlFha0JxNk1nWms3RnAyY1did2x6QW1obVZYNGVra01qYW96TjZvZUtDTFN3SE5Cc0wyb3lEd24tWlNFam5NREtfdmFDTWtDOWF2aF9NMGpUN0hTd2lKd3lqbzJjUThKNWUwcy1GRUJzc0JmQ01XWDhVWFFJMDhvdWFIdEdrbjVoQlhMMWxWTlFaMTExLThIb2ZjMnhjS2JiVS1JNHl2bkthV1BEaVVKYWhGSS1kTHVYUXVQT01hN2NtdEJfTVg3Q2VBd0xMd3VMTVFtY3RpQUtLZjR1bmhaWEtEWHp3b0ZwV1JTSEQyZU5XMVJvdTVFMjhyVFN3NzY0eDRGcWF2WWdYR1JrV0F3SzBvRU9KdUJTSVR5eE5VdkdOazZSZWhRc0V3ZGpn?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 10:58:34 GMT",
+      "discoveredAt": "2026-11-26T03:56:00.352Z",
+      "sourceName": "The Manila Times",
+      "discoveredVia": {
+        "query": "Geospatial World",
+        "origin": "Geospatial World",
+        "originType": "tech_publication"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1424865604",
+      "title": "Mau Forest: The land question that haunted Raila, divided Kibaki’s government and shaped Uhuru-Ruto’s rise - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEplcmhGNURVUURsREM0U202Y3ZTaUJGRHJodUF6dkxFa0pBMzg0UUN3T0ZJTU5BTzUyV29kYXdhUWgydFhzczFiSEVxNkZaeV9kVDg1dUxoaDgyUTJzd1pfMy1CZk51dVpoR1g3NG9icThkSlZTTDlzQ3Y5bGNaRE5laHRRcTlmSFgzR2htbWNlcDdGV3NfcWEyUF8wU0R3aUFDQnRkdC1Ra1QwNldTS2Y1T3lIbkVucTAySlVoTHRkQklHTXdaRFQtSUxnMi1vT3dURkxnVl9XUDVKYUJqWkZ1ZEtSQ09zcEE?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 08:43:12 GMT",
+      "discoveredAt": "2026-11-26T03:55:03.911Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1381448115",
       "title": "MPs warn Sh2.3 billion budget cut could derail land reforms and disrupt services across Kenya - The Eastleigh Voice",
