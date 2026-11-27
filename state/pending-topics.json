@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-11-27T14:18:08.658Z",
+  "generatedAt": "2026-11-27T22:46:43.445Z",
   "candidates": [
+    {
+      "id": "t_400113530",
+      "title": "BUG-000188953 for ArcGIS Online /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeUFRT3NHM3FGejRWYld2d3JDOGtsUEJKcVBzaHNEWFlKS0o4MGdObDYtaE5ndERVR1JlS2NkS0l4VUMzWjJZNWtIT2VubHRTRVBJYjcxTFJxVUVFUnJLanNVdjZwbF9PZGx5bkhkZTZybld6X0Mta0RRUXJ3TWpzYi1YRWNjcXNGNkw2SVJCSVZqczV1NjhvYjVUdDVQVkVFd2xhQzV1bw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-27T22:46:22.165Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_478675464",
+      "title": "BUG-000188785 for ArcGIS Pro /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMW42MWZueEJ5bWVTSE1VRGd5d0k4RWZpT3JOT1ZKWFRIeUVuSFNqay1nYkkwSUFzd21BejQ4T2lyU0Vfc1VfR0RzSXl6WnMzYl83SVVMZXozNkJiTDRoa2xMeUJkQnN0T3FnTXRPd3R2REhEeVVTZTVxaF9VcE16cW5wX2lNZVZ6UlVfVm5CWHdwY1dYQzBYSDJMeHlaYy1FOVJhZ2FUYw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-27T22:46:22.166Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1115961636",
+      "title": "BUG-000188659 for ArcGIS Online /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOazQyUVcyZmlZTEQ5Qm1kT3J4VjVKRmxTYzhlTDg2bjVnMEpTTU9CZi1VSFBtMmNWMktzU19HR200UzFYbDBVYUhPTDhQaHN1bngzRDd1VTJfV01UeVZjSENNenBBNkNWX3pGSWNfQ29nWFBwYndHVzF6dW5xN3R2Z0lXek5GVl9FRUtRMldhckRxWTVmYXpFUW5HWHBxRUdOZWNDNExsZw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-27T22:46:22.166Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1047058347",
+      "title": "BUG-000188510 for ArcGIS Pro /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWJTdERDV0ROWVB1SW5Dd0xyTW12UEhveWVNME5IZFdpREUtMmtHaVJYZFgzcjFSVWVveEJOUXh6TWVSRW44WWwwSTRMOVlBa2c5SVRXbEVTUVgtY2VfdUVNNF96ZDJqdmxyLWpESFJLUzJNSGkwaWdZQldHOTBXRGMyb1EtT05QVzNJdVJ1dFhHTDdtRHdKTlBadXNnakFzZzNpd2VR?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-27T22:46:22.166Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1118724844",
+      "title": "BUG-000188950 for ArcGIS GIS Server /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYmhDTENMSEZiLW1xTUdGRC1KWU1kbnhkdjR3NVk4ZURaTGdoQ3RLeG51SEtRRWxsRUhhb1JwSXNJQmlBQUQtV1E1dFpiX2tCbTg1VU03VkkyYklBVlI5UTRHWjNVcEM5OFdjRFdjM21MQTFMSDlFRWZUUVVFQnV5WnBtelFzN1pTUHhOYXFHTEpTdEt0eFFiaTIwcmFnSGNUamZpUlRCOA?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-27T22:46:22.166Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_446040244",
+      "title": "BUG-000186449 for Portal for ArcGIS /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWU1oUHEyR1N4dXZwX1YzSmxZaU41Tm5zT1ZxTm5TMXBMb1QxRHNic0Vzamd0U2hjM1VtV0hyb3R2UXBPT0FXVU4xcDBWc1ZscHlDQlJPdUM5Rm5obGxWaHV6MlVwUk5SMWhyenFUa1I1RDFXbDduR255V2NpbXdRSnI1WUpuMGZudXk5Z1VVUG00S2VsQ3ZlQ2QydWRLMExvRG90eENn?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-27T22:46:22.166Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_648591638",
+      "title": "BUG-000188771 for ArcGIS Online /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTN2RVlhUDg1RHBxUHEzY0pUTk1DRTdnUE81YlFOVXJKQVhFVWtPNnI3NnZ6Y3FQXzlJTkZORnpGbk52bzlVYjNBMDlqUjI2SjZYX2Uxd016LWVfWmVxU2VTU2xHRkdreDFFZGJMb0dLM24xMHh3QWNPV085M1FZa3pnMHRhaElxYlJIa3lhUzk4X3ZaNWtjNHBnVW84d21pZy1MUVJmcw?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-27T22:46:22.166Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
     {
       "id": "t_2020599771",
       "title": "Court Outlines Limits of Succession Rulings in Land Ownership Disputes - Kenyans.co.ke",
