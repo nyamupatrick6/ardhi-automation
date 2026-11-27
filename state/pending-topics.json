@@ -1,6 +1,248 @@
 {
-  "generatedAt": "2026-11-27T04:31:46.351Z",
+  "generatedAt": "2026-11-27T14:18:08.658Z",
   "candidates": [
+    {
+      "id": "t_2020599771",
+      "title": "Court Outlines Limits of Succession Rulings in Land Ownership Disputes - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmljSUlHa2pZbFIwZFZYdngzMl8yblN4eUlnZ2c3S05ubHJlc3FMY05QQ2VNckpGWnEtbF92d3RFQlJoYm44dW1vLWVLYlhBMUNDSDJ0UE80ckpVNzFKSjY1bGdRNFdKYXJyX05Kb2ZHUFl5dHE1akx1d1VjYTltS09hcU5YSndrQzM3aUc2U3ExcnZlVjRoWGM5VkhwVm1FSU1RTDAwNFJIREFoV0hLRFFfY1IxOWM?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 12:07:19 GMT",
+      "discoveredAt": "2026-11-27T14:16:56.326Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [
+        {
+          "standaloneTitle": "You Think You Own That Land? Think Again",
+          "matchedKeywords": [
+            "land ownership dispute"
+          ],
+          "weight": 1
+        }
+      ],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 2
+    },
+    {
+      "id": "t_1486979177",
+      "title": "Laikipia County Commissioner Josephat Biwott speaks during a three-day community land summit in Nanyuki, Laikipia County, where more than 300 delegates gathered to review progress in the implementation of the Community Land Act, 2016.\n\nBiwott cited wrangles over the formation of community land management committees, with others contesting the selection and politicising the process, as challenges affecting registration. He called for dialogue and consensus among communities to resolve disputes and fast-track land registration. - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUl4UDFVTEV5TDVvNzBWRXpxX1hsbkRDN2Rub0lCSlVoUkl3QlcyXzFnWjlBR1J6elZIWElqU2Y5RW15VERQY0dZOGNfc1hIM1VuN2tETDZiSmcwdlJLT0kwRzNpNWtrdmJGdGRZN0RZeS1sN2d2dkJjeHdOMnd4NnVFanEyRklJaEw5cmxRWXRSUWdvNmlZanF0YV9YRC1MNk9ueVBTRXpBVXNnNzZoVzcxRDhTOHZUc3lxR213dlRYMzFZczNpMHcyZnRhRG9LeTFQZElhRHc3SVpkQnc?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 07:10:35 GMT",
+      "discoveredAt": "2026-11-27T14:16:47.013Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "National Land Commission (NLC) Kenya",
+        "origin": "National Land Commission (NLC)",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_836177377",
+      "title": "State Loses Bid to Stop Eviction from Multibillion Historical Land - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDB2RWRRNlk3MDFqMUFzbjdLNk9acldRa1AwUmtRNEJ6NnR1YmNZbnkzOHZ6QUxFeUZfdHktdjRzemtLTG1nb0JGbHo5WlhpLThUbExQWW9JalJBcDk3aHB6Q2VJWDk1eG9IVlZ2R0dLZmFReDdLajdPWWF4ZkdvOXkyandLUk96cXp2X21faWN4RHRMcng1dmphT3pDcUhOdnc?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 10:47:10 GMT",
+      "discoveredAt": "2026-11-27T14:16:56.326Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": true,
+      "score": 1
+    },
+    {
+      "id": "t_1937531692",
+      "title": "Kenya News Agency - KNA. . Delphina Lekuno, a delegate from Marsabit County, speaks during a three-day community land summit in Nanyuki, Laikipia County, where delegates reviewed progress in the implementation of the Community Land Act, 2016. Lek - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3Y5b2RpdFlvOFozQ3prSnVIN2ZOb0hLSlJkM2NVaFZiN3JwSmxONUZfZHlMczBCeURGWHZST0ZNQWUwTG9tS1ppM0lfdFJIY2VRa2dVMWc5UDM2MVdFOVpnTmM0OFRDUkRMVVdScl93RjNpc28tWTBYd1lrN3ZqQUlDZmFTbWpvR2NBX29VaXdZS2EtSjZmeUQxLXYtU0Q5M0NjdkFKRTVqYlJ6aDRLUVVPZkRhZlJsNG9QOE5GSEpEbkJ1dGQyOTB5XzdfRjYyLUdTN01xVGprcVd0TktiRg?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 07:09:57 GMT",
+      "discoveredAt": "2026-11-27T14:17:20.861Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_301526582",
+      "title": "Kenya News Agency - KNA. . Fred Sameri, a delegate from Samburu County, speaks during a three-day community land summit in Nanyuki, Laikipia County, where more than 300 delegates gathered to review progress in the implementation of the Community - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVJLZnhUWE9uUVBJR1pwci01Wlh5WjY1eVMybExJZ2s0cWVLZHV2LThXN0tkV1R5QlNPSkp5WHdwTnQxcHAxc2hCXzhsZ0syZ0c4ZlNMQmxSbncwS1cxRTBYNjgtME0zTUZoS1ZFMWVfTnI1ZVdER2p1Tk5zS2pyY0tmc0lhc1Jia0Y0MGtaT0JSNnRORHFPRG96ejZkYWVYbXY5U2RXOEVkTW9nelk5TTFhMkZwRnpBakpZaUxUZnZ1eGhtcTgzMzlWdUhmdjNPSng4WjlXS3NkaTlPY1Fv?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 07:08:00 GMT",
+      "discoveredAt": "2026-11-27T14:17:20.861Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "land dispute Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_542091480",
+      "title": "John Ting’oi, Programs Manager at IMPACT Trust, speaks during a three-day community land summit in Nanyuki, Laikipia County, highlighting challenges affecting the implementation of the Community Land Act, 2016. - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWEZFVE5IbWRlYkExQ0lzM2JHMTRkeXdabVZsckx5SmpiM05FdVFSUGd2NkFvTGNybFJBT2ppT0dxb0syc01mRUtoODUyWXN4WDR5MDdjRVY0aEN2X0JGU0lTa3gtY05lSVY0bFFhMG9DSUFRUnMzb3Nzak1GRzgxTmp5Q1QxWm1malBaMUpfTEQ0dnlEYTJGRnBjM2t5RDFkYWVuVW9KUEZTRHZpTnpHMmhIa1pOVzlmMGlpdUJYQUx1dU5fZWxFSkJFS01OTFhpRDRoYVRtSEJiTmQzT0E?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 09:18:44 GMT",
+      "discoveredAt": "2026-11-27T14:17:36.359Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "community land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_817346327",
+      "title": "James Ntaiya, a delegate from Laikipia County, speaks during a three-day community land summit in Nanyuki, Laikipia County, convened to review progress in the implementation of the Community Land Act, 2016. Ntaiya said Laikipia County had made progr - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSE5OMEUxaVVaOW53Y2NZbnA3UXJUbUo3akJsWXhBODVwaHRiOW91WVhRWldzSVBvVWJJeFR3RmQtOG1tRUd1U0JMVFhwVlcxc1piQmc1QUF2Y3Zpd25Kb2RxT0hpYXNQRGdhX2p5ekhPaEtYR0NmbE5wUUR4c0l5NlpNMk44V21DZXhjTkM2NXNvNVpWMF91andLUTJUMGhmcGhpOFFEcUh6X3NmUjNTSGVkOFRnaDllMjMzUkxLcDEzdmlPbkl0TkpWRDBVbS1MaEE3eW9MNVlzdXhrRkE?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 09:14:16 GMT",
+      "discoveredAt": "2026-11-27T14:17:36.359Z",
+      "sourceName": "Facebook",
+      "discoveredVia": {
+        "query": "community land Kenya",
+        "origin": "general_land_watch_term",
+        "originType": "general_land"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": true,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_264300317",
+      "title": "Product Engineer II – ArcGIS Enterprise Patch - Esri",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTBSR2lfQWhKY3dpdkpyckIyaUdTRFVXSVAtMWVpVTVXdU4wNF9ZdDVFVHJXRDJObndiYVZkSmQ2MEpQUEcyRnpzVWFKaGFZbnZmN1FhY29kbUthS2hwOTlKS2NhbmRSRkt0MGhtcHMtSk9jZDd4QnJrSkk2b3lVQ3ZSeVROVzV1eWtZ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 13:22:18 GMT",
+      "discoveredAt": "2026-11-27T14:17:46.980Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1306397390",
+      "title": "BUG-000184011 for ArcGIS Maps SDK for JavaScript /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOEFqNkRpSzVyRWpRZk05ODhfLW4xWHVMcGdaY2lxY1BmVW1Ebk5RUV9idkdfeVFTVk9lVkVqbkFLRXRrWld5dFM5SG5EZThHTG9mb0NDc3M5eUlvSU14aTZHNUFOeml4S05jX1V4bWVsU0NLZFdXd29Wb0tiY0RFLVo5OTMtVHZWM3lkVTFsOEdaTDkyMGc3TFJXazMyMm1mWFpvSThDZw?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 07:58:39 GMT",
+      "discoveredAt": "2026-11-27T14:17:46.980Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_244872498",
+      "title": "Dangote plant landowners to be resettled in Sh4.7bn plan - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTE4WjBOdjVCWVdMSndSdUlEUmhvNGJYNXlwY0t4ZHBmaDloQjRTcy00UHl0Z1JFYktwQ3BxdGNlSXZzYkY2bW5TdEVtNmVWdGpsY1F4d2FNRGk4eUI1N2xGZmxicE9faEtDdmtCaEZfVGpXdGVyd1lYUXZJaFZjWmNrNDFuM0lNZWZqMklRR2ZKWGFyRkp4NE90cnpENlI3ZzRIYlRIRWktOHBjN01J?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 03:00:00 GMT",
+      "discoveredAt": "2026-11-27T14:16:51.775Z",
+      "sourceName": "Daily Nation",
+      "discoveredVia": {
+        "query": "site:nation.africa (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Daily Nation - Land & Property",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_84656874",
+      "title": "Court Deals Blow to Appointment of Senior Lands Boss After NIS Report - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1F4UXNDeGxxbWJuOGpQSFIwaUdneWFJTFROVmF1LURLbXhPQzlBSnpRdi1GUGlKNnNSQWdfLWl6V1NyQjFZdE9mQTBBRUQzVFFUYjNrTlRkSTRtVURVTXd6Ty1sOEw2ZThBMEJob1NZekNoR3U3c3B0UThoN2V6bDRvRC0xUUxSbW56UzJIWHh2WVhEbEpNZXM0QU5FNEZ1ekRRLWk0b3c2bERWVEc1Yk8wN3QxcFk?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 12:58:04 GMT",
+      "discoveredAt": "2026-11-27T14:16:56.326Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1605824689",
+      "title": "NLC Reveals Missing Documents Delaying Some Land Processing for Govt Projects - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzlHT054T2lnbTY2THA3OTFDSUtVWFJoQXFkak1tWEZyQ0pOUnNNQi1mMi0xdHlhVVhocnZxMkpJaFRmTGRveGc2LV9hQnRodVdnamkyVXA1RWg2X20xeW5GNmRmUFh4ekRhNWJhNGpGQW50enN5SWVzQ0pIMEFqSmM0R0M0Ul84aDl0UFpKTm9zMFBfOXRPcFh6Ym5DS3I0QXFHZEotRmhyTzRVcG1Ucjk2ZHR5aUh1blkxdg?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 09:20:29 GMT",
+      "discoveredAt": "2026-11-27T14:16:56.326Z",
+      "sourceName": "Kenyans.co.ke",
+      "discoveredVia": {
+        "query": "site:kenyans.co.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenyans.co.ke",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_69212831",
+      "title": "Ksh.20.5M 4 Bedroom + Detached Staff Quarters 270 SQM 50 by 100 Plot 📍Kikuyu Kamangu For inquiries, Call Ray 9am-5pm EAT +254719186889 - TikTok",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiYUFoX21nSzl0RFhkTG9zSXB0R2haTlpyS29xY2tmaHdVc1hHclBUVU5VN1hCNXFocGlrVjVuaFlZLXF0azV6QXlFZGw4dkxLdHNIMUt4cTE0RnVXcmZxS25LdXVKcnh0cFE?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 15:22:59 GMT",
+      "discoveredAt": "2026-11-27T14:17:11.406Z",
+      "sourceName": "TikTok",
+      "discoveredVia": {
+        "query": "Kenya land site:tiktok.com",
+        "origin": "TikTok",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1559940455",
       "title": "BUG-000184544 for Portal for ArcGIS /> - Esri",
