@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-27T22:46:43.445Z",
+  "generatedAt": "2026-11-28T04:29:50.862Z",
   "candidates": [
+    {
+      "id": "t_1509029565",
+      "title": "Achani dismisses eviction fears over Diani housing project - Kenya News Agency",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYjVITjNQNmVfb1U4d1lzWDR6b2d5bXZvUWVEZ0NkdWxRSnFtNDlJX0hMT0ZoQVB2LXVuSlpyQzFuOVFTZm9xRDlqQ1RNekRRcnBQNV9zOWhCOWx4cmVleURpNS1SNjA3TWRBTDc4aERSSWlDaWxXVkU2dEJlLWFPNWdER2hPRWpjcFRTVHd3cUY?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 09:02:57 GMT",
+      "discoveredAt": "2026-11-28T04:28:43.788Z",
+      "sourceName": "Kenya News Agency",
+      "discoveredVia": {
+        "query": "site:kenyanews.go.ke (land OR \"title deed\" OR Ardhisasa OR NLC OR \"land fraud\" OR \"land dispute\" OR eviction OR \"land grab\" OR surveyor OR \"compulsory acquisition\" OR \"land compensation\")",
+        "origin": "Kenya News Agency",
+        "originType": "official_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_400113530",
       "title": "BUG-000188953 for ArcGIS Online /> - Esri",
