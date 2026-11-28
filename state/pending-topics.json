@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-11-28T04:29:50.862Z",
+  "generatedAt": "2026-11-28T13:33:50.463Z",
   "candidates": [
+    {
+      "id": "t_732720912",
+      "title": "BUG-000136058 for ArcGIS Runtime SDK /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjB0ZFJHY2I3alhuazBTRVRwVnh1YU0xamRUMUNabzJOU1RIVGMxUzZQMEV4c3JiWUJnTHY2X28zTzNKN1dzQ1NmM3d5NDNMYmJ1TWo5TWVTZzRFZG81cFdWcEVzTldhczZEYlJEWGduZnktN2g2N3h6ejhxQnZfd0l1MVg2RVJsaGRST0Q4b2JQaXIxWFphMzlJcHN6YUhCQm5hQzlwVQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-28T13:33:29.207Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1957585485",
+      "title": "BUG-000188889 for ArcGIS Maps SDK for JavaScript /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWDF5ZmI2Z2M5MG9CY0FMMXVUY1hmLVJPbU1jeUpKOWliN1QxYTlSQV8taXZrN190SGt0MUJ3bUs3VXB1YmV3czJkV0dLSmZyTkpiOS1TRXR1LXktSEc3ZEZITFlrRDN3MGhyYXcwMVBxZ2U5VnZBYkQxZXRvWDhvZ2xlM3RsaTJzU2QtVGlpamdJSjNzV3o1TjRXeWVlQWVKX08tdVk1VQ?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-28T13:33:29.207Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1025726933",
+      "title": "BUG-000188788 for ArcGIS Pro /> - Esri",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdXNlLWUycFpPc3ZybzNDUXFxUmZWUjJoTjR5czl5Y29zVHcyRWo4MVQtSFkwM3paWlNrN19fZFhUaDAtNlFVZDd4SEJaWC15VnNvSkdVR2Y2TEE1UlZyM2E4TERhTkZvSkVlcWhURTFZMm5YM1dNUHQyOTE3cGpOaVNVcDlHV1EwaGp0dkh4N3drWkRNZVlQNVZPOUZCZmU3OW9zQzRR?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "discoveredAt": "2026-11-28T13:33:29.207Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_682955592",
+      "title": "ArcGIS Dashboards: Data Source Does Not Exist or is Inaccessible - Esri",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWZWQXNxQlNVWlFybkxvR0lWUVVRYVhmR1dUZ2psTVFGajFjYld4T0xFamxQd2NFRk1tc08tOUJ1OFZhUUZxSWNnVHp3MnRnclBxSEV6VzFwaDRtQi1paXdfQWlMM2lZTGRGMDZMempwX0xjeHdEV2YxVWNMT3A5TGc1aklVWXdEWjRSVTNfTV83MjdORFBiSnVwM0tNcnNGVFdva1A5M1lqNEVaNVBXOA?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 11:50:19 GMT",
+      "discoveredAt": "2026-11-28T13:33:29.207Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_1169050515",
+      "title": "Find Installed ArcGIS Patches on the Computer - Esri",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzNqWFNfNGh5YnJMTmtjVlZJME52X3R4dGlQb2NuanI1dFY5YnBWNG1HTWpnYmZnd29Md1owTVdZcGd4bk11RkxOLWZGWmx0MW9zcjd1OV9IaE5pTHVPMGVVcEZOUmFVbzljd2RQbkZhWjNta2xxWEc4V00xZGhhTExyeU9DZTEwQXNLU3A5U1BRMWxzWUZuQV96RjdyUjU0elZLeGVPRktkdC1Q?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 11:50:11 GMT",
+      "discoveredAt": "2026-11-28T13:33:29.207Z",
+      "sourceName": "Esri",
+      "discoveredVia": {
+        "query": "site:esri.com (GNSS OR RTK OR survey OR surveying OR drone OR UAV OR LiDAR OR \"total station\" OR GIS OR mapping OR geospatial OR photogrammetry)",
+        "origin": "Esri",
+        "originType": "tech_manufacturer"
+      },
+      "category": "surveying_tech",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 1
+    },
+    {
+      "id": "t_493002131",
+      "title": "Kenya Editors Guild, land commission partner to improve reporting on land governance - Radiokaya",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUZINWg0WW9Rb1BqdVhkWGUwTS1SM09OOVZhN19uMFBRek1FSXNCZHN6cmFkcFJXNlBwdFFNWHM3eHkwV3ZfZGhydExUNnd4MjlzZDlUUHZzenFCLUZQN3NKSDdtZ2diNkVfY2w2Nkk1M3JxWno2VTNDRTJ3d0dUVGo2Tm9pMHZQaXRCTnBXM2w5TDFQWTBtT0pmbVJTRkd1bDZHMjhNNl92bXh6?oc=5",
+      "pubDate": "Sat, 28 Nov 2026 08:10:08 GMT",
+      "discoveredAt": "2026-11-28T13:32:47.693Z",
+      "sourceName": "Radiokaya",
+      "discoveredVia": {
+        "query": "National Land Commission Kenya",
+        "origin": "National Land Commission",
+        "originType": "facebook_page"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
+    {
+      "id": "t_1844094440",
+      "title": "𝐓𝐚𝐧𝐳𝐚𝐧𝐢𝐚 𝐭𝐨 𝐝𝐞𝐩𝐥𝐨𝐲 𝐠𝐞𝐨𝐬𝐩𝐚𝐭𝐢𝐚𝐥 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐀𝐈 𝐭𝐨 𝐦𝐨𝐝𝐞𝐫𝐧𝐢𝐬𝐞 𝐥𝐚𝐧𝐝 𝐬𝐮𝐫𝐯𝐞𝐲𝐢𝐧𝐠 The Deputy Minister for Lands, Housing and Human Settlements Development, Kaspar Mmuya, said Tanzania will deploy geospatial science and artif - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNOFJDbmlHSHdVU1lnMERpREp6bm8xakh1N2YzYTdLNHViT1dTWDdoWVZfUnJzSmFuN2xfYzNSMXkzOWdPbVVYZnBneUVaOXhteG9sVmVFeGVCaGV4NTNzejl3cWlsem9fMnl2RjFVLThFYTZtX0xieDZvRFJHQUdnNWlWTndveGQ4My13dGlZTWxnc184MFA4TE43clR1ZTZIV3AtT0Q3T0tibEN3V2FCeEdhdHlad3RzY2lDZElMLXQyeWxETU9BZVc1SjY4V1YyN3NKSkRRV1pBR2hzUDJlQ2JZTWZzWDBYLVZ3U19nLXRqRm5Id1RfRjRWaXdmWjJzcjdKaFk4MFNUdFlnTkx6WjAzaXljTElvaHo5eXB1NWNKdWZuRFExd3RZUHI4VG9USjVSa0liaGc3WUwwNmhXZC1uN25PczhiblI5TlprMWRPVFI2Sk8tOUZSMVZzQ2wzSzNoM2FvWnMzdDBmT1l6NHZXZEhNYjJfWnVlMHA0MUYwQTlnNnd6SmtnZHEtZjV3TjdmZlQ3N1pKWGRia2cwdlpKbkwzd1RGSDZNUHRBU3BTc3FKc2Y2NjRmNEZqb2NtT2VtbHdrUzAxSDRCbnc?oc=5",
+      "pubDate": "Sat, 28 Nov 2026 05:54:31 GMT",
+      "discoveredAt": "2026-11-28T13:32:55.255Z",
+      "sourceName": "LinkedIn",
+      "discoveredVia": {
+        "query": "Kenya land site:linkedin.com",
+        "origin": "LinkedIn",
+        "originType": "social_platform"
+      },
+      "category": "land_news",
+      "backlogMatches": [],
+      "isGeneralLandStory": false,
+      "hasLandConflictSignal": false,
+      "score": 0
+    },
     {
       "id": "t_1509029565",
       "title": "Achani dismisses eviction fears over Diani housing project - Kenya News Agency",
